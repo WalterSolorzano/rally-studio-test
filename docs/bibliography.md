@@ -1,5 +1,5 @@
-# Referencias Bibliograficas (Normas APA 7ma Edicion) -- HIDRO-VIGIA
-*Compilado auditado el 18 de October de 2026 para entregable oficial de competencia.*
+# Referencias Bibliograficas (Normas APA 7ma Edicion) -- RALLY STUDIO
+*Compilado auditado el 22 de October de 2026 para entregable oficial de competencia.*
 
 ## Fuentes Tecnicas, Estadisticas e Institucionales
 
