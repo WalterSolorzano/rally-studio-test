@@ -4,7 +4,7 @@ window.RALLY_STATS = {
     "kind": "project_recap_generated",
     "simulated": false,
     "schema_version": 2,
-    "generated_at": "2026-10-19T16:18:17-06:00",
+    "generated_at": "2026-10-22T14:48:29-06:00",
     "generator": "scripts/build_stats.py",
     "phase": "mid",
     "note": "Todos los números se derivan de state.json y de los archivos del proyecto. Los avatares son ilustrativos.",
@@ -18,8 +18,8 @@ window.RALLY_STATS = {
     "university": "Universidad Nacional de Ingeniería (UNI)",
     "city": "Managua",
     "project_name": "AquaNica",
-    "challenge_title": "Acceso a agua segura en comunidades rurales de Nicaragua",
-    "challenge_id": "03",
+    "challenge_title": "Reto sin registrar",
+    "challenge_id": "",
     "category": "Innovación",
     "rally_type": "latam",
     "duration_h": 28.0,
@@ -383,7 +383,7 @@ window.RALLY_STATS = {
       "time": "0 / 4",
       "severity": "alta",
       "title": "Guion sin actos",
-      "desc": "La sesión tiene 0 de 4 actos escritos. script.md tiene 572 palabras, pero el archivo en disco pertenece a otra versión.",
+      "desc": "La sesión tiene 0 de 4 actos escritos. script.md tiene 652 palabras, pero el archivo en disco pertenece a otra versión.",
       "status": "abierto",
       "action": "Escribir los actos que faltan y asignar el narrador."
     },
@@ -564,11 +564,6 @@ window.RALLY_STATS = {
       "title": "Equipo",
       "detail": "state.json declara 6 integrantes; team_roster tiene 3.",
       "severity": "media"
-    },
-    {
-      "title": "Brief",
-      "detail": "brief.json está incompleto; la identidad vive solo en state.json.",
-      "severity": "media"
     }
   ],
   "sources": [
@@ -576,13 +571,13 @@ window.RALLY_STATS = {
       "label": "Sesión",
       "path": "dashboard/data/state.json",
       "exists": true,
-      "mtime": "2026-10-19 15:02"
+      "mtime": "2026-10-21 20:46"
     },
     {
       "label": "Claims",
       "path": "research/claims.json",
       "exists": true,
-      "mtime": "2026-10-18 12:38"
+      "mtime": "2026-10-21 19:07"
     },
     {
       "label": "Presupuesto",
@@ -594,31 +589,31 @@ window.RALLY_STATS = {
       "label": "Shotlist",
       "path": "script/shotlist.csv",
       "exists": true,
-      "mtime": "2026-10-18 12:43"
+      "mtime": "2026-10-22 14:45"
     },
     {
       "label": "Guion",
       "path": "script/script.md",
       "exists": true,
-      "mtime": "2026-10-18 12:43"
+      "mtime": "2026-10-22 14:45"
     },
     {
       "label": "Narración",
       "path": "script/narration.txt",
       "exists": true,
-      "mtime": "2026-10-18 12:43"
+      "mtime": "2026-10-22 14:45"
     },
     {
       "label": "Canvas",
       "path": "docs/canvas.md",
       "exists": true,
-      "mtime": "2026-10-18 18:08"
+      "mtime": "2026-10-22 14:27"
     },
     {
       "label": "Bibliografía",
       "path": "docs/bibliography.md",
       "exists": true,
-      "mtime": "2026-10-18 23:26"
+      "mtime": "2026-10-22 14:27"
     },
     {
       "label": "Sitio",
@@ -630,7 +625,7 @@ window.RALLY_STATS = {
       "label": "Brief",
       "path": "brief.json",
       "exists": true,
-      "mtime": "2026-10-19 10:31"
+      "mtime": "2026-10-22 14:27"
     }
   ],
   "material": {
@@ -638,11 +633,11 @@ window.RALLY_STATS = {
     "budget_rows": 8,
     "budget_total_usd": 4450.0,
     "shots": 4,
-    "script_words": 572,
+    "script_words": 652,
     "site": true,
     "canvas": true,
     "bibliography": true,
-    "artifact_project": "HIDRO-VIGIA"
+    "artifact_project": "RALLY STUDIO"
   },
   "provenance": {
     "real": [

@@ -28,6 +28,17 @@ def get_reference_template(rally_type):
     return ref if ref.exists() else None
 
 def create_default_document(brief, claims):
+    import json as _j, pathlib as _p
+    _total = None
+    _bp = _p.Path("budget/budget.json")
+    if _bp.exists():
+        try:
+            _data = _j.loads(_bp.read_text(encoding="utf-8"))
+            _items = _data if isinstance(_data, list) else _data.get("items", [])
+            _total = sum(float(x.get("total", 0) or 0) for x in _items)
+        except Exception:
+            _total = None
+    cost_str = f"${_total:,.0f} USD" if _total else "el costo total del presupuesto auditado"
     doc = docx.Document()
     # Margenes
     for section in doc.sections:
@@ -54,7 +65,7 @@ def create_default_document(brief, claims):
     sections = [
         ("PROBLEMA", 1250, f"{{SEC_PROBLEMA}}\n{stats_text} La ausencia de soluciones accesibles y descentralizadas agrava la vulnerabilidad territorial, requiriendo intervencion inmediata.\n{{SEC_END}}"),
         ("SOLUCION", 1250, f"{{SEC_SOLUCION}}\n{brief.get('description_one_line','Solucion tecnica')} El diseno optimiza el rendimiento mediante una arquitectura modular y componentes estandarizados.\n{{SEC_END}}"),
-        ("PREFACTIBILIDAD", 1000, f"{{SEC_PREFACTIBILIDAD}}\nCosto estimado de implementacion inicial: $4,850 USD. La estructura de insumos se basa en suministros de escala con retorno proyectado en 14 meses y sin subsidio permanente.\n{{SEC_END}}"),
+        ("PREFACTIBILIDAD", 1000, f"{{SEC_PREFACTIBILIDAD}}\nCosto estimado de implementacion inicial: {cost_str}. La estructura de insumos se basa en suministros de escala con enlaces de respaldo verificables.\n{{SEC_END}}"),
         ("INNOVACION", 1000, f"{{SEC_INNOVACION}}\nA diferencia de las alternativas convencionales, nuestra propuesta integra tecnologia accesible y adaptacion local de materiales, reduciendo tiempos de despliegue.\n{{SEC_END}}"),
         ("IMPACTO", 1500, f"{{SEC_IMPACTO}}\nAlineado directamente con {', '.join(brief.get('ods_ids',['ODS 11']))} y la estrategia de resiliencia comunitaria. Se proyecta beneficiar directamente a mas de 2,500 habitantes en la fase piloto.\n{{SEC_END}}")
     ]
