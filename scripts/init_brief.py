@@ -10,6 +10,17 @@ import pathlib
 import datetime
 
 BRIEF_PATH = pathlib.Path("brief.json")
+ENV_PATH = pathlib.Path("env.json")
+ENV_EXAMPLE_PATH = pathlib.Path("env.example.json")
+
+
+def ensure_env_file() -> bool:
+    """Copia env.example.json -> env.json si falta. Nunca sobrescribe el existente."""
+    if ENV_PATH.exists() or not ENV_EXAMPLE_PATH.exists():
+        return False
+    ENV_PATH.write_text(ENV_EXAMPLE_PATH.read_text(encoding="utf-8"), encoding="utf-8")
+    return True
+
 
 QUESTIONS = [
     ("rally_type",          "¿Nacional (24h) o Latam (28h)? [nacional/latam]",      ["nacional", "latam"]),
@@ -91,6 +102,8 @@ def main():
         encoding="utf-8",
     )
     print(f"\n  ✅ brief.json guardado en {BRIEF_PATH.resolve()}")
+    if ensure_env_file():
+        print("  ✅ env.json creado desde env.example.json (edita hardware si aplica).")
     print("  Siguiente paso:")
     print("    python scripts/validate_brief.py")
     print("    python scripts/gen_readme.py")

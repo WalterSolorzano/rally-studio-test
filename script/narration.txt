@@ -1,11 +1,11 @@
 [A1 - 0:00 - 0:20]
-En Nicaragua, las inundaciones y anegaciones afectan anualmente a mas de 120,000 personas en zonas urbanas y periurbanas de la cuenca del Pacifico (SINAPRED (Sistema Nacional para la Prevencion, Mitigacion y Atencion de Desastres), 2024). En America Latina, familias enteras ven comprometido su futuro debido a esta falla estructural cotidiana.
+El reto tiene nombre: Vender Rally Studio como solucion end-to-end para equipos de rally de innovacion. En Managua todavia se resuelve con datos dispersos, llamadas y decisiones que llegan tarde. El problema no es la falta de esfuerzo. Es la falta de una respuesta simple, medible y a tiempo.
 
 [A2 - 0:20 - 1:00]
-Para transformar esta realidad nace RALLY STUDIO. Plataforma end-to-end que guia a un equipo de rally desde el brief hasta el video final con IA. A traves de un sistema modular estandarizado, integramos instrumentacion y control de bajo consumo.
+Para cerrar esa brecha nace RALLY STUDIO, desarrollado por Equipo UNI Test. Plataforma end-to-end que guia a un equipo de rally desde el brief hasta el video final con IA. La solucion se organiza en tres capas: captura de informacion, procesamiento y una interfaz que convierte los datos en decisiones. Cada modulo es independiente: si una pieza falla, el resto sigue operando, y el despliegue crece por etapas sin rehacer toda la infraestructura. La innovacion esta en la arquitectura: parametros configurables, insumos de mercado local y mantenimiento que el propio equipo puede ejecutar.
 
 [A3 - 1:00 - 1:35]
-Con un costo de implementacion de $4,450 USD, el despliegue es sostenible mediante esquemas de economia circular e integracion B2B/B2G.
+La puesta en marcha requiere un costo de implementacion de $4,450 USD. El presupuesto se sostiene con precios mayoristas verificables y enlaces de respaldo, no con estimaciones al aire. La operacion se financia con una cuota mensual por usuario o sitio activo, y con servicios de instalacion y capacitacion para cooperativas y gobiernos locales. Cada rubro se puede auditar: unidades, costo unitario, proveedor y fecha de consulta quedan a la vista del jurado.
 
 [A4 - 1:35 - 2:00]
-Validado en Managua como laboratorio piloto y transferible a toda la region. Aportando directamente a ODS 9, ODS 4, ODS 17. RALLY STUDIO: ingenieria latinoamericana que transforma realidades.
+El piloto arranca en Managua y se mide con tres indicadores: tiempo de respuesta, usuarios o sitios activos y costo por unidad operativa. Aporta directamente a ODS 9, ODS 4, ODS 17 y a las metas regionales de resiliencia. RALLY STUDIO: innovacion latinoamericana disenada para replicarse, no para quedarse en un solo pais.
