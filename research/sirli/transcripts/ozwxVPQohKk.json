@@ -1,0 +1,127 @@
+{
+ "video_id": "ozwxVPQohKk",
+ "url": "https://youtu.be/ozwxVPQohKk?feature=shared",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "EVOLUX-RM",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "EVOLUX-RM",
+   "challenge": "01 - SEGUNDA VIDA DE LOS MOTORES ELÉCTRICOS DOMÉSTICOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:22:06+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Eco Recyclet, transformamos residuos en oportunidades. Duranteros meses de noviembre, diciembre y enero, en plena corta de café y caragua, nuestros productores enfrentan dos grandes problemas. La falta de agua por el verano y la falta de maquinaria por los altos costos. Ahí nace Eco Recyclet, una iniciativa que transforma lo que muchos consideran chatarra en una solución real para el campo, con una inversión de apenas 143 dólares, 100 dólares para el inversor, 25 para un lavador en desuso y 18 para un motor adicional para las aspas. Logramos crear un sistema integral, es un monto muy accesible si lo comparamos con un apilador industrial nueva, que en el país puede costar más de 1500 dólares. Como lo hacemos, reutilizamos una lavadora completa, uno de sus motores lo convertimos en un generador eólico que transforma el viento en electricidad limpia, regulada por un inversor para alimentar nuestros equipos sin depender de la red. El tanque de la lavadora se convierte en el corazón de nuestra maquina apiladora, para facilitar el procesamiento del café y separar el grano de la casca. Y recuperamos la bomba de agua original para implementar un sistema de riego por goteo que mantiene hidratada hasta las plantas en la época seca. Además, nada se desperticia, las cascas del café las reutilizamos como un o orgánico para nutrir el suero. Eco Recyclet, es más que una maquina, es una nueva forma de pensar, reutilizar e innovar con pocos recursos, y un gran impacto para un futuro más sostenible para el café nicarabuente.",
+ "segments": [
+  {
+   "start": 0.56,
+   "end": 4.5,
+   "text": "Eco Recyclet, transformamos residuos en oportunidades."
+  },
+  {
+   "start": 4.5,
+   "end": 9.72,
+   "text": "Duranteros meses de noviembre, diciembre y enero, en plena corta de café y caragua,"
+  },
+  {
+   "start": 9.72,
+   "end": 12.8,
+   "text": "nuestros productores enfrentan dos grandes problemas."
+  },
+  {
+   "start": 12.8,
+   "end": 17.6,
+   "text": "La falta de agua por el verano y la falta de maquinaria por los altos costos."
+  },
+  {
+   "start": 17.6,
+   "end": 23.22,
+   "text": "Ahí nace Eco Recyclet, una iniciativa que transforma lo que muchos consideran chatarra"
+  },
+  {
+   "start": 23.22,
+   "end": 25.68,
+   "text": "en una solución real para el campo,"
+  },
+  {
+   "start": 25.68,
+   "end": 31.64,
+   "text": "con una inversión de apenas 143 dólares, 100 dólares para el inversor,"
+  },
+  {
+   "start": 31.64,
+   "end": 38.44,
+   "text": "25 para un lavador en desuso y 18 para un motor adicional para las aspas."
+  },
+  {
+   "start": 38.44,
+   "end": 45.62,
+   "text": "Logramos crear un sistema integral, es un monto muy accesible si lo comparamos con un apilador industrial nueva,"
+  },
+  {
+   "start": 45.62,
+   "end": 50.12,
+   "text": "que en el país puede costar más de 1500 dólares."
+  },
+  {
+   "start": 50.12,
+   "end": 53.72,
+   "text": "Como lo hacemos, reutilizamos una lavadora completa,"
+  },
+  {
+   "start": 53.72,
+   "end": 59.96,
+   "text": "uno de sus motores lo convertimos en un generador eólico que transforma el viento en electricidad limpia,"
+  },
+  {
+   "start": 59.96,
+   "end": 65.68,
+   "text": "regulada por un inversor para alimentar nuestros equipos sin depender de la red."
+  },
+  {
+   "start": 65.68,
+   "end": 70.68,
+   "text": "El tanque de la lavadora se convierte en el corazón de nuestra maquina apiladora,"
+  },
+  {
+   "start": 70.68,
+   "end": 75.48,
+   "text": "para facilitar el procesamiento del café y separar el grano de la casca."
+  },
+  {
+   "start": 75.64,
+   "end": 80.64,
+   "text": "Y recuperamos la bomba de agua original para implementar un sistema de riego por goteo"
+  },
+  {
+   "start": 80.64,
+   "end": 84.0,
+   "text": "que mantiene hidratada hasta las plantas en la época seca."
+  },
+  {
+   "start": 84.0,
+   "end": 91.72,
+   "text": "Además, nada se desperticia, las cascas del café las reutilizamos como un o orgánico para nutrir el suero."
+  },
+  {
+   "start": 91.72,
+   "end": 99.48,
+   "text": "Eco Recyclet, es más que una maquina, es una nueva forma de pensar, reutilizar e innovar con pocos recursos,"
+  },
+  {
+   "start": 99.48,
+   "end": 104.32,
+   "text": "y un gran impacto para un futuro más sostenible para el café nicarabuente."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 107.7
+}

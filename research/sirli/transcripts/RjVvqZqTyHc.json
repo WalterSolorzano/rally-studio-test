@@ -1,0 +1,127 @@
+{
+ "video_id": "RjVvqZqTyHc",
+ "url": "https://youtu.be/RjVvqZqTyHc",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LIFE-LIVING",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LIFE-LIVING",
+   "challenge": "05 - VIVIENDA DIGNA"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:34:11+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que un tercio de las familias en América Latina viven viviendas precarias? Esto representa a un aproximado de 100 millones de personas que viven en condiciones de asinamiento, inseguridad y falta de acceso a servicios básicos. Actualmente países de América Central y el Caribe representan el 40%, en Brasil, Colombia y México el 30%, en Argentina, Chile y Uruguay el 20%. Uno de los países con mayor índice es Nicaragua con el 65%. A lo largo de los años la construcción de viviendas ha causado un gran impacto ambiental, económico y social. Esto se debía que la fabricación de los materiales genera un alto coste energético y daños ecológicos. De igual forma, la población sufre la propagación de enfermedades como el dengue, chikungunya, zika, entre otros. La brecha de viviendas que sufre Latinoamérica con materiales asequibles nos mueve a proponer un modelo de viviendas que incluye a los servicios básicos como energía eléctrica a través de placas solares. Control de aguas residuales por medio de un sistema diseñado para el manejo de sechos sólidos con lo que a su vez se producirá cas natural mediante un biodigestor. Es por ello que Home4All reducirá los altos costos de materiales de construcción evitando daños al medio ambiente, además aportará el bienestar y seguridad social de las familias. Home4All es una solución asequible para familias de bajos recursos quienes podrán acceder a viviendas a un costo de tan solo $7700 dólares. El impacto social y ambiental de Home4All es significativo ya que mejora la calidad de vida de las personas, además su enfoque integra la borda tanto de las necesidades de viviendas como la protección del medio ambiente, beneficiando a las comunidades locales lo que lo hace económicamente diable y socialmente aceptable. Juntos podemos hacer que América Latina tenga un futuro más sostenible y equitativo.",
+ "segments": [
+  {
+   "start": 2.03,
+   "end": 7.11,
+   "text": "¿Sabías que un tercio de las familias en América Latina viven viviendas precarias?"
+  },
+  {
+   "start": 7.11,
+   "end": 12.79,
+   "text": "Esto representa a un aproximado de 100 millones de personas que viven en condiciones de asinamiento,"
+  },
+  {
+   "start": 12.79,
+   "end": 18.95,
+   "text": "inseguridad y falta de acceso a servicios básicos. Actualmente países de América Central y el Caribe"
+  },
+  {
+   "start": 18.95,
+   "end": 26.15,
+   "text": "representan el 40%, en Brasil, Colombia y México el 30%, en Argentina, Chile y Uruguay el 20%."
+  },
+  {
+   "start": 26.15,
+   "end": 31.11,
+   "text": "Uno de los países con mayor índice es Nicaragua con el 65%."
+  },
+  {
+   "start": 31.11,
+   "end": 36.23,
+   "text": "A lo largo de los años la construcción de viviendas ha causado un gran impacto ambiental,"
+  },
+  {
+   "start": 36.23,
+   "end": 42.43,
+   "text": "económico y social. Esto se debía que la fabricación de los materiales genera un alto coste energético y"
+  },
+  {
+   "start": 42.43,
+   "end": 47.71,
+   "text": "daños ecológicos. De igual forma, la población sufre la propagación de enfermedades como el"
+  },
+  {
+   "start": 47.71,
+   "end": 53.39,
+   "text": "dengue, chikungunya, zika, entre otros. La brecha de viviendas que sufre Latinoamérica con"
+  },
+  {
+   "start": 53.47,
+   "end": 58.95,
+   "text": "materiales asequibles nos mueve a proponer un modelo de viviendas que incluye a los servicios básicos como"
+  },
+  {
+   "start": 58.95,
+   "end": 63.95,
+   "text": "energía eléctrica a través de placas solares. Control de aguas residuales por medio de un"
+  },
+  {
+   "start": 63.95,
+   "end": 69.07,
+   "text": "sistema diseñado para el manejo de sechos sólidos con lo que a su vez se producirá cas natural"
+  },
+  {
+   "start": 69.07,
+   "end": 74.91,
+   "text": "mediante un biodigestor. Es por ello que Home4All reducirá los altos costos de materiales de"
+  },
+  {
+   "start": 74.91,
+   "end": 80.27,
+   "text": "construcción evitando daños al medio ambiente, además aportará el bienestar y seguridad social"
+  },
+  {
+   "start": 80.27,
+   "end": 86.71,
+   "text": "de las familias. Home4All es una solución asequible para familias de bajos recursos quienes podrán"
+  },
+  {
+   "start": 86.71,
+   "end": 93.99,
+   "text": "acceder a viviendas a un costo de tan solo $7700 dólares. El impacto social y ambiental de Home4All"
+  },
+  {
+   "start": 93.99,
+   "end": 99.63,
+   "text": "es significativo ya que mejora la calidad de vida de las personas, además su enfoque integra la"
+  },
+  {
+   "start": 99.63,
+   "end": 103.31,
+   "text": "borda tanto de las necesidades de viviendas como la protección del medio ambiente,"
+  },
+  {
+   "start": 103.31,
+   "end": 108.51,
+   "text": "beneficiando a las comunidades locales lo que lo hace económicamente diable y socialmente"
+  },
+  {
+   "start": 108.51,
+   "end": 114.23,
+   "text": "aceptable. Juntos podemos hacer que América Latina tenga un futuro más sostenible y equitativo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.8
+}

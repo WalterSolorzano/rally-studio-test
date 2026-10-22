@@ -1,0 +1,77 @@
+{
+ "video_id": "2npHizlx8Yk",
+ "url": "https://youtu.be/2npHizlx8Yk?si=jG8Q4hb03gLc41lY",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "VISIONARIOS ZOOAGROVET",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "VISIONARIOS ZOOAGROVET",
+   "challenge": "08 - REDUCCIÓN DE DESPERDICIOS ALIMENTARIOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:14:30+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos unidad nacional agraria. Tenemos el gusto de darles a conocer la nueva propuesta innovadora de nuestra plataforma digital que tiene como objetivo aportar solución a una gama de opciones que permiten reducción de desperdicio alimenticio. Estos pueden ser transformados en productos y subproductos asequibles, lo cual es benéjico para una mejor economía reduciendo los efectos de contaminación que a diario en frente del ecosistema. Esta plataforma innovadora nos permite conectar con supermercados, restaurantes, hogares, agronegosios y organizaciones fenétricas destinadas a la recolección y procesamientos de desechos brindando una mayor sucesa de la vida. Ve e instala Subablo es Innova",
+ "segments": [
+  {
+   "start": 0.02,
+   "end": 5.86,
+   "text": "Somos unidad nacional agraria. Tenemos el gusto de darles a conocer la nueva"
+  },
+  {
+   "start": 5.86,
+   "end": 10.82,
+   "text": "propuesta innovadora de nuestra plataforma digital que tiene como objetivo"
+  },
+  {
+   "start": 10.82,
+   "end": 18.74,
+   "text": "aportar solución a una gama de opciones que permiten reducción de desperdicio alimenticio."
+  },
+  {
+   "start": 18.74,
+   "end": 27.62,
+   "text": "Estos pueden ser transformados en productos y subproductos asequibles, lo cual es benéjico para una mejor economía"
+  },
+  {
+   "start": 27.62,
+   "end": 32.42,
+   "text": "reduciendo los efectos de contaminación que a diario en frente del ecosistema."
+  },
+  {
+   "start": 32.42,
+   "end": 37.86,
+   "text": "Esta plataforma innovadora nos permite conectar con supermercados, restaurantes, hogares,"
+  },
+  {
+   "start": 37.86,
+   "end": 44.14,
+   "text": "agronegosios y organizaciones fenétricas destinadas a la recolección y procesamientos de desechos"
+  },
+  {
+   "start": 44.14,
+   "end": 46.3,
+   "text": "brindando una mayor sucesa de la vida."
+  },
+  {
+   "start": 46.3,
+   "end": 47.9,
+   "text": "Ve e instala"
+  },
+  {
+   "start": 47.9,
+   "end": 50.7,
+   "text": "Subablo es Innova"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 54.9
+}

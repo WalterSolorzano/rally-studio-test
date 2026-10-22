@@ -1,0 +1,137 @@
+{
+ "video_id": "sDu22AEyFtQ",
+ "url": "https://youtu.be/sDu22AEyFtQ",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "THE WARRIOS OF THE SOUTH.",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "THE WARRIOS OF THE SOUTH.",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:12:14+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el equipo. Los virus, ¡todos salto! Hemos diseñado la elaboración de un dispositivo de alerta anti-taludes de Barros, el cual servirá para emitir las alertas de emergencia para evitar que la población cercana a áreas vulnerables sea afectada. El dispositivo tendrá la capacidad de recolectar información por medio del porcentaje de humedad que presentan las zonas compendientes. La señal será emitida por hondajina alámbrica. Estas serán a una caja de control de donde se empezará a emitir la alerta. Este será un arred de varios dispositivos que estarán distribuidos para detectar el problema en diferentes lugares, lo cual nos dará lugar para la movilización de personas. El dispositivo constará de una sensibilidad ajustable, ajustando el potenciómetro digital y un voltaje de operación, de 3.3 voltios a 12 voltios, modo de salida dual salida digital y salida analógica. Más precisa, agujeros de montaje para una fácil instalación, dimensiones de PCB de 30 mm x 16. El modelo tiene un amplificador LM-393 y longitud de cables 5 metros. Estos sensores tendrán una distancia, uno del otro de 100 metros, lo cual tendrá una distancia moderada para poder desempeñar bien su trabajo y de reproducir la información de cada tarjeta, hasta dirigirla hacia el panel de control, que estará en la base central de seguimiento. Esta puede ser cualquier casa de habitación de la comunidad, pero que esté en una zona segura. La propuesta es fractible porque no sólo beneficiará a una persona sino a toda una población y otra de las factibilidades que se podrá instalar en cualquier lugar donde haya pendientes muy elevadas y se considere amenaza de talos de barro, que puedan ser zonas urbanas o también rurales.",
+ "segments": [
+  {
+   "start": 0.34,
+   "end": 2.34,
+   "text": "Somos el equipo."
+  },
+  {
+   "start": 2.34,
+   "end": 3.84,
+   "text": "Los virus, ¡todos salto!"
+  },
+  {
+   "start": 3.84,
+   "end": 8.84,
+   "text": "Hemos diseñado la elaboración de un dispositivo de alerta anti-taludes de Barros,"
+  },
+  {
+   "start": 8.84,
+   "end": 16.34,
+   "text": "el cual servirá para emitir las alertas de emergencia para evitar que la población cercana a áreas vulnerables sea afectada."
+  },
+  {
+   "start": 16.34,
+   "end": 24.34,
+   "text": "El dispositivo tendrá la capacidad de recolectar información por medio del porcentaje de humedad que presentan las zonas compendientes."
+  },
+  {
+   "start": 24.34,
+   "end": 27.34,
+   "text": "La señal será emitida por hondajina alámbrica."
+  },
+  {
+   "start": 27.34,
+   "end": 31.34,
+   "text": "Estas serán a una caja de control de donde se empezará a emitir la alerta."
+  },
+  {
+   "start": 31.34,
+   "end": 38.34,
+   "text": "Este será un arred de varios dispositivos que estarán distribuidos para detectar el problema en diferentes lugares,"
+  },
+  {
+   "start": 38.34,
+   "end": 42.34,
+   "text": "lo cual nos dará lugar para la movilización de personas."
+  },
+  {
+   "start": 42.34,
+   "end": 51.34,
+   "text": "El dispositivo constará de una sensibilidad ajustable, ajustando el potenciómetro digital y un voltaje de operación,"
+  },
+  {
+   "start": 51.34,
+   "end": 58.34,
+   "text": "de 3.3 voltios a 12 voltios, modo de salida dual salida digital y salida analógica."
+  },
+  {
+   "start": 58.34,
+   "end": 63.34,
+   "text": "Más precisa, agujeros de montaje para una fácil instalación,"
+  },
+  {
+   "start": 63.34,
+   "end": 68.34,
+   "text": "dimensiones de PCB de 30 mm x 16."
+  },
+  {
+   "start": 68.34,
+   "end": 75.34,
+   "text": "El modelo tiene un amplificador LM-393 y longitud de cables 5 metros."
+  },
+  {
+   "start": 75.34,
+   "end": 80.34,
+   "text": "Estos sensores tendrán una distancia, uno del otro de 100 metros,"
+  },
+  {
+   "start": 80.34,
+   "end": 85.34,
+   "text": "lo cual tendrá una distancia moderada para poder desempeñar bien su trabajo"
+  },
+  {
+   "start": 85.34,
+   "end": 88.34,
+   "text": "y de reproducir la información de cada tarjeta,"
+  },
+  {
+   "start": 88.34,
+   "end": 95.34,
+   "text": "hasta dirigirla hacia el panel de control, que estará en la base central de seguimiento."
+  },
+  {
+   "start": 95.34,
+   "end": 101.34,
+   "text": "Esta puede ser cualquier casa de habitación de la comunidad, pero que esté en una zona segura."
+  },
+  {
+   "start": 101.34,
+   "end": 107.34,
+   "text": "La propuesta es fractible porque no sólo beneficiará a una persona sino a toda una población"
+  },
+  {
+   "start": 107.34,
+   "end": 115.34,
+   "text": "y otra de las factibilidades que se podrá instalar en cualquier lugar donde haya pendientes muy elevadas"
+  },
+  {
+   "start": 115.34,
+   "end": 123.34,
+   "text": "y se considere amenaza de talos de barro, que puedan ser zonas urbanas o también rurales."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 123.0
+}

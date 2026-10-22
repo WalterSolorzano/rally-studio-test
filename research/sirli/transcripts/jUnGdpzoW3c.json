@@ -1,0 +1,87 @@
+{
+ "video_id": "jUnGdpzoW3c",
+ "url": "https://youtu.be/jUnGdpzoW3c",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECOALERTA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ECOALERTA",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:28:55+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Estamos realmente preparados para enfrentar desastres naturales en Nicaragua. En el 2013 Nicaragua contaba con seis sistemas de alerta temprana para volcanes veinte estaciones meteorológicas, tres sistemas de alerta temprana para inundaciones y dos para tsunamis. Un sistema de alerta temprano no sólo permite el futuro sino que salvar vidas al anticipar los desastres. Hola somos Ecoalarma un sistema de alerta temprano en Nicaragua en frente a las limitaciones de cobertura, infraestructura y comunicación de la población. Nosotros tratamos de crear un sitio web donde podamos estar monitoreando alertas las cuales ayuden a prevenir y alertar a la población. Con participación comunicación datos confiables y actualizados en tiempo y forma en la plataforma accesible. Hablemos del negocio a través de la venta del sensor y por medio de su mantenimiento es como llevaremos a flote esta idea y es como llevaremos esta aplicación a todas aquellas zonas dañada por medio de los desastres naturales que suceden en Nicaragua. Ecoalerta representa un paso firme hacia un futuro más seguro y consciente en Nicaragua. Al unir la tecnología con la solidaridad comunitaria, se convierte en una solución real para enfrentar los desastres naturales desde la prevención. Este proyecto demuestra que el cambio comienza en cada hogar, en cada persona dispuesta a cuidar su entorno. Con ecoalerta, no solo se salvan vidas, también se fortalece la unión entre las comunidades y se protege el patrimonio natural que nos pertenece a todos. Esperamos su voto de confianza para seguir desarrollando esta propuesta y convertirla en una solución real para nuestras comunidades.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Estamos realmente preparados para enfrentar desastres naturales en Nicaragua."
+  },
+  {
+   "start": 5.0,
+   "end": 16.0,
+   "text": "En el 2013 Nicaragua contaba con seis sistemas de alerta temprana para volcanes veinte estaciones meteorológicas, tres sistemas de alerta temprana para inundaciones y dos para tsunamis."
+  },
+  {
+   "start": 16.0,
+   "end": 22.0,
+   "text": "Un sistema de alerta temprano no sólo permite el futuro sino que salvar vidas al anticipar los desastres."
+  },
+  {
+   "start": 22.0,
+   "end": 30.0,
+   "text": "Hola somos Ecoalarma un sistema de alerta temprano en Nicaragua en frente a las limitaciones de cobertura, infraestructura y comunicación de la población."
+  },
+  {
+   "start": 30.0,
+   "end": 37.0,
+   "text": "Nosotros tratamos de crear un sitio web donde podamos estar monitoreando alertas las cuales ayuden a prevenir y alertar a la población."
+  },
+  {
+   "start": 37.0,
+   "end": 43.0,
+   "text": "Con participación comunicación datos confiables y actualizados en tiempo y forma en la plataforma accesible."
+  },
+  {
+   "start": 43.0,
+   "end": 56.0,
+   "text": "Hablemos del negocio a través de la venta del sensor y por medio de su mantenimiento es como llevaremos a flote esta idea y es como llevaremos esta aplicación a todas aquellas zonas dañada por medio de los desastres naturales que suceden en Nicaragua."
+  },
+  {
+   "start": 56.0,
+   "end": 62.0,
+   "text": "Ecoalerta representa un paso firme hacia un futuro más seguro y consciente en Nicaragua."
+  },
+  {
+   "start": 62.0,
+   "end": 71.0,
+   "text": "Al unir la tecnología con la solidaridad comunitaria, se convierte en una solución real para enfrentar los desastres naturales desde la prevención."
+  },
+  {
+   "start": 71.0,
+   "end": 78.0,
+   "text": "Este proyecto demuestra que el cambio comienza en cada hogar, en cada persona dispuesta a cuidar su entorno."
+  },
+  {
+   "start": 78.0,
+   "end": 87.0,
+   "text": "Con ecoalerta, no solo se salvan vidas, también se fortalece la unión entre las comunidades y se protege el patrimonio natural que nos pertenece a todos."
+  },
+  {
+   "start": 87.0,
+   "end": 95.0,
+   "text": "Esperamos su voto de confianza para seguir desarrollando esta propuesta y convertirla en una solución real para nuestras comunidades."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 95.9
+}

@@ -1,0 +1,112 @@
+{
+ "video_id": "ft01zXf-WXc",
+ "url": "https://youtu.be/ft01zXf-WXc",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ARQUIVOLT",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ARQUIVOLT",
+   "challenge": "05 - VIVIENDA DIGNA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:42:25+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En Latinoamérica, alrededor de 120 millones de personas viven en asentamientos que carecen de servicios básicos y con sus chaves adecuadas. Esto hace que nos planteemos ¿Qué hace una vivienda tigna? En Archivolt, planteamos la siguiente solución. Hemos creado tres tipos de viviendas dirigidas a tres zonas comunes en Latinoamérica. Son aerorail, son urbana, son acostera. Crean un modelo típico adaptable a los distintos contextos, cambiando los materiales de construcción e instalaciones eléctricas. Esta solución garantiza el cumplimiento de las características que conllevan a que una vivienda sea adigna, las cuales son accesibilidad, seguridad, servicios de electricidad, suministro de agua potable y gestión de desechos sólido y líquido. Nuestro diseño contempla un modelo vivienda progresiva, siguiéndo innovador en aspectos claves, los cuales contemplan. Usa un sistema de manpostaría reforzado con un bloque con materiales plásticos, reciclado sustituyendo un 20% en la proporción de arena por plástico. Enfoque completamente renovable, aprovechar fuentes de energías renovables como el sol y el viento para generar electricidad localmente. Captación de aguas pluviales, cosecha de neblina y desalinización de agua en zonas costeras, reutilización de agua grisa generada en hogares y manejo de aguas residuales. La propuesta para 50 familias en el casco urbano no excede de un total de 570 mil dólares y en la zona rural el costo es inferior a 23 mil dólares. Nuestro diseño cumple con los objetivos 6, 7, 9 y 11 de la agenda 2030 de las Naciones Unidas.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.44,
+   "text": "En Latinoamérica, alrededor de 120 millones de personas viven en asentamientos que carecen de servicios básicos y con sus chaves adecuadas."
+  },
+  {
+   "start": 8.44,
+   "end": 13.04,
+   "text": "Esto hace que nos planteemos ¿Qué hace una vivienda tigna?"
+  },
+  {
+   "start": 13.04,
+   "end": 16.2,
+   "text": "En Archivolt, planteamos la siguiente solución."
+  },
+  {
+   "start": 16.2,
+   "end": 21.28,
+   "text": "Hemos creado tres tipos de viviendas dirigidas a tres zonas comunes en Latinoamérica."
+  },
+  {
+   "start": 21.28,
+   "end": 24.76,
+   "text": "Son aerorail, son urbana, son acostera."
+  },
+  {
+   "start": 24.76,
+   "end": 33.04,
+   "text": "Crean un modelo típico adaptable a los distintos contextos, cambiando los materiales de construcción e instalaciones eléctricas."
+  },
+  {
+   "start": 33.04,
+   "end": 38.76,
+   "text": "Esta solución garantiza el cumplimiento de las características que conllevan a que una vivienda sea adigna,"
+  },
+  {
+   "start": 38.76,
+   "end": 46.04,
+   "text": "las cuales son accesibilidad, seguridad, servicios de electricidad, suministro de agua potable y gestión de desechos sólido y líquido."
+  },
+  {
+   "start": 46.04,
+   "end": 52.4,
+   "text": "Nuestro diseño contempla un modelo vivienda progresiva, siguiéndo innovador en aspectos claves, los cuales contemplan."
+  },
+  {
+   "start": 52.48,
+   "end": 56.48,
+   "text": "Usa un sistema de manpostaría reforzado con un bloque con materiales plásticos,"
+  },
+  {
+   "start": 56.48,
+   "end": 60.84,
+   "text": "reciclado sustituyendo un 20% en la proporción de arena por plástico."
+  },
+  {
+   "start": 60.84,
+   "end": 71.36,
+   "text": "Enfoque completamente renovable, aprovechar fuentes de energías renovables como el sol y el viento para generar electricidad localmente."
+  },
+  {
+   "start": 71.36,
+   "end": 76.64,
+   "text": "Captación de aguas pluviales, cosecha de neblina y desalinización de agua en zonas costeras,"
+  },
+  {
+   "start": 76.64,
+   "end": 81.32,
+   "text": "reutilización de agua grisa generada en hogares y manejo de aguas residuales."
+  },
+  {
+   "start": 81.48,
+   "end": 87.48,
+   "text": "La propuesta para 50 familias en el casco urbano no excede de un total de 570 mil dólares"
+  },
+  {
+   "start": 87.48,
+   "end": 91.48,
+   "text": "y en la zona rural el costo es inferior a 23 mil dólares."
+  },
+  {
+   "start": 91.48,
+   "end": 99.48,
+   "text": "Nuestro diseño cumple con los objetivos 6, 7, 9 y 11 de la agenda 2030 de las Naciones Unidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 99.9
+}

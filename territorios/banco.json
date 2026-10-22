@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-19",
+  "nota": "Banco de preparacion, no de respuestas. Los municipios son candidatos reales para anclar el piloto; ninguna cifra de demanda esta incluida a proposito. Toda estadistica debe salir de research/claims.json antes de entrar al pautado.",
+  "uso": "Cuando llegue el reto (viernes 08:00), busca el tema en este banco, elige 2 municipios candidatos y valida la demanda con una fuente citables. No copies el banco al pautado.",
+  "temas": [
+    {
+      "id": "cafe",
+      "tema": "Cafe y pequeños productores",
+      "ods": ["ODS 8", "ODS 12"],
+      "municipios_candidatos": ["Matagalpa", "Jinotega", "Dipilto", "El Tuma-La Dalia", "San Juan del Rio Coco"],
+      "pregunta_reto": "Como subir valor en finca sin depender de un solo comprador?",
+      "angulo_ganador": "Transformacion industrial en finca (secado, seleccion, trazabilidad), no artesania.",
+      "replicable_latam": ["Colombia", "Honduras", "Guatemala", "Peru"],
+      "validar": ["precio FOB", "merma postcosecha", "numero de productores"]
+    },
+    {
+      "id": "cacao",
+      "tema": "Cacao y chocolate de origen",
+      "ods": ["ODS 8", "ODS 15"],
+      "municipios_candidatos": ["Waslala", "Siuna", "Bonanza", "El Castillo", "Rio San Juan"],
+      "pregunta_reto": "Como pasar de grano a producto con marca sin perder al productor?",
+      "angulo_ganador": "Fermentacion y trazabilidad controladas; el chocolate es el final, no el inicio.",
+      "replicable_latam": ["Ecuador", "Peru", "Republica Dominicana", "Costa Rica"],
+      "validar": ["precio por quintal", "fermentacion actual", "certificaciones"]
+    },
+    {
+      "id": "agua",
+      "tema": "Agua y saneamiento rural",
+      "ods": ["ODS 6", "ODS 3"],
+      "municipios_candidatos": ["Somoto", "Totogalpa", "Wiwili", "Bluefields", "Corn Island"],
+      "pregunta_reto": "Como garantizar agua segura sin red electrica estable?",
+      "angulo_ganador": "Hardware de bajo consumo con mantenimiento local y repuesto impreso/estandar.",
+      "replicable_latam": ["Honduras", "Guatemala", "Haiti", "Bolivia"],
+      "validar": ["cobertura de agua", "calidad microbiologica", "tarifa actual"]
+    },
+    {
+      "id": "residuos",
+      "tema": "Residuos solidos y economia circular",
+      "ods": ["ODS 11", "ODS 12"],
+      "municipios_candidatos": ["Managua", "Masaya", "Leon", "Granada", "Esteli"],
+      "pregunta_reto": "Como separar y transformar residuos sin duplicar la cadena de recicladores?",
+      "angulo_ganador": "Integrar al reciclador existente con un proceso industrial simple, no competir con el.",
+      "replicable_latam": ["Costa Rica", "Colombia", "Chile", "Mexico"],
+      "validar": ["toneladas/dia", "composicion", "precio de material"]
+    },
+    {
+      "id": "energia",
+      "tema": "Energia y electrificacion",
+      "ods": ["ODS 7", "ODS 13"],
+      "municipios_candidatos": ["Ocotal", "Somoto", "Jinotega", "Bluefields", "Corn Island"],
+      "pregunta_reto": "Como estabilizar energia en zona aislada con presupuesto municipal?",
+      "angulo_ganador": "Generacion + almacenamiento + control medible; evitar kits importados sin repuesto.",
+      "replicable_latam": ["Honduras", "Guatemala", "Amazonia", "Caribe"],
+      "validar": ["horas sin servicio", "consumo por hogar", "costo del kWh"]
+    },
+    {
+      "id": "pesca",
+      "tema": "Pesca y cadena de frio",
+      "ods": ["ODS 14", "ODS 8"],
+      "municipios_candidatos": ["Bluefields", "Bilwi", "Puerto Morazan", "San Carlos", "Corn Island"],
+      "pregunta_reto": "Como reducir perdida de producto por falta de frio y transporte?",
+      "angulo_ganador": "Frio solar modular + trazabilidad de captura; no solo hielo.",
+      "replicable_latam": ["Honduras", "Belice", "Ecuador", "Peru"],
+      "validar": ["volumen de captura", "merma", "horas hasta el mercado"]
+    },
+    {
+      "id": "turismo",
+      "tema": "Turismo comunitario y patrimonio",
+      "ods": ["ODS 8", "ODS 11"],
+      "municipios_candidatos": ["Granada", "Leon", "Moyogalpa", "Altagracia", "San Juan del Sur"],
+      "pregunta_reto": "Como capturar valor turistico sin expulsar a la comunidad?",
+      "angulo_ganador": "Plataforma + servicio tangible (agua, residuos, movilidad), no solo app de reservas.",
+      "replicable_latam": ["Costa Rica", "Guatemala", "Colombia", "Peru"],
+      "validar": ["visitantes", "gasto promedio", "empleo local"]
+    },
+    {
+      "id": "salud_rural",
+      "tema": "Salud rural y diagnostico",
+      "ods": ["ODS 3", "ODS 10"],
+      "municipios_candidatos": ["Wiwili", "Siuna", "Bonanza", "El Almendro", "La Cruz de Rio Grande"],
+      "pregunta_reto": "Como acercar diagnostico basico sin medico permanente?",
+      "angulo_ganador": "Equipo de tamizaje con insumos accesibles y derivacion clara; la telemedicina sola no cierra.",
+      "replicable_latam": ["Honduras", "Guatemala", "Bolivia", "Amazonia"],
+      "validar": ["tiempo de traslado", "cobertura", "carga de enfermedad"]
+    },
+    {
+      "id": "educacion_tecnica",
+      "tema": "Educacion tecnica y empleabilidad",
+      "ods": ["ODS 4", "ODS 8"],
+      "municipios_candidatos": ["Esteli", "Chinandega", "Juigalpa", "Matagalpa", "Managua"],
+      "pregunta_reto": "Como formar en oficio con equipamiento real y salida laboral?",
+      "angulo_ganador": "Laboratorio movil + practica en empresa; evitar curso online sin taller.",
+      "replicable_latam": ["Honduras", "Guatemala", "Colombia", "Peru"],
+      "validar": ["matricula", "insercion laboral", "equipamiento disponible"]
+    },
+    {
+      "id": "movilidad",
+      "tema": "Movilidad urbana",
+      "ods": ["ODS 11", "ODS 13"],
+      "municipios_candidatos": ["Managua", "Leon", "Masaya", "Granada", "Chinandega"],
+      "pregunta_reto": "Como mover personas con seguridad sin comprar flota nueva?",
+      "angulo_ganador": "Datos + infraestructura ligera (paradas, carril, señal) antes que app.",
+      "replicable_latam": ["Costa Rica", "Colombia", "Ecuador", "Mexico"],
+      "validar": ["viajes/dia", "tiempo de viaje", "accidentalidad"]
+    },
+    {
+      "id": "vivienda",
+      "tema": "Vivienda y habitat",
+      "ods": ["ODS 11", "ODS 1"],
+      "municipios_candidatos": ["Managua", "Tipitapa", "Ciudad Sandino", "Bluefields", "Bilwi"],
+      "pregunta_reto": "Como mejorar vivienda existente con costo bajo y material local?",
+      "angulo_ganador": "Refuerzo/aislamiento con sistema medible y capacitacion; no prototipo aislado.",
+      "replicable_latam": ["Honduras", "Guatemala", "Bolivia", "Peru"],
+      "validar": ["deficit habitacional", "costo/m2", "material disponible"]
+    },
+    {
+      "id": "agro",
+      "tema": "Agroalimentario y postcosecha",
+      "ods": ["ODS 2", "ODS 12"],
+      "municipios_candidatos": ["Boaco", "Juigalpa", "Matagalpa", "Rivas", "Chinandega"],
+      "pregunta_reto": "Como reducir perdida de cosecha sin cadena de frio costosa?",
+      "angulo_ganador": "Secado/almacenamiento/empaque con control simple; el mercado es parte del sistema.",
+      "replicable_latam": ["Honduras", "Guatemala", "Ecuador", "Peru"],
+      "validar": ["merma", "precio en finca", "ventana de cosecha"]
+    }
+  ]
+}

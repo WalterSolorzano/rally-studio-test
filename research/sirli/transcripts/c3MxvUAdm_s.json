@@ -1,0 +1,92 @@
+{
+ "video_id": "c3MxvUAdm_s",
+ "url": "https://youtu.be/c3MxvUAdm_s?si=6BNNK8XfKKQluZuf",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS AGUIZOTES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS AGUIZOTES",
+   "challenge": "07 - SALUD MÓVIL PARA MUJERES EN ZONAS RURALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:26:04+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En muchas comunidades rurales, mujeres se enfrentan cada día la falta de acceso a atención médica. Distancia, pobreza y escasos recursos impiden que reciban el cuidado que merecen. Tras tornos mentroales, infecciones y enfermedades reproductivas afectan su calidad de vida. La distancia entre la salud y las mujeres del campo sigue creciendo, pero una solución puede ser posible. El sistema de auto-gestión comunitaria promueve la salud móvil para mujeres rurales. A través de la organización comunitaria se comparte información valiosa para transformar la realidad de la salud de las mujeres. Educar, empoderar, une a las mujeres mediante la tecnología y la participación social. Cada acción fortalece la comunidad y mejora la atención médica en zonas rurales. La innovación es que en la unión de las mujeres con la educación, tecnología y liderazgo local. Cuando una comunidad se organiza, la salud se transforma. En total, el presupuesto estimado para la ejecución del programa de salud preventiva para mujeres en zonas rurales asciende a 4.820 dólares. Este monto incluye lo gasto en taller informativo, difusión de actividades, evaluación y seguimiento y campañas médicas. Garantiza la cobertura de materiales, honorarios, transportes y otros recursos necesarios para el desarrollo exitoso del proyecto.",
+ "segments": [
+  {
+   "start": 3.41,
+   "end": 10.41,
+   "text": "En muchas comunidades rurales, mujeres se enfrentan cada día la falta de acceso a atención médica."
+  },
+  {
+   "start": 10.41,
+   "end": 17.41,
+   "text": "Distancia, pobreza y escasos recursos impiden que reciban el cuidado que merecen."
+  },
+  {
+   "start": 17.41,
+   "end": 24.41,
+   "text": "Tras tornos mentroales, infecciones y enfermedades reproductivas afectan su calidad de vida."
+  },
+  {
+   "start": 24.41,
+   "end": 31.41,
+   "text": "La distancia entre la salud y las mujeres del campo sigue creciendo, pero una solución puede ser posible."
+  },
+  {
+   "start": 31.41,
+   "end": 37.41,
+   "text": "El sistema de auto-gestión comunitaria promueve la salud móvil para mujeres rurales."
+  },
+  {
+   "start": 37.41,
+   "end": 45.72,
+   "text": "A través de la organización comunitaria se comparte información valiosa para transformar la realidad de la salud de las mujeres."
+  },
+  {
+   "start": 45.72,
+   "end": 52.72,
+   "text": "Educar, empoderar, une a las mujeres mediante la tecnología y la participación social."
+  },
+  {
+   "start": 52.72,
+   "end": 58.72,
+   "text": "Cada acción fortalece la comunidad y mejora la atención médica en zonas rurales."
+  },
+  {
+   "start": 58.72,
+   "end": 66.72,
+   "text": "La innovación es que en la unión de las mujeres con la educación, tecnología y liderazgo local."
+  },
+  {
+   "start": 66.72,
+   "end": 70.72,
+   "text": "Cuando una comunidad se organiza, la salud se transforma."
+  },
+  {
+   "start": 70.72,
+   "end": 81.72,
+   "text": "En total, el presupuesto estimado para la ejecución del programa de salud preventiva para mujeres en zonas rurales asciende a 4.820 dólares."
+  },
+  {
+   "start": 82.72,
+   "end": 90.72,
+   "text": "Este monto incluye lo gasto en taller informativo, difusión de actividades, evaluación y seguimiento y campañas médicas."
+  },
+  {
+   "start": 90.72,
+   "end": 99.72,
+   "text": "Garantiza la cobertura de materiales, honorarios, transportes y otros recursos necesarios para el desarrollo exitoso del proyecto."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 101.4
+}

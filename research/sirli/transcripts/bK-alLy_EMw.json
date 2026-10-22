@@ -1,0 +1,92 @@
+{
+ "video_id": "bK-alLy_EMw",
+ "url": "https://youtu.be/bK-alLy_EMw",
+ "year": 2020,
+ "collection": "internacional",
+ "country": "CHILE",
+ "team": "SPINTECH",
+ "place_label": "TERCER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2020,
+   "collection": "internacional",
+   "place_label": "TERCER LUGAR",
+   "team": "SPINTECH",
+   "challenge": "04 - ¿SERÁ POSIBLE PROMOVER UN USO CRECIENTE DE LA BICICLETA COMO MEDIO HABITUAL DE TRANSPORTE?"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:02:05+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "¿Sabías que 6 de cada 10 conductores no es consciente de la presencia de ciclistas al adelantarlos por la noche, pese a llevar chalecos reflectores? Peligroso, ¿verdad? Hola, somos SpinTech, conformado por Karim Bustamante, Jaime Celedón, Valentino Honorato, Alexis Ibarra y Daniel Paco. Somos un equipo multidisciplinario, innovador, responsable y comprometido a ayudar a crear el nuevo ciclismo latinoamericano. Ayudamos a los ciclistas a combatir la inseguridad y el miedo de usar la bicicleta como medio de transporte, fomentando la disminución de los choques y accidentes automovilísticos. Nuestro objetivo es hacer de la bicicleta un medio de transporte seguro e incentivar el uso de la bicicleta mediante IlluminaTec. Con la ayuda de sensores ultrasonicos que activen luces inalámbricas en las ruedas, diferenciando sus colores según la proximidad de un objeto en movimiento, generando una respuesta visual hacia el conductor del vehículo. Adicionalmente, una placa LED indicará al usuario la cercanía de vehículos motorizados o cuerpos de potencial riesgo para ciclistas, funcionando de forma similar a la de un radar. Con esta innovadora idea, podremos crear y expandir comunidades ciclistas que se cuiden entre ellos, así evitando robos y accidentes, creando una caravana de luces. Todos los dispositivos funcionarán de manera inalámbrica, sin necesidad de internet o manipulación del usuario para su funcionamiento. Con esta innovación de fácil instalación, producción nacional y larga autonomía, reduciremos los choques a ciclistas, accidentes automovilísticos y el miedo de usar la bicicleta como medio de transporte. Si esto te parece interesante y requieres más información, no dudes en contactarme.",
+ "segments": [
+  {
+   "start": 1.36,
+   "end": 11.08,
+   "text": "¿Sabías que 6 de cada 10 conductores no es consciente de la presencia de ciclistas al adelantarlos por la noche, pese a llevar chalecos reflectores?"
+  },
+  {
+   "start": 11.08,
+   "end": 13.36,
+   "text": "Peligroso, ¿verdad?"
+  },
+  {
+   "start": 13.36,
+   "end": 22.36,
+   "text": "Hola, somos SpinTech, conformado por Karim Bustamante, Jaime Celedón, Valentino Honorato, Alexis Ibarra y Daniel Paco."
+  },
+  {
+   "start": 22.36,
+   "end": 30.36,
+   "text": "Somos un equipo multidisciplinario, innovador, responsable y comprometido a ayudar a crear el nuevo ciclismo latinoamericano."
+  },
+  {
+   "start": 30.36,
+   "end": 41.36,
+   "text": "Ayudamos a los ciclistas a combatir la inseguridad y el miedo de usar la bicicleta como medio de transporte, fomentando la disminución de los choques y accidentes automovilísticos."
+  },
+  {
+   "start": 41.36,
+   "end": 50.36,
+   "text": "Nuestro objetivo es hacer de la bicicleta un medio de transporte seguro e incentivar el uso de la bicicleta mediante IlluminaTec."
+  },
+  {
+   "start": 50.36,
+   "end": 59.36,
+   "text": "Con la ayuda de sensores ultrasonicos que activen luces inalámbricas en las ruedas, diferenciando sus colores según la proximidad de un objeto en movimiento,"
+  },
+  {
+   "start": 59.36,
+   "end": 63.36,
+   "text": "generando una respuesta visual hacia el conductor del vehículo."
+  },
+  {
+   "start": 63.36,
+   "end": 74.36,
+   "text": "Adicionalmente, una placa LED indicará al usuario la cercanía de vehículos motorizados o cuerpos de potencial riesgo para ciclistas, funcionando de forma similar a la de un radar."
+  },
+  {
+   "start": 74.36,
+   "end": 84.36,
+   "text": "Con esta innovadora idea, podremos crear y expandir comunidades ciclistas que se cuiden entre ellos, así evitando robos y accidentes, creando una caravana de luces."
+  },
+  {
+   "start": 85.36,
+   "end": 93.36,
+   "text": "Todos los dispositivos funcionarán de manera inalámbrica, sin necesidad de internet o manipulación del usuario para su funcionamiento."
+  },
+  {
+   "start": 93.36,
+   "end": 106.36,
+   "text": "Con esta innovación de fácil instalación, producción nacional y larga autonomía, reduciremos los choques a ciclistas, accidentes automovilísticos y el miedo de usar la bicicleta como medio de transporte."
+  },
+  {
+   "start": 106.36,
+   "end": 112.36,
+   "text": "Si esto te parece interesante y requieres más información, no dudes en contactarme."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 116.1
+}

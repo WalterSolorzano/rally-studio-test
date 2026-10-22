@@ -1,0 +1,142 @@
+{
+ "video_id": "efPNLZqWtog",
+ "url": "https://youtube.com/shorts/efPNLZqWtog?si=G2H5N1H0I2ru4LkF",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SENIX",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "SENIX",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:02:29+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "y si un celular en desuso pudiera ayudar a prevenir inundaciones y salvar vidas, un cordial saludo a los docentes, compañeros y los demás personas que nos acompañan. La aplicación CENIX cuenta con una pantalla principal que ofrece cuatro apartados funcionales, además de una sección de ajuste. Permite configurar el teléfono en desuso como una herramienta de monitoreo, aprovechando su cámara para observar el nivel de agua. El GPS para registrar su ubicación, la bocina y el flash para emitir alertas visuales y sonoras y sus sensores para recopilar información complementaria. El segundo botón es CENIX gestión. Permite al usuario administrar y monitorear el teléfono herramienta vinculado. Consultar su información y gestionar su funcionamiento desde otro dispositivo. Se presentamos CENIX, una propuesta tecnológica que permite transformar celulares en desuso en herramientas de monitoreo y provención de inundaciones mediante aplicación diseñada para aprovechar recursos de estos dispositivos. Nuestro objetivo es ofrecer una alternativa accesible que permite recopilar información sobre el nivel del agua, conocer la ubicación de los puntos monitoreados y emitir alertas preventivas para ayudar a las comunidades a prepararse ante posibles inundaciones. En CENIX buscamos contribuir a la prevención de inundaciones, promover la reutilización tecnológica y acercar herramientas de monitoreo a nuestras comunidades porque un celular que parecía no tener utilidad puede convertirse en una oportunidad para proteger vidas. CENIX, tecnología con un propósito, comunidades más preparadas y prevención para un futuro más seguro. Gracias por su atención.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "y si un celular en desuso pudiera ayudar a prevenir inundaciones y salvar vidas,"
+  },
+  {
+   "start": 6.0,
+   "end": 13.0,
+   "text": "un cordial saludo a los docentes, compañeros y los demás personas que nos acompañan."
+  },
+  {
+   "start": 14.0,
+   "end": 19.0,
+   "text": "La aplicación CENIX cuenta con una pantalla principal que ofrece cuatro apartados funcionales,"
+  },
+  {
+   "start": 19.0,
+   "end": 21.0,
+   "text": "además de una sección de ajuste."
+  },
+  {
+   "start": 21.0,
+   "end": 26.0,
+   "text": "Permite configurar el teléfono en desuso como una herramienta de monitoreo,"
+  },
+  {
+   "start": 26.0,
+   "end": 30.0,
+   "text": "aprovechando su cámara para observar el nivel de agua."
+  },
+  {
+   "start": 30.0,
+   "end": 38.0,
+   "text": "El GPS para registrar su ubicación, la bocina y el flash para emitir alertas visuales y sonoras"
+  },
+  {
+   "start": 38.0,
+   "end": 42.0,
+   "text": "y sus sensores para recopilar información complementaria."
+  },
+  {
+   "start": 42.0,
+   "end": 45.0,
+   "text": "El segundo botón es CENIX gestión."
+  },
+  {
+   "start": 45.0,
+   "end": 50.0,
+   "text": "Permite al usuario administrar y monitorear el teléfono herramienta vinculado."
+  },
+  {
+   "start": 51.0,
+   "end": 56.0,
+   "text": "Consultar su información y gestionar su funcionamiento desde otro dispositivo."
+  },
+  {
+   "start": 57.0,
+   "end": 62.0,
+   "text": "Se presentamos CENIX, una propuesta tecnológica que permite transformar celulares en desuso"
+  },
+  {
+   "start": 62.0,
+   "end": 68.0,
+   "text": "en herramientas de monitoreo y provención de inundaciones mediante aplicación diseñada"
+  },
+  {
+   "start": 68.0,
+   "end": 71.0,
+   "text": "para aprovechar recursos de estos dispositivos."
+  },
+  {
+   "start": 71.0,
+   "end": 78.0,
+   "text": "Nuestro objetivo es ofrecer una alternativa accesible que permite recopilar información sobre el nivel del agua,"
+  },
+  {
+   "start": 78.0,
+   "end": 86.0,
+   "text": "conocer la ubicación de los puntos monitoreados y emitir alertas preventivas para ayudar a las comunidades"
+  },
+  {
+   "start": 86.0,
+   "end": 89.0,
+   "text": "a prepararse ante posibles inundaciones."
+  },
+  {
+   "start": 90.0,
+   "end": 95.0,
+   "text": "En CENIX buscamos contribuir a la prevención de inundaciones,"
+  },
+  {
+   "start": 95.0,
+   "end": 101.0,
+   "text": "promover la reutilización tecnológica y acercar herramientas de monitoreo a nuestras comunidades"
+  },
+  {
+   "start": 101.0,
+   "end": 110.0,
+   "text": "porque un celular que parecía no tener utilidad puede convertirse en una oportunidad para proteger vidas."
+  },
+  {
+   "start": 110.0,
+   "end": 115.0,
+   "text": "CENIX, tecnología con un propósito, comunidades más preparadas"
+  },
+  {
+   "start": 115.0,
+   "end": 119.0,
+   "text": "y prevención para un futuro más seguro."
+  },
+  {
+   "start": 119.0,
+   "end": 122.82,
+   "text": "Gracias por su atención."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 122.8
+}

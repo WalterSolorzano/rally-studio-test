@@ -1,0 +1,13 @@
+{
+  "cerrado": "2026-10-22 07:08:30",
+  "premios": 5136,
+  "videos_unicos": 4709,
+  "metadatos_ok": 4688,
+  "metadatos_fallidos": 21,
+  "miniaturas": 4196,
+  "transcripciones_con_texto": 26,
+  "filas_con_solucion": 4556,
+  "excel": "research/sirli/excel/ganadores_sirli.xlsx",
+  "informe": "research/sirli/analisis/patrones.md",
+  "nota": "26 transcripciones es el techo real: los otros 68 videos no tienen subtitulos en YouTube"
+}

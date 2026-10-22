@@ -1,0 +1,57 @@
+{
+ "video_id": "56EjVAzQedA",
+ "url": "https://youtu.be/56EjVAzQedA",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "DARÍANOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "DARÍANOS",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:49:26+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Los agricultores y trabajadores del sector de agroindustrias en sus esfuerzos de resolver problemas por sequías y cambios climáticos crean o hacen uso de las micropresas o microembalces, aunque se consideran soluciones sostenibles a pequeña escala para la gestión de recursos hídricos también presentan varios problemas que pueden afectar tanto los suelos como la salud humana, como la proliferación de mosquitos, así como la transmisión de enfermedades. Por otro lado, la presencia de cuerpos de agua puede modificar el microclima local, generando condiciones de mayor humedad que podrían influir en las prácticas agrícolas, así como la perdida por filtración del subsuelo y la erosión del mismo. Es por esto que proponemos un sistema de captación de aguas triviales que puede ser usado a macro o micro escala, y en este caso podemos observar que el sistema funciona a través de energía sostenible usando paneles solares. El agua de lluvia es dirigida por medio de canaletas a cadenas que funcionan como bajantes directos del recurso. Luego pasa por un filtro biológico de limpieza deshaciéndose de cualquier organismo contaminante. Para posteriormente, ser almacenado a una cisterna que por medio de una bomba es capaz de succionar el agua contenida y que sea distribuida por una ramificación de tuberías en un sistema de riego por goteo, permitiendo un mejor monitoreo y regos de las cosechas. Su diseño modular permite que el sistema se adapte a diferentes terrenos y condiciones climáticas, lo que lo hace versátil y aplicable a diversas localidades. Los agricultores pueden personalizar la configuración del sistema en sus necesidades específicas, mejorando la captación de agua y la vida de los trabajadores.",
+ "segments": [
+  {
+   "start": 3.54,
+   "end": 28.54,
+   "text": "Los agricultores y trabajadores del sector de agroindustrias en sus esfuerzos de resolver problemas por sequías y cambios climáticos crean o hacen uso de las micropresas o microembalces, aunque se consideran soluciones sostenibles a pequeña escala para la gestión de recursos hídricos también presentan varios problemas que pueden afectar tanto los suelos como la salud humana, como la proliferación de mosquitos, así como la transmisión de enfermedades."
+  },
+  {
+   "start": 28.54,
+   "end": 42.54,
+   "text": "Por otro lado, la presencia de cuerpos de agua puede modificar el microclima local, generando condiciones de mayor humedad que podrían influir en las prácticas agrícolas, así como la perdida por filtración del subsuelo y la erosión del mismo."
+  },
+  {
+   "start": 42.54,
+   "end": 55.54,
+   "text": "Es por esto que proponemos un sistema de captación de aguas triviales que puede ser usado a macro o micro escala, y en este caso podemos observar que el sistema funciona a través de energía sostenible usando paneles solares."
+  },
+  {
+   "start": 55.54,
+   "end": 67.54,
+   "text": "El agua de lluvia es dirigida por medio de canaletas a cadenas que funcionan como bajantes directos del recurso. Luego pasa por un filtro biológico de limpieza deshaciéndose de cualquier organismo contaminante."
+  },
+  {
+   "start": 67.54,
+   "end": 83.54,
+   "text": "Para posteriormente, ser almacenado a una cisterna que por medio de una bomba es capaz de succionar el agua contenida y que sea distribuida por una ramificación de tuberías en un sistema de riego por goteo, permitiendo un mejor monitoreo y regos de las cosechas."
+  },
+  {
+   "start": 83.54,
+   "end": 101.54,
+   "text": "Su diseño modular permite que el sistema se adapte a diferentes terrenos y condiciones climáticas, lo que lo hace versátil y aplicable a diversas localidades. Los agricultores pueden personalizar la configuración del sistema en sus necesidades específicas, mejorando la captación de agua y la vida de los trabajadores."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.0
+}

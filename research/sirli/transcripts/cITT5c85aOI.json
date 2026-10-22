@@ -1,0 +1,157 @@
+{
+ "video_id": "cITT5c85aOI",
+ "url": "https://www.youtube.com/watch?v=cITT5c85aOI",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVANDO DESDE LOS PUEBLOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INNOVANDO DESDE LOS PUEBLOS",
+   "challenge": "03 - AGUA SEGURA"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:30:08+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "América Latina alberga alrededor de 30% de las puentes de agua dulce del mundo. Sin embargo, la población superpólescasez y contaminación del agua al mundo junto con la sequía, la ineficacia y el aumento de la población han contribuido a una crisis de agua dulce, amenazando a las puentes de las que dependemos para la uvopotable y otras necesidades. Según la OMS, el agua contaminada y el saneamiento deficiente contribuyen a la transmisión de enfermedades como el cólera, enfermedades diarraica, esintería, hepatitis A, fibritifoidea y poliemilitis entre otras enfermedades. Ya estas se le adhieren otros factores como una adecuada gestión de agua residual, urbana, agrícola e industrial. Esto afecta principalmente a las comunidades rurales en donde es más difícil la implementación de un sistema de tuberías para brindar el exceso agua potable. Dichas comunidades están en riesgo porque pueden brindar agua de fuentes contaminadas y adquirir enfermedades peligrosas como las mencionadas anteriormente. Innovando a las de los pueblos propone la creación de ecofintum, la cual es una alternativa sencilla y práctica para el uso y reutilización de materiales de nuestro ecosistema. Este dispositivo permitirá la transmisión de la contaminación que contienen las aguas. Mediente el uso de materiales como lo es el bandudo, botellas de plástico, carbón activado a base de cáscaras de coco, arenas y piedras, servirán como filtro de agua de manera que esta sea bebeable. Este dispositivo tendrá un edificio de entrada por donde se ingresará el agua luego de ser transportada y de esta manera pasa por un conducto hasta ser llevadas a las diferentes capas que se encargarán de el agua. Es un dispositivo consumible, la cual puede almacenarse en un recipiente limpio. El impacto social es la disponibilidad del agua acta para el consumo humano que posibleitará la disminución de enfermedades mejorará la calidad de vida de las personas que habitan en los pueblos. Generaremos fácil acceso a las diferentes fuentes del vital líquido, disminuiendo incluso el abuso cultural hacia las mujeres que tienen que ir en busca de agua, siendo vulneradas ante cualquier peligro. Ecofintum eso opera tanto por hombres como mujeres.",
+ "segments": [
+  {
+   "start": 0.34,
+   "end": 4.46,
+   "text": "América Latina alberga alrededor de 30% de las puentes de agua dulce del mundo."
+  },
+  {
+   "start": 4.46,
+   "end": 9.1,
+   "text": "Sin embargo, la población superpólescasez y contaminación del agua al mundo junto con la sequía,"
+  },
+  {
+   "start": 9.1,
+   "end": 13.22,
+   "text": "la ineficacia y el aumento de la población han contribuido a una crisis de agua dulce,"
+  },
+  {
+   "start": 13.22,
+   "end": 17.22,
+   "text": "amenazando a las puentes de las que dependemos para la uvopotable y otras necesidades."
+  },
+  {
+   "start": 17.22,
+   "end": 22.26,
+   "text": "Según la OMS, el agua contaminada y el saneamiento deficiente contribuyen a la transmisión de"
+  },
+  {
+   "start": 22.26,
+   "end": 26.06,
+   "text": "enfermedades como el cólera, enfermedades diarraica, esintería, hepatitis A,"
+  },
+  {
+   "start": 26.06,
+   "end": 29.62,
+   "text": "fibritifoidea y poliemilitis entre otras enfermedades."
+  },
+  {
+   "start": 29.62,
+   "end": 34.14,
+   "text": "Ya estas se le adhieren otros factores como una adecuada gestión de agua residual,"
+  },
+  {
+   "start": 34.14,
+   "end": 38.86,
+   "text": "urbana, agrícola e industrial. Esto afecta principalmente a las comunidades rurales"
+  },
+  {
+   "start": 38.86,
+   "end": 43.22,
+   "text": "en donde es más difícil la implementación de un sistema de tuberías para brindar el exceso"
+  },
+  {
+   "start": 43.22,
+   "end": 48.02,
+   "text": "agua potable. Dichas comunidades están en riesgo porque pueden brindar agua de fuentes"
+  },
+  {
+   "start": 48.02,
+   "end": 51.86,
+   "text": "contaminadas y adquirir enfermedades peligrosas como las mencionadas anteriormente."
+  },
+  {
+   "start": 51.86,
+   "end": 55.1,
+   "text": "Innovando a las de los pueblos propone la creación de ecofintum,"
+  },
+  {
+   "start": 55.1,
+   "end": 59.34,
+   "text": "la cual es una alternativa sencilla y práctica para el uso y reutilización de"
+  },
+  {
+   "start": 59.38,
+   "end": 63.38,
+   "text": "materiales de nuestro ecosistema. Este dispositivo permitirá la transmisión"
+  },
+  {
+   "start": 63.38,
+   "end": 67.78,
+   "text": "de la contaminación que contienen las aguas. Mediente el uso de materiales como lo es el"
+  },
+  {
+   "start": 67.78,
+   "end": 72.9,
+   "text": "bandudo, botellas de plástico, carbón activado a base de cáscaras de coco, arenas y piedras,"
+  },
+  {
+   "start": 72.9,
+   "end": 77.74,
+   "text": "servirán como filtro de agua de manera que esta sea bebeable. Este dispositivo tendrá un"
+  },
+  {
+   "start": 77.74,
+   "end": 81.78,
+   "text": "edificio de entrada por donde se ingresará el agua luego de ser transportada y de esta manera"
+  },
+  {
+   "start": 81.78,
+   "end": 85.54,
+   "text": "pasa por un conducto hasta ser llevadas a las diferentes capas que se encargarán de"
+  },
+  {
+   "start": 86.3,
+   "end": 90.26,
+   "text": "el agua. Es un dispositivo consumible, la cual puede almacenarse en un recipiente limpio."
+  },
+  {
+   "start": 90.26,
+   "end": 93.7,
+   "text": "El impacto social es la disponibilidad del agua acta para el consumo humano que"
+  },
+  {
+   "start": 93.7,
+   "end": 97.78,
+   "text": "posibleitará la disminución de enfermedades mejorará la calidad de vida de las personas que"
+  },
+  {
+   "start": 97.78,
+   "end": 101.7,
+   "text": "habitan en los pueblos. Generaremos fácil acceso a las diferentes fuentes del vital líquido,"
+  },
+  {
+   "start": 101.7,
+   "end": 106.14,
+   "text": "disminuiendo incluso el abuso cultural hacia las mujeres que tienen que ir en busca de agua,"
+  },
+  {
+   "start": 106.14,
+   "end": 111.3,
+   "text": "siendo vulneradas ante cualquier peligro. Ecofintum eso opera tanto por hombres como mujeres."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 112.4
+}

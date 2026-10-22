@@ -1,0 +1,112 @@
+{
+ "video_id": "jKXec49RSzI",
+ "url": "https://youtu.be/jKXec49RSzI",
+ "year": 2021,
+ "collection": "internacional",
+ "country": "CHILE",
+ "team": "EQUIPO 2: MASCARILLAS INNOVADORAS",
+ "place_label": "TERCER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2021,
+   "collection": "internacional",
+   "place_label": "TERCER LUGAR",
+   "team": "EQUIPO 2: MASCARILLAS INNOVADORAS",
+   "challenge": "10 - ¿QUÉ HACER CON TU MASCARILLA, BARBIJO O CUBREBOCAS?"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:00:01+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "Las mascarillas que ocupamos a diario para protegernos del COVID-19 se han convertido en un arma de doble filo. Según el Ministerio del Medio Ambiente de Chile, las mascarillas desechables pueden tardar hasta 450 años en degradarse. Además, estas representan un peligro para la salud de las personas. Pero, ¿cómo se podría evitar esto? Presentamos a Second Chance, Be The Change, un sistema que funciona a través de una aplicación, la cual muestra la duración de uso de una mascarilla desechable y avisa cuando debe a cambiarse, e indica cuando el dispositivo portátil no tiene más cabida. Adicionalmente, el dispositivo portátil, con capacidad de 10 mascarillas, se utilizará para transportarlas sin contaminar las otras pertenencias de los usuarios, mediante el uso de ultravioleta, lo que ofrece mayor comodidad y seguridad. Asimismo, un depósito recibe mascarillas ya utilizadas, las desinfecta con luz ultravioleta y las tritura dentro de una máquina para una distribución más fácil. Además, estos depósitos poseerán lectores de códigos QR para hacer segmento del uso de la mascarilla de los usuarios que ocupan la aplicación oficial, la que les permitirá acumular puntos para acceder a beneficios exclusivos en locales y marcas asociadas. El impacto social consiste en el canje de bonificaciones acumuladas tras el depósito de las mascarillas usadas, las cuales pueden utilizarse en descuentos en locales y marcas asociadas. El impacto ambiental positivo se evidencia al reciclar las mascarillas, idealmente con la intención de reducir a cero la contaminación que estas generan. No seas un boomer de los malos, sé un second chance, sé el cambio.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.08,
+   "text": "Las mascarillas que ocupamos a diario para protegernos del COVID-19 se han convertido en un arma de doble filo."
+  },
+  {
+   "start": 6.32,
+   "end": 10.68,
+   "text": "Según el Ministerio del Medio Ambiente de Chile, las mascarillas desechables pueden tardar hasta"
+  },
+  {
+   "start": 11.2,
+   "end": 16.36,
+   "text": "450 años en degradarse. Además, estas representan un peligro para la salud de las personas."
+  },
+  {
+   "start": 16.96,
+   "end": 24.32,
+   "text": "Pero, ¿cómo se podría evitar esto? Presentamos a Second Chance, Be The Change, un sistema que funciona a través de una aplicación,"
+  },
+  {
+   "start": 24.56,
+   "end": 29.96,
+   "text": "la cual muestra la duración de uso de una mascarilla desechable y avisa cuando debe a cambiarse,"
+  },
+  {
+   "start": 30.28,
+   "end": 33.48,
+   "text": "e indica cuando el dispositivo portátil no tiene más cabida."
+  },
+  {
+   "start": 34.52,
+   "end": 37.8,
+   "text": "Adicionalmente, el dispositivo portátil, con capacidad de 10 mascarillas,"
+  },
+  {
+   "start": 38.2,
+   "end": 42.52,
+   "text": "se utilizará para transportarlas sin contaminar las otras pertenencias de los usuarios,"
+  },
+  {
+   "start": 43.2,
+   "end": 47.36,
+   "text": "mediante el uso de ultravioleta, lo que ofrece mayor comodidad y seguridad."
+  },
+  {
+   "start": 48.0,
+   "end": 57.24,
+   "text": "Asimismo, un depósito recibe mascarillas ya utilizadas, las desinfecta con luz ultravioleta y las tritura dentro de una máquina para una distribución más fácil."
+  },
+  {
+   "start": 58.24,
+   "end": 67.92,
+   "text": "Además, estos depósitos poseerán lectores de códigos QR para hacer segmento del uso de la mascarilla de los usuarios que ocupan la aplicación oficial,"
+  },
+  {
+   "start": 68.6,
+   "end": 75.4,
+   "text": "la que les permitirá acumular puntos para acceder a beneficios exclusivos en locales y marcas asociadas."
+  },
+  {
+   "start": 76.0,
+   "end": 82.0,
+   "text": "El impacto social consiste en el canje de bonificaciones acumuladas tras el depósito de las mascarillas usadas,"
+  },
+  {
+   "start": 82.36,
+   "end": 86.92,
+   "text": "las cuales pueden utilizarse en descuentos en locales y marcas asociadas."
+  },
+  {
+   "start": 88.2,
+   "end": 92.0,
+   "text": "El impacto ambiental positivo se evidencia al reciclar las mascarillas,"
+  },
+  {
+   "start": 92.52,
+   "end": 96.6,
+   "text": "idealmente con la intención de reducir a cero la contaminación que estas generan."
+  },
+  {
+   "start": 97.32,
+   "end": 103.64,
+   "text": "No seas un boomer de los malos, sé un second chance, sé el cambio."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.4
+}

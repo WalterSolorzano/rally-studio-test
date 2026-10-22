@@ -1,0 +1,219 @@
+{
+  "official": [
+    {
+      "id": "01",
+      "title": "Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso",
+      "category": "Impacto Social",
+      "ods": [
+        "ODS 12",
+        "ODS 8",
+        "ODS 9"
+      ],
+      "winRate": 92,
+      "compDensity": "Baja (3 sedes)",
+      "precedent": "Avocado 2026 (1° Nac. Social) / Revolt (El Salvador)",
+      "officialExpectation": "Aprovechar motores de lavadoras y ventiladores desechados para reducir chatarra y generar tracción o generación eléctrica a bajo costo en comunidades rurales.",
+      "wowProposal": "Convierte motores gastados en herramientas útiles: se les conecta una pieza reciclada que hace girar un molino para moler alimento animal. Para fincas pequeñas que no pueden pagar equipo nuevo.",
+      "nicaraguaAdaptation": "Anclaje directo en cooperativas lecheras y avícolas de Chontales, Matagalpa y Boaco, sustituyendo motores diésel caros por motores de lavadora reacondicionados para picadoras de pasto y bombas de agua.",
+      "noveltyReason": "Rompe la trampa del reciclaje pasivo creando máquinas productivas de tracción mecánica directa con coste inferior a $65 USD por unidad.",
+      "winnerPattern": "Alineación estricta con el Eje de Economía Creativa del Plan Nacional y modelo B2B cooperativo sin dependencia de subsidios continuos."
+    },
+    {
+      "id": "02",
+      "title": "Redes de sensores comunitarios para prevención y alerta temprana de inundaciones",
+      "category": "Innovación",
+      "ods": [
+        "ODS 11",
+        "ODS 13",
+        "ODS 3"
+      ],
+      "winRate": 84,
+      "compDensity": "Alta (9 sedes)",
+      "precedent": "Techriders 2024 (1° Int. Latam) / Steel Innovators 2026",
+      "officialExpectation": "Monitorear crecidas repentinas de ríos y cauces urbanos para alertar a pobladores vulnerables antes de que el agua sobrepase cotas de riesgo.",
+      "wowProposal": "Sensores en el cauce que avisan a la comunidad 30 minutos antes de una crecida. El aviso llega por radio hasta los brigadistas del barrio, sin depender del celular.",
+      "nicaraguaAdaptation": "Despliegue prioritario en los cauces críticos de Managua (Cauce Oriental / Domitila Lugo) y cuencas del Río Grande de Matagalpa en coordinación directa con SINAPRED y COMUPRED.",
+      "noveltyReason": "No depende de antenas de celular ni de internet; opera con baterías solares LiFePO4 y radiofrecuencia mallada comunitaria.",
+      "winnerPattern": "Arquitectura ciber-física con hardware validado (ESP32 + LoRa) y simulación hidrométrica en tiempo real."
+    },
+    {
+      "id": "03",
+      "title": "Protección y fomento tecnológico de polinizadores en entornos agropecuarios y urbanos",
+      "category": "Innovación",
+      "ods": [
+        "ODS 15",
+        "ODS 2",
+        "ODS 13"
+      ],
+      "winRate": 95,
+      "compDensity": "Muy Baja (2 sedes)",
+      "precedent": "Ignis Code 2026 (1° Nac. Innovación)",
+      "officialExpectation": "Preservar colonias de abejas y polinizadores nativos frente al cambio climático y pesticidas agrícolas con soluciones de fácil adopción.",
+      "wowProposal": "Abejas sanas con poca intervención: la colmena lleva un pequeño sensor que escucha y mide su temperatura, y un dosificador solar que les da sus micronutrientes cuando hace falta.",
+      "nicaraguaAdaptation": "Protección de abejas nativas meliponas (sin aguijón) en cafetales de Jinotega y corredores biológicos de Río San Juan, impulsando miel medicinal con denominación de origen.",
+      "noveltyReason": "Diferenciación radical: casi ningún equipo elige este reto; combina acústica de frecuencia espectral con bioprotección sin perturbar el panal.",
+      "winnerPattern": "El factor sorpresa en la deliberación del jurado genera puntuaciones máximas en 'Capacidad Creativa' (30 pts)."
+    },
+    {
+      "id": "04",
+      "title": "Revalorización y transformación de residuos de poda y biomasa vegetal urbana",
+      "category": "Innovación",
+      "ods": [
+        "ODS 12",
+        "ODS 11",
+        "ODS 13"
+      ],
+      "winRate": 88,
+      "compDensity": "Media (4 sedes)",
+      "precedent": "Kubo I+D (Argentina 2026) / Bioinnovatech (Costa Rica)",
+      "officialExpectation": "Evitar la quema indiscriminada de ramas y hojas en las ciudades mediante procesos de aprovechamiento energético o fertilizante.",
+      "wowProposal": "Horno comunitario que convierte los desechos del campo en abono negro (biochar), y aprovecha el calor que sobra para secar la cosecha. El abono se refuerza con microorganismos benéficos.",
+      "nicaraguaAdaptation": "Erradicación de quemas en vertederos municipales de León y Masaya, generando biochar para regenerar suelos volcánicos degradados.",
+      "noveltyReason": "Evita el transporte masivo de biomasa procesando en el propio punto de acopio con balance térmico autosuficiente.",
+      "winnerPattern": "Sustentabilidad ambiental con créditos de carbono simulados y métricas tangibles de retención de humedad en suelo."
+    },
+    {
+      "id": "05",
+      "title": "Reservorios pluviales y captación comunitaria de agua con microfiltración",
+      "category": "Innovación",
+      "ods": [
+        "ODS 6",
+        "ODS 11",
+        "ODS 12"
+      ],
+      "winRate": 86,
+      "compDensity": "Alta (8 sedes)",
+      "precedent": "Francisquitos (El Salvador 2026) / Sistema Captación UNI (2024)",
+      "officialExpectation": "Captar y almacenar agua pluvial en techos de escuelas o viviendas rurales garantizando calidad para consumo humano e higiene.",
+      "wowProposal": "Tanque de agua de lluvia con filtro natural de zeolita y cáscara de café, más una desinfección con luz solar. Agua limpia para la comunidad desde la primera lluvia.",
+      "nicaraguaAdaptation": "Escuelas públicas y comunidades del Corredor Seco nicaragüense (Madriz, Estelí, Nueva Segovia) garantizando 180 días de reserva escolar.",
+      "noveltyReason": "Filtro autóctono con subproductos de café nicaragüense y zeolita regional, abatiendo el costo del filtro comercial en un 78%.",
+      "winnerPattern": "Alineación estricta con indicadores de salud pública infantil y presupuesto de marcha inferior a $4,500 USD."
+    },
+    {
+      "id": "06",
+      "title": "Gestión y valorización de residuos plásticos en playas y ecosistemas costeros",
+      "category": "Impacto Social",
+      "ods": [
+        "ODS 14",
+        "ODS 12",
+        "ODS 11"
+      ],
+      "winRate": 78,
+      "compDensity": "Media (5 sedes)",
+      "precedent": "Recoplaya / Smat Warriors (URACCAN 2025)",
+      "officialExpectation": "Retirar redes de pesca fantasma y plásticos de un solo uso que amenazan la fauna marina en litorales costeros.",
+      "wowProposal": "Máquina pequeña que convierte botellas plásticas en hilo de impresión 3D: para fabricar artes de pesca que duran más y boyas de señalización para los pescadores.",
+      "nicaraguaAdaptation": "San Juan del Sur, Poneloya y comunidades de pescadores artesanales del Caribe nicaragüense (Bluefields / Bilwi).",
+      "noveltyReason": "Transformación de residuo in-situ en herramientas de trabajo marino sin intermediación industrial pesada.",
+      "winnerPattern": "Integración de cooperativas de pescadores y certificación de economía azul."
+    },
+    {
+      "id": "07",
+      "title": "Recolección y conversión de aceite vegetal doméstico usado en biocombustibles o jabón",
+      "category": "Impacto Social",
+      "ods": [
+        "ODS 12",
+        "ODS 6",
+        "ODS 7"
+      ],
+      "winRate": 82,
+      "compDensity": "Baja (3 sedes)",
+      "precedent": "Foodtech (FIUNI Paraguay 2026)",
+      "officialExpectation": "Evitar que el aceite de cocina contamine fuentes de agua dulce creando un modelo de reciclaje barrial con retorno tangible.",
+      "wowProposal": "Micro-planta de barrio que convierte el aceite usado de las frituras en jabón biodegradable, con un proceso de bajo consumo de energía. Menos aceite al desagüe, más jabón barato para todos.",
+      "nicaraguaAdaptation": "Comiderías populares del Mercado Oriental y fritangas tradicionales de Managua, canjeando aceite usado por jabón desengrasante institucional.",
+      "noveltyReason": "Reactor de cavitación que reduce el tiempo de reacción química de 4 horas a solo 18 minutos sin químicos peligrosos.",
+      "winnerPattern": "Aceptabilidad social masiva mediante incentivo directo al comerciante popular."
+    },
+    {
+      "id": "08",
+      "title": "Reducción de desperdicio de alimentos y logística de redistribución en mercados",
+      "category": "Impacto Social",
+      "ods": [
+        "ODS 2",
+        "ODS 12",
+        "ODS 1"
+      ],
+      "winRate": 85,
+      "compDensity": "Alta (7 sedes)",
+      "precedent": "Mexitech (UPEMOR 1° Int. 2024) / Catalizadores (Chile)",
+      "officialExpectation": "Conectar mermas de frutas y verduras frescas de mercados populares con comedores comunitarios antes de que se descompongan.",
+      "wowProposal": "Bolsa de alimentos comunitaria operada por mensajitos y WhatsApp sin gastar datos móviles: pides, te confirman y recoges. Enlazada con hornos solares que secan la fruta para que se conserve.",
+      "nicaraguaAdaptation": "Mercado Mayoreo y Mercado Huembes de Managua, salvando frutas perecederas para el programa de merienda escolar comunitaria.",
+      "noveltyReason": "Uso de deshidratadores solares directos para convertir el excedente no rescatado a tiempo en harina frutal rica en nutrientes.",
+      "winnerPattern": "Impacto social cuantificable en kilogramos de comida salvada por día y cero barrera tecnológica para las vivanderas."
+    },
+    {
+      "id": "09",
+      "title": "Sistemas modulares de refugio y energía de emergencia post-desastre climático",
+      "category": "Innovación",
+      "ods": [
+        "ODS 11",
+        "ODS 13",
+        "ODS 7"
+      ],
+      "winRate": 89,
+      "compDensity": "Baja (3 sedes)",
+      "precedent": "Hooke (Chile 2026) / The Bubbles (Paraguay)",
+      "officialExpectation": "Proveer albergue temporal digno y energía eléctrica mínima a familias damnificadas por huracanes o terremotos en menos de 24 horas.",
+      "wowProposal": "Casa de emergencia hexagonal que dos personas arman sin cemento en 45 minutos: paneles de caña brava tratada, techo con paneles solares y batería para luz y celulares.",
+      "nicaraguaAdaptation": "Triángulo Minero y Costa Caribe Norte ante embates recurrentes de huracanes categoría 4 y 5 (Iota, Eta, Julia), transportable en botes fluviales.",
+      "noveltyReason": "Montaje 100% sin herramientas mecánicas por la propia familia damnificada con autonomía energética inmediata.",
+      "winnerPattern": "Cumple la regla de oro: resuelve refugio + energía + dignidad humana en un solo activo de prefactibilidad."
+    }
+  ],
+  "ranking": [
+    {
+      "kw": "motores",
+      "score": 100,
+      "reasons": [
+        "Prototipable en la ventana 24/28 h con materiales de recuperador",
+        "Aprovecha desechos locales (+18 pts en matriz)",
+        "Anclaje territorial fuerte: cooperativas lecheras (+10)",
+        "Cubre 3 ODS (+10.5)",
+        "Precedente ganador: Avocado 2026 (1° Social Nacional) (+8)"
+      ]
+    },
+    {
+      "kw": "polinizadores",
+      "score": 100,
+      "reasons": [
+        "Prototipable en 24/28 h: colmenas con sensor + vivienda impresa",
+        "Recursos locales: meliponicultura de Nicaragua (+18)",
+        "Anclaje territorial agropecuario (+10)",
+        "Cubre ODS 15/2/13 (+10.5)",
+        "Precedente ganador: Ignis Code 2026 (1° Innovación Nac.) (+8)"
+      ]
+    },
+    {
+      "kw": "inundaciones",
+      "score": 84.5,
+      "reasons": [
+        "Nodos ultrasónicos + LoRaWAN son probados en la ventana",
+        "Recursos locales (+18) pero competencia histórica alta (-16)",
+        "Cubre ODS 11/13/3 (+10.5)",
+        "Precedente ganador: Techriders 2024 (1° Latam) (+8)"
+      ]
+    },
+    {
+      "kw": "agricultura vertical",
+      "score": 83.5,
+      "reasons": [
+        "Recursos y agua recuperada locales (+18)",
+        "Prototipable en la ventana (+14)",
+        "Cubre ODS 2/11/6 (+10.5)",
+        "Precedente ganador: STEM Synergy 2025 (+8)"
+      ]
+    },
+    {
+      "kw": "tetra pak",
+      "score": 64.5,
+      "reasons": [
+        "Convertir envases en muebles/aislantes es probado",
+        "Recursos locales (+18)",
+        "Rivalidad alta en reciclaje de empaques"
+      ]
+    }
+  ]
+}

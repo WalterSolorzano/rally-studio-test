@@ -1,0 +1,112 @@
+{
+ "video_id": "wq-vmAXOfNk",
+ "url": "https://youtu.be/wq-vmAXOfNk?si=w66ITvML3nDbMY0x",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECOINNOVADORES",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ECOINNOVADORES",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:37:19+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hola a todos, somos el grupo Ecoinnovadores de la Universidad Nacional Agraria en Nicaragua. En nuestro proyecto buscamos abordar varios problemas críticos relacionados con la gestión del agua en área agrícola. Uno de los principales desafíos es la proliferación de mosquito debido al agua estancada, lo cual presenta un rico significativo para la salud por enfermedades que estos insectos pueden transmitir. Otro problema que enfrentamos es la evaporización del agua recolectada en la zona agrícola. Además, la filtración del agua es un problema adicional ya que resulta en pérdidas de recursos que estamos tratando de conservar. También nos enfocamos en asegurar una cantidad suficiente de agua durante la época seca, especialmente en mi corredor seco, donde los agricultores enfrentan grandes dificultades para regar a sus cultivos lo que a su vez provoca aún más pérdida. Solucionismo ahora, uso de la gravedad. Utilizamos la inclinación de una curva para aprovechar la gravedad y permitir que el peso del agua tenga la fuerza suficiente para moverse a través de toda la área agrícola que cubrimos. De esta manera, evitamos la necesidad de utilizar una bomba de agua. Controle proliferación de mosquito. Entendemos que no podemos evitar completamente la presencia de mosquito cerca de nuestro microembalse, pero sí podemos prevenir la reproducción de sus huevos. Para ello utilizamos peces tilapia, que son naturalmente un nívoro y se alimentan de las larvas de mosquito. Traducción de la evaporización del agua. Para minimizar la evaporización del agua recolectada, plantamos árboles de mango que proporcionan un buen follaje y sombra, reduciendo así la evaporización y regulando la temperatura. Además, estos árboles nos ofrecen la ventaja de producir fruto. Impermedalización del suelo. Implementamos un biopolímero, fabricado a base de celulosa de las cáscaras de banano, para impermeabilizar el suelo. El uso de este biopolímero no solo es efectivo, sino que también aprovecha residuos de la finca y emplea materiales completamente orgánicos. En conclusión, nuestro proyecto es una estrategia efectiva para enfrentar el cambio climático, especialmente en la zona seca en Nicaragua, que es la más afectada.",
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 6.24,
+   "text": "Hola a todos, somos el grupo Ecoinnovadores de la Universidad Nacional Agraria en Nicaragua."
+  },
+  {
+   "start": 6.24,
+   "end": 13.24,
+   "text": "En nuestro proyecto buscamos abordar varios problemas críticos relacionados con la gestión del agua en área agrícola."
+  },
+  {
+   "start": 13.24,
+   "end": 24.24,
+   "text": "Uno de los principales desafíos es la proliferación de mosquito debido al agua estancada, lo cual presenta un rico significativo para la salud por enfermedades que estos insectos pueden transmitir."
+  },
+  {
+   "start": 24.24,
+   "end": 30.24,
+   "text": "Otro problema que enfrentamos es la evaporización del agua recolectada en la zona agrícola."
+  },
+  {
+   "start": 30.24,
+   "end": 38.24,
+   "text": "Además, la filtración del agua es un problema adicional ya que resulta en pérdidas de recursos que estamos tratando de conservar."
+  },
+  {
+   "start": 38.24,
+   "end": 45.24,
+   "text": "También nos enfocamos en asegurar una cantidad suficiente de agua durante la época seca, especialmente en mi corredor seco,"
+  },
+  {
+   "start": 45.24,
+   "end": 52.24,
+   "text": "donde los agricultores enfrentan grandes dificultades para regar a sus cultivos lo que a su vez provoca aún más pérdida."
+  },
+  {
+   "start": 52.24,
+   "end": 64.24,
+   "text": "Solucionismo ahora, uso de la gravedad. Utilizamos la inclinación de una curva para aprovechar la gravedad y permitir que el peso del agua tenga la fuerza suficiente para moverse a través de toda la área agrícola que cubrimos."
+  },
+  {
+   "start": 64.24,
+   "end": 68.24,
+   "text": "De esta manera, evitamos la necesidad de utilizar una bomba de agua."
+  },
+  {
+   "start": 68.24,
+   "end": 76.24,
+   "text": "Controle proliferación de mosquito. Entendemos que no podemos evitar completamente la presencia de mosquito cerca de nuestro microembalse,"
+  },
+  {
+   "start": 76.24,
+   "end": 85.24,
+   "text": "pero sí podemos prevenir la reproducción de sus huevos. Para ello utilizamos peces tilapia, que son naturalmente un nívoro y se alimentan de las larvas de mosquito."
+  },
+  {
+   "start": 85.24,
+   "end": 95.24,
+   "text": "Traducción de la evaporización del agua. Para minimizar la evaporización del agua recolectada, plantamos árboles de mango que proporcionan un buen follaje y sombra,"
+  },
+  {
+   "start": 95.24,
+   "end": 99.24,
+   "text": "reduciendo así la evaporización y regulando la temperatura."
+  },
+  {
+   "start": 99.24,
+   "end": 103.24,
+   "text": "Además, estos árboles nos ofrecen la ventaja de producir fruto."
+  },
+  {
+   "start": 103.24,
+   "end": 114.24,
+   "text": "Impermedalización del suelo. Implementamos un biopolímero, fabricado a base de celulosa de las cáscaras de banano, para impermeabilizar el suelo."
+  },
+  {
+   "start": 114.24,
+   "end": 123.24,
+   "text": "El uso de este biopolímero no solo es efectivo, sino que también aprovecha residuos de la finca y emplea materiales completamente orgánicos."
+  },
+  {
+   "start": 123.24,
+   "end": 134.24,
+   "text": "En conclusión, nuestro proyecto es una estrategia efectiva para enfrentar el cambio climático, especialmente en la zona seca en Nicaragua, que es la más afectada."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 134.1
+}

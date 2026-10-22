@@ -1,0 +1,132 @@
+{
+ "video_id": "KD1EPrxccjQ",
+ "url": "https://youtu.be/KD1EPrxccjQ?si=KwzuySeqsAGyAAy4",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECO-RESIDUOS VERDES",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ECO-RESIDUOS VERDES",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:15:31+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Nosotros somos ecoresivos verdes. En nuestra comunidad y en todo el mundo, la biomasa vegetal urbana no se gestiona bien. Se quema o se desecha en lugares no autorizados, generando un impacto negativo al medio ambiente. ¿Qué pasa esto? Por tres causas. Baja participación ciudadana, altos costos de clasificación y falta de centro ecológico especializado. Hoy les voy a presentar nuestro proyecto EcoCiclo 360, una propuesta ecológica que busca recolectar, clasificar y aprovechar los residuos de poda y biomasa vegetal para transformarlos en combustos y agun orgánicos, reduciendo así la contaminación de desecho y la quema de residuos. Nuestro proyecto está dirigido a la alcaldía, empresas de jardinería, centros educativos, familias y comunidades. Para llevarlo a cabo, proponemos utilizar una plataforma digital que facilite la comunicación y organización de la recolección, junto con recipientes etiquetados para clasificar los residuos. Proponemos implementar ecorecolectores o camiones ecológicos para especializados, similares a los camiones de basura convencionales, pero diseñados para recoger residuos de poda y biomasa vegetal. Estos vehículos contarán con tres compartimientos para separar los materiales según su tipo. De esta manera, los residuos podrán aprovecharse para producir compost, abono orgánico y otros recursos útiles. Estaremos capacitaciones y campañas de sensibilización ambiental para promover la correcta clasificación de los recursos y fomentar la participación de la ciudadanía. Cuantos los recursos económicos, estimamos una inversión inicial de 656.947 Córdoba, destinada principalmente a la creación y mantenimiento de la página web, la máquina trituradora y los recipientes etiquetados. En conclusión, Ecosiclo 360 busca convertir los residuos vegetales en recursos útiles, combinando tecnología, recolección especializada y participación comunitaria para contribuir al cuidado del medio ambiente y generar nuevas oportunidades económicas. Muchas gracias.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Nosotros somos ecoresivos verdes."
+  },
+  {
+   "start": 4.0,
+   "end": 9.5,
+   "text": "En nuestra comunidad y en todo el mundo, la biomasa vegetal urbana no se gestiona bien."
+  },
+  {
+   "start": 9.5,
+   "end": 17.5,
+   "text": "Se quema o se desecha en lugares no autorizados, generando un impacto negativo al medio ambiente."
+  },
+  {
+   "start": 17.5,
+   "end": 26.5,
+   "text": "¿Qué pasa esto? Por tres causas. Baja participación ciudadana, altos costos de clasificación y falta de centro ecológico especializado."
+  },
+  {
+   "start": 26.5,
+   "end": 36.0,
+   "text": "Hoy les voy a presentar nuestro proyecto EcoCiclo 360, una propuesta ecológica que busca recolectar, clasificar y aprovechar los residuos de poda y biomasa vegetal"
+  },
+  {
+   "start": 36.0,
+   "end": 42.0,
+   "text": "para transformarlos en combustos y agun orgánicos, reduciendo así la contaminación de desecho y la quema de residuos."
+  },
+  {
+   "start": 42.0,
+   "end": 48.5,
+   "text": "Nuestro proyecto está dirigido a la alcaldía, empresas de jardinería, centros educativos, familias y comunidades."
+  },
+  {
+   "start": 48.5,
+   "end": 54.5,
+   "text": "Para llevarlo a cabo, proponemos utilizar una plataforma digital que facilite la comunicación y organización de la recolección,"
+  },
+  {
+   "start": 54.5,
+   "end": 57.5,
+   "text": "junto con recipientes etiquetados para clasificar los residuos."
+  },
+  {
+   "start": 57.5,
+   "end": 62.5,
+   "text": "Proponemos implementar ecorecolectores o camiones ecológicos para especializados,"
+  },
+  {
+   "start": 62.5,
+   "end": 68.5,
+   "text": "similares a los camiones de basura convencionales, pero diseñados para recoger residuos de poda y biomasa vegetal."
+  },
+  {
+   "start": 68.5,
+   "end": 73.0,
+   "text": "Estos vehículos contarán con tres compartimientos para separar los materiales según su tipo."
+  },
+  {
+   "start": 73.0,
+   "end": 78.0,
+   "text": "De esta manera, los residuos podrán aprovecharse para producir compost, abono orgánico y otros recursos útiles."
+  },
+  {
+   "start": 78.0,
+   "end": 84.0,
+   "text": "Estaremos capacitaciones y campañas de sensibilización ambiental para promover la correcta clasificación de los recursos"
+  },
+  {
+   "start": 84.0,
+   "end": 87.0,
+   "text": "y fomentar la participación de la ciudadanía."
+  },
+  {
+   "start": 87.0,
+   "end": 94.0,
+   "text": "Cuantos los recursos económicos, estimamos una inversión inicial de 656.947 Córdoba,"
+  },
+  {
+   "start": 94.0,
+   "end": 102.0,
+   "text": "destinada principalmente a la creación y mantenimiento de la página web, la máquina trituradora y los recipientes etiquetados."
+  },
+  {
+   "start": 102.0,
+   "end": 108.0,
+   "text": "En conclusión, Ecosiclo 360 busca convertir los residuos vegetales en recursos útiles,"
+  },
+  {
+   "start": 108.0,
+   "end": 112.0,
+   "text": "combinando tecnología, recolección especializada y participación comunitaria"
+  },
+  {
+   "start": 112.0,
+   "end": 117.0,
+   "text": "para contribuir al cuidado del medio ambiente y generar nuevas oportunidades económicas."
+  },
+  {
+   "start": 117.0,
+   "end": 118.0,
+   "text": "Muchas gracias."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 117.5
+}

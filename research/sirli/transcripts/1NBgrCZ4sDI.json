@@ -1,0 +1,117 @@
+{
+ "video_id": "1NBgrCZ4sDI",
+ "url": "https://youtu.be/1NBgrCZ4sDI",
+ "year": 2019,
+ "collection": "internacional",
+ "country": "NICARAGUA",
+ "team": "LEXONIC",
+ "place_label": "TERCER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2019,
+   "collection": "internacional",
+   "place_label": "TERCER LUGAR",
+   "team": "LEXONIC",
+   "challenge": "08 - PARADAS DE AUTOBÚS SUSTENTABLE"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:08:03+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "En la actualidad, existen muchas formas para generar energía, pero la principal forma de adquirirla es a base de la quema de hidrocarburos y carbón. Estos son uno de los principales contaminantes ambientales que han causado efectos negativos para la humanidad. Adicional, la demanda de energía eléctrica en las grandes ciudades y zonas metropolitanas es elevada, y en su mayoría es suministrada por plantas de generación eléctrica altamente contaminantes. La necesidad de esta aumenta con gran rapidez en América Latina, debido al crecimiento de su población. Según proyecciones, el consumo de la electricidad aumentará en más de un 70% para el 2030. Durante la última década, se han tomado conciencia en la implementación de formas de generación de energía alterna y amigables con el ambiente. Opciones como la energía hidroeléctrica, eólica y marionetriz han empezado a suministrar energía a nuestros dispositivos y hogares. Con el objetivo de contribuir al bienestar del medio ambiente y reduciendo la demanda energética para las centrales convencionales, se crea LexoStop, una estación de autobuses autosustentable con sistema híbrido en generación de energía eólica y solar que brinda a los usuarios una experiencia de confort y seguridad. Nuestro sistema posee actualmente el más eficiente aerogenerador, una turbina que aprovecha las corrientes de viento producto del flujo vehicular. Asimismo, LexoStop posee un segundo suministro de energía eléctrica, dos paneles solares altamente eficientes enfocados en el techado, que en conjunto suministran energía a un banco de baterías que aseguran el correcto funcionamiento del sistema, incluso en los escenarios más difíciles que este pueda enfrentar. Esta propuesta es totalmente autónoma ya que provee de iluminación nocturna, bajo consumo haciendo uso de luminarias LED mediante sensores se desactivan automáticamente al detectar la luz solar. También posee tomas de corriente 120 voltios para suministrar energía a máquinas expendedoras, pantallas LED, puertos de carga USB para dispositivos móviles, entre otros. LexoStop tiene larga vida útil y requiere de un servicio de mantenimiento mínimo que puede ser cubierto por los ingresos generados por las áreas destinadas para el espacio publicitario. LexoStop cambia la experiencia de las antiguas estaciones de autobuses por un espacio seguro, informativo y de satisfactoria estadía mientras se espera su transporte urbano.",
+ "segments": [
+  {
+   "start": 15.44,
+   "end": 24.44,
+   "text": "En la actualidad, existen muchas formas para generar energía, pero la principal forma de adquirirla es a base de la quema de hidrocarburos y carbón."
+  },
+  {
+   "start": 24.44,
+   "end": 30.44,
+   "text": "Estos son uno de los principales contaminantes ambientales que han causado efectos negativos para la humanidad."
+  },
+  {
+   "start": 30.44,
+   "end": 37.44,
+   "text": "Adicional, la demanda de energía eléctrica en las grandes ciudades y zonas metropolitanas es elevada,"
+  },
+  {
+   "start": 37.44,
+   "end": 43.44,
+   "text": "y en su mayoría es suministrada por plantas de generación eléctrica altamente contaminantes."
+  },
+  {
+   "start": 43.44,
+   "end": 49.44,
+   "text": "La necesidad de esta aumenta con gran rapidez en América Latina, debido al crecimiento de su población."
+  },
+  {
+   "start": 49.44,
+   "end": 56.44,
+   "text": "Según proyecciones, el consumo de la electricidad aumentará en más de un 70% para el 2030."
+  },
+  {
+   "start": 56.44,
+   "end": 64.44,
+   "text": "Durante la última década, se han tomado conciencia en la implementación de formas de generación de energía alterna y amigables con el ambiente."
+  },
+  {
+   "start": 64.44,
+   "end": 72.44,
+   "text": "Opciones como la energía hidroeléctrica, eólica y marionetriz han empezado a suministrar energía a nuestros dispositivos y hogares."
+  },
+  {
+   "start": 72.44,
+   "end": 82.44,
+   "text": "Con el objetivo de contribuir al bienestar del medio ambiente y reduciendo la demanda energética para las centrales convencionales, se crea LexoStop,"
+  },
+  {
+   "start": 82.44,
+   "end": 93.44,
+   "text": "una estación de autobuses autosustentable con sistema híbrido en generación de energía eólica y solar que brinda a los usuarios una experiencia de confort y seguridad."
+  },
+  {
+   "start": 93.44,
+   "end": 101.44,
+   "text": "Nuestro sistema posee actualmente el más eficiente aerogenerador, una turbina que aprovecha las corrientes de viento producto del flujo vehicular."
+  },
+  {
+   "start": 101.44,
+   "end": 110.44,
+   "text": "Asimismo, LexoStop posee un segundo suministro de energía eléctrica, dos paneles solares altamente eficientes enfocados en el techado,"
+  },
+  {
+   "start": 110.44,
+   "end": 118.44,
+   "text": "que en conjunto suministran energía a un banco de baterías que aseguran el correcto funcionamiento del sistema,"
+  },
+  {
+   "start": 118.44,
+   "end": 123.44,
+   "text": "incluso en los escenarios más difíciles que este pueda enfrentar."
+  },
+  {
+   "start": 123.44,
+   "end": 137.44,
+   "text": "Esta propuesta es totalmente autónoma ya que provee de iluminación nocturna, bajo consumo haciendo uso de luminarias LED mediante sensores se desactivan automáticamente al detectar la luz solar."
+  },
+  {
+   "start": 137.44,
+   "end": 149.44,
+   "text": "También posee tomas de corriente 120 voltios para suministrar energía a máquinas expendedoras, pantallas LED, puertos de carga USB para dispositivos móviles, entre otros."
+  },
+  {
+   "start": 149.44,
+   "end": 160.44,
+   "text": "LexoStop tiene larga vida útil y requiere de un servicio de mantenimiento mínimo que puede ser cubierto por los ingresos generados por las áreas destinadas para el espacio publicitario."
+  },
+  {
+   "start": 160.44,
+   "end": 172.44,
+   "text": "LexoStop cambia la experiencia de las antiguas estaciones de autobuses por un espacio seguro, informativo y de satisfactoria estadía mientras se espera su transporte urbano."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 177.4
+}

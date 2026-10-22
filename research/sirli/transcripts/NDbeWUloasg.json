@@ -1,0 +1,167 @@
+{
+ "video_id": "NDbeWUloasg",
+ "url": "https://youtu.be/NDbeWUloasg",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ORGULLO NICA",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ORGULLO NICA",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:59:03+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Proyecto costa alerta. Desafío 9. Optimización y priorización de recursos en la pos emergencia. El problema. Tras desastres naturales en zonas rurales como el RAMA, la información llega dispersa o colapsa por la falta de señal. Con recursos limitados, el ComoPred y CinaPred sufren para decidir a qué comunidad atender primero. La solución costa alerta. Plataforma online first que recopila y prioriza reportes en tiempo real mediante un algoritmo ponderado, heridos a aislamiento y rutas. Clasifica las emergencias en un mapa semafórico. Si no hay internet, guardalo datos localmente y lo transmite por sí o redes mesos. Differenciación e innovación. Sustituye el papel y los chat desorganizados por una matriz matemática que cruza la necesidad real con el inventario disponible. Impacto y viabilidad. Salva vidas optimizando la atención médica. Utiliza tecnología de código abierto en smartphone comunes y reduce el consumo de combustible y papel. Propuestas descartadas. Se descartaron drones costosos y frágiles ante el mal tiempo. Sistemas 5% satelitales inaccesibles y bots de redes sociales. Datos no verificados. Con costa alerta transformamos la incertidumbre en decisiones rápidas que salvan vidas. Somos el equipo orgullónica desde UML El Rama para toda Nicaragua.",
+ "segments": [
+  {
+   "start": 0.4,
+   "end": 3.1,
+   "text": "Proyecto costa alerta."
+  },
+  {
+   "start": 3.1,
+   "end": 4.7,
+   "text": "Desafío 9."
+  },
+  {
+   "start": 4.7,
+   "end": 10.1,
+   "text": "Optimización y priorización de recursos en la pos emergencia."
+  },
+  {
+   "start": 10.1,
+   "end": 11.7,
+   "text": "El problema."
+  },
+  {
+   "start": 11.7,
+   "end": 15.6,
+   "text": "Tras desastres naturales en zonas rurales como el RAMA,"
+  },
+  {
+   "start": 15.6,
+   "end": 20.6,
+   "text": "la información llega dispersa o colapsa por la falta de señal."
+  },
+  {
+   "start": 20.6,
+   "end": 24.2,
+   "text": "Con recursos limitados, el ComoPred y CinaPred"
+  },
+  {
+   "start": 24.2,
+   "end": 28.9,
+   "text": "sufren para decidir a qué comunidad atender primero."
+  },
+  {
+   "start": 29.0,
+   "end": 31.8,
+   "text": "La solución costa alerta."
+  },
+  {
+   "start": 31.8,
+   "end": 38.1,
+   "text": "Plataforma online first que recopila y prioriza reportes en tiempo real"
+  },
+  {
+   "start": 38.1,
+   "end": 43.9,
+   "text": "mediante un algoritmo ponderado, heridos a aislamiento y rutas."
+  },
+  {
+   "start": 43.9,
+   "end": 47.9,
+   "text": "Clasifica las emergencias en un mapa semafórico."
+  },
+  {
+   "start": 47.9,
+   "end": 51.7,
+   "text": "Si no hay internet, guardalo datos localmente"
+  },
+  {
+   "start": 51.7,
+   "end": 55.1,
+   "text": "y lo transmite por sí o redes mesos."
+  },
+  {
+   "start": 55.1,
+   "end": 57.9,
+   "text": "Differenciación e innovación."
+  },
+  {
+   "start": 57.9,
+   "end": 63.9,
+   "text": "Sustituye el papel y los chat desorganizados por una matriz matemática"
+  },
+  {
+   "start": 63.9,
+   "end": 68.5,
+   "text": "que cruza la necesidad real con el inventario disponible."
+  },
+  {
+   "start": 68.5,
+   "end": 71.0,
+   "text": "Impacto y viabilidad."
+  },
+  {
+   "start": 71.0,
+   "end": 74.7,
+   "text": "Salva vidas optimizando la atención médica."
+  },
+  {
+   "start": 74.7,
+   "end": 79.7,
+   "text": "Utiliza tecnología de código abierto en smartphone comunes"
+  },
+  {
+   "start": 79.7,
+   "end": 83.7,
+   "text": "y reduce el consumo de combustible y papel."
+  },
+  {
+   "start": 83.7,
+   "end": 85.8,
+   "text": "Propuestas descartadas."
+  },
+  {
+   "start": 85.8,
+   "end": 91.5,
+   "text": "Se descartaron drones costosos y frágiles ante el mal tiempo."
+  },
+  {
+   "start": 91.5,
+   "end": 97.9,
+   "text": "Sistemas 5% satelitales inaccesibles y bots de redes sociales."
+  },
+  {
+   "start": 97.9,
+   "end": 100.2,
+   "text": "Datos no verificados."
+  },
+  {
+   "start": 100.2,
+   "end": 103.6,
+   "text": "Con costa alerta transformamos la incertidumbre"
+  },
+  {
+   "start": 103.6,
+   "end": 107.0,
+   "text": "en decisiones rápidas que salvan vidas."
+  },
+  {
+   "start": 107.0,
+   "end": 112.7,
+   "text": "Somos el equipo orgullónica desde UML El Rama para toda Nicaragua."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.5
+}

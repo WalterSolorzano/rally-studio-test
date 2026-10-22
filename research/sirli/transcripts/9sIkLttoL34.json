@@ -1,0 +1,82 @@
+{
+ "video_id": "9sIkLttoL34",
+ "url": "https://youtu.be/9sIkLttoL34?si=tBOjNtUKC4JlSXCY",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECOAVOLAB",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ECOAVOLAB",
+   "challenge": "04 - AGUACATE"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:50:15+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Podemos observar que los seres humanos no valoramos los elementos del aguacate. Esto representa una gran problemática. De hecho, sabías que se puede hacer algo más con los residuos del aguacate. En EcoAvolab tenemos una solución accesible y de bajo coste, mejorando la calidad de vida con lo que antes se desechaba. Se ha desarrollado Dent's Avocado, un biomaterial a base de la cascara de aguacate utilizada en ontología para la regeneración o ser ingertos centrales. Luego de procedimientos quirúrgicos. La cascara de aguacate es rica en linina, un polímero que proporciona estructura y rigidez similar a la del hueso, que puede reducir la inflamación y promover la cicatrización. Finalmente, se preparan andamios porosos mezclando linina con polimeros biocompatibles, como ácido poliláctico y porógenos para crear porosidad necesaria, adaptándolos a las formas requeridas para ingertos dentales. Esta solución no solo revoluciona el tratamiento médico, sino que también aborda una problemática industrial, transformando los materiales agroindustriales en biodegradables. Así podemos ayudar a una economía circular. Somos EcoAvolab, trabajando por una meta.",
+ "segments": [
+  {
+   "start": 1.49,
+   "end": 6.37,
+   "text": "Podemos observar que los seres humanos no valoramos los elementos del aguacate."
+  },
+  {
+   "start": 6.37,
+   "end": 12.29,
+   "text": "Esto representa una gran problemática. De hecho, sabías que se puede hacer algo más con los residuos del aguacate."
+  },
+  {
+   "start": 12.29,
+   "end": 20.09,
+   "text": "En EcoAvolab tenemos una solución accesible y de bajo coste, mejorando la calidad de vida con lo que antes se desechaba."
+  },
+  {
+   "start": 20.09,
+   "end": 30.97,
+   "text": "Se ha desarrollado Dent's Avocado, un biomaterial a base de la cascara de aguacate utilizada en ontología para la regeneración o ser ingertos centrales."
+  },
+  {
+   "start": 30.97,
+   "end": 33.73,
+   "text": "Luego de procedimientos quirúrgicos."
+  },
+  {
+   "start": 33.73,
+   "end": 45.09,
+   "text": "La cascara de aguacate es rica en linina, un polímero que proporciona estructura y rigidez similar a la del hueso, que puede reducir la inflamación y promover la cicatrización."
+  },
+  {
+   "start": 45.09,
+   "end": 56.85,
+   "text": "Finalmente, se preparan andamios porosos mezclando linina con polimeros biocompatibles, como ácido poliláctico y porógenos para crear porosidad necesaria,"
+  },
+  {
+   "start": 56.85,
+   "end": 61.13,
+   "text": "adaptándolos a las formas requeridas para ingertos dentales."
+  },
+  {
+   "start": 61.13,
+   "end": 71.53,
+   "text": "Esta solución no solo revoluciona el tratamiento médico, sino que también aborda una problemática industrial, transformando los materiales agroindustriales en biodegradables."
+  },
+  {
+   "start": 71.53,
+   "end": 75.17,
+   "text": "Así podemos ayudar a una economía circular."
+  },
+  {
+   "start": 75.17,
+   "end": 79.01,
+   "text": "Somos EcoAvolab, trabajando por una meta."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 82.5
+}

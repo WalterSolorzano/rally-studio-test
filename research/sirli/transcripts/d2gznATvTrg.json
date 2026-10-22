@@ -1,0 +1,102 @@
+{
+ "video_id": "d2gznATvTrg",
+ "url": "https://youtu.be/d2gznATvTrg",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "FENIX 4.0",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "FENIX 4.0",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:17:21+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada año los desastres naturales afectan a miles de personas y ni que hará agua. Y si existiera una forma de recibir alertas instantáneas que pudieran salvar tu vida, Bonao es una aplicación móvil que utiliza el sistema Cell Broadcast, la misma tecnología que emplean los gobiernos para alertas de emergencia nacional. A diferencia de un SMS normal, Cell Broadcast envía un mensaje simultáneamente a todos los dispositivos en una zona geográfica sin congestionar las redes, incluso cuando hay una sobrecarga de llamadas. Esto significa que recibirás la alerta aunque no tenga datos móviles o tu línea esté congestionada. Tu teléfono vibrará fuertemente y sonará un alarme especial, incluso si está en silencio. El mensaje mostrará claramente el tipo de emergencia, su ubicación y la acción inmediatas a tomar. Bonao integra esta tecnología con sensores de monitoreo ambiental, sirenas comunitarias con paneles solares, capacitación local y señalización. Con una inversión total de $7,500 implementamos un sistema completo que protege comunidades enteras mediante tecnología confiable y sostenible. Bonao es gratuito para los usuarios y trabaja junto con SinaPret e INETER garantizando que las alertas sean oficiales y confiables. Bonao, tecnología que salva vidas donde sea que estés.",
+ "segments": [
+  {
+   "start": 2.74,
+   "end": 7.38,
+   "text": "Cada año los desastres naturales afectan a miles de personas y ni que hará agua."
+  },
+  {
+   "start": 7.38,
+   "end": 12.18,
+   "text": "Y si existiera una forma de recibir alertas instantáneas que pudieran salvar tu vida,"
+  },
+  {
+   "start": 12.18,
+   "end": 18.74,
+   "text": "Bonao es una aplicación móvil que utiliza el sistema Cell Broadcast,"
+  },
+  {
+   "start": 18.74,
+   "end": 23.18,
+   "text": "la misma tecnología que emplean los gobiernos para alertas de emergencia nacional."
+  },
+  {
+   "start": 23.18,
+   "end": 30.1,
+   "text": "A diferencia de un SMS normal, Cell Broadcast envía un mensaje simultáneamente a todos"
+  },
+  {
+   "start": 30.1,
+   "end": 33.54,
+   "text": "los dispositivos en una zona geográfica sin congestionar las redes,"
+  },
+  {
+   "start": 33.54,
+   "end": 41.46,
+   "text": "incluso cuando hay una sobrecarga de llamadas. Esto significa que recibirás la alerta aunque"
+  },
+  {
+   "start": 41.46,
+   "end": 47.94,
+   "text": "no tenga datos móviles o tu línea esté congestionada. Tu teléfono vibrará fuertemente y sonará un"
+  },
+  {
+   "start": 47.94,
+   "end": 55.66,
+   "text": "alarme especial, incluso si está en silencio. El mensaje mostrará claramente el tipo de emergencia,"
+  },
+  {
+   "start": 55.66,
+   "end": 63.98,
+   "text": "su ubicación y la acción inmediatas a tomar. Bonao integra esta tecnología con sensores de"
+  },
+  {
+   "start": 63.98,
+   "end": 71.42,
+   "text": "monitoreo ambiental, sirenas comunitarias con paneles solares, capacitación local y señalización."
+  },
+  {
+   "start": 73.18,
+   "end": 80.58,
+   "text": "Con una inversión total de $7,500 implementamos un sistema completo que protege comunidades"
+  },
+  {
+   "start": 80.58,
+   "end": 89.22,
+   "text": "enteras mediante tecnología confiable y sostenible. Bonao es gratuito para los usuarios y trabaja"
+  },
+  {
+   "start": 89.22,
+   "end": 95.18,
+   "text": "junto con SinaPret e INETER garantizando que las alertas sean oficiales y confiables."
+  },
+  {
+   "start": 95.18,
+   "end": 100.38,
+   "text": "Bonao, tecnología que salva vidas donde sea que estés."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 101.4
+}

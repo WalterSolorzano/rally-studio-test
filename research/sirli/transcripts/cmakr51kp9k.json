@@ -1,0 +1,237 @@
+{
+ "video_id": "cmakr51kp9k",
+ "url": "https://youtu.be/cmakr51kp9k?si=rMm26IokGhB73xxu",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ITZAE",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ITZAE",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:35:20+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Si te dijéramos que un celular olvidado en un cajón podría convertirse en una herramienta para salvar vidas. Así es, la tecnología que dejamos de utilizar te vea tiene un enorme potencial y nosotros decidimos aprovecharlo. En Nicaragua, comunidades de Ginotega, Matagalpa, Madrid y Nueva Segovia enfrentan riesgos de deslizamiento debido a lluvia intensa, disporización y terreno inestable. Sin embargo, el verdadero problema es que muchas comunidades carecen de sistemas accesibles para monitorear el terreno y recibir alerta o costuna. Mientras tanto, celulares funcionales terminan abandonado o convertido en residuos electrónicos. Por eso creamos Centirec, una propuesta que transforma más celulares en desuso en estaciones inteligentes de monitoreo. Utilizamos sus sensores de movimiento y orientación para ejecutar camis en una ladera. Dos celulares monitorean el terreno y un tercero funciona como referencia. La información llega a un celular central que analice los datos y puede generar alertas por mensajes SMS, sin depender de internet. Y esto no se queda solamente en una idea. Ya contamos con un prototipo funcional. Veamos cómo trabaja. Sismo, protégete ahora. Alertas activadas. Hace diferente. Nuestra innovación combina celulares reutilizados, monitoreo de laderas y alertas comunitarias en una solución accesible, cambiable y diseñada para funcionar con energía solar. Porque innovar no siempre significa inventar algo nuevo, sino encontrar nuevas soluciones con lo que ya tenemos. Centirec, formando tecnología olvidada en oportunidades para salvar vidas.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.9,
+   "text": "Si te dijéramos que un celular olvidado en un cajón"
+  },
+  {
+   "start": 2.9,
+   "end": 5.9,
+   "text": "podría convertirse en una herramienta para salvar vidas."
+  },
+  {
+   "start": 5.9,
+   "end": 9.2,
+   "text": "Así es, la tecnología que dejamos de utilizar"
+  },
+  {
+   "start": 9.2,
+   "end": 11.3,
+   "text": "te vea tiene un enorme potencial"
+  },
+  {
+   "start": 11.3,
+   "end": 13.6,
+   "text": "y nosotros decidimos aprovecharlo."
+  },
+  {
+   "start": 14.9,
+   "end": 17.4,
+   "text": "En Nicaragua, comunidades de Ginotega,"
+  },
+  {
+   "start": 17.4,
+   "end": 19.9,
+   "text": "Matagalpa, Madrid y Nueva Segovia"
+  },
+  {
+   "start": 19.9,
+   "end": 21.8,
+   "text": "enfrentan riesgos de deslizamiento"
+  },
+  {
+   "start": 21.8,
+   "end": 23.5,
+   "text": "debido a lluvia intensa,"
+  },
+  {
+   "start": 23.5,
+   "end": 25.7,
+   "text": "disporización y terreno inestable."
+  },
+  {
+   "start": 26.9,
+   "end": 28.9,
+   "text": "Sin embargo, el verdadero problema"
+  },
+  {
+   "start": 28.9,
+   "end": 32.3,
+   "text": "es que muchas comunidades carecen de sistemas accesibles"
+  },
+  {
+   "start": 32.3,
+   "end": 34.0,
+   "text": "para monitorear el terreno"
+  },
+  {
+   "start": 34.0,
+   "end": 36.0,
+   "text": "y recibir alerta o costuna."
+  },
+  {
+   "start": 36.0,
+   "end": 38.7,
+   "text": "Mientras tanto, celulares funcionales"
+  },
+  {
+   "start": 38.7,
+   "end": 42.0,
+   "text": "terminan abandonado o convertido en residuos electrónicos."
+  },
+  {
+   "start": 42.7,
+   "end": 44.4,
+   "text": "Por eso creamos Centirec,"
+  },
+  {
+   "start": 44.4,
+   "end": 46.4,
+   "text": "una propuesta que transforma más celulares"
+  },
+  {
+   "start": 46.4,
+   "end": 49.2,
+   "text": "en desuso en estaciones inteligentes de monitoreo."
+  },
+  {
+   "start": 50.6,
+   "end": 53.3,
+   "text": "Utilizamos sus sensores de movimiento"
+  },
+  {
+   "start": 53.3,
+   "end": 56.1,
+   "text": "y orientación para ejecutar camis en una ladera."
+  },
+  {
+   "start": 56.7,
+   "end": 59.2,
+   "text": "Dos celulares monitorean el terreno"
+  },
+  {
+   "start": 59.2,
+   "end": 61.7,
+   "text": "y un tercero funciona como referencia."
+  },
+  {
+   "start": 63.3,
+   "end": 65.7,
+   "text": "La información llega a un celular central"
+  },
+  {
+   "start": 65.7,
+   "end": 68.2,
+   "text": "que analice los datos y puede generar alertas"
+  },
+  {
+   "start": 68.2,
+   "end": 69.8,
+   "text": "por mensajes SMS,"
+  },
+  {
+   "start": 69.8,
+   "end": 71.4,
+   "text": "sin depender de internet."
+  },
+  {
+   "start": 72.3,
+   "end": 74.5,
+   "text": "Y esto no se queda solamente en una idea."
+  },
+  {
+   "start": 74.8,
+   "end": 77.1,
+   "text": "Ya contamos con un prototipo funcional."
+  },
+  {
+   "start": 77.3,
+   "end": 78.9,
+   "text": "Veamos cómo trabaja."
+  },
+  {
+   "start": 88.71,
+   "end": 90.81,
+   "text": "Sismo, protégete ahora."
+  },
+  {
+   "start": 99.02,
+   "end": 100.62,
+   "text": "Alertas activadas."
+  },
+  {
+   "start": 100.82,
+   "end": 129.35,
+   "text": "Hace diferente."
+  },
+  {
+   "start": 129.55,
+   "end": 132.95,
+   "text": "Nuestra innovación combina celulares reutilizados,"
+  },
+  {
+   "start": 132.95,
+   "end": 136.05,
+   "text": "monitoreo de laderas y alertas comunitarias"
+  },
+  {
+   "start": 136.05,
+   "end": 137.95,
+   "text": "en una solución accesible,"
+  },
+  {
+   "start": 137.95,
+   "end": 141.65,
+   "text": "cambiable y diseñada para funcionar con energía solar."
+  },
+  {
+   "start": 144.17,
+   "end": 146.87,
+   "text": "Porque innovar no siempre significa inventar algo nuevo,"
+  },
+  {
+   "start": 146.87,
+   "end": 149.87,
+   "text": "sino encontrar nuevas soluciones con lo que ya tenemos."
+  },
+  {
+   "start": 150.07,
+   "end": 150.97,
+   "text": "Centirec,"
+  },
+  {
+   "start": 150.97,
+   "end": 152.77,
+   "text": "formando tecnología olvidada"
+  },
+  {
+   "start": 152.77,
+   "end": 154.97,
+   "text": "en oportunidades para salvar vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 159.9
+}

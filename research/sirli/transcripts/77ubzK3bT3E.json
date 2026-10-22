@@ -1,0 +1,82 @@
+{
+ "video_id": "77ubzK3bT3E",
+ "url": "https://youtu.be/77ubzK3bT3E",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SUPERCREATORSUML2024",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "SUPERCREATORSUML2024",
+   "challenge": "07 - PARQUÍMETRO DESATENDIDO"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:10:32+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el grupo SuperCreator y vamos a hablar de una solución rápida y sencilla para el mejor estacionamiento urbano. La creciente congestión vehicular y la falta de una gestión eficiente en los estacionamientos se ha convertido en un problema cada vez más urgente en nuestras ciudades. La ausencia de un sistema automatizado genera caos, falta de señalización clara, vehículos mal estacionados y largos tiempos de espera. Pero, ¿qué pasaría si pudiéramos resolver esto con tecnología? Presentamos los estacionamientos inteligentes. Nuestra solución utiliza sensores y cámaras de reconocimiento de matrículas que optimizan el uso del espacio, mientras que un agmóvil facilita el pago y la reserva de plazas de estacionamiento en tiempo real. Con este sistema automatizado, los conductores podrán reservar su lugar, evitar filas y reducir el tiempo de búsqueda de espacios, mejorando la eficiencia y la seguridad. Además, la digitalización del sistema reduce el uso del papel, disminuye los errores y fraudes y aporta un futuro más sostenible y consciente con el medio ambiente. Los estacionamientos inteligentes no sólo facilitan la vida de los conductores, sino que también mejoran la movilidad urbana y la seguridad para todos. Estacionamientos inteligentes, la solución innovadora para un futuro más eficiente, seguro y sostenible.",
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 7.24,
+   "text": "Somos el grupo SuperCreator y vamos a hablar de una solución rápida y sencilla para el mejor estacionamiento urbano."
+  },
+  {
+   "start": 7.24,
+   "end": 18.24,
+   "text": "La creciente congestión vehicular y la falta de una gestión eficiente en los estacionamientos se ha convertido en un problema cada vez más urgente en nuestras ciudades."
+  },
+  {
+   "start": 18.24,
+   "end": 27.24,
+   "text": "La ausencia de un sistema automatizado genera caos, falta de señalización clara, vehículos mal estacionados y largos tiempos de espera."
+  },
+  {
+   "start": 27.24,
+   "end": 31.24,
+   "text": "Pero, ¿qué pasaría si pudiéramos resolver esto con tecnología?"
+  },
+  {
+   "start": 31.24,
+   "end": 42.24,
+   "text": "Presentamos los estacionamientos inteligentes. Nuestra solución utiliza sensores y cámaras de reconocimiento de matrículas que optimizan el uso del espacio,"
+  },
+  {
+   "start": 42.24,
+   "end": 49.24,
+   "text": "mientras que un agmóvil facilita el pago y la reserva de plazas de estacionamiento en tiempo real."
+  },
+  {
+   "start": 49.24,
+   "end": 57.24,
+   "text": "Con este sistema automatizado, los conductores podrán reservar su lugar, evitar filas y reducir el tiempo de búsqueda de espacios,"
+  },
+  {
+   "start": 57.24,
+   "end": 61.24,
+   "text": "mejorando la eficiencia y la seguridad."
+  },
+  {
+   "start": 61.24,
+   "end": 72.24,
+   "text": "Además, la digitalización del sistema reduce el uso del papel, disminuye los errores y fraudes y aporta un futuro más sostenible y consciente con el medio ambiente."
+  },
+  {
+   "start": 72.24,
+   "end": 81.24,
+   "text": "Los estacionamientos inteligentes no sólo facilitan la vida de los conductores, sino que también mejoran la movilidad urbana y la seguridad para todos."
+  },
+  {
+   "start": 81.24,
+   "end": 91.24,
+   "text": "Estacionamientos inteligentes, la solución innovadora para un futuro más eficiente, seguro y sostenible."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 92.4
+}

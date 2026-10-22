@@ -1,0 +1,92 @@
+{
+ "video_id": "45qpJio5plU",
+ "url": "https://youtu.be/45qpJio5plU",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NICA.BYTE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NICA.BYTE",
+   "challenge": "01 - SEGUNDA VIDA DE LOS MOTORES ELÉCTRICOS DOMÉSTICOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:51:32+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que un motor eléctrico considerado basura puede tener una segunda vida y convertirse en una solución para quienes más lo necesitan? Cada día lavadoras, licuadoras y otro eléctromesco son desechados, aunque sus motores y componentes todavía pueden aprovecharse. Mientras tanto, muchas comunidades rivales enfrentan dificultades para acceder al agua y la electricidad. Somos Nika Bay y presentamos Remotor, una segunda vida para los motores, una nueva oportunidad para las personas. Nuestra propuesta consiste en recolectar motores domésticos en desuso, clasificarlos y recuperar aquellos que no tienen potencial. Y nuestro taller pasarán por procesos de desmontaje, limpieza, reparación y evaluación técnica. Posteriormente lo adaptaremos con componentes prefabricados para crear soluciones útiles. También desarrollaremos prototipos de generación eléctrica a pequeños calos, aprovechando la fuerza del viento mediante hélices y el movimiento del agua mediante turbina y draucas. Cada transformación dependerá de la compatibilidad y las pruebas técnicas de los motores, pero Remotor no solo busca transformar máquinas, también busca transformar vidas. Pero ponemos integrar a personas privadas de libertad de bajo riesgo mediante programas autorizados de capacitación y trabajo digno, voluntario, remoderado y supervisado. Con Remotor buscamos reducir residuos electrónicos, disminuir costo y llevar soluciones sostenibles a comunidades vulnerables, porque lo que muchos consideran basura para nosotros representa energía, agua, aprendizaje y esperanza. No se trata solamente de reciclar sino de convertir un problema ambiental en una oportunidad tecnológica y social. Somos NicaPy, somos Remotor.",
+ "segments": [
+  {
+   "start": 0.27,
+   "end": 9.27,
+   "text": "¿Sabías que un motor eléctrico considerado basura puede tener una segunda vida y convertirse en una solución para quienes más lo necesitan?"
+  },
+  {
+   "start": 9.27,
+   "end": 18.27,
+   "text": "Cada día lavadoras, licuadoras y otro eléctromesco son desechados, aunque sus motores y componentes todavía pueden aprovecharse."
+  },
+  {
+   "start": 18.27,
+   "end": 25.27,
+   "text": "Mientras tanto, muchas comunidades rivales enfrentan dificultades para acceder al agua y la electricidad."
+  },
+  {
+   "start": 25.27,
+   "end": 33.27,
+   "text": "Somos Nika Bay y presentamos Remotor, una segunda vida para los motores, una nueva oportunidad para las personas."
+  },
+  {
+   "start": 33.27,
+   "end": 41.27,
+   "text": "Nuestra propuesta consiste en recolectar motores domésticos en desuso, clasificarlos y recuperar aquellos que no tienen potencial."
+  },
+  {
+   "start": 41.27,
+   "end": 47.27,
+   "text": "Y nuestro taller pasarán por procesos de desmontaje, limpieza, reparación y evaluación técnica."
+  },
+  {
+   "start": 47.27,
+   "end": 54.27,
+   "text": "Posteriormente lo adaptaremos con componentes prefabricados para crear soluciones útiles."
+  },
+  {
+   "start": 54.27,
+   "end": 67.27,
+   "text": "También desarrollaremos prototipos de generación eléctrica a pequeños calos, aprovechando la fuerza del viento mediante hélices y el movimiento del agua mediante turbina y draucas."
+  },
+  {
+   "start": 67.27,
+   "end": 79.27,
+   "text": "Cada transformación dependerá de la compatibilidad y las pruebas técnicas de los motores, pero Remotor no solo busca transformar máquinas, también busca transformar vidas."
+  },
+  {
+   "start": 79.27,
+   "end": 90.27,
+   "text": "Pero ponemos integrar a personas privadas de libertad de bajo riesgo mediante programas autorizados de capacitación y trabajo digno, voluntario, remoderado y supervisado."
+  },
+  {
+   "start": 90.27,
+   "end": 106.27,
+   "text": "Con Remotor buscamos reducir residuos electrónicos, disminuir costo y llevar soluciones sostenibles a comunidades vulnerables, porque lo que muchos consideran basura para nosotros representa energía, agua, aprendizaje y esperanza."
+  },
+  {
+   "start": 106.27,
+   "end": 112.27,
+   "text": "No se trata solamente de reciclar sino de convertir un problema ambiental en una oportunidad tecnológica y social."
+  },
+  {
+   "start": 112.27,
+   "end": 115.27,
+   "text": "Somos NicaPy, somos Remotor."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.1
+}

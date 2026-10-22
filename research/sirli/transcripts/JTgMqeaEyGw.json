@@ -1,0 +1,62 @@
+{
+ "video_id": "JTgMqeaEyGw",
+ "url": "https://youtu.be/JTgMqeaEyGw",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "WINAMBA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "WINAMBA",
+   "challenge": "01 - INCLUSIÓN LABORAL DE PERSONAS DEL ESPECTRO AUTISTA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:13:58+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La inserción laboral de personas identificadas con trastorno del espectro autista TEA es un problema que genera exclusión social de talentos humanos que disponen de cualidades específicas. Entre las causas de la exclusión laboral de personas diagnosticadas con TEA se destaca la creación de políticas públicas que centralicen la búsqueda de condiciones con derechos plenos y accesibles. Aceptación por parte de la sociedad, falta de conocimiento, divulgación y centro especializado de formación profesional. Después de considerar que las personas con TEA gozan de actitudes y actitudes óptimas para desarrollarse laboralmente, conforme con las condiciones laborales facilitadas, es imperativo crear un...",
+ "segments": [
+  {
+   "start": 0.05,
+   "end": 7.05,
+   "text": "La inserción laboral de personas identificadas con trastorno del espectro autista TEA es un problema que genera"
+  },
+  {
+   "start": 7.05,
+   "end": 11.05,
+   "text": "exclusión social de talentos humanos que disponen de cualidades específicas."
+  },
+  {
+   "start": 12.05,
+   "end": 18.05,
+   "text": "Entre las causas de la exclusión laboral de personas diagnosticadas con TEA se destaca la creación de políticas públicas"
+  },
+  {
+   "start": 18.05,
+   "end": 23.05,
+   "text": "que centralicen la búsqueda de condiciones con derechos plenos y accesibles."
+  },
+  {
+   "start": 23.05,
+   "end": 30.05,
+   "text": "Aceptación por parte de la sociedad, falta de conocimiento, divulgación y centro especializado de formación profesional."
+  },
+  {
+   "start": 31.05,
+   "end": 38.05,
+   "text": "Después de considerar que las personas con TEA gozan de actitudes y actitudes óptimas para desarrollarse laboralmente,"
+  },
+  {
+   "start": 38.05,
+   "end": 44.05,
+   "text": "conforme con las condiciones laborales facilitadas, es imperativo crear un..."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 44.0
+}

@@ -1,0 +1,182 @@
+{
+ "video_id": "LonFaqFl43w",
+ "url": "https://www.youtube.com/watch?v=LonFaqFl43w",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "PISTONNICA",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "PISTONNICA",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:00:41+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Cuántos celulares tienen guardados en tu casa? Imagino que más de alguna enciende. Ahora imagina que uno de esos celulares puede salvar la vida de una familia. En Icaragua, cada persona genera en promedio 2.5 kilos de basura electrónica al año, y en América Latina, sobre el 3% se gestiona de forma adecuada. Con más de 6 millones de líneas móviles en el país, miles de teléfonos que todavía funcionan terminan olvidados como chatarra. Al mismo tiempo, vivimos en un país de sismos y deslizamiento. En 1998, el deslave del volcán Casita coro más de 2.500 vidas, y el monitoreo depende de sensores industriales caros que no llegan a las comunidades más expuestas. Soy C. Deskive, líder del equipo pisomnica y creamos Centinela. Convertimos celulares en desuso en sensores de sismos y deslizamientos. Cada nodo es un teléfono reutilizado dentro de una caja hermética, fijo a un poste anclado al terreno, con energía de la red o solar. El acelerómetro detecta las vibraciones de un sismo, y el giroscopio mide cuando el terreno empieza a intienarse. Y si se va la luz o el internet, el nodo sigue midiendo, guarda los datos y los envía cuando vuelve la conexión. Ya tenemos un prototipo funcional, con datos de demostración, un panel con el mapa de Nicaragua y los nodos, un laboratorio que simula sismos y distingue el paso de un camión de un evento real. Y el sensor del teléfono, con un semáforo verde, amarillo y rojo, que puede avisar por telegram. Cuando se detecta el peligro, la alerta llega en segundos al celular de las familias para que tengan tiempo para ir a la zona segura. Un piloto de tres nodos por seis meses cuesta 772 dólares, y uno de diez nodos con kitsolares por un año, 3.107. Una fracción del costo de una estación industrial, la comunidad dona los teléfonos, y con alcaldía y los comités de Gina Prez, la red se mantiene funcionando. Lo que voy a hacer es dejar en tu cajón. Mañana puede ser el Sentinel a que cuide tu comunidad.",
+ "segments": [
+  {
+   "start": 0.3,
+   "end": 3.9,
+   "text": "¿Cuántos celulares tienen guardados en tu casa? Imagino que más de alguna enciende."
+  },
+  {
+   "start": 3.9,
+   "end": 6.7,
+   "text": "Ahora imagina que uno de esos celulares puede salvar la vida de una familia."
+  },
+  {
+   "start": 6.7,
+   "end": 11.2,
+   "text": "En Icaragua, cada persona genera en promedio 2.5 kilos de basura electrónica al año,"
+  },
+  {
+   "start": 11.2,
+   "end": 14.5,
+   "text": "y en América Latina, sobre el 3% se gestiona de forma adecuada."
+  },
+  {
+   "start": 14.5,
+   "end": 17.0,
+   "text": "Con más de 6 millones de líneas móviles en el país,"
+  },
+  {
+   "start": 17.0,
+   "end": 20.1,
+   "text": "miles de teléfonos que todavía funcionan terminan olvidados como chatarra."
+  },
+  {
+   "start": 20.1,
+   "end": 22.8,
+   "text": "Al mismo tiempo, vivimos en un país de sismos y deslizamiento."
+  },
+  {
+   "start": 22.8,
+   "end": 27.0,
+   "text": "En 1998, el deslave del volcán Casita coro más de 2.500 vidas,"
+  },
+  {
+   "start": 27.0,
+   "end": 31.2,
+   "text": "y el monitoreo depende de sensores industriales caros que no llegan a las comunidades más expuestas."
+  },
+  {
+   "start": 31.2,
+   "end": 35.5,
+   "text": "Soy C. Deskive, líder del equipo pisomnica y creamos Centinela."
+  },
+  {
+   "start": 35.5,
+   "end": 40.0,
+   "text": "Convertimos celulares en desuso en sensores de sismos y deslizamientos."
+  },
+  {
+   "start": 40.0,
+   "end": 43.8,
+   "text": "Cada nodo es un teléfono reutilizado dentro de una caja hermética,"
+  },
+  {
+   "start": 43.8,
+   "end": 48.8,
+   "text": "fijo a un poste anclado al terreno, con energía de la red o solar."
+  },
+  {
+   "start": 48.8,
+   "end": 52.6,
+   "text": "El acelerómetro detecta las vibraciones de un sismo,"
+  },
+  {
+   "start": 52.8,
+   "end": 57.3,
+   "text": "y el giroscopio mide cuando el terreno empieza a intienarse."
+  },
+  {
+   "start": 57.3,
+   "end": 62.0,
+   "text": "Y si se va la luz o el internet, el nodo sigue midiendo,"
+  },
+  {
+   "start": 62.0,
+   "end": 65.9,
+   "text": "guarda los datos y los envía cuando vuelve la conexión."
+  },
+  {
+   "start": 65.9,
+   "end": 70.4,
+   "text": "Ya tenemos un prototipo funcional, con datos de demostración,"
+  },
+  {
+   "start": 70.4,
+   "end": 73.9,
+   "text": "un panel con el mapa de Nicaragua y los nodos,"
+  },
+  {
+   "start": 73.9,
+   "end": 80.4,
+   "text": "un laboratorio que simula sismos y distingue el paso de un camión de un evento real."
+  },
+  {
+   "start": 80.4,
+   "end": 85.2,
+   "text": "Y el sensor del teléfono, con un semáforo verde, amarillo y rojo,"
+  },
+  {
+   "start": 85.2,
+   "end": 87.7,
+   "text": "que puede avisar por telegram."
+  },
+  {
+   "start": 88.7,
+   "end": 94.1,
+   "text": "Cuando se detecta el peligro, la alerta llega en segundos al celular de las familias"
+  },
+  {
+   "start": 94.1,
+   "end": 96.7,
+   "text": "para que tengan tiempo para ir a la zona segura."
+  },
+  {
+   "start": 96.7,
+   "end": 101.1,
+   "text": "Un piloto de tres nodos por seis meses cuesta 772 dólares,"
+  },
+  {
+   "start": 101.1,
+   "end": 104.6,
+   "text": "y uno de diez nodos con kitsolares por un año, 3.107."
+  },
+  {
+   "start": 104.6,
+   "end": 107.0,
+   "text": "Una fracción del costo de una estación industrial,"
+  },
+  {
+   "start": 107.0,
+   "end": 108.6,
+   "text": "la comunidad dona los teléfonos,"
+  },
+  {
+   "start": 108.6,
+   "end": 112.0,
+   "text": "y con alcaldía y los comités de Gina Prez, la red se mantiene funcionando."
+  },
+  {
+   "start": 112.0,
+   "end": 113.6,
+   "text": "Lo que voy a hacer es dejar en tu cajón."
+  },
+  {
+   "start": 113.6,
+   "end": 116.6,
+   "text": "Mañana puede ser el Sentinel a que cuide tu comunidad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 117.5
+}

@@ -1,0 +1,137 @@
+{
+ "video_id": "Ps6n8Uyv_t8",
+ "url": "https://youtu.be/Ps6n8Uyv_t8",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CREATECH",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "CREATECH",
+   "challenge": "07 - SALUD MÓVIL PARA MUJERES EN ZONAS RURALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:28:29+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imagina estar sola con dolor y saber que la atención médica está a hora de camino muchas veces intransitable. Para más de 55 millones de personas en Latinoamérica este es una realidad cotidiana. Y son las mujeres rurales quienes cargan con el mayor peso de este abandono. Sistema salud colapsado, desigualdad y pobreza se combina en una tormenta perfecta. El resultado la salud se convierte en un privilegio. La geografía no debería ser una sentencia de muerte. Frente a esta emergencia que atenta directamente contra el objetivo de desarrollo sostenible 3, salud y bienestar, nuestra respuesta es aliadas. Una aplicación móvil integral que además utiliza mensajes de texto como canal complementario para llegar a zonas sin conectividad. Permite registrar síntomas, recibir alertas de brigadas médicas, crear expedientes digitales y acceder a módulos educativos en audio. Pero lo que realmente hace única a aliadas es que conectamos esta tecnología con el corazón humano, una red comprometida de médicos voluntarios que no solo realizan visitas periódicas sino que brindan acompañamiento continuo, creando un vínculo humano que transciende la pantalla. Trabajamos con el apoyo de gobiernos y ONG en el marco del ODS 17. Este modelo es financieramente viable. La inversión total es menor a 18.000 dólares, muy por debajo del promedio de salud que supera los 30.000 dólares. No solo resolvemos la emergencia, estamos generando un cambio de raíz. Ahora hay una línea directa de ayuda, empoderamos a las mujeres con información sobre su salud. Aliada es más que un proyecto, es un movimiento. Es la promesa que ninguna mujer volverá a enfrentar sola su salud.",
+ "segments": [
+  {
+   "start": 3.5,
+   "end": 8.74,
+   "text": "Imagina estar sola con dolor y saber que la atención médica está a hora de camino"
+  },
+  {
+   "start": 8.74,
+   "end": 13.88,
+   "text": "muchas veces intransitable. Para más de 55 millones de personas en Latinoamérica"
+  },
+  {
+   "start": 13.88,
+   "end": 18.5,
+   "text": "este es una realidad cotidiana. Y son las mujeres rurales quienes cargan con el"
+  },
+  {
+   "start": 18.5,
+   "end": 24.1,
+   "text": "mayor peso de este abandono. Sistema salud colapsado, desigualdad y pobreza se"
+  },
+  {
+   "start": 24.1,
+   "end": 28.86,
+   "text": "combina en una tormenta perfecta. El resultado la salud se convierte en un"
+  },
+  {
+   "start": 28.86,
+   "end": 33.26,
+   "text": "privilegio. La geografía no debería ser una sentencia de muerte."
+  },
+  {
+   "start": 33.5,
+   "end": 37.86,
+   "text": "Frente a esta emergencia que atenta directamente contra el objetivo de"
+  },
+  {
+   "start": 37.86,
+   "end": 43.82,
+   "text": "desarrollo sostenible 3, salud y bienestar, nuestra respuesta es aliadas. Una"
+  },
+  {
+   "start": 43.82,
+   "end": 49.02,
+   "text": "aplicación móvil integral que además utiliza mensajes de texto como canal"
+  },
+  {
+   "start": 49.02,
+   "end": 54.22,
+   "text": "complementario para llegar a zonas sin conectividad. Permite registrar síntomas,"
+  },
+  {
+   "start": 54.22,
+   "end": 59.74,
+   "text": "recibir alertas de brigadas médicas, crear expedientes digitales y acceder a"
+  },
+  {
+   "start": 59.74,
+   "end": 65.5,
+   "text": "módulos educativos en audio. Pero lo que realmente hace única a aliadas es que"
+  },
+  {
+   "start": 65.5,
+   "end": 70.38,
+   "text": "conectamos esta tecnología con el corazón humano, una red comprometida de"
+  },
+  {
+   "start": 70.38,
+   "end": 74.98,
+   "text": "médicos voluntarios que no solo realizan visitas periódicas sino que"
+  },
+  {
+   "start": 74.98,
+   "end": 79.5,
+   "text": "brindan acompañamiento continuo, creando un vínculo humano que transciende la"
+  },
+  {
+   "start": 79.5,
+   "end": 85.26,
+   "text": "pantalla. Trabajamos con el apoyo de gobiernos y ONG en el marco del ODS 17."
+  },
+  {
+   "start": 85.42,
+   "end": 91.78,
+   "text": "Este modelo es financieramente viable. La inversión total es menor a 18.000 dólares,"
+  },
+  {
+   "start": 91.78,
+   "end": 97.26,
+   "text": "muy por debajo del promedio de salud que supera los 30.000 dólares. No solo"
+  },
+  {
+   "start": 97.26,
+   "end": 102.82,
+   "text": "resolvemos la emergencia, estamos generando un cambio de raíz. Ahora hay una"
+  },
+  {
+   "start": 102.82,
+   "end": 107.42,
+   "text": "línea directa de ayuda, empoderamos a las mujeres con información sobre su"
+  },
+  {
+   "start": 107.42,
+   "end": 113.7,
+   "text": "salud. Aliada es más que un proyecto, es un movimiento. Es la promesa que ninguna"
+  },
+  {
+   "start": 113.7,
+   "end": 118.26,
+   "text": "mujer volverá a enfrentar sola su salud."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.1
+}

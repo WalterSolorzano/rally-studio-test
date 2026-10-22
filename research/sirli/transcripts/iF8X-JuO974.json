@@ -1,0 +1,112 @@
+{
+ "video_id": "iF8X-JuO974",
+ "url": "https://youtu.be/iF8X-JuO974",
+ "year": 2021,
+ "collection": "internacional",
+ "country": "EL SALVADOR",
+ "team": "INCLA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2021,
+   "collection": "internacional",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "INCLA",
+   "challenge": "09 - IDENTIFICADOR PRÁCTICO Y ECONÓMICO DEL AEROSOL DE CO2 EN ESPACIOS CERRADOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:00:45+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "Ante la nueva normalidad, el regreso a clases debe asegurar la salud de las personas con las medidas de bioseguridad, realizando la desinfección y sanitización de las aulas, garantizando ambientes libres de contagio. Los centros educativos son principales focos de contagio debido a las pequeñas gotas de saliva que despiden al impartir las clases. El sistema de sanitización y desinfección de aulas SSDA cuenta con sensores que detectan niveles de CO2 que funcionan como indicadores de amenaza de contagio, los cuales enviarán alertas al docente para la limpieza del salón, ya que dicho sistema no se activa con presencia de personas en el área. Además, es adaptable a los distintos tamaños de aula, ya que cuenta con sensores de CO2, sensores infrarrojos y nebulizadores, conectados a través de tuberías PVC y controlados por una Raspberry. En caso de no detectar cambios, se realizará de manera automática en determinados periodos. El SSDA es económicamente accesible y puede ser desarrollado por cualquier persona gracias a los grandes beneficios del código abierto. La salud y la seguridad son los principales elementos que deberán estar presentes en la mente de los profesionales de la industria, tanto en las propuestas de distribución espacial como en las características de los productos y la tecnología, El diseño, los materiales utilizados, la gestión y mantenimiento del espacio público es clave para combatir la propagación del COVID-19.",
+ "segments": [
+  {
+   "start": 6.35,
+   "end": 13.25,
+   "text": "Ante la nueva normalidad, el regreso a clases debe asegurar la salud de las personas con las medidas de bioseguridad,"
+  },
+  {
+   "start": 13.25,
+   "end": 19.09,
+   "text": "realizando la desinfección y sanitización de las aulas, garantizando ambientes libres de contagio."
+  },
+  {
+   "start": 19.09,
+   "end": 26.39,
+   "text": "Los centros educativos son principales focos de contagio debido a las pequeñas gotas de saliva que despiden al impartir las clases."
+  },
+  {
+   "start": 26.39,
+   "end": 30.59,
+   "text": "El sistema de sanitización y desinfección de aulas SSDA"
+  },
+  {
+   "start": 30.59,
+   "end": 36.63,
+   "text": "cuenta con sensores que detectan niveles de CO2 que funcionan como indicadores de amenaza de contagio,"
+  },
+  {
+   "start": 36.63,
+   "end": 40.63,
+   "text": "los cuales enviarán alertas al docente para la limpieza del salón,"
+  },
+  {
+   "start": 40.63,
+   "end": 44.63,
+   "text": "ya que dicho sistema no se activa con presencia de personas en el área."
+  },
+  {
+   "start": 44.63,
+   "end": 48.07,
+   "text": "Además, es adaptable a los distintos tamaños de aula,"
+  },
+  {
+   "start": 48.07,
+   "end": 52.99,
+   "text": "ya que cuenta con sensores de CO2, sensores infrarrojos y nebulizadores,"
+  },
+  {
+   "start": 52.99,
+   "end": 57.59,
+   "text": "conectados a través de tuberías PVC y controlados por una Raspberry."
+  },
+  {
+   "start": 57.63,
+   "end": 62.63,
+   "text": "En caso de no detectar cambios, se realizará de manera automática en determinados periodos."
+  },
+  {
+   "start": 62.63,
+   "end": 68.23,
+   "text": "El SSDA es económicamente accesible y puede ser desarrollado por cualquier persona"
+  },
+  {
+   "start": 68.23,
+   "end": 71.23,
+   "text": "gracias a los grandes beneficios del código abierto."
+  },
+  {
+   "start": 71.23,
+   "end": 78.63,
+   "text": "La salud y la seguridad son los principales elementos que deberán estar presentes en la mente de los profesionales de la industria,"
+  },
+  {
+   "start": 78.63,
+   "end": 84.63,
+   "text": "tanto en las propuestas de distribución espacial como en las características de los productos y la tecnología,"
+  },
+  {
+   "start": 84.67,
+   "end": 89.67,
+   "text": "El diseño, los materiales utilizados, la gestión y mantenimiento del espacio público"
+  },
+  {
+   "start": 89.67,
+   "end": 92.67,
+   "text": "es clave para combatir la propagación del COVID-19."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.5
+}

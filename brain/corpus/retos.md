@@ -1,0 +1,87 @@
+# Banco de retos
+
+
+## Registro 1
+
+- **id**: DESAFIO_01
+- **title**: Segunda vida y reconversion de motores electricos de electrodomesticos en desuso
+- **description**: Aprovechamiento y refabricacion de motores de lavadoras, microondas o licuadoras para generar soluciones agroindustriales o comunitarias de bajo costo.
+- **category fit**: social
+
+### ods ids
+
+- ODS 12
+- ODS 9
+- ODS 8
+- **uses local resources**: si
+- **hardware feasible 24h**: si
+- **prior winner precedent**: Avocado 2026 (1er Lugar Social Nacional)
+- **notes**: Alto potencial en economia circular con impacto en talleres y cooperativas locales.
+
+## Registro 2
+
+- **id**: DESAFIO_02
+- **title**: Redes de sensores comunitarios para prevencion y alerta temprana de inundaciones
+- **description**: Desarrollo de instrumentacion hiperlocal y telemetria comunitaria para monitoreo de riadas y cauces urbanos en tiempo real.
+- **category fit**: tecnologica
+
+### ods ids
+
+- ODS 11
+- ODS 13
+- ODS 3
+- **uses local resources**: si
+- **hardware feasible 24h**: si
+- **prior winner precedent**: Techriders 2024 (1er Lugar Latam), Steel Innovators 2026
+- **notes**: Problematica permanente de alta empatia con el jurado; requiere evitar modelos 3D lentos y centrarse en viabilidad IoT.
+
+## Registro 3
+
+- **id**: DESAFIO_03
+- **title**: Proteccion y fomento tecnologico de polinizadores en entornos agropecuarios y urbanos
+- **description**: Monitoreo acustico, termico o ambiental de colmenas de abejas nativas (meliponas) o espacios polinizadores frente al cambio climatico.
+- **category fit**: tecnologica
+
+### ods ids
+
+- ODS 15
+- ODS 2
+- ODS 13
+- **uses local resources**: si
+- **hardware feasible 24h**: si
+- **prior winner precedent**: Ignis Code 2026 (1er Lugar Innovacion Nacional)
+- **notes**: Baja competencia historica pero altisima valoracion por biodiversidad y seguridad alimentaria.
+
+## Registro 4
+
+- **id**: DESAFIO_04
+- **title**: Revalorizacion integral y transformacion de residuos de envases Tetra Pak
+- **description**: Transformacion mecanica y termica de polietileno y aluminio para fabricacion de laminas constructivas termoacusticas de alta durabilidad.
+- **category fit**: social
+
+### ods ids
+
+- ODS 12
+- ODS 11
+- ODS 9
+- **uses local resources**: si
+- **hardware feasible 24h**: no
+- **prior winner precedent**: Mentes Volcanicas 2025 (1er Lugar Latam Social)
+- **notes**: Excelente para impacto social; demanda justificar maquinaria real o proceso de prensado local.
+
+## Registro 5
+
+- **id**: DESAFIO_05
+- **title**: Sistemas modulares ultraligeros de agricultura vertical urbana con agua recuperada
+- **description**: Estructuras modulares para cultivo de hortalizas en azoteas o espacios reducidos con recirculacion y gestion de nutrientes.
+- **category fit**: tecnologica
+
+### ods ids
+
+- ODS 2
+- ODS 11
+- ODS 6
+- **uses local resources**: si
+- **hardware feasible 24h**: si
+- **prior winner precedent**: STEM Synergy 2025 (1er Lugar Latam Innovacion)
+- **notes**: Desafio con alta concurrencia internacional; solo gana con hibridacion IoT o recirculacion de agua de desecho comprobada.

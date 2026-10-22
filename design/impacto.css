@@ -1,0 +1,121 @@
+/* Impacto y Plan Pais — solo lo propio del modulo.
+   El chrome (tokens, layout, controles) vive en kit.css. */
+
+.lbl-div {
+  display: block;
+  font-family: var(--rs-mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--rs-muted);
+  margin: 14px 0 6px;
+}
+
+/* Escenario 16:9 con lamina fija de 1920x1080 escalada por contenedor. */
+.preview-frame { flex-direction: column; }
+.preview-frame .thumb-stage { background: #fff; width: 100%; }
+/* Todo el ancho: los CAPS de kit.css achican la lámina; módulo los supera. */
+.preview-frame .kit-card,
+.preview-frame .thumb-stage { max-width: none; }
+.layout { grid-template-columns: minmax(0, 2.2fr) minmax(280px, 0.9fr); }
+details.avz { border: 1px solid var(--rs-border, #DCE7F5); border-radius: var(--rs-r-sm, 8px); padding: 8px 10px; margin: 8px 0 0; }
+details.avz summary { cursor: pointer; color: var(--rs-muted, #475569); font: 600 11px var(--rs-mono, monospace); letter-spacing: .08em; text-transform: uppercase; }
+details.avz summary::marker { content: ''; }
+details.avz[open] summary { margin-bottom: 8px; }
+
+.lamina-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  transform: scale(var(--k, 1));
+  transform-origin: top left;
+  overflow: hidden;
+  font-family: var(--rs-sans);
+}
+
+/* Rango propio de la lamina 1920 (mas grande que el thumb de 1280). */
+@container (max-width:1150px){.lamina-canvas{--k:.56}}
+@container (max-width: 980px){.lamina-canvas{--k:.48}}
+@container (max-width: 800px){.lamina-canvas{--k:.38}}
+@container (max-width: 620px){.lamina-canvas{--k:.3}}
+@container (max-width: 460px){.lamina-canvas{--k:.22}}
+
+/* Select de lamina oculto (el usuario usa las tarjetas #laminaTapiz). */
+#laminaSel.oculto, .oculto { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Primitivas del compositor (pintarDOM). */
+.lamina-canvas .p-rect { position: absolute; }
+.lamina-canvas .p-txt { position: absolute; margin: 0; white-space: pre-wrap; }
+.lamina-canvas .p-ico { position: absolute; display: block; }
+
+/* Chips ODS de la columna de controles: como el grafico oficial de la ONU
+   (cuadrado de color casi recto, arte blanco grande y numero arriba).
+   Aprovechan el ancho: dos columnas, nombre elipsizado. */
+#chipsOds { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 12px; }
+#chipsOds label.odsrow { display: flex; align-items: center; gap: 8px; min-height: 46px; min-width: 0; padding: 3px 4px; border-radius: var(--rs-r-sm, 8px); cursor: pointer; }
+#chipsOds label.odsrow:hover, #chipsOds label.odsrow:focus-within { background: var(--rs-bg-subtle, #F8FAFD); }
+.chip-ods { position: relative; width: 44px; height: 44px; flex: none; display: flex; align-items: center; justify-content: center; border-radius: 6px; color: #FFFFFF; box-shadow: 0 1px 3px rgba(13, 27, 53, 0.16); }
+.chip-ods svg { width: 32px; height: 32px; }
+.chip-ods .num { position: absolute; top: 3px; left: 5px; font: 800 10px/1.2 var(--rs-mono, 'JetBrains Mono', monospace); color: #FFFFFF; opacity: .95; text-shadow: 0 1px 2px rgba(9, 30, 66, 0.35); }
+.odsname { color: var(--rs-main, #0D1B35); font-size: 11px; line-height: 1.3; min-width: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* Tarjetas de tipo de lamina (previsualizacion en lugar de select). */
+.lamina-tapiz { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 2px; }
+.lamina-card { flex: 1 1 30%; min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 8px 4px 7px; background: var(--rs-bg, #fff); border: 1px solid var(--rs-border-strong, #CBD5E1); border-radius: var(--rs-r-md, 12px); cursor: pointer; transition: border-color var(--rs-t, 120ms), background var(--rs-t, 120ms), box-shadow var(--rs-t, 120ms); }
+.lamina-card:hover { border-color: var(--rs-primary, #0866F5); }
+.lamina-card.on { border-color: var(--rs-primary, #0866F5); background: var(--rs-bg-secondary, #F0F6FF); box-shadow: 0 0 0 2px rgba(8, 102, 245, .18); }
+.lamina-card svg { width: 78px; height: 52px; display: block; border-radius: 4px; }
+.lamina-name { font: 700 10px/1.2 var(--rs-mono, 'JetBrains Mono', monospace); letter-spacing: .04em; text-transform: uppercase; color: var(--rs-main, #0D1B35); text-align: center; }
+
+/* Controles de coreografia (movimiento de cuadritos): chips con demo animada. */
+.coreo { margin-top: 6px; }
+.coreo .lbl-mov { margin-bottom: 4px; }
+.fila-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 8px; }
+.tilechip { display: inline-flex; align-items: center; gap: 7px; padding: 7px 10px; background: var(--rs-bg, #fff); border: 1px solid var(--rs-border-strong, #CBD5E1); border-radius: var(--rs-r-sm, 8px); cursor: pointer; font: 600 11px/1 var(--rs-sans, sans-serif); color: var(--rs-main, #0D1B35); transition: border-color var(--rs-t, 120ms), background var(--rs-t, 120ms); }
+.tilechip:hover { border-color: var(--rs-primary, #0866F5); }
+.tilechip.on { border-color: var(--rs-primary, #0866F5); background: var(--rs-bg-secondary, #F0F6FF); box-shadow: 0 0 0 1px var(--rs-primary, #0866F5) inset; }
+.c-demo { width: 16px; height: 16px; flex: none; border-radius: 4px; background: var(--rs-primary, #0866F5); animation: impPrevPop 1.05s cubic-bezier(.33, 1, .68, 1) infinite alternate; }
+.c-demo[data-a="arriba"] { animation-name: impPrevArriba; }
+.c-demo[data-a="izq"] { animation-name: impPrevIzq; }
+.c-demo[data-a="fade"] { animation-name: impPrevFade; }
+.c-demo[data-a="wipe"] { animation-name: impPrevWipe; }
+.c-demo[data-a="ciclo"] { animation: impPrevPop .55s cubic-bezier(.33, 1, .68, 1) infinite alternate; }
+.c-demo[data-a="aleatorio"] { animation: impPrevAzar 1.7s linear infinite; }
+.dotgrid { display: inline-flex; }
+@keyframes impPrevArriba { from { opacity: .25; transform: translateY(6px) } to { opacity: 1; transform: none } }
+@keyframes impPrevIzq { from { opacity: .25; transform: translateX(-8px) } to { opacity: 1; transform: none } }
+@keyframes impPrevFade { from { opacity: .15 } to { opacity: 1 } }
+@keyframes impPrevWipe { from { clip-path: inset(0 100% 0 0) } to { clip-path: inset(0 0 0 0) } }
+@keyframes impPrevAzar { 0% { opacity: .2; transform: scale(.7) } 20% { opacity: .85; transform: translateY(-5px) } 45% { opacity: .25; transform: translateY(3px) translateX(4px) } 70% { opacity: 1; transform: none } }
+
+/* Marca de propuesta sin aplicar (IA). */
+.lamina-canvas .p-txt.propuesta, textarea.propuesta { outline: 2px dashed var(--rs-accent); }
+textarea.propuesta { border-radius: var(--rs-r-sm); }
+
+.btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0 0; }
+
+/* --- vocabulario cerrado de animacion (Task 5) --- */
+@keyframes impInFade { from { opacity: 0 } to { opacity: 1 } }
+@keyframes impInSlideIzq { from { opacity: 0; transform: translateX(-48px) } to { opacity: 1; transform: none } }
+@keyframes impInSlideArriba { from { opacity: 0; transform: translateY(32px) } to { opacity: 1; transform: none } }
+@keyframes impInWipe { from { clip-path: inset(0 100% 0 0) } to { clip-path: inset(0 0 0 0) } }
+@keyframes impInBanda { from { clip-path: inset(0 0 100% 0) } to { clip-path: inset(0 0 0 0) } }
+@keyframes impInPop { from { opacity: 0; transform: scale(.62) } 65% { opacity: 1 } to { opacity: 1; transform: none } }
+@keyframes impEnfPulso { 0% { transform: none } 40% { transform: scale(1.035) } 100% { transform: none } }
+@keyframes impEnfPop { 0% { opacity: .85; transform: scale(.94) } 60% { opacity: 1; transform: scale(1.02) } 100% { transform: none } }
+@keyframes impOutFade { from { opacity: 1 } to { opacity: 0 } }
+@keyframes impOutSlide { from { opacity: 1; transform: none } to { opacity: 0; transform: translateX(40px) } }
+
+.lamina-canvas > * { will-change: opacity, transform, clip-path; }
+
+/* --- narracion IA (Task 8) --- */
+.propuesta {
+  border: 1px solid var(--rs-primary, #0866F5);
+  background: var(--rs-bg-secondary, #F0F6FF);
+  resize: vertical;
+}
+.contador { font-family: var(--font-mono, 'JetBrains Mono', monospace); font-variant-numeric: tabular-nums; color: var(--rs-muted, #475569); font-size: 13px; min-width: 7ch; align-self: center; }
+
+

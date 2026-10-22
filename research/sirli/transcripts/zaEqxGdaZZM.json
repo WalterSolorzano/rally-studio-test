@@ -1,0 +1,97 @@
+{
+ "video_id": "zaEqxGdaZZM",
+ "url": "https://youtu.be/zaEqxGdaZZM?si=s74ZGI78ey2Y2ykl",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LATAM NEXUS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LATAM NEXUS",
+   "challenge": "03 - FUGAS DE AGUA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:24:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Te ha pasado que tu recibo del agua llega más alto de lo normal y no entiendes por qué? Tal vez no dejaste la llave abierta, pero ¿y si hay una fuga silenciosa que no puedes ver? ¿Y si estás perdiendo litros de agua sin darte cuenta? Cada gota que se escapa sin control es más que un gasto. Es una amenaza para tus cimientos, tu economía y el planeta. Las fugas invisibles debilitan estructuras, elevan tus facturas y agravan la escasez cíbrica, en un mundo donde el agua es cada vez más limitada, no podemos darnos el lujo de desperdiciarla. Por eso creamos Drop Alert, un sistema inteligente que detecta fugas de agua a través del análisis de presión, autónomo, no invasivo y debajo costo, con sensores estratégicos, una mini computadora ESP32 y una app que te muestra en tiempo real donde y cuánto estás perdiendo. Además, convierte la presión en litros e indique el consumo monetario para que sepas exactamente lo que estás pagando y lo que podrías ahorrar. Drop Alert no solo protege tu hogar, empodera comunidades vulnerables con tecnologías accesibles, fomenta hábitos sostenibles, reduce el desperdicio y fortalece la educación ambiental, porque cuidar el agua es cuidar la vida. No espereza que el problema sea agavisible, instala Drop Alert y transforma tu consumo en conciencia, porque cada gota cuenta.",
+ "segments": [
+  {
+   "start": 4.82,
+   "end": 10.06,
+   "text": "¿Te ha pasado que tu recibo del agua llega más alto de lo normal y no entiendes por qué?"
+  },
+  {
+   "start": 10.06,
+   "end": 15.86,
+   "text": "Tal vez no dejaste la llave abierta, pero ¿y si hay una fuga silenciosa que no puedes ver?"
+  },
+  {
+   "start": 15.86,
+   "end": 19.5,
+   "text": "¿Y si estás perdiendo litros de agua sin darte cuenta?"
+  },
+  {
+   "start": 19.5,
+   "end": 22.82,
+   "text": "Cada gota que se escapa sin control es más que un gasto."
+  },
+  {
+   "start": 22.82,
+   "end": 26.82,
+   "text": "Es una amenaza para tus cimientos, tu economía y el planeta."
+  },
+  {
+   "start": 26.82,
+   "end": 32.46,
+   "text": "Las fugas invisibles debilitan estructuras, elevan tus facturas y agravan la escasez cíbrica,"
+  },
+  {
+   "start": 32.46,
+   "end": 38.46,
+   "text": "en un mundo donde el agua es cada vez más limitada, no podemos darnos el lujo de desperdiciarla."
+  },
+  {
+   "start": 38.46,
+   "end": 46.46,
+   "text": "Por eso creamos Drop Alert, un sistema inteligente que detecta fugas de agua a través del análisis de presión,"
+  },
+  {
+   "start": 46.46,
+   "end": 54.46,
+   "text": "autónomo, no invasivo y debajo costo, con sensores estratégicos, una mini computadora ESP32"
+  },
+  {
+   "start": 54.46,
+   "end": 58.46,
+   "text": "y una app que te muestra en tiempo real donde y cuánto estás perdiendo."
+  },
+  {
+   "start": 58.46,
+   "end": 68.46,
+   "text": "Además, convierte la presión en litros e indique el consumo monetario para que sepas exactamente lo que estás pagando y lo que podrías ahorrar."
+  },
+  {
+   "start": 68.46,
+   "end": 77.46,
+   "text": "Drop Alert no solo protege tu hogar, empodera comunidades vulnerables con tecnologías accesibles, fomenta hábitos sostenibles,"
+  },
+  {
+   "start": 77.46,
+   "end": 84.46,
+   "text": "reduce el desperdicio y fortalece la educación ambiental, porque cuidar el agua es cuidar la vida."
+  },
+  {
+   "start": 84.46,
+   "end": 94.46,
+   "text": "No espereza que el problema sea agavisible, instala Drop Alert y transforma tu consumo en conciencia, porque cada gota cuenta."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 104.1
+}

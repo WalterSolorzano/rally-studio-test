@@ -1,0 +1,82 @@
+{
+ "video_id": "d7JRREOESYY",
+ "url": "https://youtu.be/d7JRREOESYY?si=WGYTGXvqY7nDjwyQ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NICABYTE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NICABYTE",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:52:00+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En América Latina las inundaciones urbanas no solo saturan el renaje, ponen en riesgo miles de vida debido a la falta de monitoreo en tiempo real, el mantenimiento limitado y la falta de alertas oportunas. Frente a esto nace Publitec, una solución que integra tecnología, comunidad e infraestructura verdes mediante reservorios pluviales multifuncionales inteligentes, espacios comunitarios y parque en época seca. Es una plataforma monitorea la cuenca a través de sensores ultrasonicos que miden el nivel del cauce en tiempo real y simulan la respuesta ante tormentas repentinas. Un mapa satelital interactivo muestra cada nodo de intervención, integrando fotografías del lugar y reportes ciudadanos para una visión completa del estado del riesgo. En nuestro foro comunitario los vecinos proponen obras de mitigación como jardines de bioretensión y reciben asesoría técnica directa, convirtiendo la prevención en tareas participativas. Ante un nivel crítico, Publitec activa una alerta roja y despliega noticias, planes familiares de evacuación y contactos de emergencia, pero no nos quedamos en la app. La alerta se notifica de inmediato por WhatsApp a los grupos comunitarios enviando el nivel exacto del agua e instrucción es clara para que la familia actúe en el tiempo sin depender de señal de datos compleja. Ante un escenario de pérdidas por inundación de 700 mil Córdobas por familia, Publitec proyecta reducir estos daños en un 50% al tercer año generando un ahorro directo de 350 mil Córdobas por hogares. Todo esto respaldado por una inversión inicial accesible de 14.653.20 Córdobas en el prototipo y un horizonte de evaluación a tres años que muestra la alta rentabilidad y sostenibilidad del proyecto.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.4,
+   "text": "En América Latina las inundaciones urbanas no solo saturan el renaje, ponen en riesgo miles de vida debido a la falta de monitoreo en tiempo real,"
+  },
+  {
+   "start": 8.4,
+   "end": 12.0,
+   "text": "el mantenimiento limitado y la falta de alertas oportunas."
+  },
+  {
+   "start": 12.0,
+   "end": 18.0,
+   "text": "Frente a esto nace Publitec, una solución que integra tecnología, comunidad e infraestructura verdes"
+  },
+  {
+   "start": 18.0,
+   "end": 25.0,
+   "text": "mediante reservorios pluviales multifuncionales inteligentes, espacios comunitarios y parque en época seca."
+  },
+  {
+   "start": 25.0,
+   "end": 35.0,
+   "text": "Es una plataforma monitorea la cuenca a través de sensores ultrasonicos que miden el nivel del cauce en tiempo real y simulan la respuesta ante tormentas repentinas."
+  },
+  {
+   "start": 35.0,
+   "end": 44.0,
+   "text": "Un mapa satelital interactivo muestra cada nodo de intervención, integrando fotografías del lugar y reportes ciudadanos para una visión completa del estado del riesgo."
+  },
+  {
+   "start": 44.0,
+   "end": 55.0,
+   "text": "En nuestro foro comunitario los vecinos proponen obras de mitigación como jardines de bioretensión y reciben asesoría técnica directa, convirtiendo la prevención en tareas participativas."
+  },
+  {
+   "start": 55.0,
+   "end": 65.0,
+   "text": "Ante un nivel crítico, Publitec activa una alerta roja y despliega noticias, planes familiares de evacuación y contactos de emergencia, pero no nos quedamos en la app."
+  },
+  {
+   "start": 65.0,
+   "end": 77.0,
+   "text": "La alerta se notifica de inmediato por WhatsApp a los grupos comunitarios enviando el nivel exacto del agua e instrucción es clara para que la familia actúe en el tiempo sin depender de señal de datos compleja."
+  },
+  {
+   "start": 77.0,
+   "end": 91.0,
+   "text": "Ante un escenario de pérdidas por inundación de 700 mil Córdobas por familia, Publitec proyecta reducir estos daños en un 50% al tercer año generando un ahorro directo de 350 mil Córdobas por hogares."
+  },
+  {
+   "start": 91.0,
+   "end": 105.0,
+   "text": "Todo esto respaldado por una inversión inicial accesible de 14.653.20 Córdobas en el prototipo y un horizonte de evaluación a tres años que muestra la alta rentabilidad y sostenibilidad del proyecto."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 107.0
+}

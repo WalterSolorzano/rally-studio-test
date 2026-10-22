@@ -1,0 +1,97 @@
+{
+ "video_id": "be5Kfz50k7g",
+ "url": "https://youtu.be/be5Kfz50k7g?si=KaQWwGeKHg2vu312",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECOGOTA",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ECOGOTA",
+   "challenge": "07 - REUTILIZACIÓN DE ACEITE DOMÉSTICO"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:16:31+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que un solo litro de aceite de cocina usado, tirado al fregadero, contamina, 40 mil litros de agua y tapona por completo las tuberías de tu hogar? En lugar de generar este problema ambiental, y si convertimos ese recido en recursos útiles para la casa, aquí es donde nace nuestra propuesta. Presentamos ecogota, la solución que transforma el aceite de cocina en productos de uso cotidiano. Con nuestras guías paso a paso, podés elaborar desde tu cocina jabón de la barropa o platos, o velas artesanales aromatizadas de forma segura, económica y 100% casera. Para hacerlo aún más fácil, desarrollamos una web, ap utilizable desde un celular o computadora. Solo subís una foto de tu aceite usado y nuestra inteligencia artificial evalúa su color, estado y calidad en menos de 6 segundos, recomendándote al instante si sirve para velas, jabonos y es mejor desecharlo. La plataforma es ultra rápida, 100% adaptable a cualquier celular y no requiere instalar nada. Incluye soporte multi-díoma en español, inglés y portugués, y una arquitectura con modelos de respaldo para garantizar que el análisis nunca falle. No lo tires por el drenaje, escanea, recicla y transforma tu aceite con ecobota.",
+ "segments": [
+  {
+   "start": 5.01,
+   "end": 9.65,
+   "text": "¿Sabías que un solo litro de aceite de cocina usado, tirado al fregadero,"
+  },
+  {
+   "start": 9.65,
+   "end": 14.89,
+   "text": "contamina, 40 mil litros de agua y tapona por completo las tuberías de tu hogar?"
+  },
+  {
+   "start": 14.89,
+   "end": 21.73,
+   "text": "En lugar de generar este problema ambiental, y si convertimos ese recido en recursos útiles"
+  },
+  {
+   "start": 21.73,
+   "end": 28.26,
+   "text": "para la casa, aquí es donde nace nuestra propuesta. Presentamos ecogota,"
+  },
+  {
+   "start": 28.26,
+   "end": 32.86,
+   "text": "la solución que transforma el aceite de cocina en productos de uso cotidiano."
+  },
+  {
+   "start": 33.5,
+   "end": 39.3,
+   "text": "Con nuestras guías paso a paso, podés elaborar desde tu cocina jabón de la barropa o platos,"
+  },
+  {
+   "start": 39.3,
+   "end": 45.06,
+   "text": "o velas artesanales aromatizadas de forma segura, económica y 100% casera."
+  },
+  {
+   "start": 45.06,
+   "end": 54.12,
+   "text": "Para hacerlo aún más fácil, desarrollamos una web, ap utilizable desde un celular o computadora."
+  },
+  {
+   "start": 54.12,
+   "end": 59.88,
+   "text": "Solo subís una foto de tu aceite usado y nuestra inteligencia artificial evalúa su color,"
+  },
+  {
+   "start": 59.88,
+   "end": 65.64,
+   "text": "estado y calidad en menos de 6 segundos, recomendándote al instante si sirve para velas,"
+  },
+  {
+   "start": 65.64,
+   "end": 75.21,
+   "text": "jabonos y es mejor desecharlo. La plataforma es ultra rápida, 100% adaptable a cualquier celular"
+  },
+  {
+   "start": 75.21,
+   "end": 81.65,
+   "text": "y no requiere instalar nada. Incluye soporte multi-díoma en español, inglés y portugués,"
+  },
+  {
+   "start": 81.65,
+   "end": 87.09,
+   "text": "y una arquitectura con modelos de respaldo para garantizar que el análisis nunca falle."
+  },
+  {
+   "start": 87.09,
+   "end": 94.87,
+   "text": "No lo tires por el drenaje, escanea, recicla y transforma tu aceite con ecobota."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 106.2
+}

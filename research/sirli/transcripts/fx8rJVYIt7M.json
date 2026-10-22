@@ -1,0 +1,117 @@
+{
+ "video_id": "fx8rJVYIt7M",
+ "url": "https://youtu.be/fx8rJVYIt7M?si=jgK2cNdG8H-_A1wK",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS SIN OFICIO",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LOS SIN OFICIO",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:47:41+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Latinoamérica, una región afectada por varios desastres naturales. Desde el inicio de los tiempos han existido fenómenos naturales que perturban la paz del ser humano. Sin embargo, hoy en día hemos aprendido a mitigar con cada uno de esos desastres. Cada hogar, cada familia, cada comunidad, todos somos uno y tenemos que estar preparados para lo que venga. Desde Ucénica de Aragua nos centramos en la formalidad de brindar información a personas que no conocen. Por ejemplo, podemos brindar información a gente y familia, latinoamericana para brindar apoyo de ayuda y rescate. ¿Cuál es nuestra oportunidad de ayudar a personas con falta de información brindándole un mejor experiencia? Con esto buscamos resolver distintas problemáticas en la zona afectada, desde el riesgo hasta los menores riesgos. Nuestro sistema ayudará a las comunidades, centros de apoyo y control, y mejorará la forma de llevar la ayuda a la zona afectada.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.44,
+   "text": "Latinoamérica, una región afectada por varios desastres naturales."
+  },
+  {
+   "start": 8.55,
+   "end": 11.83,
+   "text": "Desde el inicio de los tiempos han existido fenómenos naturales"
+  },
+  {
+   "start": 11.83,
+   "end": 13.47,
+   "text": "que perturban la paz del ser humano."
+  },
+  {
+   "start": 13.47,
+   "end": 17.31,
+   "text": "Sin embargo, hoy en día hemos aprendido a mitigar con cada uno de esos desastres."
+  },
+  {
+   "start": 21.72,
+   "end": 25.48,
+   "text": "Cada hogar, cada familia, cada comunidad, todos somos uno"
+  },
+  {
+   "start": 25.48,
+   "end": 27.88,
+   "text": "y tenemos que estar preparados para lo que venga."
+  },
+  {
+   "start": 35.69,
+   "end": 38.17,
+   "text": "Desde Ucénica de Aragua nos centramos en la formalidad"
+  },
+  {
+   "start": 38.17,
+   "end": 40.53,
+   "text": "de brindar información a personas que no conocen."
+  },
+  {
+   "start": 40.53,
+   "end": 43.61,
+   "text": "Por ejemplo, podemos brindar información a gente y familia,"
+  },
+  {
+   "start": 43.61,
+   "end": 46.89,
+   "text": "latinoamericana para brindar apoyo de ayuda y rescate."
+  },
+  {
+   "start": 46.89,
+   "end": 49.05,
+   "text": "¿Cuál es nuestra oportunidad de ayudar a personas"
+  },
+  {
+   "start": 49.05,
+   "end": 51.49,
+   "text": "con falta de información brindándole un mejor experiencia?"
+  },
+  {
+   "start": 51.49,
+   "end": 53.97,
+   "text": "Con esto buscamos resolver distintas problemáticas"
+  },
+  {
+   "start": 53.97,
+   "end": 55.29,
+   "text": "en la zona afectada,"
+  },
+  {
+   "start": 55.29,
+   "end": 57.41,
+   "text": "desde el riesgo hasta los menores riesgos."
+  },
+  {
+   "start": 57.41,
+   "end": 60.13,
+   "text": "Nuestro sistema ayudará a las comunidades,"
+  },
+  {
+   "start": 60.13,
+   "end": 61.89,
+   "text": "centros de apoyo y control,"
+  },
+  {
+   "start": 61.89,
+   "end": 65.69,
+   "text": "y mejorará la forma de llevar la ayuda a la zona afectada."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 71.5
+}

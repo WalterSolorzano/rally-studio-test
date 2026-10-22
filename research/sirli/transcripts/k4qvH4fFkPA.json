@@ -1,0 +1,82 @@
+{
+ "video_id": "k4qvH4fFkPA",
+ "url": "https://youtube.com/shorts/k4qvH4fFkPA?si=IxLERXdftqcWBUau",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "RASTREADORES ALPHA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "RASTREADORES ALPHA",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:58:33+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Tras un desastre, las primeras horas son decisivas para salvarlividad. Pero la falta de señal y información imprecisa provocan caos y retrasan ayuda. Somos los retrabes alfabis y presentamos un sistema de progresión 100% analógico, sin internet ni electricidad. Nominamos una ficha rápida de evaluación y un índice de urgencia. Y un tablero visual de triaje en colores rojo, amarillo y verde. Innovación e impacto. Los datos viajan por radio o mensajero a pie, permitiendo enviar auxilio inmediato a las zonas más críticas. Obtimizamos recursos, evitamos duplicaciones y fortalecemos la respuesta comunitaria. Simple, económico y salvavidas.",
+ "segments": [
+  {
+   "start": 0.21,
+   "end": 4.71,
+   "text": "Tras un desastre, las primeras horas son decisivas para salvarlividad."
+  },
+  {
+   "start": 4.71,
+   "end": 10.71,
+   "text": "Pero la falta de señal y información imprecisa provocan caos y retrasan ayuda."
+  },
+  {
+   "start": 10.71,
+   "end": 16.71,
+   "text": "Somos los retrabes alfabis y presentamos un sistema de progresión 100% analógico,"
+  },
+  {
+   "start": 16.71,
+   "end": 18.71,
+   "text": "sin internet ni electricidad."
+  },
+  {
+   "start": 18.71,
+   "end": 23.21,
+   "text": "Nominamos una ficha rápida de evaluación y un índice de urgencia."
+  },
+  {
+   "start": 23.21,
+   "end": 30.05,
+   "text": "Y un tablero visual de triaje en colores rojo, amarillo y verde."
+  },
+  {
+   "start": 30.05,
+   "end": 32.05,
+   "text": "Innovación e impacto."
+  },
+  {
+   "start": 32.05,
+   "end": 35.05,
+   "text": "Los datos viajan por radio o mensajero a pie,"
+  },
+  {
+   "start": 35.05,
+   "end": 40.75,
+   "text": "permitiendo enviar auxilio inmediato a las zonas más críticas."
+  },
+  {
+   "start": 40.75,
+   "end": 46.75,
+   "text": "Obtimizamos recursos, evitamos duplicaciones y fortalecemos la respuesta comunitaria."
+  },
+  {
+   "start": 46.75,
+   "end": 49.75,
+   "text": "Simple, económico y salvavidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 55.2
+}

@@ -1,0 +1,82 @@
+{
+ "video_id": "PoxYJrr2lE8",
+ "url": "https://youtu.be/PoxYJrr2lE8",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MAGNUS OPUS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MAGNUS OPUS",
+   "challenge": "06 - REVALORIZACIÓN RESIDUOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:37:23+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Los mosquitos son los insectos que causan más muertes en los seres humanos, ocasionando a cerca de 750 mil de cesos al año. Debido a que estos transmiten el dengue, chikungunya y zika a nivel latinoamericano, nuestro clima le da las condiciones perfectas para aumentar de manera exponencial a su población. Se preguntarán ¿Cómo podemos solucionar esta problemática? Citrus Block. Las cáscaras cítricas en Latinoamérica son consideradas desechos sin valor alguno. Nosotros Citrus Block damos una solución ecoamigable utilizando este desecho orgánico de manera eficaz y sostenible a la mano de los ministerios de salud, creamos tres prototipos en tres presentaciones, como son incienzo, loción y pastilla aromática. Ustedes dirán ¿Cómo? Se extrae la sustancia de interés con tres pasos, como son la pulverización, la filtración y la fermentación. Citrus Block.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.12,
+   "text": "Los mosquitos son los insectos que causan más muertes en los seres humanos,"
+  },
+  {
+   "start": 5.12,
+   "end": 9.72,
+   "text": "ocasionando a cerca de 750 mil de cesos al año."
+  },
+  {
+   "start": 9.72,
+   "end": 16.68,
+   "text": "Debido a que estos transmiten el dengue, chikungunya y zika a nivel latinoamericano,"
+  },
+  {
+   "start": 16.68,
+   "end": 23.8,
+   "text": "nuestro clima le da las condiciones perfectas para aumentar de manera exponencial a su población."
+  },
+  {
+   "start": 23.8,
+   "end": 28.6,
+   "text": "Se preguntarán ¿Cómo podemos solucionar esta problemática?"
+  },
+  {
+   "start": 28.6,
+   "end": 35.8,
+   "text": "Citrus Block. Las cáscaras cítricas en Latinoamérica son consideradas desechos sin valor alguno."
+  },
+  {
+   "start": 35.8,
+   "end": 45.16,
+   "text": "Nosotros Citrus Block damos una solución ecoamigable utilizando este desecho orgánico de manera eficaz"
+  },
+  {
+   "start": 45.16,
+   "end": 52.48,
+   "text": "y sostenible a la mano de los ministerios de salud, creamos tres prototipos en tres presentaciones,"
+  },
+  {
+   "start": 52.48,
+   "end": 61.07,
+   "text": "como son incienzo, loción y pastilla aromática. Ustedes dirán ¿Cómo?"
+  },
+  {
+   "start": 61.07,
+   "end": 68.99,
+   "text": "Se extrae la sustancia de interés con tres pasos, como son la pulverización, la filtración y la"
+  },
+  {
+   "start": 68.99,
+   "end": 71.43,
+   "text": "fermentación. Citrus Block."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 71.6
+}

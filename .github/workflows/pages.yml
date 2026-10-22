@@ -1,0 +1,83 @@
+name: Deploy Rally Studio (GitHub Pages)
+
+# Publica una copia SOLO ESTÁTICA del workbench (sin telemetría, OCR ni IA automática).
+# Para el sistema completo con IA hay que correr el servidor local (scripts/rally_service.py).
+# Ver docs/INSTALACION_Y_DESPLIEGUE.md
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensamblar sitio estático
+        run: |
+          set -e
+          mkdir -p public
+          # Portada raíz
+          [ -f index.html ] && cp index.html public/ || true
+          [ -f style.css ] && cp style.css public/ || true
+          # Landing pública
+          [ -d site ] && cp -r site public/site || true
+          # Tablero completo, sin capturas de QA ni recursos subidos por usuarios
+          mkdir -p public/dashboard
+          cp -r dashboard/. public/dashboard/
+          rm -rf public/dashboard/shots public/dashboard/assets_uploads
+          # El buzón de propuestas y el espejo de estado son datos del usuario: no se publican
+          rm -rf public/dashboard/data/content public/dashboard/data/state.json public/dashboard/data/applied public/dashboard/data/discarded
+          # Identidad de marca (tokens, paleta, logos)
+          [ -d brand ] && cp -r brand public/brand || true
+          # Módulo Rally Design (editor de carrusel) con la isla de IA configurada
+          if [ -d design ]; then
+            cp -r design public/design
+            rm -rf public/design/_fonttest.html
+          fi
+          # La isla compartida: una sola URL para todas las páginas publicadas.
+          # Si no está definida, el editor funciona igual pero sin IA (modo manual).
+          ISLA="${{ vars.RALLY_AI_BASE_URL }}"
+          MODEL="${{ vars.RALLY_AI_MODEL }}"
+          if [ -z "$MODEL" ]; then MODEL="opencode-go/deepseek-v4.1-flash"; fi
+          if [ -n "$ISLA" ]; then
+            printf 'var RALLY_IA_CONFIG = { base: "%s", dailyQuota: 12, model: "%s" };\n' "$ISLA" "$MODEL" > public/design/config.js
+          fi
+          # Locución y muestras de voz referenciadas por el dashboard
+          [ -d assets ] && cp -r assets public/assets || true
+          # Repositorio de datos que el tablero consulta en runtime
+          [ -d research ] && cp -r research public/research || true
+          # Evita que Jekyll procese los archivos
+          touch public/.nojekyll
+          echo "Archivos publicados:" && find public -maxdepth 2 -type d | sort
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir artefacto
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Desplegar
+        id: deployment
+        uses: actions/deploy-pages@v4

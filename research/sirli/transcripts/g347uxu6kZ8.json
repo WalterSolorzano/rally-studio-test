@@ -1,0 +1,97 @@
+{
+ "video_id": "g347uxu6kZ8",
+ "url": "https://youtu.be/g347uxu6kZ8",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS AMIGOS INNOVADORES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS AMIGOS INNOVADORES",
+   "challenge": "05 - HUERTOS VERTICALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:26:29+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Muchas ciudades y comunidades rurales, la falta de espacio y el desperdicio de agua dificultan producir alimentos frescos. Las familias dependen de mercados externos y la inseguridad alimentaria aumenta cada día. Nuestra solución es un sistema modular de huertos verticales, livianos y de bajo costo que aprovecha de espacios reducidos y reutiliza materiales reciclados. Integra un sistema de riego por goteo con agua recuperada, garantizando eficiencia y sostenibilidad. Cada módulo permite cultivar hortaliza, siervas y plantas medicinales. El diseño optimiza la luz solar y el drenaje y los sustratos orgánicos aseguran alimentos libres de químicos. Todo esto con un mantenimiento sencillo y bajo costo. Lo innovador es que combina sostenibilidad, educación ambiental y participación comunitaria. Cualquier familia, escuela o institución puede instalarlo fomentando la autosuficiencia alimentaria, la cooperación y el cuido del medio ambiente. Con nuestros huertos verticales sostenibles, cada espacio puede convertirse en un lugar para cultivar salud, ahorro y comodidad. Comunicate a la revolución verde y ayúdame a transformar tu entorno.",
+ "segments": [
+  {
+   "start": 1.2,
+   "end": 7.0,
+   "text": "Muchas ciudades y comunidades rurales, la falta de espacio y el desperdicio de agua"
+  },
+  {
+   "start": 7.0,
+   "end": 9.64,
+   "text": "dificultan producir alimentos frescos."
+  },
+  {
+   "start": 9.64,
+   "end": 15.2,
+   "text": "Las familias dependen de mercados externos y la inseguridad alimentaria aumenta cada día."
+  },
+  {
+   "start": 15.2,
+   "end": 22.2,
+   "text": "Nuestra solución es un sistema modular de huertos verticales, livianos y de bajo costo"
+  },
+  {
+   "start": 22.2,
+   "end": 27.2,
+   "text": "que aprovecha de espacios reducidos y reutiliza materiales reciclados."
+  },
+  {
+   "start": 27.2,
+   "end": 35.2,
+   "text": "Integra un sistema de riego por goteo con agua recuperada, garantizando eficiencia y sostenibilidad."
+  },
+  {
+   "start": 35.2,
+   "end": 41.2,
+   "text": "Cada módulo permite cultivar hortaliza, siervas y plantas medicinales."
+  },
+  {
+   "start": 41.2,
+   "end": 49.2,
+   "text": "El diseño optimiza la luz solar y el drenaje y los sustratos orgánicos aseguran alimentos libres de químicos."
+  },
+  {
+   "start": 49.2,
+   "end": 53.2,
+   "text": "Todo esto con un mantenimiento sencillo y bajo costo."
+  },
+  {
+   "start": 53.2,
+   "end": 59.2,
+   "text": "Lo innovador es que combina sostenibilidad, educación ambiental y participación comunitaria."
+  },
+  {
+   "start": 59.2,
+   "end": 66.2,
+   "text": "Cualquier familia, escuela o institución puede instalarlo fomentando la autosuficiencia alimentaria,"
+  },
+  {
+   "start": 66.2,
+   "end": 70.2,
+   "text": "la cooperación y el cuido del medio ambiente."
+  },
+  {
+   "start": 70.2,
+   "end": 79.2,
+   "text": "Con nuestros huertos verticales sostenibles, cada espacio puede convertirse en un lugar para cultivar salud, ahorro y comodidad."
+  },
+  {
+   "start": 79.2,
+   "end": 84.2,
+   "text": "Comunicate a la revolución verde y ayúdame a transformar tu entorno."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 84.5
+}

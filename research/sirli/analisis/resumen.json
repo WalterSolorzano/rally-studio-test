@@ -1,0 +1,121 @@
+{
+  "videos_transcritos": 48,
+  "duracion_media_s": 146,
+  "duracion_mediana_s": 150,
+  "palabras_media": 321,
+  "wpm_medio": 143.3,
+  "marcadores_pct": {
+    "hook_pregunta": {
+      "si": 21,
+      "no": 27,
+      "pct": 43.8
+    },
+    "problema": {
+      "si": 22,
+      "no": 26,
+      "pct": 45.8
+    },
+    "solucion": {
+      "si": 29,
+      "no": 19,
+      "pct": 60.4
+    },
+    "impacto": {
+      "si": 29,
+      "no": 19,
+      "pct": 60.4
+    },
+    "equipo": {
+      "si": 14,
+      "no": 34,
+      "pct": 29.2
+    },
+    "cierre": {
+      "si": 14,
+      "no": 34,
+      "pct": 29.2
+    },
+    "testimonio": {
+      "si": 0,
+      "no": 48,
+      "pct": 0.0
+    },
+    "demo": {
+      "si": 11,
+      "no": 37,
+      "pct": 22.9
+    }
+  },
+  "temas": [
+    [
+      "digital",
+      29
+    ],
+    [
+      "residuos",
+      22
+    ],
+    [
+      "movilidad",
+      21
+    ],
+    [
+      "vivienda",
+      19
+    ],
+    [
+      "agua",
+      18
+    ],
+    [
+      "agro",
+      17
+    ],
+    [
+      "salud",
+      17
+    ],
+    [
+      "energia",
+      14
+    ],
+    [
+      "alimentacion",
+      14
+    ],
+    [
+      "emprendimiento",
+      12
+    ],
+    [
+      "clima",
+      12
+    ],
+    [
+      "educacion",
+      9
+    ],
+    [
+      "turismo",
+      7
+    ],
+    [
+      "genero",
+      1
+    ],
+    [
+      "inclusion",
+      1
+    ]
+  ],
+  "por_coleccion": [
+    [
+      "internacional",
+      42
+    ],
+    [
+      "nacional",
+      6
+    ]
+  ]
+}

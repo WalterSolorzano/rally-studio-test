@@ -1,0 +1,102 @@
+{
+ "video_id": "-IdaQOHVNQk",
+ "url": "https://youtu.be/-IdaQOHVNQk?si=v0DH-21huve3_8vY",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "AGROINNOVA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "AGROINNOVA",
+   "challenge": "05 - HUERTOS VERTICALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:09:32+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada día tenemos menos espacio para producir. La ciudad crece, el clima cambia y la comida se vuelve más escase y cara de producir. Por eso necesitamos nueva forma de producir nuestros alimentos. Incluso desde casa, Aruninoba tiene una solución práctica, eco-vac. Cuartos verticales y estructuras que se pueden construir fácilmente, con materiales y sustratos locales convertidos en sistemas de aire de cultura vertical y se pueden colocar en paredes, balcones y sospeas. Así cualquier familia puede tener su propio huerto sin necesidad de mucho espacio. El sistema permite aprovechar el agua residual proveniente de fregaderos y baños. Esa agua pasará por tratamiento térmico y luego se aplicará como riego a las plantas, además los restos de la cocina, se convierten en un abono orgánico compostado, evitando el desperdicio y la contaminación. Con eco, no solo se cultiva alimentos, también se cultiva con ciencia. Las familias pueden ahorrar dinero, comer productos frescos libre de residuos químicos, al mismo tiempo sostenibles con el ambiente, ayudando a reducir la huea de carbono. Eco-Verm es más que una idea, es una forma de asegurar alimentos sanos, fortalecer a las comunidades y cuidar el planeta. Únete la revolución verde con Abraignova, cultivamos seguridad alimentaria, familia por familia.",
+ "segments": [
+  {
+   "start": 0.18,
+   "end": 5.56,
+   "text": "Cada día tenemos menos espacio para producir. La ciudad crece, el clima cambia y la comida"
+  },
+  {
+   "start": 5.56,
+   "end": 10.96,
+   "text": "se vuelve más escase y cara de producir. Por eso necesitamos nueva forma de producir nuestros"
+  },
+  {
+   "start": 10.96,
+   "end": 17.04,
+   "text": "alimentos. Incluso desde casa, Aruninoba tiene una solución práctica, eco-vac. Cuartos verticales"
+  },
+  {
+   "start": 17.04,
+   "end": 22.04,
+   "text": "y estructuras que se pueden construir fácilmente, con materiales y sustratos locales convertidos"
+  },
+  {
+   "start": 22.04,
+   "end": 26.48,
+   "text": "en sistemas de aire de cultura vertical y se pueden colocar en paredes, balcones"
+  },
+  {
+   "start": 26.48,
+   "end": 31.96,
+   "text": "y sospeas. Así cualquier familia puede tener su propio huerto sin necesidad de mucho espacio."
+  },
+  {
+   "start": 31.96,
+   "end": 37.46,
+   "text": "El sistema permite aprovechar el agua residual proveniente de fregaderos y baños. Esa agua"
+  },
+  {
+   "start": 37.46,
+   "end": 42.4,
+   "text": "pasará por tratamiento térmico y luego se aplicará como riego a las plantas, además"
+  },
+  {
+   "start": 42.4,
+   "end": 48.48,
+   "text": "los restos de la cocina, se convierten en un abono orgánico compostado, evitando el desperdicio"
+  },
+  {
+   "start": 48.48,
+   "end": 53.4,
+   "text": "y la contaminación. Con eco, no solo se cultiva alimentos,"
+  },
+  {
+   "start": 53.4,
+   "end": 58.8,
+   "text": "también se cultiva con ciencia. Las familias pueden ahorrar dinero, comer productos frescos"
+  },
+  {
+   "start": 58.8,
+   "end": 64.44,
+   "text": "libre de residuos químicos, al mismo tiempo sostenibles con el ambiente, ayudando a reducir"
+  },
+  {
+   "start": 64.44,
+   "end": 70.8,
+   "text": "la huea de carbono. Eco-Verm es más que una idea, es una forma de asegurar alimentos"
+  },
+  {
+   "start": 70.8,
+   "end": 76.36,
+   "text": "sanos, fortalecer a las comunidades y cuidar el planeta. Únete la revolución verde"
+  },
+  {
+   "start": 76.36,
+   "end": 81.12,
+   "text": "con Abraignova, cultivamos seguridad alimentaria, familia por familia."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.9
+}

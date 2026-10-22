@@ -1,0 +1,87 @@
+{
+ "video_id": "8FW1m3fa9Ew",
+ "url": "https://youtu.be/8FW1m3fa9Ew?feature=shared",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MENTES ANATÓMICAS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "MENTES ANATÓMICAS",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:49:00+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La acumulación de residuos de podes de biomasas vegetales en zonas urbanas representa un problema ambiental debido a los factores de separación, clasificación y aprovechamiento de estos desechos. Actualmente se desconoce la cantidad de estáctlidos de la biomasa que se genera llenamente, lo que dificulta su reutilización y contribuye a la contaminación y a la obstrucción de drenajes. Ante esta realidad presentamos EcoScanner, una plataforma diseñada para ser utilizada por recolectores terrestros, alcaldías y puladores de la zona urbana, a través de un escenario inquerado en dispositivos móviles. La plataforma permite identificar, quantificar y localizar la biomasa vegetal disponible, facilitando su recolección, clasificación y aprovechamiento. Además, la misma plataforma brinda acceso y hay información práctica sobre qué tipo de producto puede elaborarse en una materia orgánica detectada, ya que sea un COS-POD, MULS, Aguano Líquido o Biogas, promoviendo así un mejor aprovechamiento de los residuos y una gestión más eficiente de la biomasa. Donde todos los bien residuos, mentes anatómicas ven oportunidades con EcoScanner.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "La acumulación de residuos de podes de biomasas vegetales en zonas urbanas representa un problema ambiental debido a los factores de separación,"
+  },
+  {
+   "start": 6.0,
+   "end": 9.0,
+   "text": "clasificación y aprovechamiento de estos desechos."
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "text": "Actualmente se desconoce la cantidad de estáctlidos de la biomasa que se genera llenamente,"
+  },
+  {
+   "start": 12.0,
+   "end": 18.0,
+   "text": "lo que dificulta su reutilización y contribuye a la contaminación y a la obstrucción de drenajes."
+  },
+  {
+   "start": 19.0,
+   "end": 24.0,
+   "text": "Ante esta realidad presentamos EcoScanner, una plataforma diseñada para ser utilizada por recolectores terrestros,"
+  },
+  {
+   "start": 24.0,
+   "end": 29.0,
+   "text": "alcaldías y puladores de la zona urbana, a través de un escenario inquerado en dispositivos móviles."
+  },
+  {
+   "start": 29.0,
+   "end": 34.0,
+   "text": "La plataforma permite identificar, quantificar y localizar la biomasa vegetal disponible,"
+  },
+  {
+   "start": 34.0,
+   "end": 37.0,
+   "text": "facilitando su recolección, clasificación y aprovechamiento."
+  },
+  {
+   "start": 37.0,
+   "end": 45.0,
+   "text": "Además, la misma plataforma brinda acceso y hay información práctica sobre qué tipo de producto puede elaborarse en una materia orgánica detectada,"
+  },
+  {
+   "start": 45.0,
+   "end": 48.0,
+   "text": "ya que sea un COS-POD, MULS, Aguano Líquido o Biogas,"
+  },
+  {
+   "start": 48.0,
+   "end": 53.0,
+   "text": "promoviendo así un mejor aprovechamiento de los residuos y una gestión más eficiente de la biomasa."
+  },
+  {
+   "start": 53.0,
+   "end": 58.0,
+   "text": "Donde todos los bien residuos, mentes anatómicas ven oportunidades con EcoScanner."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 110.3
+}

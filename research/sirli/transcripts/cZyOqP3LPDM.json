@@ -1,0 +1,242 @@
+{
+ "video_id": "cZyOqP3LPDM",
+ "url": "https://youtu.be/cZyOqP3LPDM",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "AGRICATCHMENT",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "AGRICATCHMENT",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:34:54+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Agricatchmen, desde la Universidad Nacional Agraria, Nicaragua. El agua es un recurso esencial para la agricultura, pero el cambio climático está provocando sequías prolongadas que afectan el crecimiento y rendimiento de los cultivos. Una solución eficaz es la construcción de microreservorios. Estos sistemas captan y almacenan agua para usarla durante las sequías, asegurando que los cultivos siguen creciendo de manera eficiente. La construcción sigue tres etapas. Seleccionar la tecnología adecuada, calcular los requerimientos hídricos de los cultivos y utilizar materiales que reduzcan la filtración y la evaporación. La tecnología elegida es un reservorio subterráneo diseñado para captar agua de escorrentía, optimizado para terrenos con inclinaciones leves. Los cultivos trabajados son el maíz el cual requiere 122 litros por planta en todo su ciclo, mientras que el frijol consume 51 litros por planta. En total, se estima un consumo de más de 11.500 litros para ambos cultivos en dos manzanas de terreno, tomando en cuenta la cantidad de plantas. Para reducir la infiltración del agua, usaremos una mezcla de arcilla ventonita, cascara de arroz y rocas que se encuentra dentro de la finca en las paredes del reservorio. Además, la creancia de tilapia ayudará a fertilizar los cultivos. Mientras las plantas medicinales y arbores alrededor del reservorio evitarán la proliferación de mosquitos y reducirán la evaporación. Con estas técnicas, el microreservorio garantiza agua durante la sequía, mejora la productividad agrícola y promueve la sostenibilidad en las fincas. Este es un proyecto que se completará en cinco días, utilizando materiales locales como arcilla, ventonita, cascara de arroz y piedras, junto con mano de obra calificada. Este sistema permitirá un uso eficiente del agua, esencial en tiempos de sequía y está pensado para la mejora de la productividad de sus cultivos.",
+ "segments": [
+  {
+   "start": 0.78,
+   "end": 4.98,
+   "text": "Agricatchmen, desde la Universidad Nacional Agraria, Nicaragua."
+  },
+  {
+   "start": 4.98,
+   "end": 8.28,
+   "text": "El agua es un recurso esencial para la agricultura,"
+  },
+  {
+   "start": 8.28,
+   "end": 11.48,
+   "text": "pero el cambio climático está provocando sequías prolongadas"
+  },
+  {
+   "start": 11.48,
+   "end": 14.78,
+   "text": "que afectan el crecimiento y rendimiento de los cultivos."
+  },
+  {
+   "start": 14.78,
+   "end": 18.28,
+   "text": "Una solución eficaz es la construcción de microreservorios."
+  },
+  {
+   "start": 18.28,
+   "end": 22.78,
+   "text": "Estos sistemas captan y almacenan agua para usarla durante las sequías,"
+  },
+  {
+   "start": 22.78,
+   "end": 26.78,
+   "text": "asegurando que los cultivos siguen creciendo de manera eficiente."
+  },
+  {
+   "start": 26.78,
+   "end": 29.28,
+   "text": "La construcción sigue tres etapas."
+  },
+  {
+   "start": 29.28,
+   "end": 31.28,
+   "text": "Seleccionar la tecnología adecuada,"
+  },
+  {
+   "start": 31.28,
+   "end": 34.28,
+   "text": "calcular los requerimientos hídricos de los cultivos"
+  },
+  {
+   "start": 34.28,
+   "end": 38.28,
+   "text": "y utilizar materiales que reduzcan la filtración y la evaporación."
+  },
+  {
+   "start": 38.28,
+   "end": 41.28,
+   "text": "La tecnología elegida es un reservorio subterráneo"
+  },
+  {
+   "start": 41.28,
+   "end": 43.78,
+   "text": "diseñado para captar agua de escorrentía,"
+  },
+  {
+   "start": 43.78,
+   "end": 46.78,
+   "text": "optimizado para terrenos con inclinaciones leves."
+  },
+  {
+   "start": 46.78,
+   "end": 49.28,
+   "text": "Los cultivos trabajados son el maíz"
+  },
+  {
+   "start": 49.28,
+   "end": 52.78,
+   "text": "el cual requiere 122 litros por planta en todo su ciclo,"
+  },
+  {
+   "start": 52.78,
+   "end": 56.78,
+   "text": "mientras que el frijol consume 51 litros por planta."
+  },
+  {
+   "start": 56.78,
+   "end": 60.28,
+   "text": "En total, se estima un consumo de más de 11.500 litros"
+  },
+  {
+   "start": 60.28,
+   "end": 63.28,
+   "text": "para ambos cultivos en dos manzanas de terreno,"
+  },
+  {
+   "start": 63.28,
+   "end": 66.28,
+   "text": "tomando en cuenta la cantidad de plantas."
+  },
+  {
+   "start": 66.28,
+   "end": 68.28,
+   "text": "Para reducir la infiltración del agua,"
+  },
+  {
+   "start": 68.28,
+   "end": 70.78,
+   "text": "usaremos una mezcla de arcilla ventonita,"
+  },
+  {
+   "start": 70.78,
+   "end": 72.78,
+   "text": "cascara de arroz y rocas que se encuentra"
+  },
+  {
+   "start": 72.78,
+   "end": 75.78,
+   "text": "dentro de la finca en las paredes del reservorio."
+  },
+  {
+   "start": 75.78,
+   "end": 80.28,
+   "text": "Además, la creancia de tilapia ayudará a fertilizar los cultivos."
+  },
+  {
+   "start": 80.28,
+   "end": 82.78,
+   "text": "Mientras las plantas medicinales y arbores"
+  },
+  {
+   "start": 82.78,
+   "end": 84.78,
+   "text": "alrededor del reservorio evitarán"
+  },
+  {
+   "start": 84.78,
+   "end": 86.78,
+   "text": "la proliferación de mosquitos"
+  },
+  {
+   "start": 86.78,
+   "end": 88.78,
+   "text": "y reducirán la evaporación."
+  },
+  {
+   "start": 88.78,
+   "end": 90.78,
+   "text": "Con estas técnicas,"
+  },
+  {
+   "start": 90.78,
+   "end": 92.78,
+   "text": "el microreservorio garantiza agua"
+  },
+  {
+   "start": 92.78,
+   "end": 94.78,
+   "text": "durante la sequía,"
+  },
+  {
+   "start": 94.78,
+   "end": 96.78,
+   "text": "mejora la productividad agrícola"
+  },
+  {
+   "start": 96.78,
+   "end": 98.78,
+   "text": "y promueve la sostenibilidad en las fincas."
+  },
+  {
+   "start": 98.78,
+   "end": 102.78,
+   "text": "Este es un proyecto que se completará en cinco días,"
+  },
+  {
+   "start": 102.78,
+   "end": 104.78,
+   "text": "utilizando materiales locales"
+  },
+  {
+   "start": 104.78,
+   "end": 106.78,
+   "text": "como arcilla, ventonita,"
+  },
+  {
+   "start": 106.78,
+   "end": 108.78,
+   "text": "cascara de arroz y piedras,"
+  },
+  {
+   "start": 108.78,
+   "end": 110.78,
+   "text": "junto con mano de obra calificada."
+  },
+  {
+   "start": 110.78,
+   "end": 113.78,
+   "text": "Este sistema permitirá un uso eficiente del agua,"
+  },
+  {
+   "start": 113.78,
+   "end": 115.78,
+   "text": "esencial en tiempos de sequía"
+  },
+  {
+   "start": 115.78,
+   "end": 117.78,
+   "text": "y está pensado para la mejora"
+  },
+  {
+   "start": 117.78,
+   "end": 119.78,
+   "text": "de la productividad de sus cultivos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.8
+}

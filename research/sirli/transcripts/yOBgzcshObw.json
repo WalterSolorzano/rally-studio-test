@@ -1,0 +1,197 @@
+{
+ "video_id": "yOBgzcshObw",
+ "url": "https://www.youtube.com/watch?v=yOBgzcshObw&feature=youtu.be",
+ "year": 2018,
+ "collection": "internacional",
+ "country": "MÉXICO",
+ "team": "LOGICREATIVE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2018,
+   "collection": "internacional",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOGICREATIVE",
+   "challenge": "06 - BANDEJITAS BIODEGRADABLES PARA ALIMENTOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:16:54+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "LogiCreative es un proyecto dedicado a la creación de una bandeja biodegradable. Una de las principales causas es la contaminación a nivel regional, causado por el uso irresponsable de plásticos debido a que se utilizan para envolver, conservar y distribuir bastantes productos de comida rápida. De igual manera, no tenemos la cultura adecuada para reciclar y hoy en día el plástico y sus derivados se han convertido en enemigos directos de nuestro planeta. Ahora bien, en esta edición del Rallying, seleccionamos el reto de las bandejas para comida rápida con el objetivo de crear un nuevo diseño de materiales biodegradables que puedan cumplir las funciones del actual material y así pueda ser sustituido para poder contribuir gradualmente a minimizar la contaminación de la región. Utilizada para bandejitas de comida rápida la podemos obtener a partir de los residuos de las panaderías del estado de Clascala, las cuales en promedio tienen un desperdicio del 12% aproximadamente de su producción diaria, así como las cáscaras de huevo que son trituradas y convertidas en harina y en conjunto con el suero del queso que funciona como un elastomero, este es muy importante porque brinda propiedades elásticas a la mezcla dando como resultado propiedades y características similares a las bandejas actuales que se utilizan comercialmente para comida rápida, logrando una innovación en utilizar desperdicios de otros procesos para convertirlas en la materia prima principal y creando bandejitas biodegradables. Al conjuntarlos obtenemos una mezcla homogénea, después pasa por un proceso de fermentación y al estar listo se le da una forma a través de la presión hidráulica y por último pasa la etapa final de cocción y enfriamiento, gracias a este proceso se crean bandejitas de comida rápida para poder sustituir las charolas actuales por materiales biodegradables orgánicos y amigables con el medio ambiente. Otro de los objetivos de este proyecto es la concientización del uso de las bandejas biodegradables a través de una campaña que nos permita hacer la comparación del uso del unicell y bandejitas biodegradables, lo que nos da como resultado que el unicell tarda aproximadamente más de 150 años en degradarse a que las bandejas biodegradables que tienen un periodo de vida de tres a seis meses de forma compostal.",
+ "segments": [
+  {
+   "start": 0.37,
+   "end": 5.81,
+   "text": "LogiCreative es un proyecto dedicado a la creación de una bandeja biodegradable."
+  },
+  {
+   "start": 5.81,
+   "end": 11.33,
+   "text": "Una de las principales causas es la contaminación a nivel regional, causado"
+  },
+  {
+   "start": 11.33,
+   "end": 15.45,
+   "text": "por el uso irresponsable de plásticos debido a que se utilizan para"
+  },
+  {
+   "start": 15.45,
+   "end": 20.45,
+   "text": "envolver, conservar y distribuir bastantes productos de comida rápida. De"
+  },
+  {
+   "start": 20.45,
+   "end": 25.13,
+   "text": "igual manera, no tenemos la cultura adecuada para reciclar y hoy en día"
+  },
+  {
+   "start": 25.13,
+   "end": 30.37,
+   "text": "el plástico y sus derivados se han convertido en enemigos directos de"
+  },
+  {
+   "start": 30.37,
+   "end": 34.77,
+   "text": "nuestro planeta. Ahora bien, en esta edición del Rallying, seleccionamos el"
+  },
+  {
+   "start": 34.77,
+   "end": 39.45,
+   "text": "reto de las bandejas para comida rápida con el objetivo de crear un"
+  },
+  {
+   "start": 39.45,
+   "end": 43.93,
+   "text": "nuevo diseño de materiales biodegradables que puedan cumplir las"
+  },
+  {
+   "start": 43.93,
+   "end": 48.61,
+   "text": "funciones del actual material y así pueda ser sustituido para poder"
+  },
+  {
+   "start": 48.61,
+   "end": 53.45,
+   "text": "contribuir gradualmente a minimizar la contaminación de la región."
+  },
+  {
+   "start": 53.89,
+   "end": 58.41,
+   "text": "Utilizada para bandejitas de comida rápida la podemos obtener a partir de"
+  },
+  {
+   "start": 58.41,
+   "end": 63.33,
+   "text": "los residuos de las panaderías del estado de Clascala, las cuales en"
+  },
+  {
+   "start": 63.33,
+   "end": 68.73,
+   "text": "promedio tienen un desperdicio del 12% aproximadamente de su producción"
+  },
+  {
+   "start": 68.73,
+   "end": 73.17,
+   "text": "diaria, así como las cáscaras de huevo que son trituradas y"
+  },
+  {
+   "start": 73.17,
+   "end": 77.73,
+   "text": "convertidas en harina y en conjunto con el suero del queso que funciona"
+  },
+  {
+   "start": 77.73,
+   "end": 81.61,
+   "text": "como un elastomero, este es muy importante porque brinda"
+  },
+  {
+   "start": 81.61,
+   "end": 86.65,
+   "text": "propiedades elásticas a la mezcla dando como resultado propiedades y"
+  },
+  {
+   "start": 86.65,
+   "end": 91.05,
+   "text": "características similares a las bandejas actuales que se utilizan"
+  },
+  {
+   "start": 91.05,
+   "end": 96.41,
+   "text": "comercialmente para comida rápida, logrando una innovación en utilizar"
+  },
+  {
+   "start": 96.41,
+   "end": 100.77,
+   "text": "desperdicios de otros procesos para convertirlas en la materia prima"
+  },
+  {
+   "start": 100.77,
+   "end": 104.33,
+   "text": "principal y creando bandejitas biodegradables."
+  },
+  {
+   "start": 111.61,
+   "end": 116.05,
+   "text": "Al conjuntarlos obtenemos una mezcla homogénea, después pasa por un"
+  },
+  {
+   "start": 116.05,
+   "end": 119.89,
+   "text": "proceso de fermentación y al estar listo se le da una forma a través de"
+  },
+  {
+   "start": 119.89,
+   "end": 124.81,
+   "text": "la presión hidráulica y por último pasa la etapa final de cocción y"
+  },
+  {
+   "start": 124.81,
+   "end": 129.45,
+   "text": "enfriamiento, gracias a este proceso se crean bandejitas de comida rápida"
+  },
+  {
+   "start": 129.45,
+   "end": 134.09,
+   "text": "para poder sustituir las charolas actuales por materiales biodegradables"
+  },
+  {
+   "start": 134.09,
+   "end": 137.33,
+   "text": "orgánicos y amigables con el medio ambiente."
+  },
+  {
+   "start": 138.25,
+   "end": 142.61,
+   "text": "Otro de los objetivos de este proyecto es la concientización del uso de las"
+  },
+  {
+   "start": 142.61,
+   "end": 147.21,
+   "text": "bandejas biodegradables a través de una campaña que nos permita hacer la"
+  },
+  {
+   "start": 147.21,
+   "end": 151.89,
+   "text": "comparación del uso del unicell y bandejitas biodegradables, lo que nos"
+  },
+  {
+   "start": 151.89,
+   "end": 157.37,
+   "text": "da como resultado que el unicell tarda aproximadamente más de 150 años en"
+  },
+  {
+   "start": 157.37,
+   "end": 161.45,
+   "text": "degradarse a que las bandejas biodegradables que tienen un"
+  },
+  {
+   "start": 161.45,
+   "end": 165.21,
+   "text": "periodo de vida de tres a seis meses de forma compostal."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 174.1
+}

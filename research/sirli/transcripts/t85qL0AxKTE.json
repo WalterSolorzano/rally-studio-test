@@ -1,0 +1,87 @@
+{
+ "video_id": "t85qL0AxKTE",
+ "url": "https://youtu.be/t85qL0AxKTE?si=XQ648_j9eP3gu6Cq",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "BIOMENTES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "BIOMENTES",
+   "challenge": "01 - APROVECHAMIENTO TETRA PAK"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:12:12+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Teníamos muy buenos días, somos estudiantes de la Universidad Nacional Comandante Párez Pargarcía Laviana, en Nicaragua, Cúbulo, Bogotá. Nuestro equipo se denomina Biomentes y estamos enfocados en el desafío número 1 del aprovechamiento de trapar. A continuación, explicaremos la elaboración y los pasos. El aprovechamiento del trapar es complicado por la mezcla de materiales y la falta de recursos. Con educación y trabajo en conjunto podemos lograr nuevas cosas y así mismo cuidar el medio ambiente. Nuestro proyecto transforma la caja del trapar en nuele y decoraciones, convirtiendo estos recibidos en productos útiles y sostenibles. La propuesta del aprovechamiento te trata es sostenible porque aplica la economía circular al transformar desechos de materiales reutilizables. Reduce el impacto ambiental y apoyas hasta terminar el proyecto. A continuación, les presentaré un hacho catálogo.",
+ "segments": [
+  {
+   "start": 9.04,
+   "end": 13.68,
+   "text": "Teníamos muy buenos días, somos estudiantes de la Universidad Nacional Comandante Párez"
+  },
+  {
+   "start": 13.68,
+   "end": 17.0,
+   "text": "Pargarcía Laviana, en Nicaragua, Cúbulo, Bogotá."
+  },
+  {
+   "start": 17.0,
+   "end": 23.44,
+   "text": "Nuestro equipo se denomina Biomentes y estamos enfocados en el desafío número 1 del aprovechamiento de trapar."
+  },
+  {
+   "start": 23.44,
+   "end": 29.4,
+   "text": "A continuación, explicaremos la elaboración y los pasos."
+  },
+  {
+   "start": 29.4,
+   "end": 35.4,
+   "text": "El aprovechamiento del trapar es complicado por la mezcla de materiales y la falta de recursos."
+  },
+  {
+   "start": 35.4,
+   "end": 41.8,
+   "text": "Con educación y trabajo en conjunto podemos lograr nuevas cosas y así mismo cuidar el medio ambiente."
+  },
+  {
+   "start": 41.8,
+   "end": 46.76,
+   "text": "Nuestro proyecto transforma la caja del trapar en nuele y decoraciones,"
+  },
+  {
+   "start": 46.76,
+   "end": 51.4,
+   "text": "convirtiendo estos recibidos en productos útiles y sostenibles."
+  },
+  {
+   "start": 51.4,
+   "end": 58.6,
+   "text": "La propuesta del aprovechamiento te trata es sostenible porque aplica la economía circular"
+  },
+  {
+   "start": 58.6,
+   "end": 62.4,
+   "text": "al transformar desechos de materiales reutilizables."
+  },
+  {
+   "start": 62.4,
+   "end": 66.6,
+   "text": "Reduce el impacto ambiental y apoyas hasta terminar el proyecto."
+  },
+  {
+   "start": 66.6,
+   "end": 69.8,
+   "text": "A continuación, les presentaré un hacho catálogo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 84.1
+}

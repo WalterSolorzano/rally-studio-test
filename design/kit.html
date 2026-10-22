@@ -1,0 +1,159 @@
+﻿<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rally Design · Kit de prensa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="kit.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head><body>
+<aside class="sidebar">
+  <div class="logo"><span class="r">RALLY</span><span class="s">STUDIO</span></div>
+  <a href="index.html" title="Carrusel de equipo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg><span class="tip">Carrusel de equipo</span></a>
+  <a class="active" href="kit.html" title="Kit de prensa"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M8 4v5"/></svg><span class="tip">Kit de prensa</span></a>
+  <a href="thumb.html" title="Thumbnail"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="5" width="20" height="14" rx="2"/><polygon points="10,9 16,12 10,15"/></svg><span class="tip">Thumbnail de YouTube</span></a>
+  <div class="spacer"></div>
+  <div class="foot">Rally Studio</div>
+</aside>
+<main>
+
+<header class="top">
+  <div>
+    <div class="page-logo"><span class="r">RALLY</span><span class="s">STUDIO</span></div>
+    <p class="cmd">// RALLY DESIGN · KIT DE PRENSA</p>
+    <h1>Kit de prensa</h1>
+    <p>Identidad visual del equipo: logo, paleta, tipografía H1/H2/H3 y equipo. Exportable. <a href="index.html">← Carrusel de equipo</a> · <a href="thumb.html">Thumbnail →</a></p>
+  </div>
+</header>
+
+<section>
+  <div class="layout">
+    <div class="preview-col">
+      <div class="preview-frame">
+        <div class="kit-card" id="kitPreview">
+          <div class="kit-hdr">
+            <div>
+              <div class="name" id="kitName"></div>
+              <div class="sub" id="kitSub"></div>
+            </div>
+            <div class="logo" id="kitLogo"></div>
+          </div>
+          <div class="kit-body">
+            <div class="kit-section">
+              <h4 style="color:var(--primary)">Logo · variantes de uso</h4>
+              <div class="logo-variants">
+                <div class="logo-box" id="lv1" style="background:var(--primary);color:#fff"></div>
+                <div class="logo-box" id="lv2" style="background:#fff;color:var(--primary);border:1px solid var(--primary)"></div>
+                <div class="logo-box" id="lv3" style="background:var(--navy);color:#fff"></div>
+              </div>
+            </div>
+            <div class="kit-section">
+              <h4 style="color:var(--primary)">Tipografía · H1 / H2 / H3</h4>
+              <div class="fonts">
+                <div class="font-row"><span class="tag">H1</span><span class="sample h1" id="fH1">Título principal del proyecto</span></div>
+                <div class="font-row"><span class="tag">H2</span><span class="sample h2" id="fH2">Sección o subtítulo</span></div>
+                <div class="font-row"><span class="tag">H3</span><span class="sample h3" id="fH3">Bloque o etiqueta</span></div>
+                <div class="font-row"><span class="tag">Body</span><span class="sample body" id="fBody">Texto de párrafo para descripciones y contenido general.</span></div>
+                <div class="font-row"><span class="tag">Mono</span><span class="sample mono" id="fMono">ETIQUETA · CÓDIGO · DATO</span></div>
+              </div>
+            </div>
+            <div class="kit-section">
+              <h4 style="color:var(--primary)">Paleta de marca</h4>
+              <div class="palette-row" id="kitPal"></div>
+            </div>
+            <div class="kit-section">
+              <h4 style="color:var(--primary)">Equipo</h4>
+              <div class="team-grid" id="kitTeam"></div>
+            </div>
+            <div class="kit-section">
+              <h4 style="color:var(--primary)">Bio del equipo</h4>
+              <div class="bio" id="kitBio"></div>
+            </div>
+            <div class="kit-section">
+              <h4 style="color:var(--primary)">Contacto</h4>
+              <div class="contact-grid">
+                <div class="contact-cell uni-cell"><div class="uni-mark" id="kitUniMark"></div><div><div class="lbl">Universidad</div><div class="val" id="kitUni">—</div></div></div>
+                <div class="contact-cell" id="kitCityCell"><div class="lbl">Ciudad</div><div class="val" id="kitCity">—</div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ctrl-col">
+      <details class="ctrl" open>
+        <summary>Identidad</summary>
+        <div class="body">
+          <div class="field"><label>Nombre del equipo</label><input type="text" id="teamName"></div>
+          <div class="field"><label>Logo (iniciales o texto)</label><input type="text" id="logoText"></div>
+          <div class="field">
+            <label>Subir logo (PNG/SVG)</label>
+            <label class="upload-btn" for="logoFile">Seleccionar archivo</label>
+            <input type="file" id="logoFile" accept="image/*" hidden>
+            <span class="upload-name" id="logoFileName">Ningún archivo seleccionado</span>
+          </div>
+          <div class="field"><label>Bio corta</label><textarea id="bio"></textarea></div>
+        </div>
+      </details>
+      <details class="ctrl">
+        <summary>Institución (oculto)</summary>
+        <div class="body">
+          <div class="grid g2 field">
+            <div><label>Universidad</label><input type="text" id="uni"></div>
+            <div><label>Ciudad</label><input type="text" id="city"></div>
+          </div>
+          <p class="note">Por defecto: Universidad Nacional de Ingeniería, sin ciudad. Solo si el equipo usa otra institución.</p>
+        </div>
+      </details>
+      <details class="ctrl">
+        <summary>Paleta</summary>
+        <div class="body">
+          <div class="grid g2">
+            <div><label>Marca</label><input type="color" id="cAc"></div>
+            <div><label>Texto</label><input type="color" id="cInk"></div>
+            <div><label>Suave</label><input type="color" id="cMu"></div>
+            <div><label>Formas</label><input type="color" id="cGl"></div>
+            <div><label>Fondo</label><input type="color" id="cBg"></div>
+            <div><label>Fondo 2</label><input type="color" id="cBg2"></div>
+          </div>
+          <p class="note">Modo propuesta: la IA sugiere paleta a partir del logo. Modo manual: el usuario elige cada color.</p>
+        </div>
+      </details>
+      <details class="ctrl">
+        <summary>Tipografía</summary>
+        <div class="body">
+          <div class="field"><label>Fuente de títulos (H1/H2/H3)</label><select id="fontTitle"></select></div>
+          <div class="field"><label>Fuente de cuerpo</label><select id="fontBody"></select></div>
+          <div class="field"><label>O añadir fuente pública (URL de Google Fonts)</label><input type="text" id="customFontUrl" placeholder="https://fonts.googleapis.com/css2?family=..."></div>
+          <div class="btn-row"><button class="sec" id="addCustomFont">Cargar fuente</button></div>
+        </div>
+      </details>
+      <details class="ctrl">
+        <summary>Exportar kit</summary>
+        <div class="body">
+          <div class="btn-row">
+            <button id="exportPngKit">Exportar PNG</button>
+            <button class="sec" id="exportPdfKit">Exportar PDF</button>
+          </div>
+          <p class="status" id="statusKit"></p>
+        </div>
+      </details>
+      <details class="ctrl">
+        <summary>Ventana</summary>
+        <div class="body">
+          <div class="btn-row"><button class="sec" id="enviarVentana">Enviar logo y paleta a la ventana</button></div>
+          <p class="status" id="statusVentana">Abre este módulo desde http://127.0.0.1:8000/design/kit.html para poder enviar.</p>
+        </div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<script src="shared.js"></script>
+<script src="contenido.js"></script>
+<script src="fonts.js"></script>
+<script src="ventana.js"></script>
+<script src="kit.js"></script>
+</body></html>

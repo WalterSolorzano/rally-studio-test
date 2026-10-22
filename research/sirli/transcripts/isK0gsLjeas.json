@@ -1,0 +1,122 @@
+{
+ "video_id": "isK0gsLjeas",
+ "url": "https://youtu.be/isK0gsLjeas?si=QugGhLBlot0gD9zt",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LUMEN",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LUMEN",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:47:58+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que en algunas ciudades de Latinoamérica más del 40% del agua distribuida no se registra? Mientras miles de familias se enfrentan dificultades para acceder al agua, parte de este recurso se desperdicien fugas invisibles. Pero, y si las soluciones tuvieran ese celular viejo que todos tenemos olvidado en un cajón? Así nace ondacua, un sistema que transforma celulares en desuso en sensores inteligentes, que es capaz de escuchar las vibraciones de las tuberías e identificar posibles fugas de agua. Protegidos por una carcasa impermeable, sujetos a las tuberías mediante abrazaderas metálicas y alimentados por energía solar. Estos dispositivos analizan las vibraciones sin necesidad de internet y envían alertas por SMS. Con un costo de tan solo 100 dólares por acción, ondacua propone ofrecer equipo de monitoreo y servicio de mantenimiento a operadores de agua, municipalidades y organizaciones comunitarias, haciendo más accesible la detección temprana de fugas. Así contribuimos al ODS6, agua limpia y saneamento, promoviendo el uso eficiente del agua y al ODS13, acción por el clima, mediante la reutilización tecnológica, la energía solar y la reducción potencial de desperdicio de recursos. Una solución que nace en Nicaragua con la mirada puesta en toda Latinoamérica porque proteger el agua es un desafío que compartimos millones de personas. Un celular puede quedar en el olvido, pero el agua jamás debería darse por perdida. Suma a tiempo el salón de agua y llevemos la solución a más comunidades.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "¿Sabías que en algunas ciudades de Latinoamérica más del 40% del agua distribuida no se registra?"
+  },
+  {
+   "start": 6.0,
+   "end": 10.0,
+   "text": "Mientras miles de familias se enfrentan dificultades para acceder al agua,"
+  },
+  {
+   "start": 10.0,
+   "end": 13.0,
+   "text": "parte de este recurso se desperdicien fugas invisibles."
+  },
+  {
+   "start": 13.0,
+   "end": 19.0,
+   "text": "Pero, y si las soluciones tuvieran ese celular viejo que todos tenemos olvidado en un cajón?"
+  },
+  {
+   "start": 19.0,
+   "end": 25.0,
+   "text": "Así nace ondacua, un sistema que transforma celulares en desuso en sensores inteligentes,"
+  },
+  {
+   "start": 25.0,
+   "end": 30.0,
+   "text": "que es capaz de escuchar las vibraciones de las tuberías e identificar posibles fugas de agua."
+  },
+  {
+   "start": 30.0,
+   "end": 35.0,
+   "text": "Protegidos por una carcasa impermeable, sujetos a las tuberías mediante abrazaderas metálicas"
+  },
+  {
+   "start": 35.0,
+   "end": 37.0,
+   "text": "y alimentados por energía solar."
+  },
+  {
+   "start": 37.0,
+   "end": 43.0,
+   "text": "Estos dispositivos analizan las vibraciones sin necesidad de internet y envían alertas por SMS."
+  },
+  {
+   "start": 43.0,
+   "end": 49.0,
+   "text": "Con un costo de tan solo 100 dólares por acción, ondacua propone ofrecer equipo de monitoreo"
+  },
+  {
+   "start": 49.0,
+   "end": 54.0,
+   "text": "y servicio de mantenimiento a operadores de agua, municipalidades y organizaciones comunitarias,"
+  },
+  {
+   "start": 54.0,
+   "end": 57.0,
+   "text": "haciendo más accesible la detección temprana de fugas."
+  },
+  {
+   "start": 57.0,
+   "end": 64.0,
+   "text": "Así contribuimos al ODS6, agua limpia y saneamento, promoviendo el uso eficiente del agua"
+  },
+  {
+   "start": 64.0,
+   "end": 70.0,
+   "text": "y al ODS13, acción por el clima, mediante la reutilización tecnológica, la energía solar"
+  },
+  {
+   "start": 70.0,
+   "end": 73.0,
+   "text": "y la reducción potencial de desperdicio de recursos."
+  },
+  {
+   "start": 73.0,
+   "end": 78.0,
+   "text": "Una solución que nace en Nicaragua con la mirada puesta en toda Latinoamérica"
+  },
+  {
+   "start": 78.0,
+   "end": 82.0,
+   "text": "porque proteger el agua es un desafío que compartimos millones de personas."
+  },
+  {
+   "start": 82.0,
+   "end": 87.0,
+   "text": "Un celular puede quedar en el olvido, pero el agua jamás debería darse por perdida."
+  },
+  {
+   "start": 87.0,
+   "end": 92.0,
+   "text": "Suma a tiempo el salón de agua y llevemos la solución a más comunidades."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 92.4
+}

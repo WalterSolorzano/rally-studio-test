@@ -1,0 +1,102 @@
+{
+ "video_id": "VLdBQzkyjDA",
+ "url": "https://youtu.be/VLdBQzkyjDA",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVA TEAM",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "INNOVA TEAM",
+   "challenge": "04 - AGUACATE"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:38:37+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Según el Banco Central de Nicaragua, en el año 2023 se produjeron casi 12 millones de aguacate, de los cuales más de 50% se destinaron para consumo interno, generando grandes cantidades de residuos. Nosotros acá te vamos a presentar un idea innovadora pasada en el aprovechamiento de la semilla y la cáscara del aguacate. Estudios han demostrado que los residuos del aguacate contienen componentes como el tanino que tienen propiedades insecticidas. Nosotros aprovecharemos estas particularidades de la semilla del aguacate para crear un platicida que contribuye en la preservación y el desarrollo de plantas ornamentales y frutales como el limón. Abo Shell apoyará a las personas que necesiten tener sus casas y jardines saludables, así como a los viveros. Este proyecto es completamente artesanal. El proceso de producción consiste en triturar la semilla del aguacate y seguido poner la mezcla resultante a hervir. Para finalmente dejar en reposo durante 12 horas. Su efecto repelente ante los insectos tiene una durabilidad de aproximadamente 4 días y la materia prima se obtendrá a través de alianzas con restaurantes y negocios locales que utilicen la fruta. Uno de los principales atributos que posicionará a Abo Shell en el mercado es su precio, pues este se cotizará por debajo de los insecticidas tradicionales e industriales.",
+ "segments": [
+  {
+   "start": 4.75,
+   "end": 9.51,
+   "text": "Según el Banco Central de Nicaragua, en el año 2023 se produjeron casi 12 millones de"
+  },
+  {
+   "start": 9.51,
+   "end": 14.87,
+   "text": "aguacate, de los cuales más de 50% se destinaron para consumo interno, generando grandes cantidades"
+  },
+  {
+   "start": 14.87,
+   "end": 19.35,
+   "text": "de residuos. Nosotros acá te vamos a presentar un idea innovadora pasada en el aprovechamiento"
+  },
+  {
+   "start": 19.35,
+   "end": 23.47,
+   "text": "de la semilla y la cáscara del aguacate. Estudios han demostrado que los residuos"
+  },
+  {
+   "start": 23.47,
+   "end": 28.43,
+   "text": "del aguacate contienen componentes como el tanino que tienen propiedades insecticidas."
+  },
+  {
+   "start": 28.43,
+   "end": 32.63,
+   "text": "Nosotros aprovecharemos estas particularidades de la semilla del aguacate para crear"
+  },
+  {
+   "start": 32.63,
+   "end": 37.59,
+   "text": "un platicida que contribuye en la preservación y el desarrollo de plantas ornamentales y frutales"
+  },
+  {
+   "start": 37.59,
+   "end": 43.19,
+   "text": "como el limón. Abo Shell apoyará a las personas que necesiten tener sus casas y jardines saludables,"
+  },
+  {
+   "start": 43.19,
+   "end": 48.71,
+   "text": "así como a los viveros. Este proyecto es completamente artesanal. El proceso de"
+  },
+  {
+   "start": 48.71,
+   "end": 53.59,
+   "text": "producción consiste en triturar la semilla del aguacate y seguido poner la mezcla resultante"
+  },
+  {
+   "start": 53.59,
+   "end": 58.95,
+   "text": "a hervir. Para finalmente dejar en reposo durante 12 horas. Su efecto repelente ante"
+  },
+  {
+   "start": 58.95,
+   "end": 65.43,
+   "text": "los insectos tiene una durabilidad de aproximadamente 4 días y la materia prima se obtendrá a través"
+  },
+  {
+   "start": 65.43,
+   "end": 71.23,
+   "text": "de alianzas con restaurantes y negocios locales que utilicen la fruta. Uno de los principales"
+  },
+  {
+   "start": 71.23,
+   "end": 76.43,
+   "text": "atributos que posicionará a Abo Shell en el mercado es su precio, pues este se cotizará"
+  },
+  {
+   "start": 76.43,
+   "end": 79.75,
+   "text": "por debajo de los insecticidas tradicionales e industriales."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 87.6
+}

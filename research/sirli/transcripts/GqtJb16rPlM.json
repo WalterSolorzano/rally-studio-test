@@ -1,0 +1,122 @@
+{
+ "video_id": "GqtJb16rPlM",
+ "url": "https://youtu.be/GqtJb16rPlM?si=a7Mp1zDo-slVTbq9",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "EFFICIENT FORCE",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "EFFICIENT FORCE",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:18:04+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Tras un desastre natural, las comunidades rurales enfrentan su momento más crítico. Cuando el internet y las comunicaciones fallan, obtener información clara sobre quiénes necesitan ayuda y qué suministro se requieren se vuelve casi imposible. Esto provoca retrasos, duplicación de entregas y lo más grave, el olvido de las zonas más aisladas. Para resolver esto, creamos BRISA, la combinación entre voluntariado comunitario y una aplicación web diseñada para operar sin conexión a internet. En el lugar de los hechos, los voluntarios registran familias afectadas, necesidades y recursos disponibles localmente. Al recuperar la señal, los datos se sincronizan de forma segura para apoyar la toma de decisiones de CinaPred, Cruz Blanca, Defensa Civil y Alcaldías. Lo que hace única a BRISA es su análisis inteligente. Evalúa la gravedad, la vulnerabilidad y el tiempo de espera para recomendar prioridades claras de distribución. Además, identifica alertas de reportes duplicados y nos advierte sobre comunidades silenciosas, evitando a sumir que la falta de señal significa ausencia de riesgo. BRISA genera un impacto integral, garantiza ayuda equitativa y transparente en lo social, mientras que en lo ambiental reduce la huella de carbono al optimizar las rutas de transporte, evite el vencimiento de insumos y elimina el uso de papel mediante la digitalización. Basada en software libre, participación comunitaria y respeto al marco legal, BRISA pone la tecnología al servicio de la vida. BRISA, información confiable para responder donde más se necesita.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "Tras un desastre natural, las comunidades rurales enfrentan su momento más crítico."
+  },
+  {
+   "start": 6.0,
+   "end": 14.0,
+   "text": "Cuando el internet y las comunicaciones fallan, obtener información clara sobre quiénes necesitan ayuda"
+  },
+  {
+   "start": 14.0,
+   "end": 18.0,
+   "text": "y qué suministro se requieren se vuelve casi imposible."
+  },
+  {
+   "start": 18.0,
+   "end": 25.0,
+   "text": "Esto provoca retrasos, duplicación de entregas y lo más grave, el olvido de las zonas más aisladas."
+  },
+  {
+   "start": 25.0,
+   "end": 30.0,
+   "text": "Para resolver esto, creamos BRISA, la combinación entre voluntariado comunitario"
+  },
+  {
+   "start": 30.0,
+   "end": 35.0,
+   "text": "y una aplicación web diseñada para operar sin conexión a internet."
+  },
+  {
+   "start": 35.0,
+   "end": 43.0,
+   "text": "En el lugar de los hechos, los voluntarios registran familias afectadas, necesidades y recursos disponibles localmente."
+  },
+  {
+   "start": 43.0,
+   "end": 50.0,
+   "text": "Al recuperar la señal, los datos se sincronizan de forma segura para apoyar la toma de decisiones de CinaPred,"
+  },
+  {
+   "start": 50.0,
+   "end": 53.0,
+   "text": "Cruz Blanca, Defensa Civil y Alcaldías."
+  },
+  {
+   "start": 53.0,
+   "end": 57.0,
+   "text": "Lo que hace única a BRISA es su análisis inteligente."
+  },
+  {
+   "start": 57.0,
+   "end": 64.0,
+   "text": "Evalúa la gravedad, la vulnerabilidad y el tiempo de espera para recomendar prioridades claras de distribución."
+  },
+  {
+   "start": 64.0,
+   "end": 70.0,
+   "text": "Además, identifica alertas de reportes duplicados y nos advierte sobre comunidades silenciosas,"
+  },
+  {
+   "start": 70.0,
+   "end": 75.0,
+   "text": "evitando a sumir que la falta de señal significa ausencia de riesgo."
+  },
+  {
+   "start": 75.0,
+   "end": 81.0,
+   "text": "BRISA genera un impacto integral, garantiza ayuda equitativa y transparente en lo social,"
+  },
+  {
+   "start": 81.0,
+   "end": 86.0,
+   "text": "mientras que en lo ambiental reduce la huella de carbono al optimizar las rutas de transporte,"
+  },
+  {
+   "start": 86.0,
+   "end": 91.0,
+   "text": "evite el vencimiento de insumos y elimina el uso de papel mediante la digitalización."
+  },
+  {
+   "start": 91.0,
+   "end": 96.0,
+   "text": "Basada en software libre, participación comunitaria y respeto al marco legal,"
+  },
+  {
+   "start": 96.0,
+   "end": 100.0,
+   "text": "BRISA pone la tecnología al servicio de la vida."
+  },
+  {
+   "start": 100.0,
+   "end": 105.0,
+   "text": "BRISA, información confiable para responder donde más se necesita."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 104.9
+}

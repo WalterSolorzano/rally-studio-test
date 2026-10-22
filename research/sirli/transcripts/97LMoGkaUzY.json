@@ -1,0 +1,112 @@
+{
+ "video_id": "97LMoGkaUzY",
+ "url": "https://youtu.be/97LMoGkaUzY",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CAPIBARA SOLUTIONS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "CAPIBARA SOLUTIONS",
+   "challenge": "08 - REDUCCIÓN DE DESPERDICIOS ALIMENTARIOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:47:16+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada año, se estiman que se deshecha más de 200 billones de toneladas de alimento al año en el sector gastronómico y de supermercados en Latinoamérica. Este problema no solo afecta al medio ambiente, sino que también deja muchas familias de escasos recursos en situación de vulnerabilidad sin acceso al alimento. En un mundo donde la falta de alimento sigue siendo una realidad para muchos, debemos encontrar soluciones efectivas para redirigir estos recursos valiosos que se deshechan. Presentamos Byte Now, una aplicación que conecta supermercados y restaurantes con ONG y bancos de alimentos. Esta plataforma permite gestionar y redistribuir alimentos excedentes garantizando un vocado para las poblaciones más vulnerables. Los restaurantes y supermercados se registran en la aplicación, creando un perfil con información sobre los alimentos disponibles para donar. Cuando hay excedentes, los usuarios reciben una notificación para informar sobre los alimentos disponibles. Las ONG y bancos de alimentos también están registrados y reciben alertas sobre las donaciones disponibles en su área. Una vez que una ONG se conecta, pueden coordinar la recolocación de los alimentos y asegurarse de que lleguen a las comunidades necesitadas. Con Byte Now, no solo reducimos el desperdicio alimentario, sino que también creamos alianzas sociales, mejorando el acceso a alimentos y apoyando a quienes más lo necesitan.",
+ "segments": [
+  {
+   "start": 2.06,
+   "end": 9.66,
+   "text": "Cada año, se estiman que se deshecha más de 200 billones de toneladas de alimento al año"
+  },
+  {
+   "start": 9.66,
+   "end": 14.14,
+   "text": "en el sector gastronómico y de supermercados en Latinoamérica."
+  },
+  {
+   "start": 14.14,
+   "end": 19.18,
+   "text": "Este problema no solo afecta al medio ambiente, sino que también deja muchas familias de"
+  },
+  {
+   "start": 19.18,
+   "end": 24.86,
+   "text": "escasos recursos en situación de vulnerabilidad sin acceso al alimento."
+  },
+  {
+   "start": 24.86,
+   "end": 30.5,
+   "text": "En un mundo donde la falta de alimento sigue siendo una realidad para muchos, debemos"
+  },
+  {
+   "start": 30.5,
+   "end": 37.5,
+   "text": "encontrar soluciones efectivas para redirigir estos recursos valiosos que se deshechan."
+  },
+  {
+   "start": 37.5,
+   "end": 45.98,
+   "text": "Presentamos Byte Now, una aplicación que conecta supermercados y restaurantes con ONG y bancos"
+  },
+  {
+   "start": 45.98,
+   "end": 54.18,
+   "text": "de alimentos. Esta plataforma permite gestionar y redistribuir alimentos excedentes garantizando"
+  },
+  {
+   "start": 54.18,
+   "end": 57.06,
+   "text": "un vocado para las poblaciones más vulnerables."
+  },
+  {
+   "start": 58.02,
+   "end": 64.74,
+   "text": "Los restaurantes y supermercados se registran en la aplicación, creando un perfil con información"
+  },
+  {
+   "start": 64.74,
+   "end": 70.62,
+   "text": "sobre los alimentos disponibles para donar. Cuando hay excedentes, los usuarios reciben"
+  },
+  {
+   "start": 70.62,
+   "end": 77.26,
+   "text": "una notificación para informar sobre los alimentos disponibles. Las ONG y bancos de"
+  },
+  {
+   "start": 77.26,
+   "end": 82.78,
+   "text": "alimentos también están registrados y reciben alertas sobre las donaciones disponibles"
+  },
+  {
+   "start": 82.78,
+   "end": 90.34,
+   "text": "en su área. Una vez que una ONG se conecta, pueden coordinar la recolocación de los alimentos"
+  },
+  {
+   "start": 90.34,
+   "end": 94.62,
+   "text": "y asegurarse de que lleguen a las comunidades necesitadas."
+  },
+  {
+   "start": 94.62,
+   "end": 101.78,
+   "text": "Con Byte Now, no solo reducimos el desperdicio alimentario, sino que también creamos alianzas"
+  },
+  {
+   "start": 101.78,
+   "end": 107.46,
+   "text": "sociales, mejorando el acceso a alimentos y apoyando a quienes más lo necesitan."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 109.2
+}

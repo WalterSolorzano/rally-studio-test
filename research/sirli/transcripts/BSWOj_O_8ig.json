@@ -1,0 +1,117 @@
+{
+ "video_id": "BSWOj_O_8ig",
+ "url": "https://youtu.be/BSWOj_O_8ig",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NEX_MASTER'S",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NEX_MASTER'S",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:51:03+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imagina estar a ciegas en un entorno que no está diseñado para ti. Solo en Nicaragua existen alrededor de 42.000 personas con dificultad visuales que a diario enfrentan problemas para su autonomía. En América Latina más de 1,3 millones de toneladas de basura electrónica se desechan al año. ¿Qué pasaría si la solución a esta barrera social estuviera oculta en lo que conocemos como basura electrónica? Es por esto que presentamos SenseVivance, un dispositivo inteligente de bajo costo adaptable a GAFA para personas con discapacidad o deficiencia visual. El artefacto se elabora parcialmente mediante la reutilización de componentes electrónicos y sensores recuperados de celulares en desuso, los cuales son tediños mediante una campaña comunitaria de recolección para conseguir la materia prima. El funcionamiento del dispositivo se basa en un arduino que integra una cámara y un sensor capazes de detectar objetos cercanos y cubriendo los puntos ciego aéreos que el bastón convencional no detecta. Al estar ergonómicamente adaptado al marco de las grafas, el módulo de sensores captura continuamente el entorno a la altura del rostro y del torso del usuario, identificando en tiempo real ramas, letreros, bordes y estructuras voladizas que representan un peligro constante durante el desplazamiento. Una vez detectada la presencia de un obstáculo, el sistema procesa instantáneamente las lecturas de distancia e imagen para enviar las señales de alerta hacia la aplicación móvil, garantizando un tiempo de respuesta inmediato para la protección del usuario. A través de su asistente de voz Jade. Hola, soy Jade, donde las grafas y empiezan. La aplicación interpreta la información del entorno, identifica obstáculos y comunica alertas mediante instrucciones e indicaciones auditivas precisas, contribuyendo a una movilidad más autónoma y segura. La verdadera innovación no solo crea tecnología avanzada. Si no crea, se. Quiena dice que de atrás.",
+ "segments": [
+  {
+   "start": 0.08,
+   "end": 6.08,
+   "text": "Imagina estar a ciegas en un entorno que no está diseñado para ti."
+  },
+  {
+   "start": 6.08,
+   "end": 14.08,
+   "text": "Solo en Nicaragua existen alrededor de 42.000 personas con dificultad visuales que a diario enfrentan problemas para su autonomía."
+  },
+  {
+   "start": 14.08,
+   "end": 21.08,
+   "text": "En América Latina más de 1,3 millones de toneladas de basura electrónica se desechan al año."
+  },
+  {
+   "start": 21.08,
+   "end": 27.08,
+   "text": "¿Qué pasaría si la solución a esta barrera social estuviera oculta en lo que conocemos como basura electrónica?"
+  },
+  {
+   "start": 27.08,
+   "end": 36.08,
+   "text": "Es por esto que presentamos SenseVivance, un dispositivo inteligente de bajo costo adaptable a GAFA para personas con discapacidad o deficiencia visual."
+  },
+  {
+   "start": 36.08,
+   "end": 44.08,
+   "text": "El artefacto se elabora parcialmente mediante la reutilización de componentes electrónicos y sensores recuperados de celulares en desuso,"
+  },
+  {
+   "start": 44.08,
+   "end": 50.08,
+   "text": "los cuales son tediños mediante una campaña comunitaria de recolección para conseguir la materia prima."
+  },
+  {
+   "start": 50.08,
+   "end": 63.08,
+   "text": "El funcionamiento del dispositivo se basa en un arduino que integra una cámara y un sensor capazes de detectar objetos cercanos y cubriendo los puntos ciego aéreos que el bastón convencional no detecta."
+  },
+  {
+   "start": 63.08,
+   "end": 73.08,
+   "text": "Al estar ergonómicamente adaptado al marco de las grafas, el módulo de sensores captura continuamente el entorno a la altura del rostro y del torso del usuario,"
+  },
+  {
+   "start": 73.08,
+   "end": 83.08,
+   "text": "identificando en tiempo real ramas, letreros, bordes y estructuras voladizas que representan un peligro constante durante el desplazamiento."
+  },
+  {
+   "start": 83.08,
+   "end": 96.08,
+   "text": "Una vez detectada la presencia de un obstáculo, el sistema procesa instantáneamente las lecturas de distancia e imagen para enviar las señales de alerta hacia la aplicación móvil,"
+  },
+  {
+   "start": 96.08,
+   "end": 101.08,
+   "text": "garantizando un tiempo de respuesta inmediato para la protección del usuario."
+  },
+  {
+   "start": 101.08,
+   "end": 104.08,
+   "text": "A través de su asistente de voz Jade."
+  },
+  {
+   "start": 104.08,
+   "end": 107.08,
+   "text": "Hola, soy Jade, donde las grafas y empiezan."
+  },
+  {
+   "start": 107.08,
+   "end": 122.08,
+   "text": "La aplicación interpreta la información del entorno, identifica obstáculos y comunica alertas mediante instrucciones e indicaciones auditivas precisas, contribuyendo a una movilidad más autónoma y segura."
+  },
+  {
+   "start": 122.08,
+   "end": 125.08,
+   "text": "La verdadera innovación no solo crea tecnología avanzada."
+  },
+  {
+   "start": 125.08,
+   "end": 126.08,
+   "text": "Si no crea, se."
+  },
+  {
+   "start": 126.08,
+   "end": 128.08,
+   "text": "Quiena dice que de atrás."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 131.6
+}

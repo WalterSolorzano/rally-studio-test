@@ -1,0 +1,137 @@
+{
+ "video_id": "evimJRA9fC4",
+ "url": "https://youtu.be/evimJRA9fC4",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "EDÉN",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "EDÉN",
+   "challenge": "05 - HUERTOS VERTICALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:16:28+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En las ciudades el espacio y el agua son recursos que cada vez se vuelven más escasos. Cada vez más personas viven en departamentos, juguas edificios, simpatios y jardines, donde cultivar alimentos parece cada vez más imposible. La falta de la verde, la escasez de agua y el difícil acceso a tecnología sostenible impide que la familia urbana desarrolla en sus cultivos de manera sostenible. Además, los huertos tradicionales ocupan demasiadas vacias y requieren mantenimiento constante, lo que los hace poco adecuados para la vida en los edificios. Nuestra solución es un vertiguerto, un sistema modular de huerto hidropónico vertical que ahorra agua y se adapta a cualquier espacio urbano. Funciona como un circuito cerrado de recirculación. El agua que baja por gravedad se filtra y vuelve a subir mediante una bomba de bajo consumo. Con vertiguerto a cualquier pared o arco puede convertirse en una cuenta de vida. Reducimos el consumo de agua hasta en un 70%. Promovemos la reutilización de materiales y generamos alimentos frescos desde casa. Está derecho con materiales livianos y sostenibles, además que cuentan con ruedas para que se pueda movilizar y cambiar de posición según el sol y las lluvias. Así que cada persona cuenta con su propio huerto sostenible sin importar dónde diga. Nuestro vertiguerto es una propuesta creada, económica, accesible y principalmente replicable para aquellas ciudades que buscan ser a largo plazo sostenibles. Cada modelo cuesta menos de 30 dólares y puede ser fácilmente instalado en balcones, techos o muros. Puede ser instalada la cantidad necesaria de vertiguerto según la capacidad de espacio. Queremos llevar la agricultura urbana a todos los hogares y construir un futuro más verde.",
+ "segments": [
+  {
+   "start": 0.69,
+   "end": 12.61,
+   "text": "En las ciudades el espacio y el agua son recursos que cada vez se vuelven más escasos."
+  },
+  {
+   "start": 13.61,
+   "end": 18.61,
+   "text": "Cada vez más personas viven en departamentos, juguas edificios, simpatios y jardines,"
+  },
+  {
+   "start": 18.61,
+   "end": 21.61,
+   "text": "donde cultivar alimentos parece cada vez más imposible."
+  },
+  {
+   "start": 21.61,
+   "end": 27.61,
+   "text": "La falta de la verde, la escasez de agua y el difícil acceso a tecnología sostenible"
+  },
+  {
+   "start": 27.61,
+   "end": 32.61,
+   "text": "impide que la familia urbana desarrolla en sus cultivos de manera sostenible."
+  },
+  {
+   "start": 32.61,
+   "end": 35.61,
+   "text": "Además, los huertos tradicionales ocupan demasiadas vacias"
+  },
+  {
+   "start": 35.61,
+   "end": 40.61,
+   "text": "y requieren mantenimiento constante, lo que los hace poco adecuados para la vida en los edificios."
+  },
+  {
+   "start": 40.61,
+   "end": 45.61,
+   "text": "Nuestra solución es un vertiguerto, un sistema modular de huerto hidropónico vertical"
+  },
+  {
+   "start": 45.61,
+   "end": 48.61,
+   "text": "que ahorra agua y se adapta a cualquier espacio urbano."
+  },
+  {
+   "start": 48.61,
+   "end": 51.61,
+   "text": "Funciona como un circuito cerrado de recirculación."
+  },
+  {
+   "start": 51.61,
+   "end": 57.61,
+   "text": "El agua que baja por gravedad se filtra y vuelve a subir mediante una bomba de bajo consumo."
+  },
+  {
+   "start": 57.61,
+   "end": 61.61,
+   "text": "Con vertiguerto a cualquier pared o arco puede convertirse en una cuenta de vida."
+  },
+  {
+   "start": 61.61,
+   "end": 64.61,
+   "text": "Reducimos el consumo de agua hasta en un 70%."
+  },
+  {
+   "start": 64.61,
+   "end": 69.61,
+   "text": "Promovemos la reutilización de materiales y generamos alimentos frescos desde casa."
+  },
+  {
+   "start": 69.61,
+   "end": 73.61,
+   "text": "Está derecho con materiales livianos y sostenibles,"
+  },
+  {
+   "start": 73.61,
+   "end": 79.61,
+   "text": "además que cuentan con ruedas para que se pueda movilizar y cambiar de posición según el sol y las lluvias."
+  },
+  {
+   "start": 79.61,
+   "end": 85.61,
+   "text": "Así que cada persona cuenta con su propio huerto sostenible sin importar dónde diga."
+  },
+  {
+   "start": 85.61,
+   "end": 92.61,
+   "text": "Nuestro vertiguerto es una propuesta creada, económica, accesible y principalmente replicable"
+  },
+  {
+   "start": 92.61,
+   "end": 96.61,
+   "text": "para aquellas ciudades que buscan ser a largo plazo sostenibles."
+  },
+  {
+   "start": 96.61,
+   "end": 102.61,
+   "text": "Cada modelo cuesta menos de 30 dólares y puede ser fácilmente instalado en balcones, techos o muros."
+  },
+  {
+   "start": 102.61,
+   "end": 107.61,
+   "text": "Puede ser instalada la cantidad necesaria de vertiguerto según la capacidad de espacio."
+  },
+  {
+   "start": 107.61,
+   "end": 113.61,
+   "text": "Queremos llevar la agricultura urbana a todos los hogares y construir un futuro más verde."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 114.6
+}

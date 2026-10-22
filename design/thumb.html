@@ -1,0 +1,174 @@
+﻿<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rally Design · Thumbnail de YouTube</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="kit.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head><body>
+<aside class="sidebar">
+  <div class="logo"><span class="r">RALLY</span><span class="s">STUDIO</span></div>
+  <a href="index.html" title="Carrusel de equipo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg><span class="tip">Carrusel de equipo</span></a>
+  <a href="kit.html" title="Kit de prensa"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M8 4v5"/></svg><span class="tip">Kit de prensa</span></a>
+  <a class="active" href="thumb.html" title="Thumbnail"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="5" width="20" height="14" rx="2"/><polygon points="10,9 16,12 10,15"/></svg><span class="tip">Thumbnail de YouTube</span></a>
+  <a href="impacto.html" title="Impacto y Plan País"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.6"/></svg><span class="tip">Impacto y Plan País</span></a>
+  <div class="spacer"></div>
+  <div class="foot">Rally Studio</div>
+</aside>
+<main>
+
+<header class="top">
+  <div>
+    <div class="page-logo"><span class="r">RALLY</span><span class="s">STUDIO</span></div>
+    <p class="cmd">// RALLY DESIGN · THUMBNAIL</p>
+    <h1>Thumbnail de YouTube</h1>
+    <p>Portada del video final. Comparte la identidad del proyecto. <a href="kit.html">← Kit de prensa</a></p>
+  </div>
+</header>
+
+<section>
+  <div class="layout">
+    <div class="preview-col">
+      <div class="preview-frame">
+        <div class="thumb-stage" id="thumbStage">
+          <div class="thumb-card" id="thumbPreview" data-style="editorial">
+            <div class="bg"></div>
+            <div class="mapni"></div>
+            <div class="bar"></div>
+            <div class="top-row">
+              <div class="brand">
+                <div class="brand-text">
+                  <span class="teamname"></span>
+                </div>
+              </div>
+              <span class="ribbon"></span>
+            </div>
+            <div class="title"></div>
+            <div class="footbar">
+              <div class="sig">
+                <span class="sig-item sig-team"><span class="sig-logo"></span></span>
+                <span class="sig-item sig-event"></span>
+                <span class="sig-item sig-uni"><span class="unilogo"></span><span class="uniname"></span></span>
+              </div>
+              <div class="meta-stack">
+                <span class="kicker"></span>
+                <span class="meta"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ctrl-col">
+      <details class="ctrl" open>
+        <summary>Certamen</summary>
+        <div class="body">
+          <div class="field">
+            <label>Logos del certamen</label>
+            <div class="logo-choices" id="thRallyChoices" role="group" aria-label="Certamen"></div>
+          </div>
+          <!-- Oculto a pedido: los logos y sus controles se resuelven solos
+               (certamen, kit de prensa y UNI Nicaragua). Se conservan por si
+               hay que reactivarlos. -->
+          <div class="field" hidden>
+            <label class="check"><input type="checkbox" id="thShowEvent"> Mostrar el logo del evento en la portada</label>
+            <label class="check"><input type="checkbox" id="thWatermark"> Marca "Rally Studio" al exportar</label>
+          </div>
+          <div class="field" hidden>
+            <label>Logo del evento</label>
+            <div class="logo-pick">
+              <span class="logo-thumb" id="thEventPreview"></span>
+              <div class="logo-pick-side">
+                <label class="upload-btn" for="thEventFile">Cambiar logo</label>
+                <input type="file" id="thEventFile" accept="image/*" hidden>
+                <button type="button" class="sec" id="thEventReset">Usar el logo del evento</button>
+                <span class="upload-name" id="thEventFileName">Logo oficial del certamen</span>
+              </div>
+            </div>
+          </div>
+          <div class="field" hidden>
+            <label>Logo del equipo</label>
+            <div class="logo-pick">
+              <span class="logo-thumb" id="thTeamPreview"></span>
+              <div class="logo-pick-side">
+                <label class="upload-btn" for="thTeamFile">Cambiar logo</label>
+                <input type="file" id="thTeamFile" accept="image/*" hidden>
+                <button type="button" class="sec" id="thTeamReset">Usar el del kit de prensa</button>
+                <span class="upload-name" id="thTeamFileName">Viene del kit de prensa</span>
+              </div>
+            </div>
+          </div>
+          <div class="field" hidden>
+            <label>Logo de la universidad</label>
+            <div class="logo-pick">
+              <span class="logo-thumb" id="thUniPreview"></span>
+              <div class="logo-pick-side">
+                <label class="upload-btn" for="thUniFile">Cambiar logo</label>
+                <input type="file" id="thUniFile" accept="image/*" hidden>
+                <button type="button" class="sec" id="thUniReset">Usar el de la universidad</button>
+                <span class="upload-name" id="thUniFileName">Del contenido del proyecto</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </details>
+      <details class="ctrl" open>
+        <summary>Estilo del thumbnail</summary>
+        <div class="body">
+          <div class="chip-row" id="thPresetRow"></div>
+          <p class="note" id="thPresetNote"></p>
+        </div>
+      </details>
+      <details class="ctrl" open>
+        <summary>Contenido del thumbnail</summary>
+        <div class="body">
+          <div class="field"><label>Título (≤ 60 chars)</label><input type="text" id="thTitleInput"></div>
+          <div class="field"><label>Palabra destacada (acento)</label><input type="text" id="thEm"></div>
+          <div class="field"><label>Subtítulo / promesa</label><input type="text" id="thSub"></div>
+          <div class="field"><label>Kicker (editable)</label><input type="text" id="thKickerInput"></div>
+          <div class="field"><label>Reto (etiqueta de la esquina)</label><input type="text" id="thRetoInput"></div>
+        </div>
+      </details>
+      <details class="ctrl">
+        <summary>Exportar thumbnail</summary>
+        <div class="body">
+          <div class="btn-row">
+            <button id="exportPngThumb">Exportar PNG</button>
+            <button class="sec" id="exportPdfThumb">Exportar PDF</button>
+          </div>
+          <p class="status" id="statusThumb"></p>
+        </div>
+      </details>
+      <details class="ctrl">
+        <summary>Leyes de diseño</summary>
+        <div class="body">
+          <ul class="laws">
+            <li><b>Un solo acento.</b> El color de acento marca una sola palabra, en bloque sólido. Nada más compite con el titular.</li>
+            <li><b>Contraste antes que color.</b> Texto blanco sobre tinta, o tinta sobre papel. Nunca tinta sobre tinta.</li>
+            <li><b>Jerarquía en tres pasos.</b> Titular, luego línea de apoyo, luego metadatos. Cada uno más pequeño y más callado.</li>
+            <li><b>El territorio no se disfraza.</b> El mapa de Nicaragua usa un tono de la paleta distinto del fondo y del del acento: nunca compite con la palabra destacada.</li>
+            <li><b>Área segura.</b> Todo el texto vive dentro del recuadro útil: nada pegado al borde, nada bajo el botón de la plataforma.</li>
+            <li><b>Sin adornos neutrales.</b> Sin degradados de revista, sin sombras difusas, sin grillas decorativas: estructura o nada.</li>
+            <li><b>La marca manda.</b> El logo del grupo se muestra como es; si no hay logo, la marca por defecto es neutra.</li>
+            <li><b>Una idea por portada.</b> Si no se entiende en un segundo y a un quinto de tamaño, sobra algo.</li>
+            <li><b>Los tres logos al mismo nivel.</b> Equipo, certamen y universidad comparten banda, altura y línea de base: son institutionales, no jerarquías.</li>
+            <li><b>El evento se identifica una vez.</b> Logo del certamen o etiqueta de texto, nunca los dos: repetir el mismo dato es ruido.</li>
+            <li><b>Una banda de papel.</b> La firma vive en una franja blanca al pie: la portada se lee como prensa, no como diapositiva.</li>
+            <li><b>Dos tipografías, tres tamaños.</b> Titular, apoyo y metadatos. Una familia display para el titular y una de texto para lo demás.</li>
+            <li><b>El logo se usa como es.</b> Sin recortes, sin recolorear, sin deformar: se sube o se toma el oficial del certamen.</li>
+          </ul>
+        </div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<script src="shared.js"></script>
+<script src="contenido.js"></script>
+<script src="fonts.js"></script>
+<script src="mapa_ni.js"></script>
+<script src="thumb.js"></script>
+</body></html>

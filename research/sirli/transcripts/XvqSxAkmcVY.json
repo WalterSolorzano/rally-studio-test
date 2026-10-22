@@ -1,0 +1,132 @@
+{
+ "video_id": "XvqSxAkmcVY",
+ "url": "https://youtu.be/XvqSxAkmcVY",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVITA KAIROS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INNOVITA KAIROS",
+   "challenge": "01 - SEGUNDA VIDA DE LOS MOTORES ELÉCTRICOS DOMÉSTICOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:41:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En el campo una familia deja la de salud doblando la espalda a machete y cargando veneno o moliendo grano de mano porque una máquina agrícola cuesta más de 3.000 dólares. Mientras en la ciudad tiramos lavadoras y licuadoras solo porque se le rompió el plástico aunque su motor sigue intacto. ¿Por qué nadie aproveche estos motores? Por dos barreras técnicas, cada marca tiene su porte y es distinto y si baja las 15.000 revoluciones de un motor de lavadora con un regular casero pierde todo su torque y se quema el trabajo. Creamos SMEE, el estándar que convierte cualquier motor doméstico en un módulo de fuerza agrícola mediante dos placas universales. Primero la placa base mecánica universal, un chasis de acero con corredera ajustable y una cuna impresa entre D con fibra de carbono que alinea cualquier forma de motor hacia una sola salida de polea escalonada. Segundo la placa electrónica del aso cerrado, una tarjeta inteligente que lee el asensor de velocidad del motor en tiempo real. Cuando entra carga pesada inyecta más corriente automáticamente para mantener las revoluciones y las fuerzas lavadas sin quemar el bobinado. Con la misma base y la misma tarjeta electrónica clasificamos la chatarra entre categorías. Categoría 1, motores pequeños delipadora o aspiradora, impulsa nuestra cortadora a 3.500 revoluciones con discos de carburos y freno electrónico. Categoría 2, motores mediánicos de secadoras o lavadoras para nuestra bomba de fumigación sobre ruedas con apagado automático. Categoría 3, motores grandes de lavadora moderna o caminadora para mover molinos de café inxtamal sin atascarse. El modo lo completo cuesta 29 dólares, un 80% menos que una máquina comercial, liderando planos 3Ds y circuitos abiertos, a talleres y cooperativas locales, transformar residuos en porza agrícola, e devolverle la dignidad y el futuro a las manos que nos dan de comer.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.62,
+   "text": "En el campo una familia deja la de salud doblando la espalda a machete y cargando veneno o moliendo"
+  },
+  {
+   "start": 8.62,
+   "end": 14.22,
+   "text": "grano de mano porque una máquina agrícola cuesta más de 3.000 dólares. Mientras en la ciudad tiramos"
+  },
+  {
+   "start": 14.22,
+   "end": 19.26,
+   "text": "lavadoras y licuadoras solo porque se le rompió el plástico aunque su motor sigue intacto."
+  },
+  {
+   "start": 19.26,
+   "end": 24.34,
+   "text": "¿Por qué nadie aproveche estos motores? Por dos barreras técnicas, cada marca tiene"
+  },
+  {
+   "start": 24.34,
+   "end": 30.1,
+   "text": "su porte y es distinto y si baja las 15.000 revoluciones de un motor de lavadora con"
+  },
+  {
+   "start": 30.1,
+   "end": 33.62,
+   "text": "un regular casero pierde todo su torque y se quema el trabajo."
+  },
+  {
+   "start": 33.62,
+   "end": 40.1,
+   "text": "Creamos SMEE, el estándar que convierte cualquier motor doméstico en un módulo de fuerza agrícola"
+  },
+  {
+   "start": 40.1,
+   "end": 45.02,
+   "text": "mediante dos placas universales. Primero la placa base mecánica universal, un chasis de acero con"
+  },
+  {
+   "start": 45.02,
+   "end": 50.54,
+   "text": "corredera ajustable y una cuna impresa entre D con fibra de carbono que alinea cualquier forma"
+  },
+  {
+   "start": 50.54,
+   "end": 56.1,
+   "text": "de motor hacia una sola salida de polea escalonada. Segundo la placa electrónica del aso cerrado,"
+  },
+  {
+   "start": 56.1,
+   "end": 60.54,
+   "text": "una tarjeta inteligente que lee el asensor de velocidad del motor en tiempo real. Cuando"
+  },
+  {
+   "start": 60.54,
+   "end": 64.82,
+   "text": "entra carga pesada inyecta más corriente automáticamente para mantener las revoluciones y las fuerzas"
+  },
+  {
+   "start": 64.82,
+   "end": 69.58,
+   "text": "lavadas sin quemar el bobinado. Con la misma base y la misma tarjeta electrónica clasificamos"
+  },
+  {
+   "start": 69.58,
+   "end": 74.06,
+   "text": "la chatarra entre categorías. Categoría 1, motores pequeños delipadora o aspiradora,"
+  },
+  {
+   "start": 74.06,
+   "end": 78.98,
+   "text": "impulsa nuestra cortadora a 3.500 revoluciones con discos de carburos y freno electrónico."
+  },
+  {
+   "start": 78.98,
+   "end": 83.18,
+   "text": "Categoría 2, motores mediánicos de secadoras o lavadoras para nuestra bomba de"
+  },
+  {
+   "start": 83.18,
+   "end": 88.26,
+   "text": "fumigación sobre ruedas con apagado automático. Categoría 3, motores grandes de lavadora moderna"
+  },
+  {
+   "start": 88.26,
+   "end": 91.82,
+   "text": "o caminadora para mover molinos de café inxtamal sin atascarse."
+  },
+  {
+   "start": 91.82,
+   "end": 98.58,
+   "text": "El modo lo completo cuesta 29 dólares, un 80% menos que una máquina comercial,"
+  },
+  {
+   "start": 98.58,
+   "end": 103.5,
+   "text": "liderando planos 3Ds y circuitos abiertos, a talleres y cooperativas locales,"
+  },
+  {
+   "start": 103.5,
+   "end": 109.78,
+   "text": "transformar residuos en porza agrícola, e devolverle la dignidad y el futuro a las manos que nos dan de comer."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.7
+}

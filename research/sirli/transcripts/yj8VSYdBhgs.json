@@ -1,0 +1,187 @@
+{
+ "video_id": "yj8VSYdBhgs",
+ "url": "https://youtu.be/yj8VSYdBhgs?si=LoJlgqzfCkDKuXpy",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "BUGÑUELITOS",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "BUGÑUELITOS",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:06:56+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El barrio más dañado no es el que más llama, es el que no puede. Después de un sismo o un desastre natural, la ayuda se ordena por llamadas, pero un barrio sin voz, sin batería y sin señal no llama. Y al terminar, al final de la fila, justo por eso queda peor. Uno de cada cuatro desastres del mundo ocurre en nuestra región y casi todas las soluciones que existen son aplicaciones donde la gente reporta su emergencia. Solo escuchan a los que todavía tienen señal. Nosotros somos el equipo Buñuelitos de la Universidad Americana-WAM y creamos UNEXO, un sistema que trata el silencio como un dato. UNEXO compara los reportes de un barrio que debería enviarse, con los que realmente llegan y cuentan con un mapa interactivo offline si un sector con alto daño se estima y no se cae. Sube al primer lugar en vez de quedar olvidado. Para lograrlo, une tres piezas principales que hoy en día trabajan por separados. Los satélites de la NASA, la ESSA y el USGS nos dicen dónde tembló más y dónde ocurre el desastre. Una red de radio lora funciona sin internet y guarda cada mensaje con su hora exacta. Una mochila por cuadrilla que es un kit de vida donde un operador registra datos sin señal. Y aquí está lo que realmente nos distingue. Si el censo dice que hay 100 personas y la cuadría ubica 91, UNEXO no da el caso por cerrado. Marca 9 por buscar. Además de tener concordancia con el ODS-11, relacionado con ciudades y comunidades sostenibles y el ODS-10 orientado a reducir las desigualtades, el módulo UNEXPLORA crea su propia red wifi. Los rescatistas y las comunidades inscritas en simulacros se conectan solos y pueden pedir ayuda con su ubicación sin una sola barra de señal. La central confirma cada alerta y la app la sigue hasta que le llega la idea. Puede evitar que la tierra tiemble, pero podemos decidir que nadie quede sin ayuda por no haber podido pedirla. ¡Somos UNEXO!",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.4,
+   "text": "El barrio más dañado no es el que más llama, es el que no puede."
+  },
+  {
+   "start": 4.4,
+   "end": 9.2,
+   "text": "Después de un sismo o un desastre natural, la ayuda se ordena por llamadas,"
+  },
+  {
+   "start": 9.2,
+   "end": 13.4,
+   "text": "pero un barrio sin voz, sin batería y sin señal no llama."
+  },
+  {
+   "start": 13.4,
+   "end": 18.1,
+   "text": "Y al terminar, al final de la fila, justo por eso queda peor."
+  },
+  {
+   "start": 18.1,
+   "end": 22.0,
+   "text": "Uno de cada cuatro desastres del mundo ocurre en nuestra región"
+  },
+  {
+   "start": 22.0,
+   "end": 27.3,
+   "text": "y casi todas las soluciones que existen son aplicaciones donde la gente reporta su emergencia."
+  },
+  {
+   "start": 27.5,
+   "end": 30.4,
+   "text": "Solo escuchan a los que todavía tienen señal."
+  },
+  {
+   "start": 30.4,
+   "end": 34.6,
+   "text": "Nosotros somos el equipo Buñuelitos de la Universidad Americana-WAM"
+  },
+  {
+   "start": 34.6,
+   "end": 39.2,
+   "text": "y creamos UNEXO, un sistema que trata el silencio como un dato."
+  },
+  {
+   "start": 39.2,
+   "end": 43.1,
+   "text": "UNEXO compara los reportes de un barrio que debería enviarse,"
+  },
+  {
+   "start": 43.1,
+   "end": 47.7,
+   "text": "con los que realmente llegan y cuentan con un mapa interactivo offline"
+  },
+  {
+   "start": 47.7,
+   "end": 51.9,
+   "text": "si un sector con alto daño se estima y no se cae."
+  },
+  {
+   "start": 51.9,
+   "end": 54.8,
+   "text": "Sube al primer lugar en vez de quedar olvidado."
+  },
+  {
+   "start": 54.8,
+   "end": 60.0,
+   "text": "Para lograrlo, une tres piezas principales que hoy en día trabajan por separados."
+  },
+  {
+   "start": 60.0,
+   "end": 64.4,
+   "text": "Los satélites de la NASA, la ESSA y el USGS"
+  },
+  {
+   "start": 64.4,
+   "end": 68.0,
+   "text": "nos dicen dónde tembló más y dónde ocurre el desastre."
+  },
+  {
+   "start": 68.0,
+   "end": 73.3,
+   "text": "Una red de radio lora funciona sin internet y guarda cada mensaje con su hora exacta."
+  },
+  {
+   "start": 73.3,
+   "end": 78.8,
+   "text": "Una mochila por cuadrilla que es un kit de vida donde un operador registra datos sin señal."
+  },
+  {
+   "start": 78.8,
+   "end": 81.1,
+   "text": "Y aquí está lo que realmente nos distingue."
+  },
+  {
+   "start": 81.1,
+   "end": 86.1,
+   "text": "Si el censo dice que hay 100 personas y la cuadría ubica 91,"
+  },
+  {
+   "start": 86.1,
+   "end": 88.5,
+   "text": "UNEXO no da el caso por cerrado."
+  },
+  {
+   "start": 88.5,
+   "end": 90.5,
+   "text": "Marca 9 por buscar."
+  },
+  {
+   "start": 91.3,
+   "end": 93.7,
+   "text": "Además de tener concordancia con el ODS-11,"
+  },
+  {
+   "start": 93.7,
+   "end": 95.7,
+   "text": "relacionado con ciudades y comunidades sostenibles"
+  },
+  {
+   "start": 95.7,
+   "end": 97.9,
+   "text": "y el ODS-10 orientado a reducir las desigualtades,"
+  },
+  {
+   "start": 97.9,
+   "end": 100.4,
+   "text": "el módulo UNEXPLORA crea su propia red wifi."
+  },
+  {
+   "start": 100.4,
+   "end": 103.9,
+   "text": "Los rescatistas y las comunidades inscritas en simulacros se conectan solos"
+  },
+  {
+   "start": 103.9,
+   "end": 107.2,
+   "text": "y pueden pedir ayuda con su ubicación sin una sola barra de señal."
+  },
+  {
+   "start": 107.2,
+   "end": 110.1,
+   "text": "La central confirma cada alerta y la app la sigue hasta que le llega la idea."
+  },
+  {
+   "start": 110.1,
+   "end": 112.1,
+   "text": "Puede evitar que la tierra tiemble,"
+  },
+  {
+   "start": 112.1,
+   "end": 117.1,
+   "text": "pero podemos decidir que nadie quede sin ayuda por no haber podido pedirla."
+  },
+  {
+   "start": 117.1,
+   "end": 119.1,
+   "text": "¡Somos UNEXO!"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.9
+}

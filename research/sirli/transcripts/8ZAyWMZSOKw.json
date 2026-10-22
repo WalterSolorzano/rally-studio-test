@@ -1,0 +1,112 @@
+{
+ "video_id": "8ZAyWMZSOKw",
+ "url": "https://youtube.com/shorts/8ZAyWMZSOKw?si=vbphDyGifCYqe9rS",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS INSANOS DE LA UML",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS INSANOS DE LA UML",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:44:54+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "que es un reservorio pluvial. Un reservorio pluvial es un depósito O, espacio donde se recoge y almacena, el agua de lluvia para utilizarla después, especialmente en épocas de sequía para regar los cultivos. Problema. En la zona norte de Nicaragua del departamental de Steli y Yaceun, Problema en la agricultura y esto se debe a las épocas de sequía debido a las pocas lluvias. Por eso se está implementado una solución a esta circunstancia. Solución. Implementar reservorios pluviales que permitan recolectar y almacenar el agua de lluvia durante el invierno para utilizarla en el riego de los cultivos durante las épocas de sequía, ayudando a los agricultores a proteger sus cosechas y mejorar la producción agrícola y de esta manera ayudar a las familias y a nuestro país. Impacto. La propuesta genera un impacto social basado en aportar y proteger el sector agricultor y medios de subsistencia frente a negamientos. Las alertas tempranas permitirán evacuar zonas de riesgo, resguardar pertenencias, suspender actividades peligrosas y coordinar una respuesta más rápida entre comunidades e instituciones, innovación. Los sensores IoT son dispositivos inteligentes que recopilaran la información del entorno y la envían a través de internet a otros dispositivos para monitorear lo que sucede. Por ejemplo, en un reservorio pluvial pueden medir el nivel del agua, la humedad del suelo y la cantidad de lluvia. Esto permite saber a los agricultores, saber cuánto agua tienen disponible y cuándo regar sus cultivos. Cierre.",
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 8.14,
+   "text": "que es un reservorio pluvial. Un reservorio pluvial es un depósito O, espacio donde se recoge y almacena,"
+  },
+  {
+   "start": 8.14,
+   "end": 14.94,
+   "text": "el agua de lluvia para utilizarla después, especialmente en épocas de sequía para regar los"
+  },
+  {
+   "start": 14.94,
+   "end": 23.5,
+   "text": "cultivos. Problema. En la zona norte de Nicaragua del departamental de Steli y Yaceun,"
+  },
+  {
+   "start": 24.26,
+   "end": 30.14,
+   "text": "Problema en la agricultura y esto se debe a las épocas de sequía debido a las pocas lluvias."
+  },
+  {
+   "start": 30.14,
+   "end": 38.38,
+   "text": "Por eso se está implementado una solución a esta circunstancia. Solución. Implementar reservorios"
+  },
+  {
+   "start": 38.38,
+   "end": 45.06,
+   "text": "pluviales que permitan recolectar y almacenar el agua de lluvia durante el invierno para"
+  },
+  {
+   "start": 45.06,
+   "end": 52.02,
+   "text": "utilizarla en el riego de los cultivos durante las épocas de sequía, ayudando a los"
+  },
+  {
+   "start": 52.02,
+   "end": 58.02,
+   "text": "agricultores a proteger sus cosechas y mejorar la producción agrícola y de esta manera ayudar a"
+  },
+  {
+   "start": 58.02,
+   "end": 66.58,
+   "text": "las familias y a nuestro país. Impacto. La propuesta genera un impacto social basado en aportar y"
+  },
+  {
+   "start": 66.58,
+   "end": 74.14,
+   "text": "proteger el sector agricultor y medios de subsistencia frente a negamientos. Las alertas"
+  },
+  {
+   "start": 74.14,
+   "end": 80.18,
+   "text": "tempranas permitirán evacuar zonas de riesgo, resguardar pertenencias, suspender actividades"
+  },
+  {
+   "start": 80.18,
+   "end": 87.82,
+   "text": "peligrosas y coordinar una respuesta más rápida entre comunidades e instituciones,"
+  },
+  {
+   "start": 87.82,
+   "end": 96.06,
+   "text": "innovación. Los sensores IoT son dispositivos inteligentes que recopilaran la información"
+  },
+  {
+   "start": 96.06,
+   "end": 103.5,
+   "text": "del entorno y la envían a través de internet a otros dispositivos para monitorear lo que"
+  },
+  {
+   "start": 103.5,
+   "end": 110.62,
+   "text": "sucede. Por ejemplo, en un reservorio pluvial pueden medir el nivel del agua, la humedad del"
+  },
+  {
+   "start": 110.62,
+   "end": 117.58,
+   "text": "suelo y la cantidad de lluvia. Esto permite saber a los agricultores, saber cuánto agua tienen"
+  },
+  {
+   "start": 117.58,
+   "end": 121.06,
+   "text": "disponible y cuándo regar sus cultivos. Cierre."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 123.6
+}

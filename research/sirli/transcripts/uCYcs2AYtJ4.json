@@ -1,0 +1,77 @@
+{
+ "video_id": "uCYcs2AYtJ4",
+ "url": "https://www.youtube.com/watch?v=uCYcs2AYtJ4",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "KAINOTOMIA SOLUTIONS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "KAINOTOMIA SOLUTIONS",
+   "challenge": "01 - MOVILIDAD SUSTENTABLE"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:32:07+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hola somos SkyMutomia Solutions. En el contexto latinoamericano la sobrepoblación de automóviles es un gran problema que enfrentan las zonas urbana de las sociedades. La administración de estas ha intentado implementar soluciones alternativas por medio de propuestas de carácter sostenible. Sin embargo, las funcionalidades de estas se ha visto afectadas por la falta de seguridad vial, paternal y el mal diseño urbano. La aplicación suve del Atom con sus tres componentes car sharing para asegurar y ciclo red dan una serie de alternativas que brindarán solución a las problemáticas ya presentes basándose en el objetivo de desarrollo sostenible. A través de la aplicación interactiva tendremos las tres opciones para solucionar la problemática ya presentes, el mapeo de rutas y localizarlas para saber su tiempo de llegada. Tendremos la opción de las paradas de bicicletas para poder rentar y tendremos la opción de car sharing donde podremos hacer solicitud de un automóvil para llegar de un punto a otro. En el presente recorrido virtual podremos apreciar la nueva propuesta de ciclovía donde tendremos la nueva parada inteligente. Esta contará con un aparcamiento de bicicletas, un sistema de captación pluvial, pánales fotovoltaicos para el área urbana, así como contaremos que también con los modelos de alquiler de bicicleta por medio de la propuesta de franquicia de paradas, donde incentivamos la inversión de pequeña empresa y potencializamos la capacidad económica de la clase trabajadora. Por parte del modelo de negocios propondremos car sharing donde a través de la app podrás solicitar el servicio y compartir viajes a un destino en común con otros usuarios.",
+ "segments": [
+  {
+   "start": 0.11,
+   "end": 10.11,
+   "text": "Hola somos SkyMutomia Solutions. En el contexto latinoamericano la sobrepoblación de automóviles es un gran problema que enfrentan las zonas urbana de las sociedades."
+  },
+  {
+   "start": 10.11,
+   "end": 17.11,
+   "text": "La administración de estas ha intentado implementar soluciones alternativas por medio de propuestas de carácter sostenible."
+  },
+  {
+   "start": 17.11,
+   "end": 23.11,
+   "text": "Sin embargo, las funcionalidades de estas se ha visto afectadas por la falta de seguridad vial, paternal y el mal diseño urbano."
+  },
+  {
+   "start": 23.11,
+   "end": 39.7,
+   "text": "La aplicación suve del Atom con sus tres componentes car sharing para asegurar y ciclo red dan una serie de alternativas que brindarán solución a las problemáticas ya presentes basándose en el objetivo de desarrollo sostenible."
+  },
+  {
+   "start": 39.7,
+   "end": 52.88,
+   "text": "A través de la aplicación interactiva tendremos las tres opciones para solucionar la problemática ya presentes, el mapeo de rutas y localizarlas para saber su tiempo de llegada."
+  },
+  {
+   "start": 52.88,
+   "end": 63.88,
+   "text": "Tendremos la opción de las paradas de bicicletas para poder rentar y tendremos la opción de car sharing donde podremos hacer solicitud de un automóvil para llegar de un punto a otro."
+  },
+  {
+   "start": 64.88,
+   "end": 73.88,
+   "text": "En el presente recorrido virtual podremos apreciar la nueva propuesta de ciclovía donde tendremos la nueva parada inteligente."
+  },
+  {
+   "start": 73.88,
+   "end": 81.88,
+   "text": "Esta contará con un aparcamiento de bicicletas, un sistema de captación pluvial, pánales fotovoltaicos para el área urbana,"
+  },
+  {
+   "start": 81.88,
+   "end": 93.88,
+   "text": "así como contaremos que también con los modelos de alquiler de bicicleta por medio de la propuesta de franquicia de paradas, donde incentivamos la inversión de pequeña empresa y potencializamos la capacidad económica de la clase trabajadora."
+  },
+  {
+   "start": 93.88,
+   "end": 104.88,
+   "text": "Por parte del modelo de negocios propondremos car sharing donde a través de la app podrás solicitar el servicio y compartir viajes a un destino en común con otros usuarios."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.9
+}

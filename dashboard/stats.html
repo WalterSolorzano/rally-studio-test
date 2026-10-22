@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resumen de partida · Rally Studio</title>
+  <meta name="description" id="meta-description" content="Resumen de la sesión de Rally Studio: ritmo de trabajo, frentes abiertos, roles y estado del proyecto.">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="stats.css?v=20261019">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al resumen</a>
+
+  <svg class="icon-sprite" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="i-bolt" viewBox="0 0 24 24"><path d="M13 2 4.5 13.2h6L10 22l9-12h-6.2L13 2Z" fill="currentColor"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 15.2A8.4 8.4 0 0 1 8.8 4 8.5 8.5 0 1 0 20 15.2Z" fill="currentColor"/><path d="M15.5 8.2h.01M18.2 11h.01" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2" fill="currentColor"/><path d="M12 2v2.4M12 19.6V22M2 12h2.4M19.6 12H22M4.9 4.9l1.7 1.7M17.4 17.4l1.7 1.7M19.1 4.9l-1.7 1.7M6.6 17.4l-1.7 1.7" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M9.8 11.7h.01M14.2 11.7h.01" stroke="var(--ink)" stroke-width="2.6" stroke-linecap="round"/></symbol>
+    <symbol id="i-crown" viewBox="0 0 24 24"><path d="m3 8 4.2 3.1L12 4l4.8 7.1L21 8l-2 9H5L3 8Z" fill="currentColor" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><path d="M5.5 20h13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 2.8 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2-5.6-2.9-5.6 2.9 1.1-6.2L3 9.4l6.2-.9L12 2.8Z" fill="currentColor"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m4.5 12.5 5 5 10-11" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 7v5.5l3.5 2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 2.5 20 6v6c0 5-3.4 8.5-8 9.5-4.6-1-8-4.5-8-9.5V6l8-3.5Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="m8.5 12 2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-leaf" viewBox="0 0 24 24"><path d="M20.5 3.5C12 3.5 5 7.5 5 14a6 6 0 0 0 6 6c6.5 0 9.5-7 9.5-16.5Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M4 21c2-5.5 5.5-9 10-11" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 2.5c.7 5.6 3.9 8.8 9.5 9.5-5.6.7-8.8 3.9-9.5 9.5-.7-5.6-3.9-8.8-9.5-9.5 5.6-.7 8.8-3.9 9.5-9.5Z" fill="currentColor"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h15M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-replay" viewBox="0 0 24 24"><path d="M4 10a8 8 0 1 1 2.3 7.1" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M4 4v6h6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-print" viewBox="0 0 24 24"><path d="M7 9V3h10v6M7 18H5a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 14h10v7H7z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 3 22 21H2L12 3Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M12 9v5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="12" cy="18" r="1.2" fill="currentColor"/></symbol>
+  </svg>
+
+  <header class="topline">
+    <a class="brand" href="index.html" aria-label="Rally Studio, volver al workbench">
+      <img src="assets/rally_studio_logo.svg" alt="Rally Studio" width="142" height="26">
+    </a>
+    <span class="crumb" aria-hidden="true">/</span>
+    <span class="crumb-name">Resumen de partida</span>
+    <div class="topline-actions">
+      <span class="mode-chip is-real" id="mode-chip"><span class="dot"></span><span id="mode-label">Sesión real · calculado</span><span id="mode-short" class="mode-short">real</span></span>
+      <button class="btn btn-quiet" type="button" id="replay-btn" aria-label="Repetir la animación del resumen">
+        <svg class="icon" aria-hidden="true"><use href="#i-replay"></use></svg>
+        <span class="replay-label">Repetir</span>
+      </button>
+      <button class="btn btn-quiet only-wide" type="button" id="print-btn">
+        <svg class="icon" aria-hidden="true"><use href="#i-print"></use></svg>
+        Imprimir
+      </button>
+      <a class="btn btn-solid" href="index.html"><span class="btn-label-long">Volver al workbench</span><span class="btn-label-short">Volver</span></a>
+    </div>
+  </header>
+
+  <div class="phase-banner" id="phase-banner" role="status" hidden>
+    <span class="phase-kicker" id="phase-kicker">Fase</span>
+    <strong id="phase-title"></strong>
+    <span class="phase-copy" id="phase-copy"></span>
+  </div>
+
+  <main id="contenido">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-inner">
+        <div class="hero-main">
+          <div class="hero-copy">
+            <p class="hero-meta" id="hero-meta">Cargando sesión…</p>
+            <h1 id="hero-title">La partida,<br>en datos.</h1>
+            <p class="hero-lede" id="hero-lede">Cargando la sesión y los archivos del proyecto…</p>
+            <p class="hero-solution" id="hero-solution"></p>
+            <div class="hero-id" id="hero-id"></div>
+          </div>
+
+          <div class="hero-score" id="hero-score" role="img" aria-label="Horas transcurridas de la sesión">
+            <svg class="score-orbit" viewBox="0 0 320 220" aria-hidden="true" focusable="false">
+              <path class="orbit-path" d="M30 138C34 70 92 28 164 32c62 3 112 42 124 92 9 38-26 70-88 74-76 5-166-8-170-60Z" fill="none" stroke="rgba(255,255,255,.26)" stroke-width="1.6" stroke-dasharray="3 7"/>
+              <path class="orbit-accent" id="orbit-accent" d="M34 152c42 22 116 28 178 12 26-7 46-18 60-32" pathLength="100" fill="none" stroke="#2AA7AD" stroke-width="3.2" stroke-linecap="round"/>
+              <circle cx="272" cy="132" r="5.5" fill="#2AA7AD"/>
+              <path d="m58 56 3.5 8 8 3.5-8 3.5-3.5 8-3.5-8-8-3.5 8-3.5 3.5-8Z" fill="#FFFFFF"/>
+              <path d="m282 66 2.5 5.5 5.5 2.5-5.5 2.5-2.5 5.5-2.5-5.5-5.5-2.5 5.5-2.5 2.5-5.5Z" fill="#2AA7AD"/>
+            </svg>
+            <div class="score-number" id="score-number" data-count="0">—</div>
+            <p class="score-label" id="score-label">horas transcurridas</p>
+            <p class="score-note"><span id="score-note-text">—</span> · <span class="sim-inline" id="score-note-tag">calculado</span></p>
+          </div>
+        </div>
+
+        <div class="hero-stats" aria-label="Métricas principales de la sesión">
+          <div class="hero-stat">
+            <span class="num" data-stat="duration">—</span>
+            <span class="stat-label">horas de sesión</span>
+          </div>
+          <div class="hero-stat">
+            <span class="num"><span data-stat="deliverables">—</span><span class="den" data-den="deliverables"></span></span>
+            <span class="stat-label">entregables cerrados</span>
+          </div>
+          <div class="hero-stat">
+            <span class="num"><span data-stat="pautado">—</span><span class="den" data-den="pautado"></span></span>
+            <span class="stat-label">pautado escrito</span>
+          </div>
+          <div class="hero-stat">
+            <span class="num"><span data-stat="readiness">—</span><span class="den" data-den="readiness"></span></span>
+            <span class="stat-label">preparación</span>
+          </div>
+        </div>
+
+        <div class="hero-parade" aria-label="El equipo">
+          <span class="parade-label">El equipo</span>
+          <ul class="parade-list" id="parade-list"></ul>
+          <span class="parade-note" id="parade-note">—</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="block rhythm" aria-labelledby="rhythm-title">
+      <div class="block-head">
+        <div>
+          <h2 id="rhythm-title">La partida, hora por hora</h2>
+          <p id="rhythm-copy">El pico se calcula con los movimientos registrados en la sesión, no con una estimación.</p>
+        </div>
+        <span class="source-tag">state.json · calculado</span>
+      </div>
+
+      <div class="rhythm-grid">
+        <aside class="rhythm-insight" aria-label="Hora de máxima señal">
+          <p class="peak-time"><span id="peak-hour">—</span><span class="peak-colon">:</span><span id="peak-minute">—</span></p>
+          <p class="peak-label">Hora de máxima señal</p>
+          <p class="peak-desc" id="peak-note">Cargando señales…</p>
+          <ul class="peak-tags">
+            <li><span class="tag-dot"></span><span id="peak-people">—</span></li>
+            <li><span class="tag-dot"></span><span id="peak-frentes">—</span></li>
+          </ul>
+        </aside>
+
+        <div class="chart-wrap">
+          <div class="chart-topline">
+            <span class="chart-caption" id="chart-caption">Señales registradas por hora</span>
+            <span class="chart-key"><span class="key-mark"></span><span id="chart-key-label">mitad del pico</span></span>
+          </div>
+          <div class="chart-stage">
+            <div class="chart-weather" aria-hidden="true">
+              <span class="weather-item"><svg class="weather-icon"><use href="#i-moon"></use></svg><span id="chart-day-1">—</span></span>
+              <span class="weather-item"><svg class="weather-icon sun"><use href="#i-sun"></use></svg><span id="chart-day-2">—</span></span>
+            </div>
+            <div class="chart" id="rhythm-chart" role="img" tabindex="0" aria-label="Gráfico de señales por hora. Usa las flechas izquierda y derecha para recorrer las horas.">
+              <div class="threshold-line" id="threshold-line"><span id="threshold-label">—</span></div>
+              <div class="bars" id="rhythm-bars"></div>
+            </div>
+          </div>
+          <div class="chart-axis" id="chart-axis" aria-hidden="true"></div>
+          <p class="chart-foot" id="chart-foot">Cada barra es una hora con al menos una señal registrada. Las horas sin datos se muestran como línea base.</p>
+          <details class="chart-data">
+            <summary>Ver datos por hora</summary>
+            <div id="chart-table"></div>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="critical-band" aria-labelledby="critical-title">
+      <div class="block critical">
+        <div class="block-head">
+          <div>
+            <h2 id="critical-title">Los frentes que siguen abiertos</h2>
+            <p id="critical-copy">Lo que falta no es una derrota: es el mapa de la siguiente hora.</p>
+          </div>
+          <span class="source-tag">state.json · calculado</span>
+        </div>
+        <ol class="critical-list" id="critical-list"></ol>
+      </div>
+    </section>
+
+    <section class="mvp-band" aria-labelledby="mvp-title">
+      <div class="mvp-inner">
+        <div class="mvp-art">
+          <div class="mvp-halo" aria-hidden="true"></div>
+          <img class="mvp-avatar" id="mvp-avatar" src="assets/stats/avatar-empty.svg" alt="" width="260" height="260">
+          <span class="mvp-crown" aria-hidden="true"><svg class="crown-icon"><use href="#i-crown"></use></svg></span>
+          <span class="mvp-sticker">MVP</span>
+        </div>
+        <div class="mvp-copy">
+          <div class="mvp-heading">
+            <span class="mvp-badge"><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg> <span id="mvp-badge">MVP operativo</span></span>
+            <span class="sim-inline light" id="mvp-note">calculado</span>
+          </div>
+          <h2 id="mvp-title">—</h2>
+          <p class="mvp-role" id="mvp-role">—</p>
+          <p class="mvp-reason" id="mvp-reason">Cargando la persona con más frentes registrados…</p>
+          <div class="mvp-metrics">
+            <div><span class="num" id="mvp-frentes">—</span><span class="stat-label">frentes</span></div>
+            <div><span class="num" id="mvp-signals">—</span><span class="stat-label">señales</span></div>
+            <div><span class="num"><span id="mvp-coverage">—</span><span class="den">%</span></span><span class="stat-label">carga</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block roster" aria-labelledby="roster-title">
+      <div class="block-head">
+        <div>
+          <h2 id="roster-title">Quién tomó qué</h2>
+          <p id="roster-copy">Cargando roles y asignaciones…</p>
+        </div>
+        <span class="source-tag">state.json · calculado</span>
+      </div>
+
+      <div class="roster-table" role="table" aria-label="Roles y contribución de cada integrante" aria-rowcount="0" aria-colcount="5" id="roster-table">
+        <div class="roster-head" role="row">
+          <span role="columnheader">#</span>
+          <span role="columnheader">Persona</span>
+          <span role="columnheader">Rol operativo</span>
+          <span class="head-stats" role="columnheader" aria-label="Frentes, señales y carga"><span aria-hidden="true">Frentes</span><span aria-hidden="true">Señales</span><span aria-hidden="true">Carga</span></span>
+          <span role="columnheader">Frentes asignados</span>
+        </div>
+        <div class="roster-body" id="roster-body" role="rowgroup"></div>
+      </div>
+      <p class="roster-gap" id="roster-gap"></p>
+    </section>
+
+    <section class="block split" aria-labelledby="split-title">
+      <div class="split-grid">
+        <div class="split-col">
+          <div class="split-head">
+            <h2 id="split-title">Cómo se repartieron los frentes</h2>
+            <span class="source-tag">state.json · calculado</span>
+          </div>
+          <div class="stack-bar" id="stack-bar" role="img" aria-label="Distribución de frentes registrados."></div>
+          <ul class="split-legend" id="split-legend"></ul>
+        </div>
+        <div class="split-col achievements-col">
+          <div class="split-head">
+            <h2>Lo que ya está en la mochila</h2>
+            <span class="source-tag">proyecto · calculado</span>
+          </div>
+          <ul class="achievements" id="achievements"></ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="closing" aria-label="Cierre del resumen">
+      <p class="closing-line" id="closing-line">Quedan — h. <span id="closing-sub">Cargando el siguiente frente…</span></p>
+      <div class="closing-actions">
+        <a class="btn btn-solid" href="index.html">Volver al workbench</a>
+        <button class="btn btn-outline" type="button" id="print-btn-2">
+          <svg class="icon" aria-hidden="true"><use href="#i-print"></use></svg>
+          Imprimir resumen
+        </button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <img src="assets/rally_studio_logo.svg" alt="Rally Studio" width="142" height="26">
+        <p>After-action debrief · <span id="footer-date">—</span></p>
+      </div>
+      <div class="footer-data">
+        <p class="footer-title">Cómo se calculó</p>
+        <p id="provenance-copy">Cargando fuentes…</p>
+        <details class="provenance-details" id="provenance-details">
+          <summary>Ver fórmula, fuentes y conflictos</summary>
+          <div id="provenance-body"></div>
+        </details>
+        <p class="footer-real" id="footer-real">—</p>
+      </div>
+      <p class="footer-mark">// RALLY STUDIO · 2026</p>
+    </div>
+  </footer>
+
+  <div class="chart-tooltip" id="chart-tooltip" role="tooltip" aria-hidden="true"></div>
+
+  <noscript>
+    <p class="noscript">Este resumen necesita JavaScript para dibujar el gráfico y los avatares.</p>
+  </noscript>
+
+  <script src="data/stats.generated.js"></script>
+  <script src="stats.js?v=20261019" defer></script>
+</body>
+</html>

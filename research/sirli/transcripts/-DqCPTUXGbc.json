@@ -1,0 +1,97 @@
+{
+ "video_id": "-DqCPTUXGbc",
+ "url": "https://youtu.be/-DqCPTUXGbc?si=m1Tv0XHxbkEEhJ4C",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "WARRIORS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "WARRIORS",
+   "challenge": "05 - HUERTOS VERTICALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:43:06+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el equipo número 3, Warriors. Seleccionamos el desafío número 5, huertos verticales. En las ciudades, el espacio y el agua se han convertido en recursos cada vez más limitados. Entre el concreto y el ruido, pareciera que ya no queda lugar para la naturaleza. Sin embargo, los huertos urbanos están demostrando que es posible devolverle la vida a los entornos grises, mejorar la alimentación de las familias y fortalecer el bienestar de las comunidades. Hydroverde nace con esta visión, aprovechar cada rincón disponible para crear espacios verdes, sostenibles y productivos. Un huerto vertical permite cultivar estructuras apiladas o en niveles, optimizando el espacio y el uso del agua. Es una forma de transformar paredes, balcones o azoteas en pequeñas fuentes de vida. El desafío consiste en diseñar sistemas modulares livianos y debajo costo, que incorporen mecanismos eficientes de riego con agua recuperada, garantizando seguridad, accesibilidad y respeto por el medio ambiente. Con esta propuesta no solo se cultivan alimentos, sino también conciencia ecológica, responsabilidad social y esperanza. Hydroverde demuestra que incluso en medio de la ciudad la sostenibilidad es posible, que cada planta sembrada es una inversión en el futuro y que cuando la comunidad se une para crear, el resultado no solo se mide en cosechas, sino en vidas más verdes, saludables y conectadas con la tierra.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.0,
+   "text": "Somos el equipo número 3, Warriors. Seleccionamos el desafío número 5, huertos verticales."
+  },
+  {
+   "start": 7.0,
+   "end": 13.0,
+   "text": "En las ciudades, el espacio y el agua se han convertido en recursos cada vez más limitados."
+  },
+  {
+   "start": 13.0,
+   "end": 18.0,
+   "text": "Entre el concreto y el ruido, pareciera que ya no queda lugar para la naturaleza."
+  },
+  {
+   "start": 18.0,
+   "end": 25.0,
+   "text": "Sin embargo, los huertos urbanos están demostrando que es posible devolverle la vida a los entornos grises,"
+  },
+  {
+   "start": 25.0,
+   "end": 31.0,
+   "text": "mejorar la alimentación de las familias y fortalecer el bienestar de las comunidades."
+  },
+  {
+   "start": 31.0,
+   "end": 40.0,
+   "text": "Hydroverde nace con esta visión, aprovechar cada rincón disponible para crear espacios verdes, sostenibles y productivos."
+  },
+  {
+   "start": 40.0,
+   "end": 49.0,
+   "text": "Un huerto vertical permite cultivar estructuras apiladas o en niveles, optimizando el espacio y el uso del agua."
+  },
+  {
+   "start": 49.0,
+   "end": 56.0,
+   "text": "Es una forma de transformar paredes, balcones o azoteas en pequeñas fuentes de vida."
+  },
+  {
+   "start": 56.0,
+   "end": 68.0,
+   "text": "El desafío consiste en diseñar sistemas modulares livianos y debajo costo, que incorporen mecanismos eficientes de riego con agua recuperada,"
+  },
+  {
+   "start": 68.0,
+   "end": 73.0,
+   "text": "garantizando seguridad, accesibilidad y respeto por el medio ambiente."
+  },
+  {
+   "start": 73.0,
+   "end": 82.0,
+   "text": "Con esta propuesta no solo se cultivan alimentos, sino también conciencia ecológica, responsabilidad social y esperanza."
+  },
+  {
+   "start": 82.0,
+   "end": 89.0,
+   "text": "Hydroverde demuestra que incluso en medio de la ciudad la sostenibilidad es posible,"
+  },
+  {
+   "start": 89.0,
+   "end": 96.0,
+   "text": "que cada planta sembrada es una inversión en el futuro y que cuando la comunidad se une para crear,"
+  },
+  {
+   "start": 96.0,
+   "end": 104.0,
+   "text": "el resultado no solo se mide en cosechas, sino en vidas más verdes, saludables y conectadas con la tierra."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.7
+}

@@ -1,0 +1,182 @@
+{
+ "video_id": "44RGIQe94Bw",
+ "url": "https://youtu.be/44RGIQe94Bw?si=1wsCLlxzCPYa92oG",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INGEVISION",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "INGEVISION",
+   "challenge": "05 - EVACUACIÓN"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:38:14+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La falta de rutas de evacuación eficientes y el en cumplimiento de las existentes durante emergencias como sismos o incendios es un problema que afecta a la sociedad. A pesar de que se han mejorado los medios de respuesta y se entienda la importancia de reducir los riesgos, aún enfrentamos desafíos significativos. Factores como el desconocimiento de las rutas de evacuación y el pan y concitaciones críticas complican una evacuación efectiva. Nuestro desafío es el número cinco, el cual consiste en idear mecanismos pasados en tecnología o uso práctico de algunos elementos para la asistencia individual o colectiva de la evacuación ante sismos y o incendios. Te presentamos evacuación asistida. EVA, una aplicación multiplataforma diseñada para guiar tensitaciones críticas. Incluso sin conexión a internet, EVA opera offline gracias a que genera señales con dispositivos cercanos, creando una red mediante YouTube que mantiene a los usuarios informados sobre su situación en tiempo real. La aplicación permite visualizar áreas infectadas por desastres a través de un mapa interactivo, siguiendo rutas de evacuación aprobadas por instrucciones, así como nuevas rutas registradas por usuarios encoreizados. Estos pueden escanear y registrar nuevas rutas de evacuación con la cámara de sus dispositivos. EVA es inclusiva. Emitiendo vibraciones, instrucciones habladas para personas con discapacidades auditivas o visuales, también permiten liar alertas a las autoridades si el usuario queda en peligro o necesita asistencia. Además, los usuarios pueden reportar desastres como incendios e informar sobre rutas bloqueadas. La interfaz principal permite reportar desastres y ubicaciones, guiando a los usuarios a través de rutas de evacuación con las flechas indicativas. Incluye funciones de captura y reconocimiento de planos para identificar rutas y enviar alertas a las autoridades. EVA utiliza un mapa interactivo, muestra la ubicación del usuario y áreas de riesgo cercanas, junto con el almacenamiento de información relevante para su uso offline, garantizando una comunicación efectiva y segura para la bridad de rescato. La evaluación económica del proyecto da una rentabilidad viable, con un valor actual neto de 10.115 dólares, una tasa de internos de retorno del 22% al optimizar las rutas de evacuación, la aplicación contribui a minimizar el impacto ambiental y fomenta una recuperación más rápida y sostenible.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.56,
+   "text": "La falta de rutas de evacuación eficientes y el en cumplimiento de las existentes durante"
+  },
+  {
+   "start": 4.56,
+   "end": 8.36,
+   "text": "emergencias como sismos o incendios es un problema que afecta a la sociedad."
+  },
+  {
+   "start": 8.36,
+   "end": 11.82,
+   "text": "A pesar de que se han mejorado los medios de respuesta y se entienda la importancia"
+  },
+  {
+   "start": 11.82,
+   "end": 14.98,
+   "text": "de reducir los riesgos, aún enfrentamos desafíos significativos."
+  },
+  {
+   "start": 14.98,
+   "end": 19.24,
+   "text": "Factores como el desconocimiento de las rutas de evacuación y el pan y concitaciones críticas"
+  },
+  {
+   "start": 19.24,
+   "end": 20.84,
+   "text": "complican una evacuación efectiva."
+  },
+  {
+   "start": 20.84,
+   "end": 24.56,
+   "text": "Nuestro desafío es el número cinco, el cual consiste en idear mecanismos pasados"
+  },
+  {
+   "start": 24.56,
+   "end": 28.62,
+   "text": "en tecnología o uso práctico de algunos elementos para la asistencia individual"
+  },
+  {
+   "start": 28.62,
+   "end": 31.98,
+   "text": "o colectiva de la evacuación ante sismos y o incendios."
+  },
+  {
+   "start": 31.98,
+   "end": 33.66,
+   "text": "Te presentamos evacuación asistida."
+  },
+  {
+   "start": 33.66,
+   "end": 37.78,
+   "text": "EVA, una aplicación multiplataforma diseñada para guiar tensitaciones críticas."
+  },
+  {
+   "start": 37.78,
+   "end": 42.86,
+   "text": "Incluso sin conexión a internet, EVA opera offline gracias a que genera señales con dispositivos cercanos,"
+  },
+  {
+   "start": 42.86,
+   "end": 47.98,
+   "text": "creando una red mediante YouTube que mantiene a los usuarios informados sobre su situación en tiempo real."
+  },
+  {
+   "start": 47.98,
+   "end": 52.78,
+   "text": "La aplicación permite visualizar áreas infectadas por desastres a través de un mapa interactivo,"
+  },
+  {
+   "start": 52.78,
+   "end": 55.7,
+   "text": "siguiendo rutas de evacuación aprobadas por instrucciones,"
+  },
+  {
+   "start": 55.7,
+   "end": 58.54,
+   "text": "así como nuevas rutas registradas por usuarios encoreizados."
+  },
+  {
+   "start": 58.58,
+   "end": 62.9,
+   "text": "Estos pueden escanear y registrar nuevas rutas de evacuación con la cámara de sus dispositivos."
+  },
+  {
+   "start": 62.9,
+   "end": 63.86,
+   "text": "EVA es inclusiva."
+  },
+  {
+   "start": 63.86,
+   "end": 68.82,
+   "text": "Emitiendo vibraciones, instrucciones habladas para personas con discapacidades auditivas o visuales,"
+  },
+  {
+   "start": 68.82,
+   "end": 73.7,
+   "text": "también permiten liar alertas a las autoridades si el usuario queda en peligro o necesita asistencia."
+  },
+  {
+   "start": 73.7,
+   "end": 78.5,
+   "text": "Además, los usuarios pueden reportar desastres como incendios e informar sobre rutas bloqueadas."
+  },
+  {
+   "start": 78.5,
+   "end": 81.82,
+   "text": "La interfaz principal permite reportar desastres y ubicaciones,"
+  },
+  {
+   "start": 81.82,
+   "end": 85.62,
+   "text": "guiando a los usuarios a través de rutas de evacuación con las flechas indicativas."
+  },
+  {
+   "start": 85.7,
+   "end": 91.26,
+   "text": "Incluye funciones de captura y reconocimiento de planos para identificar rutas y enviar alertas a las autoridades."
+  },
+  {
+   "start": 91.26,
+   "end": 95.74,
+   "text": "EVA utiliza un mapa interactivo, muestra la ubicación del usuario y áreas de riesgo cercanas,"
+  },
+  {
+   "start": 95.74,
+   "end": 99.34,
+   "text": "junto con el almacenamiento de información relevante para su uso offline,"
+  },
+  {
+   "start": 99.34,
+   "end": 103.42,
+   "text": "garantizando una comunicación efectiva y segura para la bridad de rescato."
+  },
+  {
+   "start": 103.42,
+   "end": 106.66,
+   "text": "La evaluación económica del proyecto da una rentabilidad viable,"
+  },
+  {
+   "start": 106.66,
+   "end": 109.66,
+   "text": "con un valor actual neto de 10.115 dólares,"
+  },
+  {
+   "start": 109.66,
+   "end": 114.1,
+   "text": "una tasa de internos de retorno del 22% al optimizar las rutas de evacuación,"
+  },
+  {
+   "start": 114.1,
+   "end": 119.66,
+   "text": "la aplicación contribui a minimizar el impacto ambiental y fomenta una recuperación más rápida y sostenible."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.6
+}

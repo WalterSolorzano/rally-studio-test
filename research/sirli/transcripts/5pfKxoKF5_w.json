@@ -1,0 +1,132 @@
+{
+ "video_id": "5pfKxoKF5_w",
+ "url": "https://youtu.be/5pfKxoKF5_w",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ÁGUILAS INNOVADORAS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ÁGUILAS INNOVADORAS",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:16:46+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En el mundo, las micropresas o microembalse artesanales cuando no se construyen de manera adecuada representan un grave problema para la salud pública y el medio ambiente. La falta de sistemas de filtración adecuado provoca la acumulación de agua estancada, lo que genera creadores de mosquito, malos olores y riego sanitario. Además, estas estructuras pueden contribuir a la pérdida de suelo y cultivo. Para controlar este tipo de situaciones, diseñamos una herramienta para la captación de agua de lluvia, económica para aprovechar en momento de necesidad, considerando la pérdida por filtración al subsuelo, la evaporización por el sol y la proliferación de mosquitos. El sistema de captación y distribución de agua de lluvias con tanques de ferrocemento es una solución innovadora y sostenible diseñada para recolectar, almacenar y distribuir agua de lluvia de manera eficiente. Ideal para el río de cultivo, mediante un sistema de lonas y canaletas de PVC, el agua es recolectada y filtrada en dos etapas. Un filtro de maya gruesa que elimina hoja y rama y otro para impureza fina, asegurando agua limpia para el uso agrícola. Los tanques de ferrocemento, semienterrados para reducir la evaporación, permiten almacenar el agua a largo plazo y su distribución se realiza a través de un sistema alimentado por energía solar que además purifique el agua. Este sistema también incluye sensores conectados a una aplicación digital que monitoree en tiempo real el nivel del agua, la humedad del suelo, el pH del agua, las condiciones meteorológicas, enviando alertas automáticas cuando se exceden los niveles de seguridad, lo que facilita un manejo eficiente de recursos hídricos. Adicionalmente, incorpora un mecanismo de control de pH para optimizar el crecimiento de los cultivos, ofreciendo así una solución completa y sostenible que garantiza la seguridad hídrica y mejora la productividad agrícola, reduciendo costo y contribuyendo al cuidado del medio ambiente.",
+ "segments": [
+  {
+   "start": 3.15,
+   "end": 9.27,
+   "text": "En el mundo, las micropresas o microembalse artesanales cuando no se construyen de manera adecuada"
+  },
+  {
+   "start": 9.27,
+   "end": 13.99,
+   "text": "representan un grave problema para la salud pública y el medio ambiente. La falta de"
+  },
+  {
+   "start": 13.99,
+   "end": 19.03,
+   "text": "sistemas de filtración adecuado provoca la acumulación de agua estancada, lo que genera"
+  },
+  {
+   "start": 19.03,
+   "end": 24.71,
+   "text": "creadores de mosquito, malos olores y riego sanitario. Además, estas estructuras pueden"
+  },
+  {
+   "start": 24.71,
+   "end": 29.67,
+   "text": "contribuir a la pérdida de suelo y cultivo. Para controlar este tipo de situaciones,"
+  },
+  {
+   "start": 29.67,
+   "end": 34.95,
+   "text": "diseñamos una herramienta para la captación de agua de lluvia, económica para aprovechar en"
+  },
+  {
+   "start": 34.95,
+   "end": 41.15,
+   "text": "momento de necesidad, considerando la pérdida por filtración al subsuelo, la evaporización por el"
+  },
+  {
+   "start": 41.15,
+   "end": 46.95,
+   "text": "sol y la proliferación de mosquitos. El sistema de captación y distribución de agua de lluvias"
+  },
+  {
+   "start": 46.95,
+   "end": 52.31,
+   "text": "con tanques de ferrocemento es una solución innovadora y sostenible diseñada para recolectar,"
+  },
+  {
+   "start": 52.31,
+   "end": 57.23,
+   "text": "almacenar y distribuir agua de lluvia de manera eficiente. Ideal para el río de cultivo,"
+  },
+  {
+   "start": 57.23,
+   "end": 62.75,
+   "text": "mediante un sistema de lonas y canaletas de PVC, el agua es recolectada y filtrada en dos etapas."
+  },
+  {
+   "start": 62.75,
+   "end": 69.15,
+   "text": "Un filtro de maya gruesa que elimina hoja y rama y otro para impureza fina, asegurando agua limpia"
+  },
+  {
+   "start": 69.15,
+   "end": 74.31,
+   "text": "para el uso agrícola. Los tanques de ferrocemento, semienterrados para reducir la evaporación,"
+  },
+  {
+   "start": 74.31,
+   "end": 79.03,
+   "text": "permiten almacenar el agua a largo plazo y su distribución se realiza a través de un"
+  },
+  {
+   "start": 79.03,
+   "end": 84.59,
+   "text": "sistema alimentado por energía solar que además purifique el agua. Este sistema también"
+  },
+  {
+   "start": 84.59,
+   "end": 89.91,
+   "text": "incluye sensores conectados a una aplicación digital que monitoree en tiempo real el nivel del agua,"
+  },
+  {
+   "start": 89.91,
+   "end": 95.91,
+   "text": "la humedad del suelo, el pH del agua, las condiciones meteorológicas, enviando alertas automáticas"
+  },
+  {
+   "start": 95.91,
+   "end": 101.07,
+   "text": "cuando se exceden los niveles de seguridad, lo que facilita un manejo eficiente de recursos hídricos."
+  },
+  {
+   "start": 101.87,
+   "end": 107.19,
+   "text": "Adicionalmente, incorpora un mecanismo de control de pH para optimizar el crecimiento de los"
+  },
+  {
+   "start": 107.19,
+   "end": 112.91,
+   "text": "cultivos, ofreciendo así una solución completa y sostenible que garantiza la seguridad hídrica"
+  },
+  {
+   "start": 112.91,
+   "end": 118.23,
+   "text": "y mejora la productividad agrícola, reduciendo costo y contribuyendo al cuidado del medio ambiente."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.4
+}

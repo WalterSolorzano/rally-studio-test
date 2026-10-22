@@ -1,0 +1,67 @@
+{
+ "video_id": "hsFdscW_RvU",
+ "url": "https://youtu.be/hsFdscW_RvU",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "JRB’S INNOVATION",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "JRB’S INNOVATION",
+   "challenge": "02 - SIEMPRE EN CONTACTO"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:31:37+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Siempre en contacto, en la actualidad presentimos mucho de la tecnología, pero en algunos casos tenemos ciertas limitaciones al no contar con aplicaciones o dispositivos que nos permitan interactuar con ellos sin estar conectados a internet. Es por esto que nosotros proponemos este dispositivo que pueda ayudar a las personas que estén en riesgo o perdidas en algún sitio inhóspido donde no exista redalguna. Como grupo GRBS Innovation presentamos una propuesta que rige desde el ámbito ambiental y innovación el poder presentar un dispositivo que cumpla con los requerimientos, desde accesibilidad y ensamblaje y de funciones necesarias para ocasiones de riesgo o imprevisto.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.74,
+   "text": "Siempre en contacto, en la actualidad presentimos mucho de la tecnología, pero en algunos casos"
+  },
+  {
+   "start": 5.74,
+   "end": 11.48,
+   "text": "tenemos ciertas limitaciones al no contar con aplicaciones o dispositivos que nos permitan"
+  },
+  {
+   "start": 11.48,
+   "end": 17.72,
+   "text": "interactuar con ellos sin estar conectados a internet. Es por esto que nosotros proponemos"
+  },
+  {
+   "start": 17.72,
+   "end": 23.68,
+   "text": "este dispositivo que pueda ayudar a las personas que estén en riesgo o perdidas en algún"
+  },
+  {
+   "start": 23.68,
+   "end": 32.68,
+   "text": "sitio inhóspido donde no exista redalguna. Como grupo GRBS Innovation presentamos una"
+  },
+  {
+   "start": 32.68,
+   "end": 38.96,
+   "text": "propuesta que rige desde el ámbito ambiental y innovación el poder presentar un dispositivo"
+  },
+  {
+   "start": 38.96,
+   "end": 46.24,
+   "text": "que cumpla con los requerimientos, desde accesibilidad y ensamblaje y de funciones necesarias para"
+  },
+  {
+   "start": 46.24,
+   "end": 48.52,
+   "text": "ocasiones de riesgo o imprevisto."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 100.0
+}

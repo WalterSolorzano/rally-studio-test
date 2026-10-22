@@ -1,0 +1,172 @@
+{
+ "video_id": "cz8F0t_KZlo",
+ "url": "https://youtube.com/shorts/cz8F0t_KZlo?si=aY2dTKrS0SIUwltT",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "IKTAN",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "IKTAN",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:19:26+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que los incendios y las inundaciones tienen consecuencias devastadoras, especialmente en comunidades rurales y marginadas? El problema se agrava porque muchos sistemas de alerta son complejos, costosos y no están diseñados para estas comunidades. Presentamos el SATI, el sistema de alerta temprana para inundaciones y o incendios. Nuestro objetivo es diseñar un sistema de monitoreo ambiental que sea accesible y fácil de usar para detectar estas emergencias y emitir alertas a las comunidades. ¿Cómo funciona el SATI? Es un sistema integral que combina tecnologías de monitoreo y sistemas de comunicación comunitaria. Consta de un arreglo de sensores que monitorean en tiempo real parámetros como el nivel del agua y la temperatura. Una plataforma de análisis de datos que detecta posibles emergencias. Un sistema de alerta que envía mensajes de texto, voz y o alertas móviles. Los sensores envían datos a la plataforma de análisis que luego active el sistema de alerta para enviar mensajes a la comunidad. El SATI proporciona detección temprana, precisa y asegura una comunicación efectiva, clara y oportuna. Además, es diseñado para ser accesible a comunidades rurales y marginadas, incluyendo personas con discapacidades tanto visuales como auditivas. Esto fortalece la resiliencia comunitaria. Nuestra innovación clave es precisamente esta integración de tecnologías de monitoreo con comunicación efectiva. Esto es una solución que es costo efectiva y altamente escalable.",
+ "segments": [
+  {
+   "start": 4.66,
+   "end": 9.34,
+   "text": "¿Sabías que los incendios y las inundaciones tienen consecuencias devastadoras,"
+  },
+  {
+   "start": 9.34,
+   "end": 12.66,
+   "text": "especialmente en comunidades rurales y marginadas?"
+  },
+  {
+   "start": 12.66,
+   "end": 16.66,
+   "text": "El problema se agrava porque muchos sistemas de alerta son complejos,"
+  },
+  {
+   "start": 16.66,
+   "end": 20.66,
+   "text": "costosos y no están diseñados para estas comunidades."
+  },
+  {
+   "start": 20.66,
+   "end": 23.66,
+   "text": "Presentamos el SATI,"
+  },
+  {
+   "start": 23.66,
+   "end": 27.66,
+   "text": "el sistema de alerta temprana para inundaciones y o incendios."
+  },
+  {
+   "start": 27.66,
+   "end": 31.66,
+   "text": "Nuestro objetivo es diseñar un sistema de monitoreo ambiental"
+  },
+  {
+   "start": 31.66,
+   "end": 36.66,
+   "text": "que sea accesible y fácil de usar para detectar estas emergencias"
+  },
+  {
+   "start": 36.66,
+   "end": 39.66,
+   "text": "y emitir alertas a las comunidades."
+  },
+  {
+   "start": 39.66,
+   "end": 41.66,
+   "text": "¿Cómo funciona el SATI?"
+  },
+  {
+   "start": 41.66,
+   "end": 45.66,
+   "text": "Es un sistema integral que combina tecnologías de monitoreo"
+  },
+  {
+   "start": 45.66,
+   "end": 48.66,
+   "text": "y sistemas de comunicación comunitaria."
+  },
+  {
+   "start": 48.66,
+   "end": 52.66,
+   "text": "Consta de un arreglo de sensores que monitorean en tiempo real"
+  },
+  {
+   "start": 52.66,
+   "end": 55.66,
+   "text": "parámetros como el nivel del agua y la temperatura."
+  },
+  {
+   "start": 55.66,
+   "end": 60.66,
+   "text": "Una plataforma de análisis de datos que detecta posibles emergencias."
+  },
+  {
+   "start": 60.66,
+   "end": 63.66,
+   "text": "Un sistema de alerta que envía mensajes de texto,"
+  },
+  {
+   "start": 63.66,
+   "end": 66.66,
+   "text": "voz y o alertas móviles."
+  },
+  {
+   "start": 66.66,
+   "end": 71.03,
+   "text": "Los sensores envían datos a la plataforma de análisis"
+  },
+  {
+   "start": 71.03,
+   "end": 76.03,
+   "text": "que luego active el sistema de alerta para enviar mensajes a la comunidad."
+  },
+  {
+   "start": 76.03,
+   "end": 79.03,
+   "text": "El SATI proporciona detección temprana,"
+  },
+  {
+   "start": 79.03,
+   "end": 85.03,
+   "text": "precisa y asegura una comunicación efectiva, clara y oportuna."
+  },
+  {
+   "start": 85.03,
+   "end": 90.03,
+   "text": "Además, es diseñado para ser accesible a comunidades rurales"
+  },
+  {
+   "start": 90.03,
+   "end": 94.03,
+   "text": "y marginadas, incluyendo personas con discapacidades"
+  },
+  {
+   "start": 94.03,
+   "end": 98.03,
+   "text": "tanto visuales como auditivas."
+  },
+  {
+   "start": 98.03,
+   "end": 102.03,
+   "text": "Esto fortalece la resiliencia comunitaria."
+  },
+  {
+   "start": 102.03,
+   "end": 106.03,
+   "text": "Nuestra innovación clave es precisamente esta integración"
+  },
+  {
+   "start": 106.03,
+   "end": 111.03,
+   "text": "de tecnologías de monitoreo con comunicación efectiva."
+  },
+  {
+   "start": 111.03,
+   "end": 114.03,
+   "text": "Esto es una solución que es costo efectiva"
+  },
+  {
+   "start": 114.03,
+   "end": 117.03,
+   "text": "y altamente escalable."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.9
+}

@@ -1,0 +1,177 @@
+{
+ "video_id": "fVIgVxfSWyg",
+ "url": "https://youtu.be/fVIgVxfSWyg",
+ "year": 2019,
+ "collection": "internacional",
+ "country": "URUGUAY",
+ "team": "LAKERS98",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2019,
+   "collection": "internacional",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LAKERS98",
+   "challenge": "03 - S.O.S. AQUÍ ESTOY!"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:09:10+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "¿Sabías qué? Solo en México en 2018 se registraron 30.193 sismos, otros 7.079 de magnitud mayor a 2.5 en escala de Richter en Chile en el mismo año. Y en lo que va de 2019 el Golfo en México ya ha sufrido 7 huracanes. Estas son algunas de las catástrofes naturales más importantes de este siglo en América Latina, que siguen cobrando vidas a pesar de los avances tecnológicos. Los métodos de búsqueda de rescate actualmente utilizados como perros, fuerzas humanas y otros métodos obsoletos y costosos no permiten que los rescatistas sepan con certeza dónde actuar, poniendo sus vidas en peligro y causando largos periodos de espera para las víctimas en situaciones críticas. Así como actualmente contamos con distintos protocolos de seguridad, contra fuego, alto voltaje, químicos y alimentos, nuestra solución propone un nuevo paradigma contra catástrofes naturales. Para brindar una solución eficiente a la hora de localizar víctimas de estos sucesos. Estos son algunos de los obstáculos que enfrentan los rescatistas en su búsqueda. Todas las soluciones ya existentes abordan el problema desde el exterior. Nosotros planteamos lo contrario. Les presentamos S.O.X. Inspirado en el concepto de caja negra. Es un pequeño dispositivo esférico que se instala en varias zonas del edificio como todo sensor de seguridad. Es por eso que este ya se encuentra en el foco del derrumbe desde su inicio. Los dispositivos se encuentran inactivos la mayor parte del tiempo, pero al momento del desastre los S.O.X. detectan el derrumbe y activan su protocolo. En primera instancia reportan en emergencia la situación. Al mismo tiempo activan su geolocalizador para recabar datos sobre cómo fue la situación. Entonces mediante un sistema de comunicación interno generan los datos suficientes para simular por computadora el derrumbe. De esta forma se pueden ubicar las zonas de mayor probabilidad de encontrar sobrevivientes y así establecer la mejor ruta de rescate. S.O.X. sirve como canal de comunicación al exterior utilizando micrófonos para detectar la presencia de cualquier sobreviviente y parlantes para proporcionarles la motivación psicológica necesaria para aumentar la probabilidad de ser rescatados con vida. Los S.O.X. tienen la capacidad de ser repetidores de red para proporcionar señal hasta los dispositivos enterrados más profundamente. También tienen la capacidad de comunicarse con los teléfonos celulares de los afectados. Además si el usuario cuenta con nuestra aplicación es posible acceder a la información personal brindada. De esta manera se puede facilitar la planificación del rescate. En resumen ¿por qué instalar S.O.X.? Para salvar a la mayor cantidad de personas en el menor tiempo posible.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.28,
+   "text": "¿Sabías qué?"
+  },
+  {
+   "start": 1.28,
+   "end": 12.64,
+   "text": "Solo en México en 2018 se registraron 30.193 sismos, otros 7.079 de magnitud mayor a 2.5 en escala de Richter en Chile en el mismo año."
+  },
+  {
+   "start": 12.64,
+   "end": 16.8,
+   "text": "Y en lo que va de 2019 el Golfo en México ya ha sufrido 7 huracanes."
+  },
+  {
+   "start": 16.8,
+   "end": 24.98,
+   "text": "Estas son algunas de las catástrofes naturales más importantes de este siglo en América Latina,"
+  },
+  {
+   "start": 24.98,
+   "end": 28.26,
+   "text": "que siguen cobrando vidas a pesar de los avances tecnológicos."
+  },
+  {
+   "start": 32.75,
+   "end": 39.95,
+   "text": "Los métodos de búsqueda de rescate actualmente utilizados como perros, fuerzas humanas y otros métodos obsoletos y costosos"
+  },
+  {
+   "start": 39.95,
+   "end": 43.71,
+   "text": "no permiten que los rescatistas sepan con certeza dónde actuar,"
+  },
+  {
+   "start": 43.71,
+   "end": 49.15,
+   "text": "poniendo sus vidas en peligro y causando largos periodos de espera para las víctimas en situaciones críticas."
+  },
+  {
+   "start": 50.43,
+   "end": 56.99,
+   "text": "Así como actualmente contamos con distintos protocolos de seguridad, contra fuego, alto voltaje, químicos y alimentos,"
+  },
+  {
+   "start": 56.99,
+   "end": 61.31,
+   "text": "nuestra solución propone un nuevo paradigma contra catástrofes naturales."
+  },
+  {
+   "start": 61.39,
+   "end": 65.47,
+   "text": "Para brindar una solución eficiente a la hora de localizar víctimas de estos sucesos."
+  },
+  {
+   "start": 65.95,
+   "end": 70.27,
+   "text": "Estos son algunos de los obstáculos que enfrentan los rescatistas en su búsqueda."
+  },
+  {
+   "start": 70.27,
+   "end": 74.27,
+   "text": "Todas las soluciones ya existentes abordan el problema desde el exterior."
+  },
+  {
+   "start": 74.27,
+   "end": 76.27,
+   "text": "Nosotros planteamos lo contrario."
+  },
+  {
+   "start": 77.87,
+   "end": 81.23,
+   "text": "Les presentamos S.O.X. Inspirado en el concepto de caja negra."
+  },
+  {
+   "start": 81.23,
+   "end": 86.03,
+   "text": "Es un pequeño dispositivo esférico que se instala en varias zonas del edificio como todo sensor de seguridad."
+  },
+  {
+   "start": 86.03,
+   "end": 89.95,
+   "text": "Es por eso que este ya se encuentra en el foco del derrumbe desde su inicio."
+  },
+  {
+   "start": 93.18,
+   "end": 95.9,
+   "text": "Los dispositivos se encuentran inactivos la mayor parte del tiempo,"
+  },
+  {
+   "start": 95.9,
+   "end": 99.74,
+   "text": "pero al momento del desastre los S.O.X. detectan el derrumbe y activan su protocolo."
+  },
+  {
+   "start": 99.74,
+   "end": 102.22,
+   "text": "En primera instancia reportan en emergencia la situación."
+  },
+  {
+   "start": 102.22,
+   "end": 106.86,
+   "text": "Al mismo tiempo activan su geolocalizador para recabar datos sobre cómo fue la situación."
+  },
+  {
+   "start": 106.86,
+   "end": 112.7,
+   "text": "Entonces mediante un sistema de comunicación interno generan los datos suficientes para simular por computadora el derrumbe."
+  },
+  {
+   "start": 112.7,
+   "end": 119.1,
+   "text": "De esta forma se pueden ubicar las zonas de mayor probabilidad de encontrar sobrevivientes y así establecer la mejor ruta de rescate."
+  },
+  {
+   "start": 120.06,
+   "end": 127.82,
+   "text": "S.O.X. sirve como canal de comunicación al exterior utilizando micrófonos para detectar la presencia de cualquier sobreviviente y parlantes"
+  },
+  {
+   "start": 127.82,
+   "end": 133.26,
+   "text": "para proporcionarles la motivación psicológica necesaria para aumentar la probabilidad de ser rescatados con vida."
+  },
+  {
+   "start": 133.26,
+   "end": 143.87,
+   "text": "Los S.O.X. tienen la capacidad de ser repetidores de red para proporcionar señal hasta los dispositivos enterrados más profundamente."
+  },
+  {
+   "start": 143.87,
+   "end": 147.87,
+   "text": "También tienen la capacidad de comunicarse con los teléfonos celulares de los afectados."
+  },
+  {
+   "start": 148.03,
+   "end": 153.39,
+   "text": "Además si el usuario cuenta con nuestra aplicación es posible acceder a la información personal brindada."
+  },
+  {
+   "start": 153.39,
+   "end": 156.35,
+   "text": "De esta manera se puede facilitar la planificación del rescate."
+  },
+  {
+   "start": 156.35,
+   "end": 167.9,
+   "text": "En resumen ¿por qué instalar S.O.X.? Para salvar a la mayor cantidad de personas en el menor tiempo posible."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 180.4
+}

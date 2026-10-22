@@ -1,0 +1,137 @@
+{
+ "video_id": "IDmLL70WXj4",
+ "url": "https://youtu.be/IDmLL70WXj4?si=GOfIzjvb4opFo8sY",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "AGROSAVE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "AGROSAVE",
+   "challenge": "04 - ALIMENTACIÓN DE CALIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:17:16+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Al examinar el comportamiento de la pobreza extrema en los países latinoamericanos, según la CEPAL, no son buenas noticias ya que se podría producir un estancamiento en las tendencias de descenso durante el 2023. Poner fin a la pobreza es el primero de los 17 objetivos de desarrollo sostenible y las claves para conseguirlo es la orientación de políticas que permitan mejor acceso, eliminando barreras y aumentar la capacidad de la población a ganarse la vida. Esto conlleva a incrementar acceso a crédito. Mayor productividad promoviendo el uso y la gestión sostenible de los recursos naturales. Oportunidades de empleo digno, creación de empleo digno agrícolas y no agrícolas. Abordar el cambio climático, aumentando la resiliencia y la capacidad de adaptación de las comunidades pobres y vulnerables. Personas emprendedoras empoderan a la población rural para participar activamente en los procesos de desarrollo y beneficio de ello. Esen base a la necesidad de mejorar las condiciones de vida y nutrición de las comunidades rurales, nace a TOLE, un emprendimiento gastronómico creado para la elaboración de un atol nutritivo a base del acto suero y cereal de gandul. Obteniendo la materia prima de las cosechas de los productores de las zonas rurales, la cual permiten un costo de producción y comercialización más bajo. Además del enriquecimiento en la dieta alimenticia, generando la transformación del acto suero y dar valor agregado a los excedentes. Este proceso comprende las etapas de recepción de materia prima del acto suero y del gandul. Se filtra el acto suero y los granos de gandul se pelan y se tuestan, para luego pasar a la etapa de molienda obteniendo el cereal. Luego pasa a la etapa de paustrización añadiendo azúcar y canela y remover constantemente hasta obtener la consistencia deseada que puede ser líquida o semisólida. Atoli, nutrición, a tu alcance.",
+ "segments": [
+  {
+   "start": 3.28,
+   "end": 8.68,
+   "text": "Al examinar el comportamiento de la pobreza extrema en los países latinoamericanos, según la CEPAL,"
+  },
+  {
+   "start": 8.68,
+   "end": 15.08,
+   "text": "no son buenas noticias ya que se podría producir un estancamiento en las tendencias de descenso durante el 2023."
+  },
+  {
+   "start": 15.08,
+   "end": 19.48,
+   "text": "Poner fin a la pobreza es el primero de los 17 objetivos de desarrollo sostenible"
+  },
+  {
+   "start": 19.48,
+   "end": 23.16,
+   "text": "y las claves para conseguirlo es la orientación de políticas que permitan"
+  },
+  {
+   "start": 23.16,
+   "end": 28.48,
+   "text": "mejor acceso, eliminando barreras y aumentar la capacidad de la población a ganarse la vida."
+  },
+  {
+   "start": 28.48,
+   "end": 31.2,
+   "text": "Esto conlleva a incrementar acceso a crédito."
+  },
+  {
+   "start": 31.36,
+   "end": 35.96,
+   "text": "Mayor productividad promoviendo el uso y la gestión sostenible de los recursos naturales."
+  },
+  {
+   "start": 35.96,
+   "end": 40.6,
+   "text": "Oportunidades de empleo digno, creación de empleo digno agrícolas y no agrícolas."
+  },
+  {
+   "start": 40.6,
+   "end": 47.64,
+   "text": "Abordar el cambio climático, aumentando la resiliencia y la capacidad de adaptación de las comunidades pobres y vulnerables."
+  },
+  {
+   "start": 47.64,
+   "end": 55.2,
+   "text": "Personas emprendedoras empoderan a la población rural para participar activamente en los procesos de desarrollo y beneficio de ello."
+  },
+  {
+   "start": 55.36,
+   "end": 60.2,
+   "text": "Esen base a la necesidad de mejorar las condiciones de vida y nutrición de las comunidades rurales,"
+  },
+  {
+   "start": 60.2,
+   "end": 68.6,
+   "text": "nace a TOLE, un emprendimiento gastronómico creado para la elaboración de un atol nutritivo a base del acto suero y cereal de gandul."
+  },
+  {
+   "start": 68.6,
+   "end": 73.36,
+   "text": "Obteniendo la materia prima de las cosechas de los productores de las zonas rurales,"
+  },
+  {
+   "start": 73.36,
+   "end": 77.48,
+   "text": "la cual permiten un costo de producción y comercialización más bajo."
+  },
+  {
+   "start": 77.48,
+   "end": 80.72,
+   "text": "Además del enriquecimiento en la dieta alimenticia,"
+  },
+  {
+   "start": 80.72,
+   "end": 86.64,
+   "text": "generando la transformación del acto suero y dar valor agregado a los excedentes."
+  },
+  {
+   "start": 86.64,
+   "end": 92.2,
+   "text": "Este proceso comprende las etapas de recepción de materia prima del acto suero y del gandul."
+  },
+  {
+   "start": 92.2,
+   "end": 96.36,
+   "text": "Se filtra el acto suero y los granos de gandul se pelan y se tuestan,"
+  },
+  {
+   "start": 96.36,
+   "end": 99.72,
+   "text": "para luego pasar a la etapa de molienda obteniendo el cereal."
+  },
+  {
+   "start": 99.72,
+   "end": 103.6,
+   "text": "Luego pasa a la etapa de paustrización añadiendo azúcar y canela"
+  },
+  {
+   "start": 103.6,
+   "end": 109.88,
+   "text": "y remover constantemente hasta obtener la consistencia deseada que puede ser líquida o semisólida."
+  },
+  {
+   "start": 109.88,
+   "end": 111.84,
+   "text": "Atoli, nutrición, a tu alcance."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.0
+}

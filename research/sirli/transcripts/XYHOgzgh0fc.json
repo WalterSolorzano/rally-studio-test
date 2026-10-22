@@ -1,0 +1,26 @@
+{
+ "video_id": "XYHOgzgh0fc",
+ "url": "https://youtu.be/XYHOgzgh0fc?si=Jj9RmWYTEcAQfT8P",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "UMLJALAPA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "UMLJALAPA",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:06:17+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "",
+ "segments": [],
+ "has_info": false,
+ "duration_s": 120.7
+}

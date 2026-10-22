@@ -1,0 +1,127 @@
+{
+ "video_id": "OBoQ45XiAvk",
+ "url": "https://youtu.be/OBoQ45XiAvk",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "UNNOVA",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "UNNOVA",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:26:20+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Las lluvias torrenciales, la degradación de los ecosistemas y la insuficiencia de los sistemas de drenaje aumentan el riesgo de inundaciones en zona urbana y periurbana. Ante esta problemática, buscamos una forma más eficiente y sostenible de gestionar el agua de lluvia. Hola, somos el equipo unidado de Nicaragua y hoy les presentamos Econimbo, una propuesta que combina el monitoreo inteligente, la infraestructura verde y las energías renovables para mejorar la gestión de las aguas pluviales. Econimbo integra diferentes componentes para optimizar la gestión del agua. Primero, un presfiltro que retiene los residuos sólidos y posteriormente una etapa de filtración ayuda a separar los sedimentos. Las tuberías, la válvula y una bomba permiten conducir y evacuar de manera controlada. Además, proponemos incorporar monitoreo inteligente, un panel solar y un mecanismo de generación hidráulica para aprovechar las energías renovables. Nuestra innovación consiste en integrar la gestión del agua, la automatización y las energías renovables en una sola propuesta. Para su implementación, estimamos un inversión total de 7.070 dólares con 49 centavos que contemplan los costos previstos para los componentes y materiales necesarios para desarrollar el sistema. A diferencia de las soluciones que requieren grandes construcciones, Econimbo busca aprovechar los reservorios existentes, reduciendo la inversión en una nueva infraestructura. Al igual que su diseño, busca disminuir los costos de mantenimiento y aprovechar el agua de lluvia como un recurso útil. En Unnova, creemos que los desafíos ambientales también pueden convertirse en oportunidades para innovar. Con Econimbo, buscamos promover una gestión del agua pluvial más inteligente, responsable y sostenible. Econimbo, el agua de lluvia no es solo un problema, es una oportunidad.",
+ "segments": [
+  {
+   "start": 0.11,
+   "end": 5.03,
+   "text": "Las lluvias torrenciales, la degradación de los ecosistemas y la insuficiencia de los sistemas de"
+  },
+  {
+   "start": 5.03,
+   "end": 8.63,
+   "text": "drenaje aumentan el riesgo de inundaciones en zona urbana y periurbana."
+  },
+  {
+   "start": 8.63,
+   "end": 13.67,
+   "text": "Ante esta problemática, buscamos una forma más eficiente y sostenible de gestionar el agua de lluvia."
+  },
+  {
+   "start": 13.67,
+   "end": 18.11,
+   "text": "Hola, somos el equipo unidado de Nicaragua y hoy les presentamos Econimbo,"
+  },
+  {
+   "start": 18.11,
+   "end": 23.47,
+   "text": "una propuesta que combina el monitoreo inteligente, la infraestructura verde y las energías renovables"
+  },
+  {
+   "start": 23.47,
+   "end": 29.11,
+   "text": "para mejorar la gestión de las aguas pluviales. Econimbo integra diferentes componentes para"
+  },
+  {
+   "start": 29.11,
+   "end": 34.03,
+   "text": "optimizar la gestión del agua. Primero, un presfiltro que retiene los residuos sólidos y"
+  },
+  {
+   "start": 34.03,
+   "end": 39.63,
+   "text": "posteriormente una etapa de filtración ayuda a separar los sedimentos. Las tuberías, la válvula"
+  },
+  {
+   "start": 39.63,
+   "end": 45.11,
+   "text": "y una bomba permiten conducir y evacuar de manera controlada. Además, proponemos incorporar"
+  },
+  {
+   "start": 45.11,
+   "end": 49.87,
+   "text": "monitoreo inteligente, un panel solar y un mecanismo de generación hidráulica para aprovechar"
+  },
+  {
+   "start": 49.87,
+   "end": 54.39,
+   "text": "las energías renovables. Nuestra innovación consiste en integrar la gestión del agua,"
+  },
+  {
+   "start": 54.39,
+   "end": 60.51,
+   "text": "la automatización y las energías renovables en una sola propuesta. Para su implementación,"
+  },
+  {
+   "start": 60.51,
+   "end": 69.07,
+   "text": "estimamos un inversión total de 7.070 dólares con 49 centavos que contemplan los costos previstos"
+  },
+  {
+   "start": 69.07,
+   "end": 76.15,
+   "text": "para los componentes y materiales necesarios para desarrollar el sistema. A diferencia de las"
+  },
+  {
+   "start": 76.15,
+   "end": 81.47,
+   "text": "soluciones que requieren grandes construcciones, Econimbo busca aprovechar los reservorios"
+  },
+  {
+   "start": 81.55,
+   "end": 87.79,
+   "text": "existentes, reduciendo la inversión en una nueva infraestructura. Al igual que su diseño,"
+  },
+  {
+   "start": 87.79,
+   "end": 92.59,
+   "text": "busca disminuir los costos de mantenimiento y aprovechar el agua de lluvia como un recurso"
+  },
+  {
+   "start": 92.59,
+   "end": 99.63,
+   "text": "útil. En Unnova, creemos que los desafíos ambientales también pueden convertirse en oportunidades para"
+  },
+  {
+   "start": 99.63,
+   "end": 105.07,
+   "text": "innovar. Con Econimbo, buscamos promover una gestión del agua pluvial más inteligente,"
+  },
+  {
+   "start": 105.07,
+   "end": 111.59,
+   "text": "responsable y sostenible. Econimbo, el agua de lluvia no es solo un problema, es una oportunidad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 112.0
+}

@@ -1,0 +1,162 @@
+{
+ "video_id": "-mafrr6Fcls",
+ "url": "https://youtu.be/-mafrr6Fcls",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MÖBIUS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MÖBIUS",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:30:35+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El niño se calcula que alrededor de 190 millones de personas han sido afectadas por desastres naturales según afirma los datos del sistema económico latinoamericano y del Caribe Selal. De esas amenazas, las inundaciones figuran entre las más frecuentes y debatadoras, causando desplazamiento de comunidad entera y pérdida tanto económica como humanas, porque cada vez que un río se desborda sin aviso, un hogar, una escuela o una vía están en riesgo. Por eso, nace el sistema comunitario de alerta temprana SCAT, una propuesta que une la inteligencia artificial con la tecnología más avanzada para prevenir desastres antes de que suceda. Nuestro sistema combina sensores inteligentes y cámaras de monitoreo, capaces de medir en tiempo real el nivel de río y arroyo en zona vulnerable. Toda esa información es procesada por algoritmos de inteligencia artificial que analizan los patrones históricos y actuales del caudal, detectando cualquier incremento peligroso en cuestión de segundos. Cuando se detecta un riesgo, SCAT genera alertas temprana automáticas, notificando a través de un mensaje de detecto a las autoridades, equipos de emergencia, refugios provisionales y a la población en peligro, además de enviar alertas de radio frecuencia y activar alarmas ubicadas en puntos claves de la comunidad, permitiendo proteger hasta un 80% de la población que vive en zonas vulnerables mediante evacuaciones rápidas y seguras, reduciendo así pérdida humana. Para hacer esto posible se requiere un financiamiento aproximado de 900 dólares, destinado principalmente a la adquisición de equipos y materiales tecnológicos que permitan su instalación en cada comunidad, lo que representa una inversión mínima con un enorme empanio. Solo es una herramienta tecnológica, es un sistema de prevención, una red de seguridad y una promesa de que ningún río volverá a sorprendernos sin aviso, porque cuando la tecnología se pone al servicio de la vida, la innovación se convierte en esperanza. SCAD, una información oportuna en tiempo real.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.66,
+   "text": "El niño se calcula que alrededor de 190 millones de personas han sido afectadas por desastres naturales"
+  },
+  {
+   "start": 5.66,
+   "end": 11.24,
+   "text": "según afirma los datos del sistema económico latinoamericano y del Caribe Selal."
+  },
+  {
+   "start": 11.24,
+   "end": 16.38,
+   "text": "De esas amenazas, las inundaciones figuran entre las más frecuentes y debatadoras,"
+  },
+  {
+   "start": 16.38,
+   "end": 22.0,
+   "text": "causando desplazamiento de comunidad entera y pérdida tanto económica como humanas,"
+  },
+  {
+   "start": 22.0,
+   "end": 29.66,
+   "text": "porque cada vez que un río se desborda sin aviso, un hogar, una escuela o una vía están en riesgo."
+  },
+  {
+   "start": 29.66,
+   "end": 33.22,
+   "text": "Por eso, nace el sistema comunitario de alerta temprana SCAT,"
+  },
+  {
+   "start": 33.22,
+   "end": 37.34,
+   "text": "una propuesta que une la inteligencia artificial con la tecnología más avanzada"
+  },
+  {
+   "start": 37.34,
+   "end": 40.62,
+   "text": "para prevenir desastres antes de que suceda."
+  },
+  {
+   "start": 40.62,
+   "end": 44.1,
+   "text": "Nuestro sistema combina sensores inteligentes y cámaras de monitoreo,"
+  },
+  {
+   "start": 44.1,
+   "end": 48.06,
+   "text": "capaces de medir en tiempo real el nivel de río y arroyo en zona vulnerable."
+  },
+  {
+   "start": 48.06,
+   "end": 51.9,
+   "text": "Toda esa información es procesada por algoritmos de inteligencia artificial"
+  },
+  {
+   "start": 51.9,
+   "end": 54.62,
+   "text": "que analizan los patrones históricos y actuales del caudal,"
+  },
+  {
+   "start": 54.62,
+   "end": 58.58,
+   "text": "detectando cualquier incremento peligroso en cuestión de segundos."
+  },
+  {
+   "start": 58.66,
+   "end": 63.22,
+   "text": "Cuando se detecta un riesgo, SCAT genera alertas temprana automáticas,"
+  },
+  {
+   "start": 63.22,
+   "end": 66.7,
+   "text": "notificando a través de un mensaje de detecto a las autoridades,"
+  },
+  {
+   "start": 66.7,
+   "end": 71.06,
+   "text": "equipos de emergencia, refugios provisionales y a la población en peligro,"
+  },
+  {
+   "start": 71.06,
+   "end": 77.22,
+   "text": "además de enviar alertas de radio frecuencia y activar alarmas ubicadas en puntos claves de la comunidad,"
+  },
+  {
+   "start": 77.22,
+   "end": 84.1,
+   "text": "permitiendo proteger hasta un 80% de la población que vive en zonas vulnerables mediante evacuaciones rápidas y seguras,"
+  },
+  {
+   "start": 84.1,
+   "end": 86.22,
+   "text": "reduciendo así pérdida humana."
+  },
+  {
+   "start": 86.3,
+   "end": 91.14,
+   "text": "Para hacer esto posible se requiere un financiamiento aproximado de 900 dólares,"
+  },
+  {
+   "start": 91.14,
+   "end": 95.94,
+   "text": "destinado principalmente a la adquisición de equipos y materiales tecnológicos"
+  },
+  {
+   "start": 95.94,
+   "end": 98.78,
+   "text": "que permitan su instalación en cada comunidad,"
+  },
+  {
+   "start": 98.78,
+   "end": 102.9,
+   "text": "lo que representa una inversión mínima con un enorme empanio."
+  },
+  {
+   "start": 102.9,
+   "end": 106.46,
+   "text": "Solo es una herramienta tecnológica, es un sistema de prevención,"
+  },
+  {
+   "start": 106.46,
+   "end": 111.78,
+   "text": "una red de seguridad y una promesa de que ningún río volverá a sorprendernos sin aviso,"
+  },
+  {
+   "start": 111.78,
+   "end": 116.74,
+   "text": "porque cuando la tecnología se pone al servicio de la vida, la innovación se convierte en esperanza."
+  },
+  {
+   "start": 116.74,
+   "end": 120.74,
+   "text": "SCAD, una información oportuna en tiempo real."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.7
+}

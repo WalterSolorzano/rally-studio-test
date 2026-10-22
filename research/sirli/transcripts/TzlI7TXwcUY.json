@@ -1,0 +1,117 @@
+{
+ "video_id": "TzlI7TXwcUY",
+ "url": "https://youtu.be/TzlI7TXwcUY?si=pKIQaA9pGRou62IH",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "HEXAPINOL",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "HEXAPINOL",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:27:53+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Y si vemos el problema antes de que sea visible, los reservorios pluviales en Incaragua sí cuentan con monitoreo, pero no aplican herramientas tecnológicas. En el paso del tiempo, la acumulación de sedimentos en los reservorios pluviales incrementa y genera una alta posibilidad de riesgo a inundaciones, afectando así al sistema ecológico, ambiental y social. Nosotros se traemos SIMAR, un sistema integral que propone la instalación de sensores IOT, alimentados con energía solar, para registrar la acumulación de los sedimentos y la calidad del agua. Estos datos alimentarán un módulo predictivo con el que se estimará la pérdida de capacidad neta del reservorio. Además, esto implementará procedimientos de siembro de pasto en zonas aledañas al cuerpo de agua, reduciendo la erosión e incremento de sedimentos o de tierra hacia el reservorio. El sistema de rende contribuye a proteger los ecosistemas al conservar el suelo y recuperar la cobertura vegetal de la zona que favorece la biodiversidad y reduce el riesgo de inundaciones para las familias aledañas a la zona protegiendo vidas, viviendas y medios de sustencia. El sistema, tanto de monitoreo como de infraestructura verde, tiene una inversión inicial de $6,300. La propuesta de innovación no se limita solo a medir, sino que utiliza un modelo predictivo para comparar la lectura de los distintos sensores e identificando niveles de aumento de los sedimentos.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.18,
+   "text": "Y si vemos el problema antes de que sea visible, los reservorios pluviales en Incaragua"
+  },
+  {
+   "start": 5.18,
+   "end": 8.78,
+   "text": "sí cuentan con monitoreo, pero no aplican herramientas tecnológicas."
+  },
+  {
+   "start": 8.78,
+   "end": 15.64,
+   "text": "En el paso del tiempo, la acumulación de sedimentos en los reservorios pluviales incrementa y genera"
+  },
+  {
+   "start": 15.64,
+   "end": 24.14,
+   "text": "una alta posibilidad de riesgo a inundaciones, afectando así al sistema ecológico, ambiental"
+  },
+  {
+   "start": 24.14,
+   "end": 25.14,
+   "text": "y social."
+  },
+  {
+   "start": 25.14,
+   "end": 31.66,
+   "text": "Nosotros se traemos SIMAR, un sistema integral que propone la instalación de sensores IOT,"
+  },
+  {
+   "start": 31.66,
+   "end": 36.24,
+   "text": "alimentados con energía solar, para registrar la acumulación de los sedimentos y la calidad"
+  },
+  {
+   "start": 36.24,
+   "end": 40.82,
+   "text": "del agua. Estos datos alimentarán un módulo predictivo con el que se estimará la pérdida"
+  },
+  {
+   "start": 40.82,
+   "end": 46.06,
+   "text": "de capacidad neta del reservorio. Además, esto implementará procedimientos de siembro"
+  },
+  {
+   "start": 46.06,
+   "end": 50.74,
+   "text": "de pasto en zonas aledañas al cuerpo de agua, reduciendo la erosión e incremento"
+  },
+  {
+   "start": 50.74,
+   "end": 53.3,
+   "text": "de sedimentos o de tierra hacia el reservorio."
+  },
+  {
+   "start": 53.3,
+   "end": 57.54,
+   "text": "El sistema de rende contribuye a proteger los ecosistemas al conservar el suelo y recuperar"
+  },
+  {
+   "start": 57.54,
+   "end": 62.58,
+   "text": "la cobertura vegetal de la zona que favorece la biodiversidad y reduce el riesgo de inundaciones"
+  },
+  {
+   "start": 62.58,
+   "end": 68.3,
+   "text": "para las familias aledañas a la zona protegiendo vidas, viviendas y medios de sustencia."
+  },
+  {
+   "start": 68.3,
+   "end": 72.9,
+   "text": "El sistema, tanto de monitoreo como de infraestructura verde, tiene una inversión inicial de"
+  },
+  {
+   "start": 72.9,
+   "end": 78.78,
+   "text": "$6,300. La propuesta de innovación no se limita solo a medir, sino que utiliza"
+  },
+  {
+   "start": 78.78,
+   "end": 83.98,
+   "text": "un modelo predictivo para comparar la lectura de los distintos sensores e identificando niveles"
+  },
+  {
+   "start": 83.98,
+   "end": 85.66,
+   "text": "de aumento de los sedimentos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 91.9
+}

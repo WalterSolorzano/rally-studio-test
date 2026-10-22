@@ -1,0 +1,122 @@
+{
+ "video_id": "EloyQJ5M7yQ",
+ "url": "https://youtu.be/EloyQJ5M7yQ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ROOTLOOP",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ROOTLOOP",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:18:09+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada año las ciudades desechan miles de toneladas de madera de pora urbana. El colno, al mismo tiempo, médico naturista y carpinteros locales buscan desesperadamente materia prima accesible. El puente faltante no existía, hasta ahora. Les presentamos reprobó la página web que conecta la logística de las empresas de poda con las manos de quienes saben transformar la madera y sacar su beneficio. ¿Cómo funciona? Es simple y colaborativo. Al planificar una poda, la empresa marca el lugar en nuestro mapa interactivo, identificando si los árboles son frutales, medicinales o florales. Toda esta información se alimente un catálogo abierto donde las personas pueden distribuir, descubrir los múltiples usos de las maderas o la hoja de su propia ciudad. Lo mejor, los creadores y ciudadanos pueden reservar con anticipación árboles de las zonas de poda, asegurando que cada recurso se aproveche antes de convertirse en residuo. Es tan fácil como tirar una piedra. Las empresas de poda se ahorran costo de exposición final y los creadores obtienen insumos locales, económicos y sostenibles. Reducimos residuo en los perdederos, impulsamos la economía local y cerramos el ciclo de la naturaleza en la ciudad. Como un gran sabio dijo una vez, la basura de uno es el tercero de otro. Y en caso que no lo vuelva a ver, buenas días, buenas tardes y buenas noches.",
+ "segments": [
+  {
+   "start": 0.21,
+   "end": 5.21,
+   "text": "Cada año las ciudades desechan miles de toneladas de madera de pora urbana."
+  },
+  {
+   "start": 5.21,
+   "end": 14.21,
+   "text": "El colno, al mismo tiempo, médico naturista y carpinteros locales buscan desesperadamente materia prima accesible."
+  },
+  {
+   "start": 14.21,
+   "end": 18.21,
+   "text": "El puente faltante no existía, hasta ahora."
+  },
+  {
+   "start": 18.21,
+   "end": 24.21,
+   "text": "Les presentamos reprobó la página web que conecta la logística de las empresas de poda"
+  },
+  {
+   "start": 24.21,
+   "end": 29.21,
+   "text": "con las manos de quienes saben transformar la madera y sacar su beneficio."
+  },
+  {
+   "start": 29.21,
+   "end": 33.21,
+   "text": "¿Cómo funciona? Es simple y colaborativo."
+  },
+  {
+   "start": 33.21,
+   "end": 39.21,
+   "text": "Al planificar una poda, la empresa marca el lugar en nuestro mapa interactivo,"
+  },
+  {
+   "start": 39.21,
+   "end": 45.21,
+   "text": "identificando si los árboles son frutales, medicinales o florales."
+  },
+  {
+   "start": 45.21,
+   "end": 51.21,
+   "text": "Toda esta información se alimente un catálogo abierto donde las personas pueden distribuir,"
+  },
+  {
+   "start": 51.21,
+   "end": 57.21,
+   "text": "descubrir los múltiples usos de las maderas o la hoja de su propia ciudad."
+  },
+  {
+   "start": 57.21,
+   "end": 65.21,
+   "text": "Lo mejor, los creadores y ciudadanos pueden reservar con anticipación árboles de las zonas de poda,"
+  },
+  {
+   "start": 65.21,
+   "end": 70.21,
+   "text": "asegurando que cada recurso se aproveche antes de convertirse en residuo."
+  },
+  {
+   "start": 70.21,
+   "end": 73.21,
+   "text": "Es tan fácil como tirar una piedra."
+  },
+  {
+   "start": 73.21,
+   "end": 77.21,
+   "text": "Las empresas de poda se ahorran costo de exposición final"
+  },
+  {
+   "start": 77.21,
+   "end": 82.21,
+   "text": "y los creadores obtienen insumos locales, económicos y sostenibles."
+  },
+  {
+   "start": 82.21,
+   "end": 87.21,
+   "text": "Reducimos residuo en los perdederos, impulsamos la economía local"
+  },
+  {
+   "start": 87.21,
+   "end": 111.97,
+   "text": "y cerramos el ciclo de la naturaleza en la ciudad."
+  },
+  {
+   "start": 111.97,
+   "end": 115.97,
+   "text": "Como un gran sabio dijo una vez, la basura de uno es el tercero de otro."
+  },
+  {
+   "start": 115.97,
+   "end": 120.97,
+   "text": "Y en caso que no lo vuelva a ver, buenas días, buenas tardes y buenas noches."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.6
+}

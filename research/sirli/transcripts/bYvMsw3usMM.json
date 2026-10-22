@@ -1,0 +1,157 @@
+{
+ "video_id": "bYvMsw3usMM",
+ "url": "https://youtu.be/bYvMsw3usMM?si=m9Mu16jQycPWc5Wj",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVA RESCATE",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "INNOVA RESCATE",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:31:37+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Qué pasaría si ocurre una inundación y no tienes conexión a internet para buscar ayuda? En el ramo sus comunidades cercanas, las inundaciones, los derrumbes y los caminos bloqueados dificultan la comunicación y la atención de las emergencias. Somos el equipo Innova Rescate, el Universidad Martín Lutero CD del Rama. Presentamos Ruta Segura, una aplicación offline diseñada para facilitar el acceso a información y servicios esenciales durante la emergencia. Ruta Segura es una aplicación que permite consultar información importante, incluso cuando no hay conexión a internet, mediante los datos que se hayan guardado previamente en el dispositivo. Ofrece información sobre albergues, lugares seguros, autoridades e instituciones de emergencia, así como un mapa que ayuda a identificar puntos de referencia y zonas afectadas. Reune información sobre los servicios de apoyo disponibles y orienta personas sobre dónde buscar asistencia. También permite organizar reportes de incidentes y necesidades para facilitar la coordinación de ayuda cuando se disponga de los medios necesarios para transmitirnos. Ruta Segura busca convertirse en una herramienta accesible para las comunidades que enfrentan dificultades de conectividad durante una emergencia. Con esta aplicación buscamos facilitar el acceso a información confiable, mejorar la organización de los recursos y ayudar a que las personas conozcan dónde encontrar refugio y a qué instituciones acudir. También promovemos la colaboración entre la comunidad, los voluntarios y las autoridades para brindar una respuesta más organizada y oportuna. Ruta Segura puede desarrollarse inicialmente como un prototipo de bajo costo utilizando herramientas de código abierto. Su utilidad dependerá de mantener actualizada la información y verificar los datos disponibles. Porque en una emergencia estar informados puede marcar la diferencia.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.5,
+   "text": "¿Qué pasaría si ocurre una inundación y no tienes conexión a internet para buscar ayuda?"
+  },
+  {
+   "start": 5.5,
+   "end": 11.0,
+   "text": "En el ramo sus comunidades cercanas, las inundaciones, los derrumbes y los caminos bloqueados"
+  },
+  {
+   "start": 11.0,
+   "end": 14.6,
+   "text": "dificultan la comunicación y la atención de las emergencias."
+  },
+  {
+   "start": 14.6,
+   "end": 17.0,
+   "text": "Somos el equipo Innova Rescate,"
+  },
+  {
+   "start": 17.0,
+   "end": 20.0,
+   "text": "el Universidad Martín Lutero CD del Rama."
+  },
+  {
+   "start": 20.0,
+   "end": 26.0,
+   "text": "Presentamos Ruta Segura, una aplicación offline diseñada para facilitar el acceso"
+  },
+  {
+   "start": 26.0,
+   "end": 30.0,
+   "text": "a información y servicios esenciales durante la emergencia."
+  },
+  {
+   "start": 30.0,
+   "end": 34.0,
+   "text": "Ruta Segura es una aplicación que permite consultar información importante,"
+  },
+  {
+   "start": 34.0,
+   "end": 37.0,
+   "text": "incluso cuando no hay conexión a internet,"
+  },
+  {
+   "start": 37.0,
+   "end": 42.0,
+   "text": "mediante los datos que se hayan guardado previamente en el dispositivo."
+  },
+  {
+   "start": 42.0,
+   "end": 48.0,
+   "text": "Ofrece información sobre albergues, lugares seguros, autoridades e instituciones de emergencia,"
+  },
+  {
+   "start": 48.0,
+   "end": 53.0,
+   "text": "así como un mapa que ayuda a identificar puntos de referencia y zonas afectadas."
+  },
+  {
+   "start": 53.0,
+   "end": 60.0,
+   "text": "Reune información sobre los servicios de apoyo disponibles y orienta personas sobre dónde buscar asistencia."
+  },
+  {
+   "start": 60.0,
+   "end": 66.0,
+   "text": "También permite organizar reportes de incidentes y necesidades para facilitar la coordinación de ayuda"
+  },
+  {
+   "start": 66.0,
+   "end": 71.0,
+   "text": "cuando se disponga de los medios necesarios para transmitirnos."
+  },
+  {
+   "start": 71.0,
+   "end": 76.0,
+   "text": "Ruta Segura busca convertirse en una herramienta accesible para las comunidades"
+  },
+  {
+   "start": 76.0,
+   "end": 80.0,
+   "text": "que enfrentan dificultades de conectividad durante una emergencia."
+  },
+  {
+   "start": 80.0,
+   "end": 85.0,
+   "text": "Con esta aplicación buscamos facilitar el acceso a información confiable,"
+  },
+  {
+   "start": 85.0,
+   "end": 91.0,
+   "text": "mejorar la organización de los recursos y ayudar a que las personas conozcan dónde encontrar refugio"
+  },
+  {
+   "start": 91.0,
+   "end": 94.0,
+   "text": "y a qué instituciones acudir."
+  },
+  {
+   "start": 94.0,
+   "end": 99.0,
+   "text": "También promovemos la colaboración entre la comunidad, los voluntarios y las autoridades"
+  },
+  {
+   "start": 99.0,
+   "end": 102.0,
+   "text": "para brindar una respuesta más organizada y oportuna."
+  },
+  {
+   "start": 102.0,
+   "end": 107.0,
+   "text": "Ruta Segura puede desarrollarse inicialmente como un prototipo de bajo costo"
+  },
+  {
+   "start": 107.0,
+   "end": 110.0,
+   "text": "utilizando herramientas de código abierto."
+  },
+  {
+   "start": 110.0,
+   "end": 116.0,
+   "text": "Su utilidad dependerá de mantener actualizada la información y verificar los datos disponibles."
+  },
+  {
+   "start": 116.0,
+   "end": 121.0,
+   "text": "Porque en una emergencia estar informados puede marcar la diferencia."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.8
+}

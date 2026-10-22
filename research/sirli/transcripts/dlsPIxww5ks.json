@@ -1,0 +1,157 @@
+{
+ "video_id": "dlsPIxww5ks",
+ "url": "https://www.youtube.com/watch?v=dlsPIxww5ks",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ACME",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ACME",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T18:59:29+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En América Latina y el Caribe aproximadamente el 52% de los residuos sólidos municipales o orgánicos y cerca del 1% se trata por compostaje. El resto terminan en vertedero. Entre ellos se encuentran los residuos de poda como ramas, hojas, troncos que podrían transformarse en compost y leña. La falta de un sistema organizado para recolectarlos, procesarlo y aprovecharlo genera acumulación de residuos, quema, contaminación, inconsciente y riesgo ambiental y sanitario. Para responder a este problema nace Reverde, una iniciativa que propone centros de acopio donde los residuos orgánicos generados por la poda se clasifican y transforman en productos útiles para la comunidad. Mientras la administración de los puntos de acopio ha designado uno como central en colaboración de la cobertura además contamos con un espacio digital para la gente del proceso. Reverde busca reducir la contaminación y generar oportunidades económicas para nuestras comunidades. Al transformar la biomasa en leña y compost que se reinteran a los ciclos de consumo y el suelo se reducirá la disposición inadecuada y la emisión de CO2 causada por su quema. Proponemos establecer alianzas con pequeños negocios que ofrezcan comida o servicios canjeables por una determinada cantidad de puntos acumulado en la aplicación. De esa manera incentivamos el reciclaje, promovemos la participación ciudadana y apoyamos a los emprendedores locales. Por otro lado también buscamos generar oportunidades para transportistas independientes y para trabajadores de los centros de acopio. La innovación de Reverde está en coordinar toda la cadena de aprovechamiento de la poda. La plataforma conectará a vecinos, transportistas, centros y compradores y organizará recogida y entrega aprovechando el viaje de regreso para distribuir a Bono y Lein. Cada lote tendrá un código QR para concentrar su origen y procesamiento. Además las horas de uso y con el de la estructura ayudará a programar el manté. Así buscamos reducir viajes vacíos, para que no perveníe a interrupciones y facilitar que el modelo se repique en otra ciudad. Hacer la leda Reverde requiere en promedio 10 mil dólares, cubriendo la producción con 1.000 toneladas al año, necesaria para hacer factible la inversión.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.4,
+   "text": "En América Latina y el Caribe aproximadamente el 52% de los residuos sólidos municipales o"
+  },
+  {
+   "start": 6.4,
+   "end": 11.84,
+   "text": "orgánicos y cerca del 1% se trata por compostaje. El resto terminan en vertedero."
+  },
+  {
+   "start": 11.84,
+   "end": 18.36,
+   "text": "Entre ellos se encuentran los residuos de poda como ramas, hojas, troncos que podrían transformarse"
+  },
+  {
+   "start": 18.36,
+   "end": 23.08,
+   "text": "en compost y leña. La falta de un sistema organizado para recolectarlos, procesarlo y"
+  },
+  {
+   "start": 23.08,
+   "end": 28.24,
+   "text": "aprovecharlo genera acumulación de residuos, quema, contaminación, inconsciente y riesgo"
+  },
+  {
+   "start": 28.24,
+   "end": 33.04,
+   "text": "ambiental y sanitario. Para responder a este problema nace Reverde, una iniciativa que propone"
+  },
+  {
+   "start": 33.04,
+   "end": 38.04,
+   "text": "centros de acopio donde los residuos orgánicos generados por la poda se clasifican y transforman"
+  },
+  {
+   "start": 38.04,
+   "end": 42.08,
+   "text": "en productos útiles para la comunidad. Mientras la administración de los puntos de acopio"
+  },
+  {
+   "start": 42.08,
+   "end": 47.24,
+   "text": "ha designado uno como central en colaboración de la cobertura además contamos con un espacio"
+  },
+  {
+   "start": 47.24,
+   "end": 51.08,
+   "text": "digital para la gente del proceso. Reverde busca reducir la contaminación"
+  },
+  {
+   "start": 51.08,
+   "end": 55.4,
+   "text": "y generar oportunidades económicas para nuestras comunidades. Al transformar la biomasa en"
+  },
+  {
+   "start": 55.4,
+   "end": 60.8,
+   "text": "leña y compost que se reinteran a los ciclos de consumo y el suelo se reducirá la disposición"
+  },
+  {
+   "start": 60.8,
+   "end": 65.56,
+   "text": "inadecuada y la emisión de CO2 causada por su quema."
+  },
+  {
+   "start": 65.56,
+   "end": 69.92,
+   "text": "Proponemos establecer alianzas con pequeños negocios que ofrezcan comida o servicios canjeables"
+  },
+  {
+   "start": 69.92,
+   "end": 74.44,
+   "text": "por una determinada cantidad de puntos acumulado en la aplicación. De esa manera incentivamos"
+  },
+  {
+   "start": 74.44,
+   "end": 79.8,
+   "text": "el reciclaje, promovemos la participación ciudadana y apoyamos a los emprendedores locales."
+  },
+  {
+   "start": 79.8,
+   "end": 83.88,
+   "text": "Por otro lado también buscamos generar oportunidades para transportistas independientes y para"
+  },
+  {
+   "start": 83.88,
+   "end": 88.4,
+   "text": "trabajadores de los centros de acopio. La innovación de Reverde está en coordinar toda"
+  },
+  {
+   "start": 88.4,
+   "end": 93.52,
+   "text": "la cadena de aprovechamiento de la poda. La plataforma conectará a vecinos, transportistas,"
+  },
+  {
+   "start": 93.52,
+   "end": 98.56,
+   "text": "centros y compradores y organizará recogida y entrega aprovechando el viaje de regreso"
+  },
+  {
+   "start": 98.56,
+   "end": 102.68,
+   "text": "para distribuir a Bono y Lein. Cada lote tendrá un código QR para"
+  },
+  {
+   "start": 102.68,
+   "end": 107.2,
+   "text": "concentrar su origen y procesamiento. Además las horas de uso y con el de la estructura"
+  },
+  {
+   "start": 107.2,
+   "end": 110.56,
+   "text": "ayudará a programar el manté. Así buscamos reducir viajes vacíos,"
+  },
+  {
+   "start": 110.56,
+   "end": 116.36,
+   "text": "para que no perveníe a interrupciones y facilitar que el modelo se repique en otra ciudad."
+  },
+  {
+   "start": 116.36,
+   "end": 120.44,
+   "text": "Hacer la leda Reverde requiere en promedio 10 mil dólares, cubriendo la producción con"
+  },
+  {
+   "start": 120.44,
+   "end": 123.68,
+   "text": "1.000 toneladas al año, necesaria para hacer factible la inversión."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 124.5
+}

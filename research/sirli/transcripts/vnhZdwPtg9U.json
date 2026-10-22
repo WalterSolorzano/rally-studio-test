@@ -1,0 +1,112 @@
+{
+ "video_id": "vnhZdwPtg9U",
+ "url": "https://youtu.be/vnhZdwPtg9U?si=hc8263dWK6R_bX-0",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CENTELLA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "CENTELLA",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:13:28+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El canismo comunitario y tecnológico pueden integrar específicamente para detectar las crecidas de ríos a tiempo y activar una alerta que salve de vida. La problemática se basa en la falta de un sistema de alerta temprana que avisa las comunidades sobre crecidas de ríos y arroyos. Esto provoca que muchas personas no reciban aviso a tiempo ni pueden evacuar con seguridad, aumentando el riesgo de perdidas humanas y materiales durante la inundación. Creamos una aplicación para alertar de inundaciones gracias a los asesores que estarán a cargo de recibir esa información y los sensores para un porcentaje más preciso de las posibles inundaciones. Las personas se benefician al recibir alertas tempranas que les permiten evacuar a tiempo y proteger sus vidas y bienes. Además cuenta con información confiable sobre el nivel de los ríos, lo que reduce el miedo a incertidumbre durante la lluvia y mejora la coordinación con las autoridades para actuar ante emergencia. Nuestro proyecto es el idóneo porque ofrece una solución práctica, moderna y de bajo costo para prevenir desastre. Combina sensores y una aplicación que permite monitorear los ríos en tiempo real y enviar alertas precisas ayudando a proteger vidas y bienes de manera rara. Invitamos a las autoridades y comunidades a unirnos para implementar este sistema de alerta temprana porque prevenir a tiempo significa salvar vidas y proteger el futuro de nuestras comunidades.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.68,
+   "text": "El canismo comunitario y tecnológico pueden integrar"
+  },
+  {
+   "start": 3.68,
+   "end": 11.36,
+   "text": "específicamente para detectar las crecidas de ríos a tiempo y activar una alerta que salve de vida."
+  },
+  {
+   "start": 11.36,
+   "end": 17.04,
+   "text": "La problemática se basa en la falta de un sistema de alerta temprana que avisa las comunidades"
+  },
+  {
+   "start": 17.04,
+   "end": 23.64,
+   "text": "sobre crecidas de ríos y arroyos. Esto provoca que muchas personas no reciban aviso a tiempo"
+  },
+  {
+   "start": 23.64,
+   "end": 28.64,
+   "text": "ni pueden evacuar con seguridad, aumentando el riesgo de perdidas humanas y materiales"
+  },
+  {
+   "start": 28.64,
+   "end": 34.24,
+   "text": "durante la inundación. Creamos una aplicación para alertar de inundaciones"
+  },
+  {
+   "start": 34.24,
+   "end": 39.84,
+   "text": "gracias a los asesores que estarán a cargo de recibir esa información y los sensores para un"
+  },
+  {
+   "start": 39.84,
+   "end": 45.92,
+   "text": "porcentaje más preciso de las posibles inundaciones. Las personas se benefician al recibir alertas"
+  },
+  {
+   "start": 45.92,
+   "end": 51.64,
+   "text": "tempranas que les permiten evacuar a tiempo y proteger sus vidas y bienes. Además cuenta con"
+  },
+  {
+   "start": 51.64,
+   "end": 56.72,
+   "text": "información confiable sobre el nivel de los ríos, lo que reduce el miedo a incertidumbre"
+  },
+  {
+   "start": 56.72,
+   "end": 62.24,
+   "text": "durante la lluvia y mejora la coordinación con las autoridades para actuar ante emergencia."
+  },
+  {
+   "start": 62.24,
+   "end": 67.68,
+   "text": "Nuestro proyecto es el idóneo porque ofrece una solución práctica, moderna y de bajo"
+  },
+  {
+   "start": 67.68,
+   "end": 72.88,
+   "text": "costo para prevenir desastre. Combina sensores y una aplicación que permite monitorear"
+  },
+  {
+   "start": 72.88,
+   "end": 78.48,
+   "text": "los ríos en tiempo real y enviar alertas precisas ayudando a proteger vidas y bienes"
+  },
+  {
+   "start": 78.48,
+   "end": 79.48,
+   "text": "de manera rara."
+  },
+  {
+   "start": 79.48,
+   "end": 84.24,
+   "text": "Invitamos a las autoridades y comunidades a unirnos para implementar este sistema de alerta"
+  },
+  {
+   "start": 84.24,
+   "end": 89.72,
+   "text": "temprana porque prevenir a tiempo significa salvar vidas y proteger el futuro de nuestras comunidades."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 90.5
+}

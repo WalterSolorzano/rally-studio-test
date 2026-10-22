@@ -1,0 +1,247 @@
+{
+  "source": "https://sirli.org/ganadores/index",
+  "scraped_at": "2026-10-22T05:39:37+00:00",
+  "collections": [
+    "sede",
+    "nacional",
+    "internacional"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "records": 5136,
+  "unique_teams": 4652,
+  "videos_total": 4709,
+  "videos_missing": 16,
+  "by_collection": {
+    "internacional": 58,
+    "nacional": 363,
+    "sede": 4715
+  },
+  "by_year": {
+    "2017": 151,
+    "2018": 137,
+    "2019": 182,
+    "2020": 112,
+    "2021": 538,
+    "2022": 682,
+    "2023": 758,
+    "2024": 782,
+    "2025": 867,
+    "2026": 927
+  },
+  "by_country": {
+    "NICARAGUA": 1259,
+    "MÉXICO": 1138,
+    "ARGENTINA": 1125,
+    "COLOMBIA": 576,
+    "EL SALVADOR": 336,
+    "CHILE": 299,
+    "COSTA RICA": 111,
+    "BOLIVIA": 99,
+    "ECUADOR": 77,
+    "BRASIL": 49,
+    "VENEZUELA": 36,
+    "PERÚ": 14,
+    "URUGUAY": 10,
+    "PARAGUAY": 7
+  },
+  "pages": [
+    {
+      "collection": "sede",
+      "year": 2017,
+      "url": "https://sirli.org/ganadores/sede/2017/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 136
+    },
+    {
+      "collection": "sede",
+      "year": 2018,
+      "url": "https://sirli.org/ganadores/sede/2018/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 119
+    },
+    {
+      "collection": "sede",
+      "year": 2019,
+      "url": "https://sirli.org/ganadores/sede/2019/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 162
+    },
+    {
+      "collection": "sede",
+      "year": 2020,
+      "url": "https://sirli.org/ganadores/sede/2020/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 101
+    },
+    {
+      "collection": "sede",
+      "year": 2021,
+      "url": "https://sirli.org/ganadores/sede/2021/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 478
+    },
+    {
+      "collection": "sede",
+      "year": 2022,
+      "url": "https://sirli.org/ganadores/sede/2022/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 618
+    },
+    {
+      "collection": "sede",
+      "year": 2023,
+      "url": "https://sirli.org/ganadores/sede/2023/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 693
+    },
+    {
+      "collection": "sede",
+      "year": 2024,
+      "url": "https://sirli.org/ganadores/sede/2024/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 730
+    },
+    {
+      "collection": "sede",
+      "year": 2025,
+      "url": "https://sirli.org/ganadores/sede/2025/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 811
+    },
+    {
+      "collection": "sede",
+      "year": 2026,
+      "url": "https://sirli.org/ganadores/sede/2026/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 867
+    },
+    {
+      "collection": "nacional",
+      "year": 2017,
+      "url": "https://sirli.org/ganadores/nacional/2017/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 13
+    },
+    {
+      "collection": "nacional",
+      "year": 2018,
+      "url": "https://sirli.org/ganadores/nacional/2018/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 10
+    },
+    {
+      "collection": "nacional",
+      "year": 2019,
+      "url": "https://sirli.org/ganadores/nacional/2019/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 14
+    },
+    {
+      "collection": "nacional",
+      "year": 2020,
+      "url": "https://sirli.org/ganadores/nacional/2020/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 8
+    },
+    {
+      "collection": "nacional",
+      "year": 2021,
+      "url": "https://sirli.org/ganadores/nacional/2021/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 54
+    },
+    {
+      "collection": "nacional",
+      "year": 2022,
+      "url": "https://sirli.org/ganadores/nacional/2022/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 58
+    },
+    {
+      "collection": "nacional",
+      "year": 2023,
+      "url": "https://sirli.org/ganadores/nacional/2023/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 56
+    },
+    {
+      "collection": "nacional",
+      "year": 2024,
+      "url": "https://sirli.org/ganadores/nacional/2024/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 46
+    },
+    {
+      "collection": "nacional",
+      "year": 2025,
+      "url": "https://sirli.org/ganadores/nacional/2025/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 50
+    },
+    {
+      "collection": "nacional",
+      "year": 2026,
+      "url": "https://sirli.org/ganadores/nacional/2026/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 54
+    },
+    {
+      "collection": "internacional",
+      "year": 2017,
+      "url": "https://sirli.org/ganadores/internacional/2017/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 2
+    },
+    {
+      "collection": "internacional",
+      "year": 2018,
+      "url": "https://sirli.org/ganadores/internacional/2018/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 8
+    },
+    {
+      "collection": "internacional",
+      "year": 2019,
+      "url": "https://sirli.org/ganadores/internacional/2019/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 6
+    },
+    {
+      "collection": "internacional",
+      "year": 2020,
+      "url": "https://sirli.org/ganadores/internacional/2020/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 3
+    },
+    {
+      "collection": "internacional",
+      "year": 2021,
+      "url": "https://sirli.org/ganadores/internacional/2021/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 6
+    },
+    {
+      "collection": "internacional",
+      "year": 2022,
+      "url": "https://sirli.org/ganadores/internacional/2022/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 6
+    },
+    {
+      "collection": "internacional",
+      "year": 2023,
+      "url": "https://sirli.org/ganadores/internacional/2023/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 9
+    },
+    {
+      "collection": "internacional",
+      "year": 2024,
+      "url": "https://sirli.org/ganadores/internacional/2024/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 6
+    },
+    {
+      "collection": "internacional",
+      "year": 2025,
+      "url": "https://sirli.org/ganadores/internacional/2025/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 6
+    },
+    {
+      "collection": "internacional",
+      "year": 2026,
+      "url": "https://sirli.org/ganadores/internacional/2026/?page=1&ipp=Todos&field=1&sort=0",
+      "rows": 6
+    }
+  ],
+  "sha256_winners_jsonl": "34f858297fcbb767dcacaf07543b9214239312471a05d0ac97d95677df3d6737",
+  "files": {
+    "winners.jsonl": "registro maestro, un JSON por linea",
+    "winners.csv": "misma data, separador ; y BOM para Excel",
+    "video_index.json": "un item por video unico, pendiente de transcripcion",
+    "raw/": "HTML original comprimido por anio y coleccion"
+  }
+}

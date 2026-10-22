@@ -1,0 +1,98 @@
+{
+  "filas": 4181,
+  "tasa_base": 0.4107,
+  "modelos": {
+    "base_frecuencia": {
+      "roc_auc": 0.5,
+      "pr_auc": 0.4107,
+      "brier": 0.242,
+      "grupos": 499.0,
+      "top1_modelo": 243.0,
+      "top1_azar": 232.6,
+      "tasa_modelo": 0.487,
+      "tasa_azar": 0.466
+    },
+    "logistica": {
+      "roc_auc": 0.617,
+      "pr_auc": 0.5394,
+      "brier": 0.231,
+      "grupos": 499.0,
+      "top1_modelo": 268.0,
+      "top1_azar": 232.6,
+      "tasa_modelo": 0.537,
+      "tasa_azar": 0.466
+    },
+    "hist_gb": {
+      "roc_auc": 0.5881,
+      "pr_auc": 0.5051,
+      "brier": 0.2462,
+      "grupos": 499.0,
+      "top1_modelo": 256.0,
+      "top1_azar": 232.6,
+      "tasa_modelo": 0.513,
+      "tasa_azar": 0.466
+    }
+  },
+  "coeficientes": [
+    {
+      "variable": "sede_size",
+      "coeficiente": -0.434
+    },
+    {
+      "variable": "challenge_theme_inclusion",
+      "coeficiente": 0.273
+    },
+    {
+      "variable": "title_words",
+      "coeficiente": 0.257
+    },
+    {
+      "variable": "title_len",
+      "coeficiente": -0.161
+    },
+    {
+      "variable": "desc_lines",
+      "coeficiente": 0.148
+    },
+    {
+      "variable": "challenge_theme_residuos",
+      "coeficiente": -0.133
+    },
+    {
+      "variable": "desc_len",
+      "coeficiente": -0.128
+    },
+    {
+      "variable": "challenge_theme_energia",
+      "coeficiente": -0.127
+    },
+    {
+      "variable": "challenge_theme_movilidad",
+      "coeficiente": -0.127
+    },
+    {
+      "variable": "collection_sede",
+      "coeficiente": -0.116
+    },
+    {
+      "variable": "challenge_theme_digital",
+      "coeficiente": 0.106
+    },
+    {
+      "variable": "challenge_theme_agua",
+      "coeficiente": -0.086
+    },
+    {
+      "variable": "category_ÁREA IMPACTO SOCIAL",
+      "coeficiente": -0.079
+    },
+    {
+      "variable": "desc_util",
+      "coeficiente": 0.049
+    },
+    {
+      "variable": "duration_s",
+      "coeficiente": 0.04
+    }
+  ]
+}

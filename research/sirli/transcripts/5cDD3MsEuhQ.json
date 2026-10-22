@@ -1,0 +1,162 @@
+{
+ "video_id": "5cDD3MsEuhQ",
+ "url": "https://youtu.be/5cDD3MsEuhQ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS SÚPER ESTRELLAS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LOS SÚPER ESTRELLAS",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:20:39+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La ayuda está disponible, pero como sabemos, ¿quién lo necesita primero? Somos una superestrella desde la sede Unica Nicaragua y presentamos Connexer. Si un desastre natural nos deja sin internet y sigue la necesidad, entra en acción el kit prioriza con tableros, tarjetas de prioridad, ficha y mapas. Permite identificar comunidades más urgentes, organizarlas ayuda y darle seguimiento a las necesidades, incluso sin conexión. Ante una emergencia, Connexer permite visualizar en un solo lugar la situación, las comunidades afectadas y los recursos disponibles. La plataforma conecta cada necesidad con los recursos disponibles, las rutas de acceso y la acción que debe considerarse. Además, permite a las comunidades reportar emergencias, registrar daños y necesidades y apuntar evidencias fotográficas. Función, incluso sin internet, conserva los reportes y facilita su verificación. Además, identifica duplicado y permite coordinar respuestas conjuntas entre comunidades, optimizando los recursos. Para una solución económica y de rápido desmontaje, el módulo exterior se elevará sobre polines contra la humedad y los interiores aprovecharán el concreto de la cancha. Se estructurarán con tubos de PVC, muros de lona de vinil y puertas de cortina flexible de PVC. La mejor de Connexer es que es económicamente accesible. Tenemos una inversión inicial de 9.870 dólares, así mismo proponemos una solución con herramientas divididas en etapas. Su verdadero retorno está en reducir desperdicio, mejorar la coordinación y lograr que la ayuda llegue a todo el que lo necesite. Connexer, puja, que la ayuda llegue a quienes más la necesitan, cuando más la necesitan.",
+ "segments": [
+  {
+   "start": 0.11,
+   "end": 4.45,
+   "text": "La ayuda está disponible, pero como sabemos, ¿quién lo necesita primero?"
+  },
+  {
+   "start": 4.45,
+   "end": 9.41,
+   "text": "Somos una superestrella desde la sede Unica Nicaragua y presentamos Connexer."
+  },
+  {
+   "start": 9.41,
+   "end": 12.55,
+   "text": "Si un desastre natural nos deja sin internet y sigue la necesidad,"
+  },
+  {
+   "start": 12.55,
+   "end": 17.25,
+   "text": "entra en acción el kit prioriza con tableros, tarjetas de prioridad, ficha y mapas."
+  },
+  {
+   "start": 17.25,
+   "end": 20.97,
+   "text": "Permite identificar comunidades más urgentes,"
+  },
+  {
+   "start": 20.97,
+   "end": 25.01,
+   "text": "organizarlas ayuda y darle seguimiento a las necesidades, incluso sin conexión."
+  },
+  {
+   "start": 25.47,
+   "end": 30.13,
+   "text": "Ante una emergencia, Connexer permite visualizar en un solo lugar la situación,"
+  },
+  {
+   "start": 30.13,
+   "end": 33.13,
+   "text": "las comunidades afectadas y los recursos disponibles."
+  },
+  {
+   "start": 33.13,
+   "end": 36.93,
+   "text": "La plataforma conecta cada necesidad con los recursos disponibles,"
+  },
+  {
+   "start": 36.93,
+   "end": 39.81,
+   "text": "las rutas de acceso y la acción que debe considerarse."
+  },
+  {
+   "start": 39.81,
+   "end": 43.93,
+   "text": "Además, permite a las comunidades reportar emergencias, registrar daños y necesidades"
+  },
+  {
+   "start": 43.93,
+   "end": 45.73,
+   "text": "y apuntar evidencias fotográficas."
+  },
+  {
+   "start": 45.73,
+   "end": 49.69,
+   "text": "Función, incluso sin internet, conserva los reportes y facilita su verificación."
+  },
+  {
+   "start": 49.69,
+   "end": 54.21,
+   "text": "Además, identifica duplicado y permite coordinar respuestas conjuntas entre comunidades,"
+  },
+  {
+   "start": 54.21,
+   "end": 55.85,
+   "text": "optimizando los recursos."
+  },
+  {
+   "start": 55.85,
+   "end": 59.61,
+   "text": "Para una solución económica y de rápido desmontaje,"
+  },
+  {
+   "start": 59.61,
+   "end": 63.89,
+   "text": "el módulo exterior se elevará sobre polines contra la humedad"
+  },
+  {
+   "start": 63.89,
+   "end": 67.81,
+   "text": "y los interiores aprovecharán el concreto de la cancha."
+  },
+  {
+   "start": 67.81,
+   "end": 72.61,
+   "text": "Se estructurarán con tubos de PVC, muros de lona de vinil"
+  },
+  {
+   "start": 72.61,
+   "end": 75.41,
+   "text": "y puertas de cortina flexible de PVC."
+  },
+  {
+   "start": 75.41,
+   "end": 87.0,
+   "text": "La mejor de Connexer es que es económicamente accesible."
+  },
+  {
+   "start": 87.0,
+   "end": 90.48,
+   "text": "Tenemos una inversión inicial de 9.870 dólares,"
+  },
+  {
+   "start": 90.56,
+   "end": 94.96,
+   "text": "así mismo proponemos una solución con herramientas divididas en etapas."
+  },
+  {
+   "start": 94.96,
+   "end": 98.32,
+   "text": "Su verdadero retorno está en reducir desperdicio,"
+  },
+  {
+   "start": 98.32,
+   "end": 102.6,
+   "text": "mejorar la coordinación y lograr que la ayuda llegue a todo el que lo necesite."
+  },
+  {
+   "start": 102.6,
+   "end": 105.68,
+   "text": "Connexer, puja, que la ayuda llegue a quienes más la necesitan,"
+  },
+  {
+   "start": 105.68,
+   "end": 107.2,
+   "text": "cuando más la necesitan."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 107.2
+}

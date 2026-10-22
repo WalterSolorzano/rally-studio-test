@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PASO 03 · Mesa de Deliberación — Prototipo v3</title>
+<link rel="icon" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700;800&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+/* ══════════════════════════════════════════════════════════════════════════
+   PROTOTIPO v3 · ÚNICO CSS NUEVO
+   Prefijo .piz-  → superficie de mesa de deliberación.
+   Todo lo demás de esta página usa clases reales de dashboard/style.css.
+   ══════════════════════════════════════════════════════════════════════════ */
+:root { --font-hand: 'Caveat', var(--font-ui); }
+
+.piz-toolbar {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; flex-wrap: wrap; margin: 14px 0 8px;
+}
+.piz-toolbar-left, .piz-toolbar-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.piz-eyebrow {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700;
+  letter-spacing: 0.07em; text-transform: uppercase; color: var(--text-muted);
+}
+.piz-presence { display: inline-flex; align-items: center; gap: -4px; }
+.piz-avatar {
+  width: 24px; height: 24px; border-radius: 50%; border: 1px solid var(--border-light);
+  background: var(--bg-subtle); color: var(--text-title); font-family: var(--font-mono);
+  font-size: 10px; font-weight: 800; display: inline-flex; align-items: center; justify-content: center;
+  margin-left: -6px;
+}
+.piz-avatar:first-child { margin-left: 0; }
+.piz-avatar.is-you { border-color: var(--color-primary); color: var(--color-primary); }
+
+.piz-board-wrap { overflow-x: auto; overflow-y: hidden; }
+.piz-board {
+  min-width: 820px;
+  position: relative; height: 900px; border: 1px solid var(--border-light);
+  border-radius: var(--radius-md); background-color: #FFFFFF;
+  background-image: radial-gradient(rgba(13, 27, 53, 0.10) 1px, transparent 1px);
+  background-size: 18px 18px; background-position: -1px -1px; overflow: hidden;
+}
+.piz-arrow-layer { position: absolute; inset: 0; pointer-events: none; }
+.piz-arrow-layer path { fill: none; stroke: rgba(13, 27, 53, 0.38); stroke-width: 1.4; stroke-linecap: round; }
+.piz-arrow-layer .piz-arrow-note {
+  font-family: var(--font-hand); font-size: 17px; fill: rgba(13, 27, 53, 0.55);
+}
+.piz-hand-label {
+  position: absolute; font-family: var(--font-hand); font-size: 19px;
+  line-height: 1.2; color: rgba(13, 27, 53, 0.55); pointer-events: none;
+}
+
+.piz-note {
+  position: absolute; background: #FFFFFF; border: 1px solid var(--border-light);
+  border-radius: 10px; padding: 10px 12px 11px;
+  box-shadow: 0 1px 2px rgba(13, 27, 53, 0.05); cursor: grab;
+  transition: box-shadow 160ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.piz-note:hover { box-shadow: 0 4px 14px rgba(13, 27, 53, 0.09); }
+.piz-note.is-dragging { cursor: grabbing; box-shadow: 0 10px 26px rgba(13, 27, 53, 0.14); z-index: 9; }
+.piz-note.is-source { border-color: var(--border-strong); }
+.piz-note.is-asesor { background: var(--bg-secondary); border-color: #BFDBFE; }
+.piz-note.is-decision { border: 1.5px solid var(--color-navy); }
+.piz-note.is-voted { border-color: var(--color-primary); }
+
+.piz-note-head {
+  display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  font-family: var(--font-mono); font-size: 10.5px; font-weight: 700;
+  letter-spacing: 0.05em; text-transform: uppercase; color: var(--text-faint);
+  margin-bottom: 6px;
+}
+.piz-note-head .piz-who { display: inline-flex; align-items: center; gap: 5px; color: var(--text-muted); }
+.piz-note-title {
+  font-size: 11px; font-weight: 800; color: var(--text-title);
+  letter-spacing: 0.01em; margin-bottom: 5px;
+}
+.piz-note-text { font-size: 12.5px; line-height: 1.55; color: var(--text-body); }
+.piz-note-text.is-quote { color: var(--text-main); }
+.piz-note-hand { font-family: var(--font-hand); font-size: 20px; line-height: 1.32; color: var(--text-title); }
+.piz-note-actions { display: flex; align-items: center; gap: 8px; margin-top: 9px; flex-wrap: wrap; }
+.piz-mono {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 600;
+  letter-spacing: 0.03em; color: var(--text-muted); font-variant-numeric: tabular-nums;
+}
+.piz-chip {
+  display: inline-flex; align-items: center; gap: 4px; font-family: var(--font-mono);
+  font-size: 11px; font-weight: 600; letter-spacing: 0.03em;
+  color: var(--text-muted); border: 1px solid var(--border-light); border-radius: 6px;
+  padding: 1px 7px; background: transparent;
+}
+.piz-chip.is-link { color: var(--color-primary); border-color: #BFDBFE; text-decoration: none; cursor: pointer; }
+
+/* Trazo de descarte hecho a mano sobre un reto/idea */
+.piz-strike { position: absolute; inset: -6px -8px; pointer-events: none; }
+.piz-strike path { fill: none; stroke: var(--status-err-text); stroke-width: 2; stroke-linecap: round; opacity: 0.7; }
+
+/* Marco de agrupación dibujado a mano */
+.piz-marco { position: absolute; border: 1.5px dashed rgba(8, 102, 245, 0.35); border-radius: 14px; }
+.piz-marco-label {
+  position: absolute; top: -13px; left: 16px; background: #FFFFFF; padding: 0 8px;
+  font-family: var(--font-hand); font-size: 18px; color: var(--color-primary);
+}
+
+.piz-dots { display: inline-flex; gap: 3px; align-items: center; }
+.piz-dot {
+  width: 9px; height: 9px; border-radius: 50%; border: 1px solid var(--border-strong);
+  background: #FFFFFF; padding: 0; cursor: pointer;
+}
+.piz-dot.on { background: var(--color-primary); border-color: var(--color-primary); }
+.piz-dot:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+
+.piz-compose {
+  position: absolute; left: 14px; right: 14px; bottom: 76px;
+  display: flex; align-items: center; gap: 8px; background: rgba(255, 255, 255, 0.94);
+  border: 1px solid var(--border-light); border-radius: 10px; padding: 7px 8px 7px 10px;
+}
+.piz-compose input {
+  flex: 1; border: 0; outline: 0; font-family: var(--font-ui); font-size: 12.5px;
+  color: var(--text-body); background: transparent;
+}
+.piz-compose input::placeholder { color: var(--text-muted); }
+
+.piz-lane {
+  position: absolute; left: 0; right: 0; bottom: 0; height: 62px;
+  display: flex; align-items: center; gap: 10px; padding: 0 14px;
+  background: rgba(248, 250, 253, 0.92); border-top: 1px dashed var(--border-strong);
+  overflow-x: auto; overflow-y: hidden;
+}
+.piz-lane-chip {
+  display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
+  background: #FFFFFF; border: 1px solid var(--border-light); border-radius: 8px;
+  padding: 6px 9px; max-width: 300px;
+}
+.piz-lane-chip .piz-lane-title {
+  font-size: 11px; font-weight: 700; color: var(--text-muted);
+  text-decoration: line-through; text-decoration-color: rgba(220, 38, 38, 0.55);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 150px;
+}
+.piz-lane-recover {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+  color: var(--color-primary); background: transparent; border: 1px solid var(--border-light);
+  border-radius: 6px; padding: 3px 8px; cursor: pointer; white-space: nowrap;
+}
+
+.piz-legend {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border-light);
+}
+.piz-legend-item { display: inline-flex; align-items: center; gap: 6px; font-size: 11.5px; color: var(--text-muted); }
+.piz-legend-key {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 800; letter-spacing: 0.04em;
+  color: var(--text-title);
+}
+.piz-votebar { display: flex; flex-direction: column; gap: 6px; margin-top: 8px; }
+.piz-vote-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.piz-vote-row span { font-size: 11.5px; color: var(--text-body); }
+.piz-note:focus-visible, button:focus-visible, a:focus-visible, input:focus-visible {
+  outline: 2px solid var(--color-primary); outline-offset: 2px;
+}
+::selection { background: rgba(8, 102, 245, 0.16); }
+</style>
+</head>
+<body class="sidebar-collapsed panel-collapsed">
+
+<!-- ══════════ TOPBAR REAL (mismas clases y assets que app.js → renderTopbar) ══════════ -->
+<header id="topbar">
+  <div class="topbar-left">
+    <button class="btn-toggle-sidebar" title="Colapsar/Expandir menú lateral">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+    <div class="brand-group" title="Ir al inicio de Rally Studio">
+      <img src="assets/rally_studio_logo.svg" alt="Rally Studio" style="height:20px; display:block;">
+      <span class="brand-text-navy">RALLY</span>
+      <span class="brand-text-blue">STUDIO</span>
+    </div>
+    <div class="topbar-emblems-group" title="Rally Nacional Innova">
+      <img src="assets/logo_rally_nacional.png" class="topbar-emblem-img" alt="Rally Nacional Innova">
+      <span class="topbar-emblem-divider"></span>
+      <img src="assets/logo_uni_official.png" class="topbar-uni-img" alt="Universidad Nacional de Ingeniería (UNI)">
+    </div>
+    <span class="project-title-crumb" title="Test Team">/ Test Team</span>
+    <span class="challenge-title-crumb">Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso</span>
+  </div>
+
+  <div class="topbar-actions">
+    <button class="btn-toggle-panel" title="Abrir Asistente IA Dual-Mode &amp; Prompts de Razonamiento" style="border-color:var(--border-light); color:var(--color-primary); background:var(--bg-subtle);">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l1.9 5.6 5.6 1.9-5.6 1.9L12 17l-1.9-5.6L4.5 9.5l5.6-1.9z"/></svg>
+      <span class="panel-toggle-label">IA Copilot</span>
+    </button>
+    <button class="btn-toggle-panel" title="Alternar Panel de Auditoría">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l7 3v6c0 4-3 7-7 9-4-2-7-5-7-9V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
+      <span class="panel-toggle-label">Auditoría</span>
+      <span class="panel-toggle-badge">75%</span>
+    </button>
+
+    <div class="deadline-pill nacional" title="Cierre de retos del comité">
+      <span class="deadline-pill-dot"></span>
+      <span class="deadline-pill-label">T-6</span>
+      <span class="deadline-pill-time">Horas</span>
+    </div>
+
+    <div class="collaborator-avatar-badge" title="Tu avatar asignado automáticamente para editar en simultáneo sin pisarse">
+      <span class="collaborator-avatar-icon">EB</span>
+      <span class="collaborator-name-label">Estación Beta</span>
+    </div>
+
+    <div class="telemetry-chip" title="Métricas de hardware y estado del motor en tiempo real">
+      <span class="telemetry-pulse"></span>
+      <span>CPU <strong>--%</strong></span>
+      <span>RAM <strong>--%</strong></span>
+    </div>
+
+    <div class="dropdown-wrapper">
+      <button class="btn-icon-discreet" title="Opciones de proyecto">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="5" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="12" cy="19" r="1.6"/></svg>
+      </button>
+    </div>
+
+    <a href="graph.html" target="_blank" class="btn-pill-ghost btn-graph-link" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;" title="Explorar Grafo de Conocimiento">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="6" cy="6" r="2.2"/><circle cx="18" cy="7" r="2.2"/><circle cx="12" cy="18" r="2.2"/><path d="M8.2 6.4h7.6M7.4 8.1l3.4 7.6M16.7 9.1l-3.6 6.7"/></svg>
+      <span class="graph-btn-label">Grafo</span>
+    </a>
+
+    <div class="timer-pill-navy" title="Clic para calibrar o ajustar cronómetro">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+      <span>15:14:49</span>
+      <span style="font-size:9.5px; opacity:0.75; font-weight:700; margin-left:4px;">EN CURSO</span>
+    </div>
+  </div>
+</header>
+
+<aside id="sidebar"></aside>
+
+<div id="main" style="overflow-y:auto;">
+<div class="content-wrapper">
+<div class="wizard-canvas" style="max-width:min(1760px, 98vw); padding-bottom:60px;">
+
+  <!-- ── CABECERA DE PASO (real) ─────────────────────────────────── -->
+  <div class="stepper-header" style="justify-content:space-between; margin-bottom:18px;">
+    <div style="display:flex; align-items:center; gap:14px;">
+      <span class="stepper-pill"><span class="pill-dim">PASO</span> <strong class="pill-num">03</strong> <span class="pill-dim">DE 11</span> <span class="pill-dot">·</span> <span class="pill-label">RETOS DEL COMITÉ</span></span>
+    </div>
+    <div style="display:flex; align-items:center; gap:8px;">
+      <button class="btn-minimal-back" title="Volver a identidad de equipo">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M11 6l-6 6 6 6M5 12h14"/></svg>
+        <span>Editar equipo</span>
+      </button>
+      <a href="docs/Matriz_Seleccion_Desafios_2026.docx" download class="btn-pill-light" style="font-size:11.5px; padding:6px 14px; text-decoration:none;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 4v11M8 11l4 4 4-4M5 19h14"/></svg>
+        Matriz Word (.docx)
+      </a>
+    </div>
+  </div>
+
+  <!-- ── BANNER DE RETO SELECCIONADO (real) ──────────────────────── -->
+  <div style="background:#F0F6FF; border:1.5px solid #BFDBFE; border-radius:14px; padding:16px 20px; margin-bottom:22px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <span style="background:#0866F5; color:#ffffff; font-family:var(--font-mono); font-size:12px; font-weight:800; padding:4px 10px; border-radius:8px;">RETO SELECCIONADO #01</span>
+      <div>
+        <div style="font-size:14px; font-weight:800; color:#0D1B35;">Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso</div>
+        <div style="font-size:12px; color:#5C7193;">Impacto Social · Viabilidad estimada: 92%</div>
+      </div>
+    </div>
+    <div style="display:flex; gap:8px;">
+      <button class="btn-pill-light" style="font-size:12px; font-weight:700;">Cambiar de Reto</button>
+      <button class="btn-select-card filled" style="padding:8px 18px; font-size:12px; font-weight:800;">Continuar a Taller de Solución →</button>
+    </div>
+  </div>
+
+  <!-- ── CABECERA DE FASE (real) ─────────────────────────────────── -->
+  <div class="phase-header" style="margin-bottom:14px;">
+    <h1 class="phase-title" style="font-size:28px; font-weight:900; color:#0D1B35; margin-bottom:6px; letter-spacing:-0.02em;">
+      Retos Oficiales &amp; <span class="phase-title-accent" style="color:#0866F5;">Espacio de Deliberación</span>
+    </h1>
+    <p class="phase-subtitle" style="font-size:13.5px; color:#5C7193; line-height:1.45;">
+      9 retos activos en radar. Navega el catálogo táctico y delibera en la hoja técnica oficial con tu equipo.
+    </p>
+  </div>
+
+  <!-- ── SUBNav DEL TRIBUNAL (real, sin tocar) ───────────────────── -->
+  <div class="tribunal-subnav">
+    <button class="tribunal-chip active" title="Lee cada reto en detalle">1 · Leer</button>
+    <button class="tribunal-chip" title="Embudo: me interesa / descartado">2 · Descartar<span class="tribunal-chip-count">6</span></button>
+    <button class="tribunal-chip" title="3 puntos por persona">3 · Votar</button>
+    <button class="tribunal-chip" title="Levantar la mano por un reto">4 · Decidir</button>
+  </div>
+  <p style="font-size:11.5px; color:var(--text-muted); margin:-6px 0 8px; line-height:1.5;">
+    Estas cuatro fases eran cuatro pantallas idénticas. Ahora son cuatro gestos sobre la misma mesa: leer, trazar, votar y coronar sin cambiar de vista.
+  </p>
+
+  <!-- ── RANKING IA (real: renderChallengeRanking) ───────────────── -->
+  <section class="ranking-panel">
+    <div class="ranking-head">
+      <div>
+        <h2 class="ranking-title">Ranking de retos <span class="ranking-title-mono">· 9 evaluados</span></h2>
+        <p class="ranking-sub">Ordenados por pronóstico de victoria, según el análisis de 8 años de ganadores (2019–2026): rivalidad de sedes, cobertura ODS, factibilidad 24/28 h, anclaje territorial y precedente ganador.</p>
+      </div>
+      <div class="ranking-cta is-chosen">
+        <span style="font-size:12px; font-weight:800; color:#0F172A;">Ya decidieron: Reto #01</span>
+        <span style="font-size:11px; color:var(--text-muted); display:block; margin-top:4px;">Puedes compararlo con el resto o cambiar abajo.</span>
+      </div>
+    </div>
+    <div class="ranking-rows">
+      <div class="rank-row is-chosen" role="button" tabindex="0">
+        <span class="rank-pos">01</span>
+        <div class="rank-main"><div class="rank-title">Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso</div><div class="rank-reason">Aprovecha desechos locales (+18 pts en matriz)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:100%"></span></div><span class="rank-num">100</span></div>
+        <button class="btn-secondary rank-pick rank-pick-sel">✔ Elegido</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">02</span>
+        <div class="rank-main"><div class="rank-title">Protección y fomento tecnológico de polinizadores en entornos agropecuarios y urbanos</div><div class="rank-reason">Prototipable en 24/28h: colmenas con sensor + vivienda impresa</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:100%"></span></div><span class="rank-num">100</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">03</span>
+        <div class="rank-main"><div class="rank-title">Sistemas modulares de refugio y energía de emergencia post-desastre climático</div><div class="rank-reason">Poca rivalidad de sedes: baja (3 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:89%"></span></div><span class="rank-num">89</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">04</span>
+        <div class="rank-main"><div class="rank-title">Revalorización y transformación de residuos de poda y biomasa vegetal urbana</div><div class="rank-reason">Poca rivalidad de sedes: media (4 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:88%"></span></div><span class="rank-num">88</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">05</span>
+        <div class="rank-main"><div class="rank-title">Redes de sensores comunitarios para prevención y alerta temprana de inundaciones</div><div class="rank-reason">Nodos ultrasónicos + LoRaWAN son probados en la ventana</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:84.5%"></span></div><span class="rank-num">84.5</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">06</span>
+        <div class="rank-main"><div class="rank-title">Recolección y conversión de aceite vegetal doméstico usado en biocombustibles o jabón</div><div class="rank-reason">Poca rivalidad de sedes: baja (3 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:82%"></span></div><span class="rank-num">82</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">07</span>
+        <div class="rank-main"><div class="rank-title">Reservorios pluviales y captación comunitaria de agua con microfiltración</div><div class="rank-reason">Cubre 3 ODS (+10.5)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:78%"></span></div><span class="rank-num">78</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">08</span>
+        <div class="rank-main"><div class="rank-title">Gestión y valorización de residuos plásticos en playas y ecosistemas costeros</div><div class="rank-reason">Poca rivalidad de sedes: media (5 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:78%"></span></div><span class="rank-num">78</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">09</span>
+        <div class="rank-main"><div class="rank-title">Reducción de desperdicio de alimentos y logística de redistribución en mercados</div><div class="rank-reason">Cubre 3 ODS (+10.5)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:77%"></span></div><span class="rank-num">77</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── DELIBERACIÓN (real) → catálogo | MESA (nuevo) | ángulo ganador (real) ── -->
+  <div class="deliberation-container">
+
+    <aside class="deliberation-nav">
+      <div class="deliberation-nav-header">
+        <span>CATÁLOGO DE RETOS</span>
+        <span style="font-family:var(--font-mono); font-size:11px; color:#64748B;">9 ACTIVOS</span>
+      </div>
+      <div class="deliberation-nav-list">
+        <div class="deliberation-nav-item active">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#334155; color:#F8FAFC;">#01</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Impacto Social</span>
+              <span style="font-size:9.5px; font-weight:800; color:#0866F5; background:var(--bg-subtle); border:1px solid var(--border-light); padding:1px 5px; border-radius:3px;">ELEGIDO</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;">
+            <div style="font-size:9.5px; color:#94A3B8;">Notas: 5</div>
+          </div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#02</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Innovación</span>
+              <span style="font-size:9.5px; font-weight:800; color:#0866F5;">● 2</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Protección y fomento tecnológico de polinizadores en entornos agropecuarios y urbanos</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 2</div></div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#03</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Innovación</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Sistemas modulares de refugio y energía de emergencia post-desastre climático</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 1</div></div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#04</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Innovación</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Revalorización y transformación de residuos de poda y biomasa vegetal urbana</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 0</div></div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#05</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Innovación</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Redes de sensores comunitarios para prevención y alerta temprana de inundaciones</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 0</div></div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#06</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Impacto Social</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Recolección y conversión de aceite vegetal doméstico usado en biocombustibles o jabón</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 0</div></div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#07</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Innovación</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Reservorios pluviales y captación comunitaria de agua con microfiltración</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 0</div></div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#08</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Impacto Social</span>
+              <span style="font-size:9.5px; font-weight:700; color:#94A3B8;">descartado en consenso (2)</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Gestión y valorización de residuos plásticos en playas y ecosistemas costeros</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 0</div></div>
+        </div>
+        <div class="deliberation-nav-item">
+          <div style="min-width:0; flex:1; padding-right:6px;">
+            <div style="display:flex; align-items:center; gap:6px; margin-bottom:2px;">
+              <span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 6px; border-radius:4px; background:#E2E8F0; color:#0F172A;">#09</span>
+              <span class="nav-item-cat" style="font-size:10.5px; font-weight:700;">Impacto Social</span>
+            </div>
+            <div class="nav-item-title" style="font-size:12px; font-weight:700; line-height:1.35;">Reducción de desperdicio de alimentos y logística de redistribución en mercados</div>
+          </div>
+          <div style="text-align:right; flex-shrink:0;"><div style="font-size:9.5px; color:#64748B;">Notas: 0</div></div>
+        </div>
+      </div>
+    </aside>
+
+    <section class="deliberation-sheet">
+      <!-- Metadatos reales del reto abierto -->
+      <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:14px; padding-bottom:14px; border-bottom:1.5px solid #0F172A; flex-wrap:wrap; gap:10px;">
+        <div>
+          <div style="display:flex; align-items:center; gap:6px; margin-bottom:6px;">
+            <span style="font-size:10px; font-weight:800; letter-spacing:0.05em; text-transform:uppercase; background:#0D1B35; color:#fff; padding:3px 8px; border-radius:4px;">DESAFÍO #01</span>
+            <span style="font-size:10px; font-weight:800; letter-spacing:0.05em; text-transform:uppercase; color:#334F7D;">IMPACTO SOCIAL</span>
+            <span style="color:#CBD5E1;">·</span>
+            <button class="btn-pill-light" style="padding:2px 8px; font-size:10px; font-weight:800; background:transparent; color:#334F7D; border:1px solid var(--border-light);">ODS 12</button>
+            <button class="btn-pill-light" style="padding:2px 8px; font-size:10px; font-weight:800; background:transparent; color:#334F7D; border:1px solid var(--border-light);">ODS 9</button>
+            <button class="btn-pill-light" style="padding:2px 8px; font-size:10px; font-weight:800; background:transparent; color:#334F7D; border:1px solid var(--border-light);">ODS 8</button>
+          </div>
+          <div style="font-size:11px; font-family:var(--font-mono); color:#475569; font-weight:700;">VIABILIDAD ESTIMADA DE RÚBRICA: 92% WINRATE</div>
+          <div style="display:flex; align-items:center; gap:8px; margin-top:4px;">
+            <span style="font-size:10px; font-weight:800; padding:2px 7px; border-radius:4px; letter-spacing:0.03em; background:transparent; color:#64748B; border:1px solid var(--border-light); font-family:var(--font-mono);">NICHO TÉCNICO</span>
+            <span style="font-size:11px; color:#64748B;">Baja rivalidad de sedes: ventaja competitiva directa si la factibilidad es sólida.</span>
+          </div>
+        </div>
+        <div style="display:flex; align-items:center; gap:6px;">
+          <button class="btn-pill-light" style="font-size:11.5px; padding:5px 12px;">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 20h4l10-10-4-4L4 16v4z"/><path d="M13.5 6.5l4 4"/></svg>
+            Editar Reto
+          </button>
+          <button class="btn-select-card filled" style="padding:6px 14px; font-size:12px; font-weight:700;">Reto Seleccionado</button>
+          <button class="btn-pill-ghost" style="font-size:11px; padding:5px 10px; color:#DC2626;" title="Descartar del radar">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+          </button>
+        </div>
+      </div>
+
+      <h2 style="font-size:21px; font-weight:900; color:#0D1B35; letter-spacing:-0.02em; line-height:1.25; margin:0 0 14px;">
+        Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso
+      </h2>
+
+      <!-- Ángulo ganador: mismo componente real (.winner-angle-box), ahora en línea sobre la mesa -->
+      <div class="winner-angle-box winner-angle-inline" style="margin-bottom:16px;">
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:8px;">
+          <span style="font-size:11px; font-weight:800; letter-spacing:0.06em; text-transform:uppercase; color:#64748B;">Ángulo ganador del asesor</span>
+          <span style="font-family:var(--font-mono); font-size:11.5px; font-weight:800; color:#0866F5;">100/100</span>
+        </div>
+        <ul class="winner-angle-list" style="columns:2; column-gap:28px;">
+          <li>Prototipable en la ventana 24/28 h con materiales de recuperador</li>
+          <li>Aprovecha desechos locales <strong>(+18 pts en matriz)</strong></li>
+          <li>Anclaje territorial fuerte: cooperativas lecheras <strong>(+10)</strong></li>
+          <li>Cubre 3 ODS <strong>(+10.5)</strong></li>
+          <li>Precedente ganador: Avocado 2026 (1° Nac. Social) / Revolt (El Salvador)</li>
+          <li>Anclaje listo: cooperativas lecheras y avícolas de Chontales, Matagalpa y Boaco</li>
+        </ul>
+        <div style="border-top:1px solid var(--border-light); margin-top:10px; padding-top:10px; display:flex; align-items:center; gap:10px;">
+          <button class="btn-pill-light" style="font-size:11.5px; padding:5px 12px;">Pedir otro ángulo al asesor</button>
+          <span class="piz-mono">el asesor propone aparte; el equipo escribe en la mesa</span>
+        </div>
+      </div>
+
+      <!-- ══════════ NUEVO: LA MESA ══════════ -->
+      <div class="piz-toolbar">
+        <div class="piz-toolbar-left">
+          <span class="piz-eyebrow">Mesa del reto #01</span>
+          <span class="piz-presence" title="Quién está sobre la mesa ahora">
+            <span class="piz-avatar is-you" title="Estación Beta (tú)">EB</span>
+            <span class="piz-avatar" title="María R. — Estación Alfa">MR</span>
+            <span class="piz-avatar" title="Jorge C. — Estación Gamma">JC</span>
+            <span class="piz-avatar" title="Luisa P. — Estación Delta">LP</span>
+          </span>
+          <span class="piz-mono">4 conectados · guardado automático</span>
+        </div>
+        <div class="piz-toolbar-right">
+          <span class="piz-mono">3 de 3 votos libres</span>
+          <button class="btn-pill-light" style="font-size:11px; padding:4px 10px;">Abrir catálogo en mesa</button>
+        </div>
+      </div>
+
+      <div class="piz-board-wrap">
+      <div class="piz-board" id="piz-board">
+        <svg class="piz-arrow-layer" viewBox="0 0 1000 900" preserveAspectRatio="none" aria-hidden="true">
+          <path d="M250 120 C 270 130, 282 140, 300 150"/>
+          <path d="M377 516 C 377 524, 377 530, 377 538"/>
+          <path d="M530 405 C 490 450, 450 500, 430 540"/>
+          <path d="M530 160 C 512 150, 506 144, 500 138"/>
+          <path d="M150 196 C 200 340, 290 470, 380 536"/>
+        </svg>
+
+        <span class="piz-hand-label" style="left:32%; top:1%;">lo que pide el comité</span>
+        <span class="piz-hand-label" style="left:1%; top:52%;">madura aquí</span>
+
+        <!-- 01 · Fuente oficial -->
+        <article class="piz-note is-source" style="left:1%; top:3%; width:clamp(240px, 26%, 300px);" tabindex="0">
+          <div class="piz-note-head"><span class="piz-who">01 · demanda oficial</span><span>COMITÉ</span></div>
+          <div class="piz-note-text is-quote">Aprovechar motores de lavadoras y ventiladores desechados para reducir chatarra y generar tracción o generación eléctrica a bajo costo en comunidades rurales.</div>
+          <div class="piz-note-actions"><span class="piz-mono">fuente bloqueada</span><span class="piz-chip">no editable</span></div>
+        </article>
+
+        <!-- Marco dibujado a mano -->
+        <div class="piz-marco" style="left:29%; top:4%; width:34%; height:56%;">
+          <span class="piz-marco-label">kit de reconversión</span>
+        </div>
+
+        <!-- 02 · Propuesta del asesor (IA) -->
+        <article class="piz-note is-asesor" id="piz-asesor" style="left:31%; top:6%; width:clamp(250px, 31%, 330px);" tabindex="0">
+          <div class="piz-note-head"><span class="piz-who">02 · tesis del motor</span><span>ASESOR</span></div>
+          <div class="piz-note-title">Tesis de solución de alto impacto (100 pts rúbrica)</div>
+          <div class="piz-note-text">Kit de reconversión con variador de frecuencia universal reciclado, acople impreso en PETG y banco de molienda de forraje agropecuario accionado por rotor recuperado.</div>
+          <div class="piz-note-actions">
+            <span class="piz-mono">traída a la mesa 12:36</span>
+            <button class="piz-chip is-link" id="piz-pull" title="Traer o archivar la propuesta del asesor">archivar</button>
+          </div>
+        </article>
+
+        <!-- 02b · Factibilidad -->
+        <article class="piz-note is-asesor" style="left:31%; top:33%; width:clamp(250px, 31%, 330px);" tabindex="0">
+          <div class="piz-note-head"><span class="piz-who">02b · factibilidad</span><span>ASESOR</span></div>
+          <div class="piz-note-text">Anclaje directo en cooperativas lecheras y avícolas de Chontales, Matagalpa y Boaco, sustituyendo motores diésel caros por motores de lavadora reacondicionados para picadoras de pasto y bombas de agua.</div>
+          <div class="piz-note-actions"><span class="piz-mono">precedente: Revolt (El Salvador)</span></div>
+        </article>
+
+        <!-- Ideas del equipo -->
+        <article class="piz-note" style="left:65%; top:3%; width:clamp(210px, 33%, 290px);" tabindex="0">
+          <div class="piz-note-head"><span class="piz-who">MR · 12:41</span><span>EQUIPO</span></div>
+          <div class="piz-note-hand">Variador reciclado + rotor de lavadora: prototipo en 6 h con desarmadero del mercado.</div>
+          <div class="piz-note-actions">
+            <span class="piz-dots" data-votes="2"><button class="piz-dot on"></button><button class="piz-dot on"></button><button class="piz-dot"></button></span>
+            <span class="piz-mono">2 votos</span>
+          </div>
+        </article>
+
+        <article class="piz-note" style="left:65%; top:32%; width:clamp(210px, 33%, 290px);" tabindex="0">
+          <div class="piz-note-head"><span class="piz-who">JC · 12:58</span><span>EQUIPO</span></div>
+          <div class="piz-note-hand">Doble uso: molino de forraje + bomba de agua con el mismo motor.</div>
+          <div class="piz-note-actions">
+            <span class="piz-dots" data-votes="3"><button class="piz-dot on"></button><button class="piz-dot on"></button><button class="piz-dot on"></button></span>
+            <span class="piz-mono">3 votos</span>
+            <span class="piz-chip is-link" title="Fusionar con el reto #02">fusionada → #02</span>
+          </div>
+        </article>
+
+        <article class="piz-note is-voted" style="left:65%; top:55%; width:clamp(210px, 33%, 290px);" tabindex="0">
+          <div class="piz-note-head"><span class="piz-who">LP · 13:10</span><span>EQUIPO</span></div>
+          <div class="piz-note-hand">Piloto real: cooperativa de Chontales, 3 picadoras de pasto para medir ahorro de diésel.</div>
+          <div class="piz-note-actions">
+            <span class="piz-dots" data-votes="1"><button class="piz-dot on"></button><button class="piz-dot"></button><button class="piz-dot"></button></span>
+            <span class="piz-mono">1 voto</span>
+          </div>
+        </article>
+
+        <!-- 05 · Rincón de decisión -->
+        <article class="piz-note is-decision" style="left:31%; top:60%; width:clamp(250px, 31%, 330px);" tabindex="0">
+          <div class="piz-note-head"><span class="piz-who">05 · decisión</span><span>CORONA PRIMERO</span></div>
+          <div class="piz-note-title">Solo corona el reto que el equipo levanta la mano</div>
+          <div class="piz-votebar">
+            <div class="piz-vote-row"><span>Kit de reconversión (reto #01)</span><span class="piz-mono">6 / 9</span></div>
+            <div class="piz-vote-row"><span>Colmenas con sensor (reto #02)</span><span class="piz-mono">3 / 9</span></div>
+          </div>
+          <div class="piz-note-actions">
+            <button class="btn-select-card filled" style="padding:5px 12px; font-size:11.5px; font-weight:800;">Coronar Reto #01</button>
+            <span class="piz-mono">sin corona no avanza al paso 04</span>
+          </div>
+        </article>
+
+        <!-- Trazo de descarte sobre una idea -->
+        <div class="piz-strike" style="left:65%; top:32%; width:33%; height:96px;" aria-hidden="true">
+          <svg viewBox="0 0 250 96" preserveAspectRatio="none"><path d="M6 74 C 60 40, 190 46, 244 18"/></svg>
+        </div>
+
+        <!-- Barra de escritura: conserva el control real "+ Agregar Nota" -->
+        <form class="piz-compose" onsubmit="return false;">
+          <span class="piz-avatar is-you" style="margin:0;">EB</span>
+          <input placeholder="Escribe un punto clave, pro o contra para este reto... (se pega en la mesa con tu estación y la hora)">
+          <button class="btn-select-card filled" style="padding:6px 14px; font-size:11.5px; font-weight:800;">+ Agregar Nota</button>
+        </form>
+
+        <!-- Carril del embudo: retos votados para borrar -->
+        <div class="piz-lane">
+          <span class="piz-mono" style="white-space:nowrap; font-weight:800; color:var(--text-title);">EMBUDO · DESCARTADOS <span style="color:var(--text-muted);">2</span></span>
+          <span class="piz-lane-chip">
+            <span class="piz-lane-title">Reservorios pluviales con microfiltración</span>
+            <span class="piz-mono">2/2 voces</span>
+            <button class="piz-lane-recover" title="Recuperar: quedan 8 min de ventana">RECUPERAR 8 MIN</button>
+          </span>
+          <span class="piz-lane-chip">
+            <span class="piz-lane-title">Residuos plásticos en playas y costeros</span>
+            <span class="piz-mono">2/2 voces</span>
+            <button class="piz-lane-recover" title="Recuperar: quedan 3 min de ventana">RECUPERAR 3 MIN</button>
+          </span>
+          <span class="piz-lane-chip" style="border-style:dashed;">
+            <span class="piz-mono">RESERVA · 2 min de escucha pedidos por JC en “poda y biomasa”</span>
+            <button class="piz-lane-recover">ESCUCHAR CASO</button>
+          </span>
+        </div>
+      </div>
+      </div>
+
+      <!-- Cómo se usa -->
+      <div class="piz-legend">
+        <span class="piz-eyebrow">Cómo se usa</span>
+        <span class="piz-legend-item"><span class="piz-legend-key">Arrastrar</span> reordena la mesa</span>
+        <span class="piz-legend-item"><span class="piz-legend-key">Trazo</span> sobre un reto lo manda al embudo</span>
+        <span class="piz-legend-item"><span class="piz-legend-key">Punto</span> es uno de tus 3 votos</span>
+        <span class="piz-legend-item"><span class="piz-legend-key">Corona</span> elige y avanza al paso 04</span>
+        <span class="piz-legend-item"><span class="piz-legend-key">10 min</span> para recuperar un descartado</span>
+      </div>
+
+      <!-- Nota real del equipo (se sigue guardando igual) -->
+      <div style="margin-top:18px; padding-top:14px; border-top:1px solid #E2E8F0;">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:10px;">
+          <span style="font-size:11px; font-weight:800; letter-spacing:0.06em; text-transform:uppercase; color:#64748B;">03. Apuntes y deliberación del equipo (5)</span>
+          <span style="font-size:10.5px; font-family:var(--font-mono); color:#94A3B8;">guardado automático colaborativo</span>
+        </div>
+        <div style="display:flex; align-items:center; gap:8px; border:1px solid var(--border-light); border-radius:8px; padding:8px 10px; background:var(--bg-subtle);">
+          <span class="piz-avatar is-you" style="margin:0;">EB</span>
+          <span style="font-size:12.5px; color:var(--text-body);">Idea base para fusionar</span>
+          <span class="piz-chip is-link">fusionada → #02</span>
+          <span class="piz-mono" style="margin-left:auto;">12:36</span>
+        </div>
+      </div>
+
+      <!-- CTA real de cierre -->
+      <div style="display:flex; justify-content:center; align-items:center; gap:14px; margin-top:22px;">
+        <button class="btn-select-card filled" style="padding:10px 22px; font-size:13px; font-weight:800;">Elegir Reto #01 e Ir a Solución →</button>
+        <button class="btn-select-card outline" style="padding:9px 18px; font-size:12.5px; font-weight:700;">Reto #02 →</button>
+      </div>
+    </section>
+
+  </div>
+
+</div>
+</div>
+</div>
+
+<aside id="panel"></aside>
+
+<script>
+/* Prototipo: la mesa se puede mover, votar y escribir. Sin lógica de producto. */
+(function () {
+  const board = document.getElementById('piz-board');
+
+  // ── Arrastrar notas ────────────────────────────────────────────────
+  document.querySelectorAll('.piz-note').forEach(note => {
+    let sx = 0, sy = 0, ox = 0, oy = 0, dragging = false;
+    note.addEventListener('pointerdown', e => {
+      if (e.target.closest('button, .piz-chip')) return;
+      dragging = true;
+      const r = note.getBoundingClientRect();
+      const br = board.getBoundingClientRect();
+      note.style.left = (r.left - br.left) + 'px';
+      note.style.top = (r.top - br.top) + 'px';
+      note.style.right = 'auto';
+      ox = parseFloat(note.style.left); oy = parseFloat(note.style.top);
+      sx = e.clientX; sy = e.clientY;
+      note.classList.add('is-dragging');
+      note.setPointerCapture(e.pointerId);
+    });
+    note.addEventListener('pointermove', e => {
+      if (!dragging) return;
+      note.style.left = (ox + e.clientX - sx) + 'px';
+      note.style.top = (oy + e.clientY - sy) + 'px';
+    });
+    note.addEventListener('pointerup', () => { dragging = false; note.classList.remove('is-dragging'); });
+  });
+
+  // ── Votos (3 libres por persona) ───────────────────────────────────
+  document.querySelectorAll('.piz-dots').forEach(group => {
+    const dots = [...group.querySelectorAll('.piz-dot')];
+    dots.forEach((dot, i) => dot.addEventListener('click', () => {
+      const on = i + 1;
+      dots.forEach((d, j) => d.classList.toggle('on', j < on));
+      const label = group.parentElement.querySelector('.piz-mono');
+      if (label) label.textContent = on + (on === 1 ? ' voto' : ' votos');
+    }));
+  });
+
+  // ── El asesor entra solo si el equipo lo trae ──────────────────────
+  const pull = document.getElementById('piz-pull');
+  const asesor = document.getElementById('piz-asesor');
+  pull.addEventListener('click', () => {
+    const inBoard = asesor.style.opacity !== '0.35';
+    asesor.style.opacity = inBoard ? '0.35' : '1';
+    asesor.style.filter = inBoard ? 'saturate(0.25)' : 'none';
+    pull.textContent = inBoard ? 'traer a la mesa' : 'archivar';
+  });
+})();
+</script>
+</body>
+</html>

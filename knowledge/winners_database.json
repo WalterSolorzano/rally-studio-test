@@ -1,0 +1,211 @@
+{
+  "phases": {
+    "brief": {
+      "key_rule": "El brief es la constitución. Si no define con precisión la dicotomía Nacional (soberanía/institucional) vs Latam (modular/transferible), todo el material falla.",
+      "winning_cases": [
+        {
+          "year": 2023,
+          "project": "DIGNA",
+          "team": "Güegüense Pinolero",
+          "scope": "Latam 1er Lugar Innovación",
+          "lesson": "Definió exactamente las restricciones: 44.18 m2, familia de 6 personas, 100 L/día de agua SODIS, 400W solar. Números clavados en el brief desde la hora 2."
+        },
+        {
+          "year": 2024,
+          "project": "Techriders",
+          "team": "Techriders UNI",
+          "scope": "Latam 1er Lugar Innovación",
+          "lesson": "Transformó un desafío civil genérico ('Micropresas') en un sistema ciber-físico con telemetría LoRaWAN y control automatizado."
+        },
+        {
+          "year": 2025,
+          "project": "STEM Synergy",
+          "team": "STEM Synergy UAM",
+          "scope": "Latam 1er Lugar Innovación",
+          "lesson": "Huertos verticales con recirculación hídrica. El brief fijó una reducción de peso estructural del 40% usando materiales compuestos reciclados."
+        }
+      ]
+    },
+    "identity": {
+      "key_rule": "Semiótica identitaria con colores de alto contraste WCAG. Cero violetas/morados 'plantilla IA'. La paleta debe teñir tanto la web como el 3D y los íconos ODS.",
+      "winning_cases": [
+        {
+          "year": 2023,
+          "project": "Ollnari",
+          "team": "INATEC Juigalpa",
+          "scope": "Nacional 1er Lugar",
+          "lesson": "Uso de tonos tierra, terracota y maíz (#8B4513, #D2691E, #F4A460) inspirados en la artesanía precolombina de Chontales. Empatía visual inmediata con el jurado."
+        },
+        {
+          "year": 2025,
+          "project": "Mentes Volcánicas",
+          "team": "UNI RUPAP",
+          "scope": "Latam 1er Lugar Impacto Social",
+          "lesson": "Contraste gris asfalto/basalto y verde clorofila. Reflejaba la transformación de residuos de Tetra Pak en paneles constructivos resistentes."
+        }
+      ]
+    },
+    "challenges": {
+      "key_rule": "Elegir desafíos con baja saturación de competidores pero alto anclaje en economía circular o ciber-física. Huertos, agua y residuos siempre tienen alta competencia pero ganan si hibridan hardware+software.",
+      "winning_cases": [
+        {
+          "year": 2026,
+          "project": "Ignis Code",
+          "team": "UAM DIEM",
+          "scope": "Nacional 1er Lugar Innovación",
+          "lesson": "Eligió 'Protección de polinizadores' (Desafío 03). Solo 2 equipos nacionales lo tomaron. Ganó por diferenciación absoluta frente al enjambre de equipos en sensores genéricos."
+        },
+        {
+          "year": 2026,
+          "project": "Avocado",
+          "team": "UAM Jaguares",
+          "scope": "Nacional 1er Lugar Social",
+          "lesson": "Tomó 'Segunda vida de motores eléctricos domésticos' (Desafío 01). Aplicó economía circular directa para comunidades vulnerables."
+        }
+      ]
+    },
+    "research": {
+      "key_rule": "Sin registro en claims.json no hay dato en el pautado ni en el video. Solo fuentes oficiales verificables (BCN, INIDE, CEPAL, OMS, FAO, SINAPRED).",
+      "winning_cases": [
+        {
+          "year": 2021,
+          "project": "Alertar",
+          "team": "Ingeniarte UNNE",
+          "scope": "Latam 1er Lugar Impacto Social",
+          "lesson": "Inició con el pico del 137% de llamadas a líneas de emergencia por violencia doméstica en confinamiento, con fuente oficial del ministerio."
+        },
+        {
+          "year": 2025,
+          "project": "Nexus Innova",
+          "team": "UNAN-Managua",
+          "scope": "Nacional 1er Lugar Tecnológico",
+          "lesson": "Respaldó la reducción anual de 36,000 kg de CO2 equivalente en parques urbanos con coeficientes de conversión de la Agencia Internacional de Energía."
+        }
+      ]
+    },
+    "pautado": {
+      "key_rule": "Respetar conteo estricto con espacios. Nombre del proyecto UNA sola vez por sección. Cero redundancias. Lenguaje para evaluador no ingeniero.",
+      "winning_cases": [
+        {
+          "year": 2025,
+          "project": "Operación Titán (Lección crítica)",
+          "team": "UNI",
+          "scope": "Caso de Estudio",
+          "lesson": "Fallo histórico: Repetir 'SITR' 24 veces en el documento restó espacio vital para describir la topología LoRa y la tasa de muestreo."
+        },
+        {
+          "year": 2023,
+          "project": "DIGNA",
+          "team": "Güegüense Pinolero",
+          "scope": "Latam 1er Lugar",
+          "lesson": "Estructura tipo telegrama técnico: 1 idea por párrafo, subencabezados en negrita, tabla compacta para 'Propuestas descartadas'."
+        }
+      ]
+    },
+    "budget": {
+      "key_rule": "Rango estricto $4,000–$6,000 USD de puesta en marcha. URLs reales de mayoristas (Alibaba/AliExpress/LCSC). Línea obligatoria de flete/aranceles (15-20%).",
+      "winning_cases": [
+        {
+          "year": 2024,
+          "project": "Techriders",
+          "team": "UNI RUSB",
+          "scope": "Latam 1er Lugar",
+          "lesson": "Cotizó sensores de nivel ultrasónicos y compuertas electromecánicas en lotes de 10 unidades desde Shenzhen, cerrando el piloto en $4,350 USD."
+        },
+        {
+          "year": 2019,
+          "project": "LexoStop",
+          "team": "LEXONIC UNI",
+          "scope": "Latam 3er Lugar",
+          "lesson": "Parada de bus sustentable: desglose de microturbina SAVONIUS ($420), panel monocristalino 300W ($180) y estructura tubular local."
+        }
+      ]
+    },
+    "canvas": {
+      "key_rule": "Validación cruzada obligatoria: La propuesta de valor debe calcar el Acto II del video; la estructura de costos debe coincidir centavo a centavo con budget.xlsx.",
+      "winning_cases": [
+        {
+          "year": 2025,
+          "project": "Chancenica",
+          "team": "Volca-Tech UNAN",
+          "scope": "Nacional 1er Lugar Social",
+          "lesson": "Canvas B2B con monetización por comisión a empresas contratantes de talento inclusivo y acceso gratuito para jóvenes en riesgo."
+        }
+      ]
+    },
+    "bibliography": {
+      "key_rule": "APA 7 riguroso. Declaración explícita y transparente del uso de modelos de lenguaje e inteligencias generativas (requisito evaluado en rúbrica moderna SIRLI).",
+      "winning_cases": [
+        {
+          "year": 2026,
+          "project": "Estándar SIRLI",
+          "team": "Comité Organizador",
+          "scope": "Norma General",
+          "lesson": "Equipos que no citan herramientas de IA pierden hasta 5 puntos en Calidad de Presentación y Ética de la Innovación."
+        }
+      ]
+    },
+    "script": {
+      "key_rule": "120 segundos. 240–270 palabras. 4 actos milimétricos. CERO logos/nombres en los primeros 20 segundos.",
+      "winning_cases": [
+        {
+          "year": 2021,
+          "project": "MT Soluciones Creativas",
+          "team": "UNI RUPAP",
+          "scope": "Latam 1er Lugar",
+          "lesson": "Acto I: Hogar de Managua bajo factura eléctrica asfixiante. Acto II: Sistema pasivo + activo fotovoltaico integrado. Acto III: Amortización en 18 meses. Acto IV: Escalamiento centroamericano."
+        },
+        {
+          "year": 2024,
+          "project": "Mexitech",
+          "team": "UPEMOR México",
+          "scope": "Latam 1er Lugar Social",
+          "lesson": "Guion de 250 palabras exactas. La cadencia pausada pero enérgica transmitió dominio absoluto sin aceleraciones desesperadas al final."
+        }
+      ]
+    },
+    "assets": {
+      "key_rule": "Realismo industrial en 3D (biseles, puertos USB/IP67, pernos, etiquetas de advertencia, texturas PBR). En Web: datos simulados marcados [SIMULADO] y gráficos reactivos con SVG nativo.",
+      "winning_cases": [
+        {
+          "year": 2025,
+          "project": "STEM Synergy",
+          "team": "UAM",
+          "scope": "Latam 1er Lugar",
+          "lesson": "Render con iluminación HDRI natural, corte transversal del flujo de nutrientes y despiece con pernos M6 estandarizados."
+        },
+        {
+          "year": 2023,
+          "project": "Ollnari",
+          "team": "INATEC",
+          "scope": "Nacional 1er Lugar",
+          "lesson": "Grabación de la plataforma web en resolución nativa con navegación fluida por el catálogo artesanal, evitando pantallas estáticas."
+        }
+      ]
+    },
+    "clock": {
+      "key_rule": "T-6h congelamiento de claims; T-2h render medio; T-1h armado final. Subir a YouTube con 45 min de colchón por demora de procesamiento HD.",
+      "winning_cases": [
+        {
+          "year": 2022,
+          "project": "Innovación Pinolera",
+          "team": "UNI RUPAP",
+          "scope": "Nacional 1er Lugar",
+          "lesson": "Cerraron la edición de video a T-2:30h, permitiendo 3 rondas de auditoría de volumen de audio y contraste de subtítulos antes de subir."
+        }
+      ]
+    },
+    "publish": {
+      "key_rule": "Verificar en YouTube: visibilidad 'Oculto' o 'Público' (nunca 'Privado'), audio estéreo balanceado (-14 LUFS) y enlace copiado sin errores en SIRLI.",
+      "winning_cases": [
+        {
+          "year": 2020,
+          "project": "Alerta SIRLI",
+          "team": "Varios",
+          "scope": "Fallo común",
+          "lesson": "Más de 30 equipos quedan descalificados cada año por dejar el video de YouTube en modo Privado impidiendo la vista del jurado."
+        }
+      ]
+    }
+  }
+}

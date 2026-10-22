@@ -1,0 +1,117 @@
+{
+ "video_id": "OnJzIoRU19s",
+ "url": "https://youtu.be/OnJzIoRU19s",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ESENCIA PINOLERA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ESENCIA PINOLERA",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:21:39+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En Latinoamérica, millones de celulares en de suzo terminan acumulados en hogares o en la basura, generando contaminación y desperdiciando tecnología valiosa. Mientras muchas comunidades vulnerables carecen de herramientas accesibles para prevenir y gestionar riesgos. Frente a este desafío, nuestro equipo presente ENFRANET, una solución innovadora y sostenible que transforma seis celulares en de suzo en una estación comunitaria de monitoreo y alerta. Sus sensores como el acelerómetro detectan vibraciones y envían los datos a una Raspberry Pi 4 para su análisis. El sistema integra una pantalla LED, batería de 12 voltios, tres convertidores de energía, distribuidor USB y alimentación solar. Al detectar movimientos anormales, registra el evento y emite avisos visuales y sonoros para fortalecer la prevención y respuesta comunitaria ante emergencias. Además, ENFRANET utiliza el giroscopio y magnetómetro para identificar cambios de orientación que podrían indicar deslizamientos de tierra. Mientras que el barómetro registra variaciones de presión atmosférica asociadas a posibles tormentas, fortaleciendo la prevención de riesgos en las comunidades. Toda esta información converge en nuestro centro de control, una plataforma mueve en tiempo real donde el encargado puede monitorear el estado completo de la red. Al identificar movimientos anormales, ENFRANET registra el evento y permite emitir avisos visuales y sonoros de forma inmediata, facilitando la preparación comunitaria ante posibles emergencias. Desde aquí se visualizan los seis nodos sensores, sus niveles de batería, señal y lecturas en vivo. El sistema detectacismos, deslizamientos, cambios bruscos de presión y tormentas. Y como complemento creamos la app Ciudadana de ENFRANET, una herramienta simple pero poderosa. En la pantalla principal, el ciudadano conoce el estado de su comunidad en tiempo real, cuántas personas viven en la zona, los riesgos presentes y las rutas de evacuación. En caso de emergencia, con un solo toque en el botón SOS, cualquier enviar una alerta con su ubicación exacta. ENFRANET no es sólo tecnología, es reciclaje con propósito, es energía limpia, es protección comunitaria.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "En Latinoamérica, millones de celulares en de suzo terminan acumulados en hogares o en la basura,"
+  },
+  {
+   "start": 5.0,
+   "end": 9.0,
+   "text": "generando contaminación y desperdiciando tecnología valiosa."
+  },
+  {
+   "start": 9.0,
+   "end": 15.0,
+   "text": "Mientras muchas comunidades vulnerables carecen de herramientas accesibles para prevenir y gestionar riesgos."
+  },
+  {
+   "start": 15.0,
+   "end": 18.0,
+   "text": "Frente a este desafío, nuestro equipo presente ENFRANET,"
+  },
+  {
+   "start": 18.0,
+   "end": 24.0,
+   "text": "una solución innovadora y sostenible que transforma seis celulares en de suzo en una estación comunitaria de monitoreo y alerta."
+  },
+  {
+   "start": 24.0,
+   "end": 30.0,
+   "text": "Sus sensores como el acelerómetro detectan vibraciones y envían los datos a una Raspberry Pi 4 para su análisis."
+  },
+  {
+   "start": 30.0,
+   "end": 38.0,
+   "text": "El sistema integra una pantalla LED, batería de 12 voltios, tres convertidores de energía, distribuidor USB y alimentación solar."
+  },
+  {
+   "start": 38.0,
+   "end": 47.0,
+   "text": "Al detectar movimientos anormales, registra el evento y emite avisos visuales y sonoros para fortalecer la prevención y respuesta comunitaria ante emergencias."
+  },
+  {
+   "start": 47.0,
+   "end": 55.0,
+   "text": "Además, ENFRANET utiliza el giroscopio y magnetómetro para identificar cambios de orientación que podrían indicar deslizamientos de tierra."
+  },
+  {
+   "start": 55.0,
+   "end": 63.0,
+   "text": "Mientras que el barómetro registra variaciones de presión atmosférica asociadas a posibles tormentas, fortaleciendo la prevención de riesgos en las comunidades."
+  },
+  {
+   "start": 63.0,
+   "end": 71.0,
+   "text": "Toda esta información converge en nuestro centro de control, una plataforma mueve en tiempo real donde el encargado puede monitorear el estado completo de la red."
+  },
+  {
+   "start": 72.0,
+   "end": 82.0,
+   "text": "Al identificar movimientos anormales, ENFRANET registra el evento y permite emitir avisos visuales y sonoros de forma inmediata, facilitando la preparación comunitaria ante posibles emergencias."
+  },
+  {
+   "start": 82.0,
+   "end": 88.0,
+   "text": "Desde aquí se visualizan los seis nodos sensores, sus niveles de batería, señal y lecturas en vivo."
+  },
+  {
+   "start": 88.0,
+   "end": 93.0,
+   "text": "El sistema detectacismos, deslizamientos, cambios bruscos de presión y tormentas."
+  },
+  {
+   "start": 94.0,
+   "end": 99.0,
+   "text": "Y como complemento creamos la app Ciudadana de ENFRANET, una herramienta simple pero poderosa."
+  },
+  {
+   "start": 99.0,
+   "end": 107.0,
+   "text": "En la pantalla principal, el ciudadano conoce el estado de su comunidad en tiempo real, cuántas personas viven en la zona, los riesgos presentes y las rutas de evacuación."
+  },
+  {
+   "start": 107.0,
+   "end": 113.0,
+   "text": "En caso de emergencia, con un solo toque en el botón SOS, cualquier enviar una alerta con su ubicación exacta."
+  },
+  {
+   "start": 113.0,
+   "end": 119.0,
+   "text": "ENFRANET no es sólo tecnología, es reciclaje con propósito, es energía limpia, es protección comunitaria."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.7
+}

@@ -1,0 +1,92 @@
+{
+ "video_id": "bdwU6SM7siU",
+ "url": "https://youtu.be/bdwU6SM7siU",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "PINOLEROS INNOVADORES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "PINOLEROS INNOVADORES",
+   "challenge": "08 - DESINFECTANTE PERSONAL BIODEGRADABLE"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:08:38+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "que ocasionó la pandemia el 29, y Nicaragua se hizo común en diferentes locales, en los hogares y estadocuidos públicos, tuvieron la obligación de desinfectar sus manos con jabón líquido, alcohol líquido y gel, entre otros, pero el uso extenso de estos productos es perjudicial para nosotros y el medio ambiente, ya que al ser vertidos sus residuos entre el agua y suelo, lo contaminan. De esta manera hemos creado un desinfectante de gusto personal elaborado a base de elegías de ceniza de eucalicto y orejas de guanacaste negro, para que la sociedad tenga al alcance de su bolsillo la opción de un producto higiénico natural. Guacén es un desinfectante personal biodegradable el cual tiene un proceso de elaboración corto, se diferencia de otros productos por su composición química, es de origen natural no dañinos a la salud y al medio ambiente. Es un producto que surge como una alternativa viable ante el uso de desinfectantes para el lavado de mano en la pandemia COVID-19, dando solución a elevado costo de productos utilizados para la desinfección y contaminación al medio ambiente. 100% natural, sustentable y sostenible. Guacén",
+ "segments": [
+  {
+   "start": 13.71,
+   "end": 19.51,
+   "text": "que ocasionó la pandemia el 29, y Nicaragua se hizo común en diferentes locales,"
+  },
+  {
+   "start": 19.51,
+   "end": 25.47,
+   "text": "en los hogares y estadocuidos públicos, tuvieron la obligación de desinfectar sus manos con jabón"
+  },
+  {
+   "start": 25.47,
+   "end": 32.79,
+   "text": "líquido, alcohol líquido y gel, entre otros, pero el uso extenso de estos productos es perjudicial"
+  },
+  {
+   "start": 32.79,
+   "end": 39.23,
+   "text": "para nosotros y el medio ambiente, ya que al ser vertidos sus residuos entre el agua y suelo,"
+  },
+  {
+   "start": 39.23,
+   "end": 46.91,
+   "text": "lo contaminan. De esta manera hemos creado un desinfectante de gusto personal elaborado a base"
+  },
+  {
+   "start": 46.91,
+   "end": 54.39,
+   "text": "de elegías de ceniza de eucalicto y orejas de guanacaste negro, para que la sociedad tenga al"
+  },
+  {
+   "start": 54.39,
+   "end": 61.03,
+   "text": "alcance de su bolsillo la opción de un producto higiénico natural. Guacén es un desinfectante"
+  },
+  {
+   "start": 61.03,
+   "end": 66.87,
+   "text": "personal biodegradable el cual tiene un proceso de elaboración corto, se diferencia de otros"
+  },
+  {
+   "start": 66.87,
+   "end": 73.43,
+   "text": "productos por su composición química, es de origen natural no dañinos a la salud y al medio ambiente."
+  },
+  {
+   "start": 73.43,
+   "end": 80.83,
+   "text": "Es un producto que surge como una alternativa viable ante el uso de desinfectantes para el lavado"
+  },
+  {
+   "start": 80.83,
+   "end": 87.87,
+   "text": "de mano en la pandemia COVID-19, dando solución a elevado costo de productos utilizados para"
+  },
+  {
+   "start": 87.87,
+   "end": 95.27,
+   "text": "la desinfección y contaminación al medio ambiente. 100% natural, sustentable y sostenible."
+  },
+  {
+   "start": 95.27,
+   "end": 96.67,
+   "text": "Guacén"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 98.1
+}

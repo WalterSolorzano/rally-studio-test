@@ -1,0 +1,147 @@
+{
+ "video_id": "cCHuQriLWk8",
+ "url": "https://youtu.be/cCHuQriLWk8",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "YOLITIA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "YOLITIA",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:16:16+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Basándonos en nuestro compromiso con prácticas agrícolas sostenibles y la gestión responsable del agua, por la necesidad de preservar los recursos hídricos, surge el sistema de captación de agua de lluvia, cosecha del cielo, nombre que evoca la imagen poética de recoger agua de lluvia, simbolizando la abundancia y la conexión con la naturaleza. En esencia, cosecha del cielo tiene como misión ofrecer una solución innovadora al escasez de agua en tiempos de sequía, problema que afecta la productividad y por ende la seguridad alimentaria. La gestión eficiente del agua es crucial, especialmente para la agricultura. Esto incluye estrategias para disponer de este recurso hídrico ante casos como las sequías que afectan nuestra región latina americana significativamente. Hoy presentamos un sistema integral de captación de agua de lluvia con capacidad de 100 metros cúbicos de agua diseñado para ser económico y accesible para los agricultores. Ubicados cerca de las cosechas, este sistema permite aprovechar el agua en momentos de necesidad. El diseño minimiza la filtración al subsuelo, la evaporación y la proliferación de mosquitos. El sistema incluye un filtro de múltiples capas, piedra, arena gruesa y fina, carbón y algodón, garantizando una filtración eficiente. Con la calidad del agua recolectada y ausencia de sedimentos que se acumulen en el pozo, patir la proliferación de mosquitos, el tema permite inopular el agua con bacterias biocontroladoras de plagas como vacígros triligiences que matan las larvas de mosquitos, vectores de diferentes enfermedades y como valor agregado tiene impacto positivo en los cultivos. Este método es seguro, ecológico y debajo de costo, un ámono en la búsqueda de un futuro más sostenible. La captación de agua de lluvia es un paso clave hacia la conservación de nuestros recursos.",
+ "segments": [
+  {
+   "start": 0.72,
+   "end": 9.63,
+   "text": "Basándonos en nuestro compromiso con prácticas agrícolas sostenibles y la gestión responsable"
+  },
+  {
+   "start": 9.63,
+   "end": 14.99,
+   "text": "del agua, por la necesidad de preservar los recursos hídricos, surge el sistema de captación"
+  },
+  {
+   "start": 14.99,
+   "end": 20.35,
+   "text": "de agua de lluvia, cosecha del cielo, nombre que evoca la imagen poética de recoger agua"
+  },
+  {
+   "start": 20.35,
+   "end": 24.55,
+   "text": "de lluvia, simbolizando la abundancia y la conexión con la naturaleza."
+  },
+  {
+   "start": 24.55,
+   "end": 29.19,
+   "text": "En esencia, cosecha del cielo tiene como misión ofrecer una solución innovadora"
+  },
+  {
+   "start": 29.19,
+   "end": 33.95,
+   "text": "al escasez de agua en tiempos de sequía, problema que afecta la productividad y por ende"
+  },
+  {
+   "start": 33.95,
+   "end": 35.45,
+   "text": "la seguridad alimentaria."
+  },
+  {
+   "start": 35.45,
+   "end": 39.87,
+   "text": "La gestión eficiente del agua es crucial, especialmente para la agricultura."
+  },
+  {
+   "start": 39.87,
+   "end": 45.43,
+   "text": "Esto incluye estrategias para disponer de este recurso hídrico ante casos como las sequías"
+  },
+  {
+   "start": 45.43,
+   "end": 48.91,
+   "text": "que afectan nuestra región latina americana significativamente."
+  },
+  {
+   "start": 48.91,
+   "end": 54.47,
+   "text": "Hoy presentamos un sistema integral de captación de agua de lluvia con capacidad de 100 metros"
+  },
+  {
+   "start": 54.47,
+   "end": 59.23,
+   "text": "cúbicos de agua diseñado para ser económico y accesible para los agricultores."
+  },
+  {
+   "start": 59.23,
+   "end": 64.07,
+   "text": "Ubicados cerca de las cosechas, este sistema permite aprovechar el agua en momentos de"
+  },
+  {
+   "start": 64.07,
+   "end": 65.07,
+   "text": "necesidad."
+  },
+  {
+   "start": 65.07,
+   "end": 70.79,
+   "text": "El diseño minimiza la filtración al subsuelo, la evaporación y la proliferación de mosquitos."
+  },
+  {
+   "start": 70.79,
+   "end": 76.55,
+   "text": "El sistema incluye un filtro de múltiples capas, piedra, arena gruesa y fina, carbón"
+  },
+  {
+   "start": 76.55,
+   "end": 80.27,
+   "text": "y algodón, garantizando una filtración eficiente."
+  },
+  {
+   "start": 80.27,
+   "end": 85.31,
+   "text": "Con la calidad del agua recolectada y ausencia de sedimentos que se acumulen en el pozo, patir"
+  },
+  {
+   "start": 85.31,
+   "end": 89.91,
+   "text": "la proliferación de mosquitos, el tema permite inopular el agua con bacterias biocontroladoras"
+  },
+  {
+   "start": 89.91,
+   "end": 95.31,
+   "text": "de plagas como vacígros triligiences que matan las larvas de mosquitos, vectores de diferentes"
+  },
+  {
+   "start": 95.31,
+   "end": 100.07,
+   "text": "enfermedades y como valor agregado tiene impacto positivo en los cultivos."
+  },
+  {
+   "start": 100.07,
+   "end": 104.47,
+   "text": "Este método es seguro, ecológico y debajo de costo, un ámono en la búsqueda de un"
+  },
+  {
+   "start": 104.47,
+   "end": 105.95,
+   "text": "futuro más sostenible."
+  },
+  {
+   "start": 105.95,
+   "end": 110.83,
+   "text": "La captación de agua de lluvia es un paso clave hacia la conservación de nuestros recursos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.2
+}

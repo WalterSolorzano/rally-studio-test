@@ -1,0 +1,87 @@
+{
+ "video_id": "DIeC0Gir1rY",
+ "url": "https://youtu.be/DIeC0Gir1rY?si=-aoLjmEPtEhc26rK",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NICASOLUTIONS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NICASOLUTIONS",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:32:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En Nicaragua y gran parte de Latinoamérica, los incendios e inundaciones se han vuelto cada vez más frecuentes. Frente a esta realidad, surge una solución innovadora. Ecosensores Ecosensores es un dispositivo híbrido que combina sensores ambientales, inteligencia artificial y una aplicación MOBI. Su objetivo es prevenir y mitigar los impactos de desastres naturales mediante la detección temprana de riesgos en bosques, ríos, comunidades y ciudades. El sistema está compuesto por una placa base con cámara, sensores térmicos y de inundación, panel solar, batería de larga duración y carcasa resistente, fabricada con materiales reciclados como plástico y aluminio. Gracias a estos componentes, Ecosensor recotila y analiza en tiempo real datos sobre temperatura, humedad, nivel de agua y concentración de humo, enviándolos a un algoritmo de inteligencia artificial que detecta patrones de riesgo y genera alertas tempranas. A través de su aplicación MOBI, tanto a los sistemas nacionales de prevención de desastres como los usuarios urbanos y rurales pueden acceder a información actualizada, recibir notificaciones y recomendaciones preventivas, facilitando una respuesta rápida y coordinada. Ecosensor no solo cuida el ambiente, también protege vidas.",
+ "segments": [
+  {
+   "start": 5.23,
+   "end": 12.23,
+   "text": "En Nicaragua y gran parte de Latinoamérica, los incendios e inundaciones se han vuelto cada vez más frecuentes."
+  },
+  {
+   "start": 13.23,
+   "end": 17.23,
+   "text": "Frente a esta realidad, surge una solución innovadora."
+  },
+  {
+   "start": 17.23,
+   "end": 19.23,
+   "text": "Ecosensores"
+  },
+  {
+   "start": 19.23,
+   "end": 27.23,
+   "text": "Ecosensores es un dispositivo híbrido que combina sensores ambientales, inteligencia artificial y una aplicación MOBI."
+  },
+  {
+   "start": 27.23,
+   "end": 37.23,
+   "text": "Su objetivo es prevenir y mitigar los impactos de desastres naturales mediante la detección temprana de riesgos en bosques, ríos, comunidades y ciudades."
+  },
+  {
+   "start": 38.23,
+   "end": 48.23,
+   "text": "El sistema está compuesto por una placa base con cámara, sensores térmicos y de inundación, panel solar, batería de larga duración y carcasa resistente,"
+  },
+  {
+   "start": 48.23,
+   "end": 52.23,
+   "text": "fabricada con materiales reciclados como plástico y aluminio."
+  },
+  {
+   "start": 52.23,
+   "end": 62.23,
+   "text": "Gracias a estos componentes, Ecosensor recotila y analiza en tiempo real datos sobre temperatura, humedad, nivel de agua y concentración de humo,"
+  },
+  {
+   "start": 62.23,
+   "end": 69.23,
+   "text": "enviándolos a un algoritmo de inteligencia artificial que detecta patrones de riesgo y genera alertas tempranas."
+  },
+  {
+   "start": 70.23,
+   "end": 79.23,
+   "text": "A través de su aplicación MOBI, tanto a los sistemas nacionales de prevención de desastres como los usuarios urbanos y rurales pueden acceder a información actualizada,"
+  },
+  {
+   "start": 79.23,
+   "end": 86.23,
+   "text": "recibir notificaciones y recomendaciones preventivas, facilitando una respuesta rápida y coordinada."
+  },
+  {
+   "start": 86.23,
+   "end": 91.23,
+   "text": "Ecosensor no solo cuida el ambiente, también protege vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 91.7
+}

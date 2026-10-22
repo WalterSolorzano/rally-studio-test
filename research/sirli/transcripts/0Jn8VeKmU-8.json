@@ -1,0 +1,127 @@
+{
+ "video_id": "0Jn8VeKmU-8",
+ "url": "https://www.youtube.com/watch?v=0Jn8VeKmU-8",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TERRAWEB",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "TERRAWEB",
+   "challenge": "05 - HUERTOS VERTICALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:32:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Y si te dijera que el futuro de la alimentación puede empezar en tu propia casa? Somos el grupo TerraWeb, representantes de un áncur matagalpa Nicaragua. Hoy más de la mitad de la población vive en ciudades donde el espacio y el agua son cada vez más escasos. Comprar alimentos prezco es caro, las opciones saludables son limitadas y muchas familias dependen de productos ultraprocesados. TerraKit nace para devolvernos ese derecho, un sistema modular de huertos urbanos diseñado para espacios pequeños con un mecanismo de irrigación automatizado que optimiza cada gota de agua. Es innovación al servicio de la autosuficiencia. Imagina poder cultivar tu propia hortalizas, hierbas o vegetales sin necesidad de conocimientos agronómicos. Solo instalas el kit, conectas la aplicación móvil y TerraKit se encarga del resto. Monitorea la humedad, la temperatura y activa el riego exacto que tus plantas necesitan. Desde el punto de vista económico, el kit utiliza materiales accesibles y locales con un costo estimado de $78 y un precio de venta de $115. Esto lo hace presupuestariamente abordable, con recuperación de inversión rápida y posibilidad de escalar la producción sin comprometer recursos. Socialmente el kit es aceptable y viable, pues fomenta la seguridad alimentaria familiar, hábitos de alimentación saludable y educación ambiental. Pero esto no solo se trata de tecnología, se trata de transformar nuestra relación con los alimentos, de reconectar con el proceso natural, de sembrar, cuidar y cosechar. Porque tener un cuarto propio nunca fue tan fácil.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "¿Y si te dijera que el futuro de la alimentación puede empezar en tu propia casa?"
+  },
+  {
+   "start": 5.0,
+   "end": 17.41,
+   "text": "Somos el grupo TerraWeb, representantes de un áncur matagalpa Nicaragua."
+  },
+  {
+   "start": 17.41,
+   "end": 24.41,
+   "text": "Hoy más de la mitad de la población vive en ciudades donde el espacio y el agua son cada vez más escasos."
+  },
+  {
+   "start": 24.41,
+   "end": 29.41,
+   "text": "Comprar alimentos prezco es caro, las opciones saludables son limitadas"
+  },
+  {
+   "start": 29.41,
+   "end": 33.41,
+   "text": "y muchas familias dependen de productos ultraprocesados."
+  },
+  {
+   "start": 33.41,
+   "end": 41.41,
+   "text": "TerraKit nace para devolvernos ese derecho, un sistema modular de huertos urbanos diseñado para espacios pequeños"
+  },
+  {
+   "start": 41.41,
+   "end": 46.41,
+   "text": "con un mecanismo de irrigación automatizado que optimiza cada gota de agua."
+  },
+  {
+   "start": 46.41,
+   "end": 50.41,
+   "text": "Es innovación al servicio de la autosuficiencia."
+  },
+  {
+   "start": 50.41,
+   "end": 58.41,
+   "text": "Imagina poder cultivar tu propia hortalizas, hierbas o vegetales sin necesidad de conocimientos agronómicos."
+  },
+  {
+   "start": 58.41,
+   "end": 64.41,
+   "text": "Solo instalas el kit, conectas la aplicación móvil y TerraKit se encarga del resto."
+  },
+  {
+   "start": 64.41,
+   "end": 71.41,
+   "text": "Monitorea la humedad, la temperatura y activa el riego exacto que tus plantas necesitan."
+  },
+  {
+   "start": 71.41,
+   "end": 76.41,
+   "text": "Desde el punto de vista económico, el kit utiliza materiales accesibles y locales"
+  },
+  {
+   "start": 76.41,
+   "end": 82.41,
+   "text": "con un costo estimado de $78 y un precio de venta de $115."
+  },
+  {
+   "start": 82.41,
+   "end": 87.41,
+   "text": "Esto lo hace presupuestariamente abordable, con recuperación de inversión rápida"
+  },
+  {
+   "start": 87.41,
+   "end": 91.41,
+   "text": "y posibilidad de escalar la producción sin comprometer recursos."
+  },
+  {
+   "start": 91.41,
+   "end": 98.41,
+   "text": "Socialmente el kit es aceptable y viable, pues fomenta la seguridad alimentaria familiar,"
+  },
+  {
+   "start": 98.41,
+   "end": 102.41,
+   "text": "hábitos de alimentación saludable y educación ambiental."
+  },
+  {
+   "start": 102.41,
+   "end": 108.41,
+   "text": "Pero esto no solo se trata de tecnología, se trata de transformar nuestra relación"
+  },
+  {
+   "start": 108.41,
+   "end": 115.41,
+   "text": "con los alimentos, de reconectar con el proceso natural, de sembrar, cuidar y cosechar."
+  },
+  {
+   "start": 115.41,
+   "end": 119.41,
+   "text": "Porque tener un cuarto propio nunca fue tan fácil."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.1
+}

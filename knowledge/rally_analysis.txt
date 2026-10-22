@@ -1,0 +1,752 @@
+﻿Registro Histórico, Enlaces Audiovisuales y Decodificación Narrativa del Rally Latinoamericano de Innovación y el Rally Nacional "Nicaragua Innova" (2019–2026)
+Dinámica Estructural del Ecosistema de Innovación Abierta en Nicaragua y Latinoamérica
+El análisis comparativo entre el Rally Latinoamericano de Innovación y el Rally Nacional de Innovación "Nicaragua Innova" revela que ambos certámenes no operan como eventos aislados, sino como un sistema acoplado de entrenamiento, validación e incubación de talento universitario y técnico1. Mientras que el Rally Latinoamericano constituye una competencia internacional de 28 horas consecutivas fundada y articulada por el Consejo Federal de Decanos de Ingeniería de Argentina (CONFEDI), la Asociación Colombiana de Facultades de Ingeniería (ACOFI) y la Asociación Nacional de Facultades y Escuelas de Ingeniería de México (ANFEI)5, el Rally Nacional "Nicaragua Innova" funciona como un certamen intensivo de 24 horas continuas diseñado por la Comisión Nacional de Economía Creativa junto al Consejo Nacional de Universidades (CNU), el Instituto Tecnológico Nacional (INATEC), el Ministerio de la Juventud (MINJUVE), el Instituto Nicaragüense de Telecomunicaciones y Correos (TELCOR) y el Ministerio de Economía Familiar (MEFCCA)1.
+La relación causal más relevante identificada en la serie histórica 2019–2026 radica en la sincronización temporal y formativa de ambos eventos. A partir de 2023, la instauración del Rally Nacional "Nicaragua Innova" (celebrado entre junio y septiembre de cada año) junto con la consolidación de los Centros Nacionales de Innovación Abierta (CNIA) y la Red Nacional de Mentores Nicaragua Creativa (que alcanzó 564 mentores y 244 especialistas en 2024) operó como un acelerador competitivo previo a la cita continental de octubre1. Antes de la creación del certamen nacional propio, Nicaragua ya había demostrado capacidad competitiva obteniendo un tercer lugar internacional en 2019 y un primer lugar internacional en 20213; sin embargo, tras el establecimiento de "Nicaragua Innova" en 2023, las delegaciones nicaragüenses encadenaron victorias regionales de forma ininterrumpida en 2023, 2024 y 2025, culminando en la duodécima edición (2025) con un barrido histórico al conquistar simultáneamente el primer lugar internacional en las dos únicas categorías del certamen continental3.
+  
+
+En cuanto a las reglas estructurales de operación, la tabla comparativa a continuación sintetiza las divergencias normativas entre ambos certámenes, las cuales determinan directamente la manera en que los equipos estructuran sus proyectos y guiones audiovisuales4.
+
+
+Parámetro Operativo
+	Rally Nacional de Innovación "Nicaragua Innova"
+	Rally Latinoamericano de Innovación (Rally Latam)
+	Entidad Organizadora
+	Comisión Nacional de Economía Creativa, CNU, INATEC, MINJUVE, TELCOR, MEFCCA7
+	CONFEDI (Argentina), ACOFI (Colombia), ANFEI (México) y comités nacionales5
+	Duración Continua
+	24 horas consecutivas1
+	28 horas consecutivas3
+	Categorías de Competencia
+	1. Innovación Tecnológica
+
+
+2. Innovación Social
+
+
+3. Innovación de Procesos u Organizacional7
+	1. Innovación
+
+
+2. Impacto Social4
+	Composición de Equipos
+	Estudiantes universitarios (públicos y privados), centros técnicos (INATEC) y educación media con equidad de género1
+	Mínimo 4 y máximo 10 integrantes; al menos 1 estudiante de ingeniería, al menos 1 mujer, opción a 1 graduado/profesional no docente4
+	Entregables Oficiales
+	Propuesta de proyecto, prototipo/validación y video pitch alojado en YouTube; pase a Muestra Nacional de Proyectos7
+	Subida al sistema SIRLI de: 1) URL de video en YouTube (máximo 2 minutos), 2) Reporte pautado en PDF, 3) URL de video en TikTok de interacción internacional entre dos equipos4
+	Instancias de Premiación
+	1er y 2do lugar nacional para cada una de las 3 categorías (6 equipos premiados a nivel nacional)7
+	Tres instancias: Sede/Local, Nacional y Global/Internacional (1er, 2do y 3er lugar para cada una de las 2 categorías)4
+	Registro Maestro del Rally Nacional de Innovación "Nicaragua Innova" (2023–2025)
+El Rally Nacional de Innovación "Nicaragua Innova" registra tres ediciones completadas entre 2023 y 20257. A nivel documental, existe una evolución clara en la trazabilidad pública de los entregables: en la Primera Edición (septiembre de 2023) y la Segunda Edición (agosto de 2024), las actas oficiales publicadas por los medios institucionales y la Comisión Nacional de Economía Creativa consignaron los nombres de los equipos ganadores, sus categorías y sus recintos universitarios o tecnológicos, canalizando la exhibición detallada de los prototipos hacia las ediciones presenciales de la Muestra Nacional de Proyectos de Innovación celebradas en noviembre de cada año9. En contraste, a partir de la Tercera Edición (junio de 2025), los reportes oficiales incorporaron tanto el título comercial y el desglose técnico de cada solución como las direcciones URL directas a los videos de pitch en YouTube7.
+Un fenómeno inter-edición de alta relevancia es la continuidad competitiva de las células de innovación: por ejemplo, en la edición de 2024 de "Nicaragua Innova", el equipo BOSÓN THE HIGGS de la UNAN-León obtuvo el segundo lugar nacional en Innovación de Procesos u Organizacional10, mientras que a nivel interno de su casa de estudios fue reconocido el equipo T1 por su propuesta de Optimización de la Logística en Comercios Minoristas en la misma categoría19. Asimismo, el equipo INNOVATEAM de la UNICIT conquistó el primer lugar en Innovación Tecnológica en "Nicaragua Innova 2024" (agosto)10 y apenas seis semanas después alcanzó el tercer lugar nacional en el Rally Latinoamericano de Innovación 2024 (octubre)8.
+La siguiente tabla consolida el registro íntegro de todos los equipos ganadores nacionales (primeros y segundos lugares) de las tres categorías a lo largo de todas las ediciones del Rally Nacional de Innovación "Nicaragua Innova"7.
+
+
+Edición / Fecha
+	Categoría
+	Puesto
+	Equipo Ganador
+	Institución / Sede
+	Nombre del Proyecto y Síntesis de la Solución
+	Enlace de Video (YouTube)
+	I Edición (2023)
+
+
+Septiembre 20239
+	Innovación Tecnológica
+	1er Lugar
+	TECNOCRAFT INNOVATOR
+[cite: 9]
+	Centro Tecnológico Josefa Toledo de Aguerri (INATEC, Juigalpa, Chontales)9
+	Proyecto presentado en la I Muestra Nacional de Proyectos de Innovación (título específico no indexado en acta de prensa)9.
+	No indexado públicamente en acta oficial9
+	I Edición (2023)
+
+
+Septiembre 20239
+	Innovación Tecnológica
+	2do Lugar
+	INNORTE
+[cite: 9]
+	Universidad Francisco Luis Espinoza Pineda (UFLEP, Estelí)9
+	Proyecto presentado en la I Muestra Nacional de Proyectos de Innovación9.
+	No indexado públicamente en acta oficial9
+	I Edición (2023)
+
+
+Septiembre 20239
+	Innovación Social
+	1er Lugar
+	INGENOVA
+[cite: 9]
+	Universidad Nacional de Ingeniería (UNI, Managua)9
+	Proyecto presentado en la I Muestra Nacional de Proyectos de Innovación9.
+	No indexado públicamente en acta oficial9
+	I Edición (2023)
+
+
+Septiembre 20239
+	Innovación Social
+	2do Lugar
+	AGROLIDAR
+[cite: 9]
+	UNAN-Managua – Centro de Innovación y Diseño (CID, Managua)9
+	Solución de enfoque agro-social seleccionada para la I Muestra Nacional de Proyectos de Innovación9.
+	No indexado públicamente en acta oficial9
+	I Edición (2023)
+
+
+Septiembre 20239
+	Innovación de Procesos u Organizacional
+	1er Lugar
+	NAHUATL INNOVA
+[cite: 9]
+	Universidad Nacional de Ingeniería – IES (Managua)9
+	Proyecto presentado en la I Muestra Nacional de Proyectos de Innovación9.
+	No indexado públicamente en acta oficial9
+	I Edición (2023)
+
+
+Septiembre 20239
+	Innovación de Procesos u Organizacional
+	2do Lugar
+	POVEDERS-UNI
+[cite: 9]
+	Universidad Nacional de Ingeniería – Recinto Universitario Augusto C. Sandino (Estelí)9
+	Proyecto presentado en la I Muestra Nacional de Proyectos de Innovación9.
+	No indexado públicamente en acta oficial9
+	II Edición (2024)
+
+
+Agosto 202410
+	Innovación Tecnológica
+	1er Lugar
+	INNOVATEAM
+[cite: 10, 21]
+	Universidad Iberoamericana de Ciencia y Tecnología (UNICIT, Sede Central)10
+	Solución tecnológica seleccionada para la II Muestra Nacional de Proyectos de Innovación (noviembre 2024)10.
+	No indexado públicamente en acta oficial10
+	II Edición (2024)
+
+
+Agosto 202410
+	Innovación Tecnológica
+	2do Lugar
+	FIDALOGIC
+[cite: 10, 21]
+	Universidad Nacional Politécnica (UNP, Sede Central)10
+	Solución tecnológica seleccionada para la II Muestra Nacional de Proyectos de Innovación10.
+	No indexado públicamente en acta oficial10
+	II Edición (2024)
+
+
+Agosto 202410
+	Innovación Social
+	1er Lugar
+	BIOINNOVA
+[cite: 10, 21]
+	UNAN-Managua – Sede Carlos Martínez Rivas (CNIA)10
+	Proyecto de impacto social y ambiental seleccionado para la II Muestra Nacional10. (El 2do lugar de la categoría no fue consignado en el acta oficial)10.
+	No indexado públicamente en acta oficial10
+	II Edición (2024)
+
+
+Agosto 202410
+	Innovación de Procesos u Organizacional
+	1er Lugar
+	AGROINNOVA
+[cite: 10]
+	Universidad Nacional Agraria (UNA, Sede Central)10
+	Optimización de procesos agroproductivos seleccionada para la II Muestra Nacional10.
+	No indexado públicamente en acta oficial10
+	II Edición (2024)
+
+
+Agosto 202410
+	Innovación de Procesos u Organizacional
+	2do Lugar
+	BOSÓN THE HIGGS / Equipo T1
+[cite: 10, 19]
+	UNAN-León (Sede Central)10
+	Optimización de la Logística en Comercios Minoristas (propuesta estratégica reportada por UNAN-León para el segundo lugar de la categoría)10.
+	No indexado públicamente en acta oficial10
+	III Edición (2025)
+
+
+Junio 20257
+	Innovación de Procesos u Organizacional
+	1er Lugar
+	Operación Titan
+[cite: 7]
+	UNI – Recinto Universitario Pedro Aráuz Palacios (RUPAP)7
+	OLLNARI: Plataforma web y app móvil para la gestión del talento artesanal en las Ciudades Creativas de Nicaragua con comercio justo, sello «Origen Garantizado», mapa interactivo y talleres digitales7.
+	https://www.youtube.com/watch?v=v4kZD-S1NHk18
+	III Edición (2025)
+
+
+Junio 20257
+	Innovación de Procesos u Organizacional
+	2do Lugar
+	Los Templarios
+[cite: 7]
+	UNAN-Managua – Centro Nacional de Innovación Abierta «Carlos Martínez Rivas» 1 (CNIA 1)7
+	EgroLab-Móvil: Laboratorio móvil con kits portátiles para análisis de suelos en pequeños y medianos productores de granos básicos, planes de fertilización personalizados y bioinsumos7.
+	https://www.youtube.com/watch?v=W3PXmGt1E2k18
+	III Edición (2025)
+
+
+Junio 20257
+	Innovación Tecnológica
+	1er Lugar
+	Nexus Innova
+[cite: 7, 17]
+	UNAN-Managua – CNIA 17
+	NEXUS INNOVA – Parque Ecoenergético «Padre Miguel d’Escoto Brockmann»: Espacio sostenible en Managua con bicicletas generadoras, piso piezoeléctrico, mobiliario reciclado y compostaje (3,500 beneficiarios/semana; -36,000 kg residuos/año)7.
+	https://www.youtube.com/watch?v=DBErrs4L-OA17
+	III Edición (2025)
+
+
+Junio 20257
+	Innovación Tecnológica
+	2do Lugar
+	Yoltik-Nova
+[cite: 7]
+	UNI – RUPAP7
+	YOLTIK-NOVA – Viviendas sostenibles desde la cáscara de cacao: Fábrica en Waslala que transforma cáscara de mazorca de cacao en láminas ecológicas de techo con bioplástico, fibra de coco, almidón de yuca y cera de abeja (80 viviendas, 12 t residuos/año, 45 empleos indígenas)7.
+	https://www.youtube.com/watch?si=H9ZX1L4XUaXMONxF&v (URL truncada en origen oficial)
+[cite: 18]
+	III Edición (2025)
+
+
+Junio 20257
+	Innovación Social
+	1er Lugar
+	Volca-Tech
+[cite: 7]
+	UNAN-Managua – CNIA 17
+	CHÁNCENICA – Conectando talento juvenil con oportunidades laborales: Plataforma web con hosting ecológico, modelo de conexión inversa (empresas buscan talento) y agente de IA para personalización e inclusión de personas con discapacidad7.
+	https://www.youtube.com/watch?v=Udv4kevNSTw18
+	III Edición (2025)
+
+
+Junio 20257
+	Innovación Social
+	2do Lugar
+	Escuadrón Nic-Anahuac 1
+[cite: 7]
+	UNI – RUPAP7
+	EcoCanje-Nicaragua – Innovación Social para un país más verde y cultural: Red de 7 puntos de reciclaje inteligentes en Managua integrados con la aplicación Canje+ para intercambiar residuos por productos culturales en la Eco-Zona Creativa7.
+	No indexado en listado de enlaces7
+	Registro Maestro del Rally Latinoamericano de Innovación (2019–2026)
+El registro del Rally Latinoamericano de Innovación abarca tanto el desempeño de las delegaciones de Nicaragua (a nivel de sede, nacional e internacional) como el repositorio de ganadores internacionales y nacionales de países referentes de la competencia (particularmente Argentina a través de los registros de CONFEDI, junto a Chile, México, Brasil y El Salvador)3.
+Equipos Ganadores de Nicaragua en Instancia Nacional e Internacional (2019–2026)
+En el caso nicaragüense, el primer lugar nacional de cada una de las dos categorías (Innovación e Impacto Social) pasa automáticamente a representar al país ante el jurado internacional4. Respecto a la XIII Edición del Rally Latinoamericano de Innovación (2026), el cronograma oficial establece la jornada de competencia de 28 horas entre el viernes 16 y el sábado 17 de octubre de 2026 (con cierre de subida de entregables en SIRLI y evaluaciones locales/nacionales el sábado 17 de octubre), mientras que la sesión de evaluación internacional y la publicación oficial de los ganadores globales está programada para el martes 20 de octubre de 20264.
+A continuación se presenta la totalidad de los equipos ganadores de Nicaragua (tanto en la etapa nacional como en el podio continental) y sus enlaces de YouTube verificados desde 2019 hasta 20263.
+
+
+Edición
+	Categoría
+	Instancia y Puesto Alcanzado
+	Equipo Ganador
+	Universidad / Sede
+	Nombre del Proyecto / Desafío Abordado
+	Enlace de Video (YouTube)
+	VI Edición (2019)
+	Impacto Social
+	3er Lugar Internacional (y 1er Lugar Nacional)3
+	LEXONIC
+[cite: 3, 26]
+	UNI – RUPAP (Managua)3
+	LexoStop – Parada de Autobús Sustentable (Desafío N.° 8: Central auto-sustentable con sistema híbrido de energía eólica y solar para estaciones de autobuses)3.
+	https://www.youtube.com/watch?v=1NBgrCZ4sDI26
+	VII Edición (2020)
+	Innovación Abierta / Impacto Social
+	Etapa Nacional y de Sedes (2 y 3 de octubre 2020)22
+	Ganadores de sedes UNAN-Managua / CNU22
+	Múltiples sedes universitarias del CNU22
+	Proyectos de innovación abierta con compromiso social ejecutados en modalidad virtual de pandemia22.
+	No indexado en comunicado general22
+	VIII Edición (2021)
+	Innovación
+	1er Lugar Internacional (y 1er Lugar Nacional)3
+	MT Soluciones Creativas
+[cite: 3, 5]
+	UNI – RUPAP (Managua)3
+	Tecnologías de eficiencia energética aplicada a viviendas3. (Video del acto de premiación nacional disponible)32.
+	Acto oficial: https://www.youtube.com/watch?v=AWLCV3DTDCA32
+	VIII Edición (2021)
+	Agroecología / Impacto
+	1er Lugar Sede UNAN-León23
+	Los Inges
+[cite: 23]
+	UNAN-León (Depto. de Agroecología)23
+	Desafío: Agua Para Soñar23.
+	No indexado en nota de sede23
+	VIII Edición (2021)
+	Innovación
+	2do Lugar Sede UNAN-León23
+	Basic
+[cite: 23]
+	UNAN-León23
+	Desafío: Tecnologías de Eficiencia Energética Aplicada a Viviendas23.
+	No indexado en nota de sede23
+	IX Edición (2022)
+	Innovación
+	1er Lugar Nacional (Representante Latam)13
+	INNOVACIÓN PINOLERA
+[cite: 13, 25]
+	UNI – RUPAP (Managua)13
+	Propuesta ganadora nacional del área de Innovación entre 176 equipos de 38 sedes13.
+	https://www.youtube.com/watch?v=EOmnyIVfvB425
+	IX Edición (2022)
+	Innovación
+	2do Lugar Nacional13
+	INNOVA
+[cite: 13]
+	UNI – Sede Juigalpa13
+	Solución a uno de los 8 desafíos oficiales de la IX Edición13.
+	No indexado en extracto de prensa13
+	IX Edición (2022)
+	Innovación
+	3er Lugar Nacional13
+	ßTEAM
+[cite: 13]
+	UNAN-Managua – FAREM-Carazo13
+	Solución a uno de los 8 desafíos oficiales de la IX Edición13.
+	No indexado en extracto de prensa13
+	IX Edición (2022)
+	Impacto Social
+	1er Lugar Nacional (Representante Latam)13
+	INOVATOS
+[cite: 13]
+	UNAN-Managua – FAREM-Matagalpa13
+	Propuesta ganadora nacional del área de Impacto Social13.
+	No indexado en extracto de prensa13
+	IX Edición (2022)
+	Impacto Social
+	Podio Nacional (2do/3er Lugar)13
+	KUPIA KUMI
+[cite: 13]
+	Bluefields Indian & Caribbean University (BICU – El Rama)13
+	Solución de impacto social generada desde la Costa Caribe13.
+	No indexado en extracto de prensa13
+	X Edición (2023)
+	Innovación
+	1er Lugar Internacional y 1er Lugar Nacional3
+	GÜEGÜENSE PINOLERO
+[cite: 3, 15]
+	Universidad Nacional Multidisciplinaria Ricardo Morales Avilés (UNMRMA)3
+	Desafío: Vivienda Digna (Líder de equipo: Gaudí Gudiel)3.
+	https://www.youtube.com/watch?v=AjtVryXaGDc15
+	X Edición (2023)
+	Innovación
+	2do Lugar Nacional15
+	HEALIVE
+[cite: 15]
+	UNAN-Managua15
+	Solución tecnológica en categoría Innovación15.
+	https://www.youtube.com/watch?v=ON1hQ9wl1_w15
+	X Edición (2023)
+	Innovación
+	3er Lugar Nacional15
+	AGROSAVE
+[cite: 15]
+	Universidad Nacional Agraria (UNA)15
+	Solución agro-tecnológica en categoría Innovación15.
+	https://www.youtube.com/watch?v=IDmLL70WXj415
+	X Edición (2023)
+	Impacto Social
+	2do Lugar Internacional y 1er Lugar Nacional3
+	NICARQ SINERGY
+[cite: 3, 15]
+	UNI – Recinto Universitario Simón Bolívar (RUSB)3
+	Proyecto de infraestructura y sinergia arquitectónica de impacto social3.
+	https://www.youtube.com/watch?v=5dVqVY9Ugeg15
+	X Edición (2023)
+	Impacto Social
+	2do Lugar Nacional15
+	LAS PANTERAS
+[cite: 15]
+	Universidad Americana (UAM)15
+	Propuesta de impacto social universitario15.
+	https://www.youtube.com/watch?v=FgjvzeKzaS015
+	X Edición (2023)
+	Impacto Social
+	3er Lugar Nacional15
+	TLACATLYANI
+[cite: 15]
+	Universidad Nacional de Ingeniería (UNI)15
+	Propuesta de impacto social con identidad cultural15.
+	https://www.youtube.com/watch?v=SOnDjfahO-U15
+	XI Edición (2024)
+	Innovación
+	1er Lugar Regional y 1er Lugar Nacional3
+	TECHRIDERS
+[cite: 8]
+	UNI – Recinto Universitario Simón Bolívar (RUSB)3
+	Sistema inteligente de captación de agua3.
+	No indexado en nota de prensa8
+	XI Edición (2024)
+	Innovación
+	2do Lugar Nacional8
+	GALLOPINTO +505
+[cite: 8]
+	Universidad Internacional Antonio de Valdivieso (UNIAV, Rivas)8
+	Solución en categoría Innovación evaluada por jurado interinstitucional8.
+	No indexado en nota de prensa8
+	XI Edición (2024)
+	Innovación
+	3er Lugar Nacional8
+	INNOVATEAM
+[cite: 8]
+	Universidad Iberoamericana de Ciencia y Tecnología (UNICIT)8
+	Solución en categoría Innovación (equipo previamente ganador del 1er lugar en Nicaragua Innova 2024)8.
+	No indexado en nota de prensa8
+	XI Edición (2024)
+	Impacto Social
+	1er Lugar Nacional8
+	HYDROSTUDIO
+[cite: 8]
+	Universidad Nacional Casimiro Sotelo Montenegro (UNCSM)8
+	Solución hídrica de impacto social comunitario8.
+	No indexado en nota de prensa8
+	XI Edición (2024)
+	Impacto Social
+	2do Lugar Nacional8
+	ECOAVOLAB
+[cite: 8]
+	UNAN-Managua – Sede Centro Nacional de Innovación Abierta8
+	Solución biotecnológica/ambiental de impacto social8.
+	No indexado en nota de prensa8
+	XI Edición (2024)
+	Impacto Social
+	3er Lugar Nacional8
+	SINERGIA INGENIERÍA
+[cite: 8]
+	Centro Universitario Regional UNI-Estelí8
+	Solución de ingeniería aplicada al impacto social8.
+	No indexado en nota de prensa8
+	XII Edición (2025)
+	Innovación
+	1er Lugar Internacional y 1er Lugar Nacional3
+	STEM Synergy
+[cite: 3, 11, 33]
+	Universidad Americana (UAM)3
+	Desafío: Huertos Verticales (solución agro-urbana automatizada de alta eficiencia espacial e hídrica)3.
+	https://www.youtube.com/watch?v=JhqjBm20DXo24
+	XII Edición (2025)
+	Innovación
+	2do Lugar Nacional11
+	CAMSA
+[cite: 11]
+	UNAN-Managua – CUR Matagalpa11
+	Desafío: Aprovechamiento de Tetra Pak11.
+	No indexado en nota de prensa3
+	XII Edición (2025)
+	Innovación
+	3er Lugar Nacional11
+	SMAT WARRIORS
+[cite: 11]
+	Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense (URACCAN)11
+	Desafío: Residuos en playas11.
+	No indexado en nota de prensa3
+	XII Edición (2025)
+	Impacto Social
+	1er Lugar Internacional y 1er Lugar Nacional3
+	Mentes Volcánicas
+[cite: 3, 11, 34]
+	UNI – RUPAP (Managua)3
+	Desafío: Aprovechamiento de Tetra Pak (revalorización circular e industrial de envases multicapa con impacto social)3.
+	https://www.youtube.com/watch?v=_JSUKR1bPnE24
+	XII Edición (2025)
+	Impacto Social
+	2do Lugar Nacional11
+	BRAINROTS
+[cite: 11]
+	UNAN-León11
+	Desafío: Aprovechamiento de Tetra Pak11.
+	No indexado en nota de prensa3
+	XII Edición (2025)
+	Impacto Social
+	3er Lugar Nacional11
+	RECOPLAYA
+[cite: 11]
+	UNAN-Managua – Sede Centro de Innovación y Diseño (CID)11
+	Desafío: Residuos en playas11.
+	No indexado en nota de prensa3
+	XIII Edición (2026)
+	Innovación / Impacto Social
+	En fase de evaluación (16–20 de octubre de 2026)4
+	Equipos de sedes nacionales (incluyendo UNAN-León y CNU)4
+	Sedes registradas en sistema SIRLI4
+	Cierre de carga de entregables en SIRLI el 17 de octubre de 2026; fallo internacional programado para el 20 de octubre de 20264.
+	En proceso de liberación en SIRLI4
+	Registro Complementario de Ganadores Internacionales y Etapa Nacional Argentina (CONFEDI 2021, 2024 y 2025)
+Para completar el panorama latinoamericano y disponer de la totalidad de los enlaces audiovisuales documentados por la organización matriz (CONFEDI / ACOFI), la siguiente tabla reúne los equipos ganadores del podio internacional de otros países participantes (Argentina, Brasil, Chile, El Salvador y México), así como el catálogo completo de videos ganadores y menciones especiales de la etapa nacional argentina de 2021 y los desafíos ganadores de 2024 y 20255. Además, el video de presentación institucional de la edición 2021 se encuentra alojado en https://youtu.be/6KkkshXNKvg y la cápsula documental general sobre la competencia en https://www.youtube.com/watch?v=f12vrC7C7105.
+
+
+Edición
+	Categoría
+	Instancia y Puesto
+	Equipo Ganador
+	Universidad / Sede y País
+	Proyecto / Desafío Abordado
+	Enlace de Video (YouTube)
+	2021
+	Impacto Social
+	1er Puesto Internacional y 1er Lugar Nacional Arg.5
+	INGENIARTE
+[cite: 5]
+	Universidad Nacional del Nordeste (UNNE, Resistencia – Argentina)5
+	Dispositivo «Alertar»: Sistema tecnológico enfocado en prevenir casos de violencia doméstica5.
+	https://www.youtube.com/watch?v=mgAvnq8aTJs5
+	2021
+	Impacto Social
+	2do Puesto Internacional
+[cite: 5]
+	PET-EGC
+[cite: 5]
+	Univ. Regional del Noroeste del Estado de Rio Grande do Sul (Brasil)5
+	Solución de impacto social comunitario5.
+	No indexado en acta CONFEDI5
+	2021
+	Impacto Social
+	3er Puesto Internacional
+[cite: 5]
+	Mascarillas Innovadoras
+[cite: 5]
+	Escuela de Ingeniería y Negocios, Universidad Viña del Mar (Chile)5
+	Gestión y mitigación de impacto de mascarillas descartables5.
+	No indexado en acta CONFEDI5
+	2021
+	Innovación
+	2do Puesto Internacional
+[cite: 5]
+	INCLA
+[cite: 5]
+	Universidad Tecnológica de El Salvador (El Salvador)5
+	Propuesta de innovación tecnológica regional (escoltó a MT Soluciones Creativas de Nicaragua)5.
+	No indexado en acta CONFEDI5
+	2021
+	Innovación
+	3er Puesto Internacional y 1er Lugar Nacional Arg.5
+	L´CUACK RESURRECTION
+[cite: 5]
+	Universidad Nacional de Entre Ríos (UNER – Argentina)5
+	Tratamiento de la contaminación generada por mascarillas descartadas5.
+	https://www.youtube.com/watch?v=3NXMbZgT_5g5
+	2021
+	Impacto Social
+	2do Lugar Nacional (Argentina)5
+	TEAM SOLUTIONS
+[cite: 5]
+	UTN – Sede Santa Fe (Argentina)5
+	Propuesta de impacto social finalista nacional5.
+	https://www.youtube.com/watch?v=jabtdy0MvSI5
+	2021
+	Impacto Social
+	3er Lugar Nacional (Argentina)5
+	CABDA WATERTEAM
+[cite: 5]
+	UNPSJB – Sede Trelew-Puerto Madryn (Argentina)5
+	Gestión hídrica y social5.
+	https://youtu.be/p8Daue-LzJc5
+	2021
+	Impacto Social
+	4to Lugar Nacional (Argentina)5
+	PUCARASALVAJE
+[cite: 5]
+	Universidad Nacional de Moreno (UNM – Argentina)5
+	Propuesta de impacto social comunitario5.
+	https://youtu.be/LVqZiA8juf85
+	2021
+	Impacto Social
+	5to Lugar Nacional (Argentina)5
+	BARADELTA
+[cite: 5]
+	UTN – Sede Resistencia-Delta (Argentina)5
+	Propuesta de impacto social territorial5.
+	https://youtu.be/1qWYMDgV6nQ5
+	2021
+	Impacto Social
+	Menciones del Jurado (Argentina)5
+	AYNITEC / CORDILLERA INNOVA / INNOVA / INTERUNLAM / RAINYCAMEL
+[cite: 5]
+	UNSJ / UNPSJB Esquel / UNGS / UNLAM / UNJU (Argentina)5
+	Cinco proyectos distinguidos con mención de honor en Impacto Social5.
+	AYNITEC: https://youtu.be/oKBYRo8qZnU
+
+
+CORDILLERA: https://youtu.be/4nPrvNFCtRU
+
+
+INNOVA: https://youtu.be/yElXim_RkKc
+
+
+INTERUNLAM: https://youtu.be/1g4WhxxMQfA
+
+
+RAINYCAMEL: https://youtu.be/YRUZrUJsaGI5
+	2021
+	Innovación
+	2do Lugar Nacional (Argentina)5
+	MANDIOCA
+[cite: 5]
+	UNR – Rosario, Fac. Ciencias Exactas e Ingeniería (Argentina)5
+	Propuesta de innovación agroindustrial/técnica5.
+	https://youtu.be/8alwoLW_Afk5
+	2021
+	Innovación
+	3er Lugar Nacional (Argentina)5
+	MECATONID
+[cite: 5]
+	Universidad Nacional de La Rioja (UNLaR – Argentina)5
+	Propuesta mecatrónica de innovación5.
+	https://youtu.be/9oyRiqwl-xU5
+	2021
+	Innovación
+	4to Lugar Nacional (Argentina)5
+	LAS OLAS Y EL VIENTO
+[cite: 5]
+	UNS – Bahía Blanca (Argentina)5
+	Propuesta de energía y dinámica ambiental5.
+	https://www.youtube.com/watch?v=UeAGuFwOReo5
+	2021
+	Innovación
+	5to Lugar Nacional (Argentina)5
+	CONJUNTO SAPUCAY
+[cite: 5]
+	UNNE – Resistencia Ingeniería (Argentina)5
+	Propuesta de innovación regional5.
+	https://youtu.be/WwNxqoLbRz05
+	2021
+	Innovación
+	Menciones del Jurado (Argentina)5
+	HAVANE / MENT4L / PATENTE PENDIENTE / POPURRÍ / UNICORNIO 4.0
+[cite: 5]
+	Oberá / UTN Santa Fe / UNDAV Piñeyro / UTN Resistencia-Delta / UNH Hurlingham (Argentina)5
+	Cinco proyectos distinguidos con mención de honor en Innovación5.
+	HAVANE: https://www.youtube.com/watch?v=IcWa2EzDumk
+
+
+MENT4L: https://youtu.be/N6N0Y2n-bso
+
+
+PATENTE: https://www.youtube.com/watch?v=TxU_WCrwjZc
+
+
+POPURRÍ: https://www.youtube.com/watch?v=k1JZpS9I76w
+
+
+UNICORNIO: https://www.youtube.com/watch?v=eTQXUSvNjfA5
+	2024
+	Innovación
+	Podio Internacional (CONFEDI)6
+	CATALIZADORES DEL CAMBIO / TECNOBIOQ
+[cite: 6]
+	Univ. Viña del Mar (Chile) / Instituto Tecnológico de Celaya (México)6
+	Desafíos: Reducción de desperdicios alimentarios (Chile) y Micropresas o microembalses (México)6.
+	Alojados en repositorio SIRLI 20246
+	2024
+	Impacto Social
+	Podio Internacional (CONFEDI)6
+	MEXITECH / UNABINNOVA / LOS INNOVADORES
+[cite: 6]
+	UPEMOR (México) / Univ. Andrés Bello (Chile) / FACET-UNT (Argentina)6
+	Desafíos: Reducción de desperdicios alimentarios (México), Micropresas o microembalses (Chile) y Enlazando generaciones (Argentina)6.
+	Alojados en repositorio SIRLI 20246
+	2024
+	Innovación / Impacto Social
+	Podio Nacional (Argentina)6
+	Innovación: BORBOTONES S.A. / SAFEPATH / UTN-FRN
+
+
+Social: LOS INNOVADORES / POSTA / AYLLU
+[cite: 6]
+	UNS Bahía Blanca / UCSE / UTN Neuquén / FACET-UNT / UNSE (Argentina)6
+	Desafíos: Micropresas o microembalses, Evacuación, Empaques contaminantes, Enlazando generaciones, Escombros y Reducción de desperdicios alimentarios6.
+	Alojados en repositorio SIRLI 20246
+	2025
+	Impacto Social
+	Podio Internacional (Escoltas de Mentes Volcánicas)34
+	Idronix
+[cite: 34]
+	Registrado en informe ACOFI 202534
+	Galardonado en el podio internacional de Impacto Social junto al equipo nicaragüense Mentes Volcánicas34.
+	Alojado en repositorio ACOFI/SIRLI34
+	Análisis Audiovisual de los Proyectos Ganadores y Evolución Histórica (2019–2025)
+El examen detallado de los proyectos y videos ganadores desde 2019 hasta 2025 permite trazar una evolución tecnológica y comunicacional dividida en cuatro etapas claramente diferenciadas, mostrando cómo los equipos transformaron sus estrategias para persuadir a los paneles evaluadores3.
+Etapa 1 (2019–2020): Infraestructura Electromecánica Autónoma y Transición Digital
+En la edición 2019 del Rally Latinoamericano, el equipo LEXONIC (UNI-RUPAP) obtuvo el tercer lugar internacional en Impacto Social con el video de LexoStop (https://www.youtube.com/watch?v=1NBgrCZ4sDI), respondiendo al Desafío N.° 8 (Paradas de autobús sustentables)3. La construcción audiovisual de LexoStop se centró en resolver un problema tangible de infraestructura urbana: el consumo energético de las estaciones de transporte público convencionales3. El equipo condujo al espectador desde el déficit energético urbano hacia una solución de ingeniería electromecánica pura, presentando una central autosustentable dotada de un sistema híbrido de generación eólica y solar3. En esta primera etapa, el peso persuasivo descansaba en el modelado tridimensional del mobiliario urbano y la demostración del balance energético autónomo, una línea que en 2020 debió migrar abruptamente hacia entornos colaborativos 100% remotos debido a las restricciones sanitarias globales22.
+Etapa 2 (2021–2022): Respuesta a Crisis Domésticas, Residuos Pandémicos y Eficiencia Residencial
+En 2021, los videos ganadores a nivel continental reflejaron directamente las tensiones socioambientales del confinamiento y la pospandemia5. En Impacto Social, el equipo argentino Ingeniarte (UNNE) conquistó el primer puesto internacional con «Alertar» (https://www.youtube.com/watch?v=mgAvnq8aTJs), utilizando un guion de altísima carga empática centrado en la prevención de la violencia doméstica mediante un dispositivo discreto de alerta temprana5. Simultáneamente, en la categoría Innovación, el tercer puesto internacional fue para L´Cuack Resurrection (UNER, Argentina, https://www.youtube.com/watch?v=3NXMbZgT_5g), cuyo video atacó la contaminación masiva por mascarillas quirúrgicas descartadas mediante un proceso de valorización termomecánica/química5, mientras que el primer puesto mundial lo obtuvo Nicaragua con MT Soluciones Creativas (UNI-RUPAP), enfocándose en tecnologías de eficiencia energética aplicadas directamente a viviendas3.
+Para 2022, con el triunfo nacional de Innovación Pinolera (UNI-RUPAP, https://www.youtube.com/watch?v=EOmnyIVfvB4) y el ascenso de equipos de sedes departamentales como Inovatos (FAREM-Matagalpa) y Kupia Kumi (BICU – El Rama)13, el estándar audiovisual nicaragüense profesionalizó la edición multicámara y la división multidisciplinaria de roles en pantalla, preparando el terreno para el salto de calidad de 202313.
+Etapa 3 (2023–2024): El Doble Podio Continental y la Ingeniería del Agua y la Vivienda
+La edición 2023 del Rally Latinoamericano marcó la madurez del formato de pitch en Nicaragua, con los seis videos ganadores nacionales publicados íntegramente y encabezados por el triunfo continental de Güegüense Pinolero (UNMRMA, 1er Lugar Nacional y 1er Lugar Internacional en Innovación, https://www.youtube.com/watch?v=AjtVryXaGDc) en el desafío de Vivienda Digna3. Bajo el liderazgo de Gaudí Gudiel, el guion de Güegüense Pinolero evitó plantear la vivienda social como un mero subsidio estatal y la reformuló como un sistema constructivo modular, térmicamente eficiente y económicamente accesible para familias vulnerables, logrando que el jurado internacional premiara la combinación de viabilidad estructural en ingeniería civil con dignificación habitacional3.
+En la misma edición de 2023, el equipo Nicarq Sinergy (UNI-RUSB, 1er Lugar Nacional y 2do Lugar Internacional en Impacto Social, https://www.youtube.com/watch?v=5dVqVY9Ugeg) aprovechó la fortaleza en arquitectura e ingeniería de la sede Simón Bolívar para presentar una intervención socio-espacial donde la visualización arquitectónica y el retorno social comunitario guiaron la narrativa3. Esta madurez expositiva se vio respaldada por los otros cuatro integrantes del podio nacional: Healive (UNAN-Managua, 2do Lugar Nacional Innovación, https://www.youtube.com/watch?v=ON1hQ9wl1_w), Agrosave (UNA, 3er Lugar Nacional Innovación, https://www.youtube.com/watch?v=IDmLL70WXj4), Las Panteras (UAM, 2do Lugar Nacional Impacto Social, https://www.youtube.com/watch?v=FgjvzeKzaS0) y Tlacatlyani (UNI, 3er Lugar Nacional Impacto Social, https://www.youtube.com/watch?v=SOnDjfahO-U), cuyos videos consolidaron la especialización por perfil universitario—salud digital en UNAN-Managua, preservación agropecuaria en la UNA, diseño centrado en el usuario en UAM e ingeniería con raíz mesoamericana en la UNI15.
+En 2024, esta misma línea de ingeniería aplicada a recursos críticos le otorgó a Techriders (UNI-RUSB) el primer lugar nacional y regional con su Sistema inteligente de captación de agua, integrando sensores y automatización ante el estrés hídrico3, en una edición donde el jurado internacional también premió soluciones sobre Micropresas o microembalses (Tecnobioq de México y Unabinnova de Chile) y Reducción de desperdicios alimentarios (Catalizadores del Cambio de Chile y Mexitech de México)6.
+Etapa 4 (2025): Ecosistemas Híbridos, Biomateriales, IA y el Barrido Histórico
+Los videos ganadores de 2025—tanto en la III Edición de "Nicaragua Innova" (junio) como en la XII Edición del Rally Latinoamericano (octubre)—representan la cúspide de sofisticación metodológica registrada hasta la fecha, donde ningún proyecto ganador propone una tecnología aislada, sino ecosistemas circulares completos3. En la categoría de Innovación de Procesos u Organizacional del certamen nacional, el primer lugar fue obtenido por OLLNARI – Equipo Operación Titan (RUPAP, https://www.youtube.com/watch?v=v4kZD-S1NHk), cuyo video lleva al jurado desde la fragmentación comercial que sufren los artesanos tradicionales hacia una transformación organizacional completa mediante una plataforma web y móvil7. Su gancho persuasivo reside en articular cuatro mecanismos concretos: comercio justo sin intermediarios, creación del sello de certificación «Origen Garantizado», un mapa interactivo vinculado a la Red de Ciudades Creativas y talleres de alfabetización digital7. De forma complementaria, el segundo lugar de esa misma categoría, EgroLab-Móvil – Equipo Los Templarios (CNIA 1, https://www.youtube.com/watch?v=W3PXmGt1E2k), invierte el paradigma tradicional del laboratorio agrícola estático (al que el campesino no puede acceder por costos y distancia) llevando el laboratorio hacia la parcela; el video demuestra cómo kits portátiles miden parámetros físico-químicos del suelo in situ para emitir planes de fertilización personalizados acoplados a bioinsumos y capacitación práctica7.
+En la categoría de Innovación Tecnológica de "Nicaragua Innova 2025", el primer lugar correspondió al Parque Ecoenergético «Padre Miguel d’Escoto Brockmann» – Equipo Nexus Innova (https://www.youtube.com/watch?v=DBErrs4L-OA), presentado por los estudiantes Arly Isabela López Gutiérrez, Marcela Gabriela Méndez Osejo, Gustavo Alexander García Madriz, Joseph Stanley Lira Espinoza y Bryan Noé Sequeira Aguirre (UNAN-Managua, CNIA 1)7. Su pitch despliega una narrativa de urbanismo regenerativo para Managua que cautiva al jurado porque convierte la recreación ciudadana en generación energética medible, integrando bicicletas generadoras de electricidad, baldosas de piso piezoeléctrico que capturan la energía cinética de las pisadas, mobiliario urbano fabricado con plástico reciclado y talleres de compostaje, para cerrar con dos métricas contundentes: 3,500 beneficiarios semanales y 36,000 kg de residuos reducidos al año7. El segundo lugar tecnológico, YOLTIK-NOVA – Equipo Yoltik-Nova (RUPAP, https://www.youtube.com/watch?si=H9ZX1L4XUaXMONxF&v), constituye un caso paradigmático de química de materiales y economía circular territorializada7. Su guion parte de las toneladas de desechos agrícolas del cultivo de cacao en el municipio de Waslala y demuestra la formulación técnica de una lámina ecológica para techo que combina cáscara de mazorca de cacao, bioplástico, fibra de coco, almidón de yuca y cera de abeja, cerrando con un impacto cuantificado de 80 viviendas, la reutilización de 12 toneladas anuales de residuos y la creación de 45 empleos directos para familias indígenas7.
+En la categoría de Innovación Social del certamen nacional 2025, el primer lugar de CHÁNCENICA – Equipo Volca-Tech (CNIA 1, https://www.youtube.com/watch?v=Udv4kevNSTw) aborda el desempleo juvenil y la exclusión de jóvenes con discapacidad o formación autodidacta mediante tres diferenciadores técnicos simultáneos: un modelo de conexión inversa (donde son las empresas las que buscan y reclutan activamente el perfil joven, eliminando el rechazo pasivo de currículos), un agente de Inteligencia Artificial para personalización de perfiles y el uso de hosting ecológico para garantizar coherencia ambiental7, escoltado en el segundo lugar por EcoCanje-Nicaragua – Equipo Escuadrón Nic-Anahuac 1 (RUPAP) con su red de 7 puntos inteligentes de reciclaje conectados a la aplicación Canje+7. Finalmente, esta evolución metodológica alcanzó su consagración continental en octubre de 2025 con el doble primer lugar internacional en el Rally Latinoamericano: por un lado, STEM Synergy (UAM, 1er Lugar Internacional en Innovación, https://www.youtube.com/watch?v=JhqjBm20DXo) resolvió el desafío de Huertos Verticales mediante un diseño modular aeropónico/hidropónico de agricultura urbana densa que optimiza el espacio vertical y la recirculación de nutrientes3; por otro lado, Mentes Volcánicas (UNI-RUPAP, 1er Lugar Internacional en Impacto Social, https://www.youtube.com/watch?v=_JSUKR1bPnE) dominó el desafío de Aprovechamiento de Tetra Pak (abordado también en el podio nacional por CAMSA de Matagalpa y Brainrots de UNAN-León) al trascender el reciclaje artesanal y proponer una cadena de transformación industrial del polialuminio y la celulosa en materiales constructivos y aislantes de alto valor social para comunidades vulnerables3.
+Arquitectura de Guion de 120 Segundos y Patrones Psicológicos de Evaluación del Jurado
+El análisis transversal de los videos ganadores y de las rúbricas oficiales de ambos certámenes permite decodificar tanto la estructura cronométrica de los guiones como los patrones complejos de persuasión que operan sobre el jurado4.
+  
+
+La Estructura Narrativa de 4 Actos (Modelo PAS-V) en los Videos Ganadores
+Dado que el reglamento del Rally exige una presentación en video de exactamente 2 minutos (120 segundos) acompañada de un reporte pautado en PDF que respalde la sustentabilidad e impacto del proyecto4, los equipos ganadores han perfeccionado una estructura narrativa de cuatro actos que responde secuencialmente a los cinco criterios oficiales de evaluación (Grado de innovación, Impacto positivo en la sociedad, Prefactibilidad económica/social y sustentabilidad ambiental, Viabilidad técnica y Calidad de la presentación)4.
+En el Acto I, correspondiente al Gancho Empático-Estadístico (segundos 0:00 a 0:20), se establece la primera diferencia competitiva frente a los equipos que no logran clasificar, quienes suelen desperdiciar los primeros 20 segundos presentando logotipos institucionales o enumerando los nombres de los diez integrantes del grupo. Por el contrario, los videos ganadores (como Nexus Innova o Ingeniarte – Alertar) relegan los nombres de los integrantes a los metadatos de texto en la descripción de YouTube17 y abren el segundo 0:01 con una colisión entre un dato macroeconómico o ambiental alarmante (toneladas de envases Tetra Pak, cáscaras de cacao desechadas o déficit de áreas verdes energéticas) y la humanización del afectado directo, ya sea el pequeño productor de granos básicos, el artesano sin acceso a mercados o el joven con discapacidad buscando empleo5.
+En el Acto II, enfocado en la Transición de la Problemática a la Mecánica Técnica Prototipada (segundos 0:20 a 0:55), el guion introduce alrededor del segundo 20 el nombre propio de la solución (LexoStop, Ollnari, EgroLab-Móvil, Cháncenica) como un punto de inflexión acústico y visual7. En lugar de describir deseos abstractos, el video muestra inmediatamente evidencia de ingeniería: en proyectos de hardware o materiales (Yoltik-Nova, LexoStop, Nexus Innova) se exhiben cortes esquemáticos de generación híbrida eólica-solar, pisos piezoeléctricos o la formulación exacta de biopolímeros mediante la combinación de cáscara de mazorca de cacao con fibra de coco, almidón de yuca y cera de abeja3; paralelamente, en proyectos de software o procesos (Ollnari, Cháncenica) se proyectan maquetas interactivas de interfaz de usuario (UI/UX) mostrando el funcionamiento del agente de inteligencia artificial o del mapa de comercio justo, asegurando los puntos de Grado de innovación y Viabilidad técnica4.
+Posteriormente, el Acto III desarrolla el Pivote de Prefactibilidad y Economía Circular (segundos 0:55 a 1:35), un bloque diseñado específicamente para que el jurado visualice la coherencia entre el video y el documento PDF (Reporte Pautado) en lo relativo a la sostenibilidad financiera y operativa4. Es en este segmento donde Cháncenica explica su modelo de negocio de "conexión inversa" en el que las empresas financian la búsqueda de talento alojada en servidores ecológicos7, EcoCanje-Nicaragua detalla la tokenización del reciclaje mediante la aplicación Canje+ canjeable en la Eco-Zona Creativa7, y EgroLab-Móvil expone cómo los kits portátiles reducen el costo marginal por análisis de suelo en campo7. Finalmente, el Acto IV ejecuta el Cierre de Impacto Auditado y Escalabilidad (segundos 1:35 a 2:00), donde los últimos 25 segundos cierran el arco dramático traduciendo la solución técnica en indicadores sociales auditables4: en lugar de prometer mejoras genéricas al medio ambiente, el guion de Nexus Innova sentencia que beneficiará a 3,500 personas semanalmente y reducirá hasta 36,000 kg de residuos al año7, del mismo modo que Yoltik-Nova concluye con 80 viviendas impactadas, 12 toneladas de residuos anuales reutilizados y 45 empleos para familias indígenas7.
+Patrones Complejos de Evaluación: El "Anclaje Nacional-Institucional" frente al "Bilingüismo Evaluativo Internacional"
+La hipótesis planteada respecto a que en el Rally Nacional de Innovación "Nicaragua Innova" resulta determinante conectar la solución con la realidad nacional y articular un discurso alineado con el desarrollo del país se confirma plenamente a través de la evidencia documental, pero opera bajo una estructura aún más compleja que el simple elogio retórico2. El análisis comparativo entre ambos eventos demuestra la existencia de dos códigos de persuasión distintos que los equipos de élite nicaragüenses han aprendido a alternar según el panel evaluador.
+1. El Patrón del Rally Nacional ("Nicaragua Innova"): Hiper-Localización Programática y Simbolismo Institucional
+En el Rally Nacional, el jurado está conformado por especialistas de las instituciones de la Comisión Nacional de Economía Creativa (CNU, INATEC, MINJUVE, TELCOR, MEFCCA)7. Estos evaluadores trabajan cotidianamente en la ejecución del Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano, la Estrategia Nacional de Educación «Bendiciones y Victorias» y el Modelo de Economía Creativa y Naranja2. En consecuencia, el primer mecanismo persuasivo que aplican los guiones ganadores en "Nicaragua Innova" es la inserción en infraestructura pública existente: los equipos no proponen crear instituciones desde cero, sino acoplar su innovación a programas gubernamentales y municipales ya activos. Así, Operación Titan (Ollnari) gana el primer lugar en Procesos 2025 porque diseña su plataforma específicamente para la Red Nacional de Ciudades Creativas de Nicaragua7, e igualmente Nexus Innova conquista el primer lugar Tecnológico 2025 bautizando su proyecto como Parque Ecoenergético «Padre Miguel d’Escoto Brockmann» en Managua7.
+El segundo mecanismo consiste en la micro-territorialización productiva, mediante la cual los guiones evitan hablar del sector agropecuario en abstracto y sitúan la planta o el laboratorio en coordenadas geográficas y rubros emblemáticos del país: Yoltik-Nova ubica su fábrica de láminas de bioplástico de cacao específicamente en el municipio de Waslala enfocándose en familias indígenas7, mientras que Los Templarios (EgroLab-Móvil) se dirige directamente a los pequeños y medianos productores de granos básicos que atiende el sistema nacional de producción7. A esto se suma un tercer mecanismo de semántica identitaria y cultural (nomenclatura náhuatl/chorotega y pinolera), visible en el patrón lingüístico de equipos y proyectos ganadores nacionales como Nahuatl Innova (1er lugar 2023), Ollnari (1er lugar 2025), Yoltik-Nova (2do lugar 2025), Cháncenica (1er lugar 2025) y Escuadrón Nic-Anahuac 1 (2do lugar 2025), cuya elección léxica activa una resonancia inmediata de soberanía cultural e identidad nacional ante el jurado local7.
+2. El Patrón del Rally Latinoamericano (Rally Latam): El "Doble Filtro" o Bilingüismo Evaluativo
+En el Rally Latinoamericano, los equipos enfrentan una paradoja estratégica: para llegar a la final continental, primero deben ganar el filtro del Jurado Nacional en Nicaragua (integrado por CNU, MINJUVE, TELCOR, INATEC y MEFCCA)8 y, apenas 72 horas después, el mismo video de 2 minutos es evaluado por el Jurado Internacional compuesto por académicos de Argentina, Colombia, México, Brasil o Chile3. Si un video de pitch dependiera exclusivamente de referencias políticas locales o programas exclusivos de un solo país, fracasarían ante el jurado internacional, el cual evalúa la transferibilidad y escalabilidad latinoamericana de la ingeniería propuesta4.
+Los equipos nicaragüenses que conquistaron el primer lugar internacional (MT Soluciones Creativas en 2021, Güegüense Pinolero en 2023, Techriders en 2024, y STEM Synergy junto a Mentes Volcánicas en 2025) resolvieron esta tensión mediante una estrategia de doble codificación. Por una parte, aplican identidad nacional en el continente pero universalidad científica en el contenido: conservan el orgullo identitario en el nombre del equipo (Güegüense Pinolero, Innovación Pinolera, Mentes Volcánicas, Gallopinto +505, Nicarq Sinergy)8, lo cual genera cohesión y respaldo institucional en la fase nacional, pero dentro del guion audiovisual de 2 minutos formulan el problema y la solución en el lenguaje universal de la ingeniería, los Objetivos de Desarrollo Sostenible (ODS) y la factibilidad técnica estandarizada (LexoStop, STEM Synergy, captación hídrica automatizada, termoconformado de Tetra Pak, aeroponía vertical)3. Por otra parte, instrumentan a Nicaragua como "caso de validación piloto" y a Latinoamérica como "mercado de escalabilidad": los equipos exitosos utilizan los datos locales de Nicaragua como el entorno de prueba empírica (estudio de caso), demostrando en los últimos 30 segundos del video cómo ese mismo módulo de vivienda digna (Güegüense Pinolero), parada híbrida (LexoStop) o planta recicladora de Tetra Pak (Mentes Volcánicas) puede instalarse con idéntica eficiencia técnica en Córdoba, Bogotá, Valparaíso o Celaya3.
+Conclusiones y Recomendaciones Estratégicas para Equipos Competidores
+La evidencia histórica y audiovisual recopilada entre 2019 y 2026 demuestra que el éxito reiterado en el Rally Nacional de Innovación "Nicaragua Innova" y en el Rally Latinoamericano de Innovación responde a una metodología reproducible de diseño de proyectos y estructuración de guiones3. En primer término, se impone el principio de hibridación tecnológica y circularidad obligatoria, dado que las soluciones monodisciplinarias (como una simple página web informativa o un reciclaje manual básico) han dejado de ser competitivas frente a la evolución del certamen7. Los proyectos ganadores recientes combinan al menos dos capas tecnológicas complementarias: biotecnología de materiales con desarrollo comunitario (Yoltik-Nova), generación piezoeléctrica y cinética con urbanismo ecológico (Nexus Innova), o plataformas de empleabilidad con agentes de inteligencia artificial e infraestructura verde (Cháncenica)7.
+En segundo término, resulta indispensable aplicar una ingeniería de indicadores en el cierre del guion: ningún video debe concluir en el minuto 2:00 sin entregar una tríada de métricas cuantitativas de impacto ambiental, económico y social4. Expresar el beneficio en kilogramos o toneladas de desechos revalorizados al año, número exacto de beneficiarios semanales o viviendas intervenidas, y puestos de trabajo directos generados otorga al jurado argumentos objetivos inmediatos para defender la calificación del proyecto en la deliberación final7.
+Finalmente, el diseño comunicacional exige una calibración del discurso según el certamen (regla de contextualización dual) acompañada de una sincronía estricta entre los tres entregables (Video Pitch, Reporte PDF y TikTok)4. Al competir en el Rally Nacional "Nicaragua Innova" (24 horas), el guion debe anclar el proyecto explícitamente en un municipio o ciudad creativa del país, utilizar nomenclatura con arraigo cultural propio y explicitar cómo la herramienta acelera las metas del Plan Nacional de Desarrollo Humano y de las instituciones rectoras como MEFCCA, INATEC, MINJUVE y las Alcaldías2. En cambio, al competir en el Rally Latinoamericano de Innovación (28 horas), el guion debe utilizar la localidad nacional únicamente como escenario de validación empírica del prototipo, asegurando que la arquitectura técnica, los costos en divisas estandarizadas y el modelo de sustentabilidad sean inmediatamente replicables en cualquier país de la región, y verificando que las cifras prometidas en los últimos 25 segundos del video de YouTube coincidan exactamente con las tablas de prefactibilidad económica, viabilidad técnica y sustentabilidad ambiental contenidas en el reporte pautado en PDF cargado en el sistema SIRLI3.
+Fuentes citadas
+1. Segunda Edición del Rally Nacional de Innovación - El 19 Digital, https://www.el19digital.com/articulos/ver/titulo:153548-segunda-edicion-del-rally-nacional-de-innovacion-24-horas-consecutivas-de-talento-creativo
+2. UNAN-Managua premia a ganadores del Rally Latinoamericano de, https://www.unan.edu.ni/index.php/direccion-de-innovacion/reconocen-a-ganadores-de-la-9-edicion-del-rally-latinoamericano-de-innovacion.odp
+3. Contundente victoria de estudiantes nicaragüenses en el Rally, https://www.nicaraguacreativa.com/2025/10/15/contundente-victoria-de-estudiantes-nicaraguenses-en-el-rally-latinoamericano-de-innovacion-2025/
+4. Edición_2026 - Rally Latinoamericano de Innovación, https://www.rallydeinnovacion.org/edicion_2026/
+5. Finalizó el Rally Latinoamericano de Innovación - CONFEDI, https://confedi.org.ar/finalizo-el-rally-latinoamericano-de-innovacion/
+6. ¡Latinoamérica innova! - CONFEDI, https://confedi.org.ar/latinoamerica-innova/
+7. GANADORES DEL TERCER RALLY NACIONAL DE INNOVACIÓN, https://www.nicaraguacreativa.com/2025/06/09/ganadores-del-tercer-rally-nacional-de-innovacion-nicaragua-innova-2025/
+8. Nicaragua obtiene el primer lugar en el Rally Latinoamericano de, https://www.nicaraguacreativa.com/2024/10/09/nicaragua-obtiene-el-primer-lugar-en-el-rally-latinoamericano-de-innovacion/
+9. Estos son los equipos ganadores de la Primera Edición del Rally, https://www.el19digital.com/articulos/ver/titulo:144952-estos-son-los-equipos-ganadores-de-la-primera-edicion-del-rally-nacional-de-innovacion-
+10. Estos son los ganadores de la Segunda Edición Rally Nacional de, https://www.el19digital.com/articulos/ver/titulo:155206-estos-son-los-ganadores-de-la-segunda-edicion-rally-nacional-de-innovacion-nicaragua-innova-2024
+11. Estudiantes nicaragüenses en el Rally Latinoamericano de, https://www.nicaraguacreativa.com/2025/10/13/estudiantes-nicaraguenses-en-el-rally-latinoamericano-de-innovacion-2025/
+12. Participación masiva de la juventud nicaragüense en 2do Rally, https://www.nicaraguacreativa.com/2024/08/23/participacion-masiva-de-la-juventud-nicaraguense-en-2do-rally-nacional-de-innovacion-2024/
+13. Estos son los representantes de Nicaragua en Rally ... - El 19 Digital, https://www.el19digital.com/articulos/ver/titulo:132670-estos-son-los-representantes-de-nicaragua-en-rally-latinoamericano-de-innovacion-2022la
+14. Clausuran celebraciones de la Cruzada de Alfabetización con el, https://radio580.com.ni/clausuran-celebraciones-de-la-cruzada-de-alfabetizacion-con-el-rally-nicaragua-innova-2024/
+15. Estos son los ganadores nacionales del Rally Latinoamericano de, https://www.el19digital.com/articulos/ver/titulo:145431-estos-son-los-ganadores-nacionales-del-rally-latinoamericano-de-innovacion-2023
+16. Premian a ganadores del Rally de Innovación en la Primera, https://www.nicaraguacreativa.com/2023/11/27/premian-a-ganadores-del-rally-de-innovacion-en-la-primera-muestra-nacional-de-proyectos-de-innovacion/
+17. Nexus Innova-UNAN-Managua-Pitch Rally Nicaragua Innova 2025, https://www.youtube.com/watch?v=DBErrs4L-OA
+18. Concluye con éxito el III Edición de Nicaragua Innova 2025 - Canal 4, https://www.canal4.com.ni/concluye-con-exito-el-iii-edicion-de-nicaragua-innova-2025/
+19. UNAN-León Obtiene Segundo Lugar en Innovación de Procesos en, https://www.unanleon.edu.ni/unan-leon-obtiene-segundo-lugar-en-innovacion-de-procesos-en-el-rally-nacional-de-innovacion/
+20. Centro Tecnológico Josefa Toledo de Aguerri, Juigalpa, https://www.tecnacional.edu.ni/centro/centro-tecnologico-josefa-toledo-aguerri/noticias/
+21. Estos son los ganadores de la Segunda Edición Rally Nacional de, https://radionicaragua.com.ni/estos-son-los-ganadores-de-la-segunda-edicion-rally-nacional-de-innovacion-nicaragua-innova-2024/
+22. Lanzan Rally Latinoamericano de Innovación 2020 - El 19 Digital, https://www.el19digital.com/articulos/ver/107158-lanzan-rally-latinoamericano-de-innovacion-2020
+23. Reconocen mejores propuestas en Rally Latinoamericano de, https://www.unanleon.edu.ni/reconocen-mejores-propuestas-en-rally-latinoamericano-de-innovacion-a-miembros-de-la-unan-leon/
+24. Nicaragua conquista el Rally Latinoamericano de Innovación 2025, https://redvolucionmedia.com/nicaragua-conquista-el-rally-latinoamericano-de-innovacion-2025/
+25. UNI Ganadora del 1er lugar Nacional del Rally Latinoamericano de, https://www.youtube.com/watch?v=EOmnyIVfvB4
+26. RALLY LATINOAMERICANO DE INNOVACIÓN 2019 UNI-RUPAP, https://www.youtube.com/watch?v=1NBgrCZ4sDI
+27. UNAN-Managua premia a ganadores del Rally Latinoamericano de, https://www.unan.edu.ni/index.php/sin-categoria/unan-managua-premia-a-ganadores-del-rally-latinoamericano-de-innovacion-2020.odp
+28. Exitoso Rally Patrio 4x4 2020 Con Amor a Nicaragua - El 19 Digital, https://www.el19digital.com/articulos/ver/108009-exitoso-rally-patrio-4x4-2020-con-amor-a-nicaragua
+29. Nuestras universidades públicas argentinas frente a la pandemia, https://bnm.educacion.gob.ar/digital/documentos/EL007772.pdf?fbclid=IwAR11gckCQO-M0FasQf_qmQpgfMFF6JnBuYK2r4MrqDZyUkyaPcPh6a5fUJ8
+30. Nicaragua triunfa con dos primeros lugares en el Rally, https://caribbeantvni.com/nicaragua-triunfa-con-dos-primeros-lugares-en-el-rally-latinoamericano-de-innovacion-2025/
+31. Rally Latinoamericano de Innovación 2025 - Radio Nicaragua, https://radionicaragua.com.ni/rally-latinoamericano-de-innovacion-2025/
+32. Premian a ganadores del Rally Latinoamericano de Innovación 2021, https://www.youtube.com/watch?v=AWLCV3DTDCA
+33. Rally Latinoamericano de Innovación 2025: una competencia de, https://www.acofi.edu.co/noticias/rally-latinoamericano-de-innovacion-2025-una-competencia-de-creatividad-con-impacto-regional/
+34. ACOFI-Informa-N.-5-2025-1.pdf, https://www.acofi.edu.co/wp-content/uploads/2026/02/ACOFI-Informa-N.-5-2025-1.pdf
+35. Entrega de Reconocimientos a los Ganadores del Rally ... - YouTube, https://www.youtube.com/watch?v=f12vrC7C710
+36. Un equipo argentino resultó ganador de la Edición 2020 del Rally, https://confedi.org.ar/un-equipo-argentino-resulto-ganador-de-la-edicion-2020-del-rally-latinoamericano-de-innovacion/
+37. Entregan reconocimientos a los equipos ganadores del Rally, https://www.el19digital.com/articulos/ver/titulo:95411-entregan-reconocimientos-a-los-equipos-ganadores-del-rally-latinoamericano-de-innovacion-2019
+38. Nicaragua mostrará sus destrezas creativas e innovadoras en Rally, https://www.el19digital.com/articulos/ver/132558-nicaragua-mostrara-sus-destrezas-creativas-e-innovadoras-en-rally-latinoamericano-2022

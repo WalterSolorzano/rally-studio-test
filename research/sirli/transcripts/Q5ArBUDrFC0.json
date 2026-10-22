@@ -1,0 +1,147 @@
+{
+ "video_id": "Q5ArBUDrFC0",
+ "url": "https://youtu.be/Q5ArBUDrFC0",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "OUTSTRIP",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "OUTSTRIP",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:59:30+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Certe la mañana, la tierra deja de temblar y llega al silencio. Pero no es calma, es una comunidad entera sin señal, sin luz, sin forma de pedir ayuda. Mientras tanto, las zonas que sí tienen cobertura envían 100 mensajes por minuto. ¿A quién atiende primero la autoridad? Al que más grita. Esa es la paradoja de la ayuda. Quien tiene señal existe, quien no la tiene, desaparece del mapa. Y hoy, con datos incompletos, se duplican esfuerzos y se envía ayuda a zonas inaccesibles. Por eso creamos Amparo, un sistema híbrido y resiliente para el apoyo en la toma de decisiones. Primero, capta información, aunque la red de telecomunicaciones esté colapsada, utilizando no Zlora con ESP32 en las comunidades. Con esto, generamos reportes por radio, que el operador registra al instante y con la ayuda de Starlink seremos capaces de utilizar datos satelitales. Después, con inteligencia artificial que integra algoritmos de optimización, ordena la emergencia según la cantidad de vidas en riesgo, vulnerabilidad y acceso. Amparo no solo decide dónde enviar ayuda, también decide dónde ir a verificar. ¿Y qué pasa cuando se cae el internet? Nuestro sistema funciona a través de una red satelital independiente, aprueba desastres. Cada municipio arranca con lo que tiene y crece por etapas, sin reemplazar el edad ni los sistemas actuales. A pesar de que el sistema contará con herramientas de inteligencia oficial, siempre se cuenta con la verificación de expertos humanos. No basta con llegar rápido, hay que llegar primero a quien más lo necesita. Donde se apaga la señal, amparo en cien de la respuesta. ¡Y somos Outstreet!",
+ "segments": [
+  {
+   "start": 9.23,
+   "end": 13.23,
+   "text": "Certe la mañana, la tierra deja de temblar y llega al silencio."
+  },
+  {
+   "start": 13.23,
+   "end": 18.23,
+   "text": "Pero no es calma, es una comunidad entera sin señal, sin luz, sin forma de pedir ayuda."
+  },
+  {
+   "start": 18.23,
+   "end": 23.23,
+   "text": "Mientras tanto, las zonas que sí tienen cobertura envían 100 mensajes por minuto."
+  },
+  {
+   "start": 23.23,
+   "end": 26.23,
+   "text": "¿A quién atiende primero la autoridad? Al que más grita."
+  },
+  {
+   "start": 26.23,
+   "end": 28.23,
+   "text": "Esa es la paradoja de la ayuda."
+  },
+  {
+   "start": 28.23,
+   "end": 31.23,
+   "text": "Quien tiene señal existe, quien no la tiene, desaparece del mapa."
+  },
+  {
+   "start": 31.23,
+   "end": 37.23,
+   "text": "Y hoy, con datos incompletos, se duplican esfuerzos y se envía ayuda a zonas inaccesibles."
+  },
+  {
+   "start": 37.23,
+   "end": 42.23,
+   "text": "Por eso creamos Amparo, un sistema híbrido y resiliente para el apoyo en la toma de decisiones."
+  },
+  {
+   "start": 42.23,
+   "end": 47.23,
+   "text": "Primero, capta información, aunque la red de telecomunicaciones esté colapsada,"
+  },
+  {
+   "start": 47.23,
+   "end": 51.23,
+   "text": "utilizando no Zlora con ESP32 en las comunidades."
+  },
+  {
+   "start": 51.23,
+   "end": 55.23,
+   "text": "Con esto, generamos reportes por radio, que el operador registra al instante"
+  },
+  {
+   "start": 55.23,
+   "end": 59.23,
+   "text": "y con la ayuda de Starlink seremos capaces de utilizar datos satelitales."
+  },
+  {
+   "start": 59.23,
+   "end": 63.23,
+   "text": "Después, con inteligencia artificial que integra algoritmos de optimización,"
+  },
+  {
+   "start": 63.23,
+   "end": 68.23,
+   "text": "ordena la emergencia según la cantidad de vidas en riesgo, vulnerabilidad y acceso."
+  },
+  {
+   "start": 68.23,
+   "end": 72.23,
+   "text": "Amparo no solo decide dónde enviar ayuda, también decide dónde ir a verificar."
+  },
+  {
+   "start": 72.23,
+   "end": 75.23,
+   "text": "¿Y qué pasa cuando se cae el internet?"
+  },
+  {
+   "start": 75.23,
+   "end": 78.23,
+   "text": "Nuestro sistema funciona a través de una red satelital independiente,"
+  },
+  {
+   "start": 78.23,
+   "end": 83.23,
+   "text": "aprueba desastres. Cada municipio arranca con lo que tiene y crece por etapas,"
+  },
+  {
+   "start": 83.23,
+   "end": 86.23,
+   "text": "sin reemplazar el edad ni los sistemas actuales."
+  },
+  {
+   "start": 86.23,
+   "end": 90.23,
+   "text": "A pesar de que el sistema contará con herramientas de inteligencia oficial,"
+  },
+  {
+   "start": 90.23,
+   "end": 93.23,
+   "text": "siempre se cuenta con la verificación de expertos humanos."
+  },
+  {
+   "start": 93.23,
+   "end": 98.23,
+   "text": "No basta con llegar rápido, hay que llegar primero a quien más lo necesita."
+  },
+  {
+   "start": 98.23,
+   "end": 103.23,
+   "text": "Donde se apaga la señal, amparo en cien de la respuesta."
+  },
+  {
+   "start": 103.23,
+   "end": 106.23,
+   "text": "¡Y somos Outstreet!"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 113.5
+}

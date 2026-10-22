@@ -1,0 +1,122 @@
+{
+ "video_id": "SiHpEqIuI6A",
+ "url": "https://youtu.be/SiHpEqIuI6A?si=CCBazwL0WrOy8_4l",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ZAMS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ZAMS",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:07:52+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En 2026 América Latina descartó cerca de 177 millones de celulares. Este celular quedó olvidado, pero sus sensores, cámara y procesador todavía pueden servir. Y sí, le dieron una segunda vida para ayudar a proteger comunidades. Terremotos, inundaciones y deslizamientos afectan a América Latina. En muchas comunidades la falta de conectividad dificultad de recibir avises oportunos. TomoSams presentamos CELAVIRA, una propuesta que reutiliza celulares en desluso para crear excepciones de monitorio ambiental. Aprovechamos sus sensores y su cámara para observar posibles cambios en el entorno. Cada celular se instalaría en una estación protegida con respaldo de energía solar. Sus sensores registrarían movimiento y orientación, mediante conexiones locales y radios externos. Los datos llegarían a estaciones bases sin internet móvil. Cuando una estación detecte condiciones sospechosas, enviaría códigos de evento. Las autoridades contrastarían la información y con protocolos validados podrían activar avisos comunitarios. Para su Namis CELAVIRA retransmitiría alertas oficiales. La cámara del celular también serviría como cámara trampa. El celular documentaría fauna y cambios ambientales, aportando imágenes para investigaciones sobre biodiversidad, conservación y transformación del territorio. CELAVIRA ofrecería a investigadores acceso por suscripción a imágenes y datos autorizados. Este modelo buscaría sostener la plataforma, mantenimiento gratuito y los audicios esenciales para las comunidades. Tomo SAMS creemos que la tecnología olvidada puede abrir nuevas oportunidades para América Latina. CELAVIRA, donde no llega la señal, llega el alerta.",
+ "segments": [
+  {
+   "start": 0.34,
+   "end": 6.34,
+   "text": "En 2026 América Latina descartó cerca de 177 millones de celulares."
+  },
+  {
+   "start": 6.34,
+   "end": 12.34,
+   "text": "Este celular quedó olvidado, pero sus sensores, cámara y procesador todavía pueden servir."
+  },
+  {
+   "start": 12.34,
+   "end": 17.34,
+   "text": "Y sí, le dieron una segunda vida para ayudar a proteger comunidades."
+  },
+  {
+   "start": 17.34,
+   "end": 22.34,
+   "text": "Terremotos, inundaciones y deslizamientos afectan a América Latina."
+  },
+  {
+   "start": 22.34,
+   "end": 27.34,
+   "text": "En muchas comunidades la falta de conectividad dificultad de recibir avises oportunos."
+  },
+  {
+   "start": 27.34,
+   "end": 36.34,
+   "text": "TomoSams presentamos CELAVIRA, una propuesta que reutiliza celulares en desluso para crear excepciones de monitorio ambiental."
+  },
+  {
+   "start": 36.34,
+   "end": 42.34,
+   "text": "Aprovechamos sus sensores y su cámara para observar posibles cambios en el entorno."
+  },
+  {
+   "start": 42.34,
+   "end": 48.34,
+   "text": "Cada celular se instalaría en una estación protegida con respaldo de energía solar."
+  },
+  {
+   "start": 48.34,
+   "end": 56.34,
+   "text": "Sus sensores registrarían movimiento y orientación, mediante conexiones locales y radios externos."
+  },
+  {
+   "start": 56.34,
+   "end": 60.34,
+   "text": "Los datos llegarían a estaciones bases sin internet móvil."
+  },
+  {
+   "start": 60.34,
+   "end": 65.34,
+   "text": "Cuando una estación detecte condiciones sospechosas, enviaría códigos de evento."
+  },
+  {
+   "start": 65.34,
+   "end": 73.34,
+   "text": "Las autoridades contrastarían la información y con protocolos validados podrían activar avisos comunitarios."
+  },
+  {
+   "start": 73.34,
+   "end": 78.34,
+   "text": "Para su Namis CELAVIRA retransmitiría alertas oficiales."
+  },
+  {
+   "start": 78.34,
+   "end": 82.34,
+   "text": "La cámara del celular también serviría como cámara trampa."
+  },
+  {
+   "start": 82.34,
+   "end": 93.34,
+   "text": "El celular documentaría fauna y cambios ambientales, aportando imágenes para investigaciones sobre biodiversidad, conservación y transformación del territorio."
+  },
+  {
+   "start": 93.34,
+   "end": 100.34,
+   "text": "CELAVIRA ofrecería a investigadores acceso por suscripción a imágenes y datos autorizados."
+  },
+  {
+   "start": 100.34,
+   "end": 107.34,
+   "text": "Este modelo buscaría sostener la plataforma, mantenimiento gratuito y los audicios esenciales para las comunidades."
+  },
+  {
+   "start": 107.34,
+   "end": 114.34,
+   "text": "Tomo SAMS creemos que la tecnología olvidada puede abrir nuevas oportunidades para América Latina."
+  },
+  {
+   "start": 114.34,
+   "end": 118.34,
+   "text": "CELAVIRA, donde no llega la señal, llega el alerta."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.2
+}

@@ -1,0 +1,177 @@
+{
+ "video_id": "fF6EJGF1buk",
+ "url": "https://youtu.be/fF6EJGF1buk?si=DPPE2IHkGPJkciBI",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "OPERYUS",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "OPERYUS",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:58:07+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Alerta localización bienestar y asistencia, ALBA. Imagina esto, en segundos, un terremoto sacudé la ciudad. Ejificios colapsan, las comunicaciones se interrumpen y miles necesitan ayuda. Pero hay un problema. ¿Dónde actuar primero cuando la información es incompleta y cada segundo cuenta? En Latinoamérica, los desastres golpean sin aviso, los reportes se duplican, las comunidades quedan incomunicadas y los recursos no alcanzan. No basta con saber qué sucede, necesitamos saber cómo responder. Por eso creamos ALBA, un ecosistema digital que conecta ciudadanos, brigadistas, con centros de coordinación para transformar reportes de emergencia en acciones organizadas y reducir el desperdicio de recursos. ¿Cómo funciona? Con dos herramientas que trabajan en sincronía. Desde la aplicación móvil, los ciudadanos registran emergencias con ubicación, descripción y fotografías. Sin internet, la información se guarda y se sincroniza al recuperar la conexión. En el centro de coordinación, ALBA recibe automáticamente alertas de organismos de emergencia y reportes de ciudadanos. El equipo verifica información, detecta duplicados, prioriza incidentes por gravedad y actualiza el mapa operativo. Así puede planificar rutas, distribuir suministros y asignar misiones abrigadas, que reportan sus avances desde el terreno. ALBA no solo recibe alertas, conecta la información con la toma de decisiones y la respuesta en campo. Porque no podemos evitar todos los desastres, pero sí podemos mejorar nuestra capacidad de responder. ALBA, cada segundo cuenta, cada recurso importa, cada vida vale.",
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 4.64,
+   "text": "Alerta localización bienestar y asistencia, ALBA."
+  },
+  {
+   "start": 5.64,
+   "end": 9.84,
+   "text": "Imagina esto, en segundos, un terremoto sacudé la ciudad."
+  },
+  {
+   "start": 9.84,
+   "end": 14.64,
+   "text": "Ejificios colapsan, las comunicaciones se interrumpen y miles necesitan ayuda."
+  },
+  {
+   "start": 14.64,
+   "end": 15.84,
+   "text": "Pero hay un problema."
+  },
+  {
+   "start": 15.84,
+   "end": 20.64,
+   "text": "¿Dónde actuar primero cuando la información es incompleta y cada segundo cuenta?"
+  },
+  {
+   "start": 20.64,
+   "end": 25.44,
+   "text": "En Latinoamérica, los desastres golpean sin aviso, los reportes se duplican,"
+  },
+  {
+   "start": 25.44,
+   "end": 29.04,
+   "text": "las comunidades quedan incomunicadas y los recursos no alcanzan."
+  },
+  {
+   "start": 29.44,
+   "end": 33.24,
+   "text": "No basta con saber qué sucede, necesitamos saber cómo responder."
+  },
+  {
+   "start": 33.24,
+   "end": 36.64,
+   "text": "Por eso creamos ALBA, un ecosistema digital que conecta"
+  },
+  {
+   "start": 36.64,
+   "end": 39.64,
+   "text": "ciudadanos, brigadistas, con centros de coordinación"
+  },
+  {
+   "start": 39.64,
+   "end": 43.24,
+   "text": "para transformar reportes de emergencia en acciones organizadas"
+  },
+  {
+   "start": 43.24,
+   "end": 45.84,
+   "text": "y reducir el desperdicio de recursos."
+  },
+  {
+   "start": 45.84,
+   "end": 47.44,
+   "text": "¿Cómo funciona?"
+  },
+  {
+   "start": 47.44,
+   "end": 50.24,
+   "text": "Con dos herramientas que trabajan en sincronía."
+  },
+  {
+   "start": 50.24,
+   "end": 53.04,
+   "text": "Desde la aplicación móvil, los ciudadanos registran"
+  },
+  {
+   "start": 53.04,
+   "end": 56.44,
+   "text": "emergencias con ubicación, descripción y fotografías."
+  },
+  {
+   "start": 56.64,
+   "end": 59.64,
+   "text": "Sin internet, la información se guarda y se sincroniza"
+  },
+  {
+   "start": 59.64,
+   "end": 61.64,
+   "text": "al recuperar la conexión."
+  },
+  {
+   "start": 61.64,
+   "end": 65.64,
+   "text": "En el centro de coordinación, ALBA recibe automáticamente"
+  },
+  {
+   "start": 65.64,
+   "end": 69.24,
+   "text": "alertas de organismos de emergencia y reportes de ciudadanos."
+  },
+  {
+   "start": 69.24,
+   "end": 72.64,
+   "text": "El equipo verifica información, detecta duplicados,"
+  },
+  {
+   "start": 72.64,
+   "end": 76.24,
+   "text": "prioriza incidentes por gravedad y actualiza el mapa operativo."
+  },
+  {
+   "start": 76.24,
+   "end": 79.64,
+   "text": "Así puede planificar rutas, distribuir suministros"
+  },
+  {
+   "start": 79.64,
+   "end": 83.24,
+   "text": "y asignar misiones abrigadas, que reportan sus avances"
+  },
+  {
+   "start": 83.24,
+   "end": 84.84,
+   "text": "desde el terreno."
+  },
+  {
+   "start": 84.84,
+   "end": 88.24,
+   "text": "ALBA no solo recibe alertas, conecta la información"
+  },
+  {
+   "start": 88.24,
+   "end": 91.84,
+   "text": "con la toma de decisiones y la respuesta en campo."
+  },
+  {
+   "start": 91.84,
+   "end": 94.24,
+   "text": "Porque no podemos evitar todos los desastres,"
+  },
+  {
+   "start": 94.24,
+   "end": 97.44,
+   "text": "pero sí podemos mejorar nuestra capacidad de responder."
+  },
+  {
+   "start": 97.44,
+   "end": 102.24,
+   "text": "ALBA, cada segundo cuenta, cada recurso importa, cada vida vale."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 103.1
+}

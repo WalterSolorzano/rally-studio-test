@@ -1,0 +1,122 @@
+{
+ "video_id": "VWsMvhav6VE",
+ "url": "https://youtube.com/shorts/VWsMvhav6VE?si=cTzG7aYILs_cbw3t",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "RURAL HEALTH",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "RURAL HEALTH",
+   "challenge": "07 - SALUD MÓVIL PARA MUJERES EN ZONAS RURALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:36:29+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imagina vivir en una comunidad rodeada de naturaleza, pero lejos de todo, donde una simple consulta médica significa horas de camino, gastas que no puedes asumir y dejar a tu familia sola. Esta es la realidad de millones de mujeres rurales en América Latina. Frente a este desafío, nace Bienestar, una aplicación móvil que acerca la salud a quien más lo necesita. Bienestar no solo es una app, es un puente, un puente entre las mujeres de zonas rurales y personal de salud capacitado, vinculado directamente con el Ministerio de Salud. A través de ella pueden tener consultas por chat o por voz, recibir orientación médica y acceder a información adaptada a su idioma. Lo más innovador, la app incluye un asistente por voz que lee y escribe por ellas, eliminando barreras para quienes no saben leer o escribir. Además, notifica en tiempo real la ubicación de las clínicas móviles más cercanas y ofrece un calendario de atención. Bienestar es inclusiva, accesible y respetuosa con el medio ambiente. Reduce el uso de papel, promueve la prevención y acerca la tecnología de forma simple y humana. Con un desarrollo técnico robusto y un costo de implementación accesible, esta propuesta no solo es viable, sino necesaria, porque la salud no puede esperar y ninguna mujer debería quedar atrás. Bienestar, tecnología con sentido, salud con cercanía.",
+ "segments": [
+  {
+   "start": 2.38,
+   "end": 8.74,
+   "text": "Imagina vivir en una comunidad rodeada de naturaleza, pero lejos de todo, donde una simple consulta"
+  },
+  {
+   "start": 8.74,
+   "end": 15.02,
+   "text": "médica significa horas de camino, gastas que no puedes asumir y dejar a tu familia sola."
+  },
+  {
+   "start": 15.02,
+   "end": 18.98,
+   "text": "Esta es la realidad de millones de mujeres rurales en América Latina."
+  },
+  {
+   "start": 18.98,
+   "end": 24.26,
+   "text": "Frente a este desafío, nace Bienestar, una aplicación móvil que acerca la salud a quien"
+  },
+  {
+   "start": 24.26,
+   "end": 25.98,
+   "text": "más lo necesita."
+  },
+  {
+   "start": 25.98,
+   "end": 31.54,
+   "text": "Bienestar no solo es una app, es un puente, un puente entre las mujeres de zonas rurales"
+  },
+  {
+   "start": 31.54,
+   "end": 36.86,
+   "text": "y personal de salud capacitado, vinculado directamente con el Ministerio de Salud."
+  },
+  {
+   "start": 36.86,
+   "end": 41.86,
+   "text": "A través de ella pueden tener consultas por chat o por voz, recibir orientación médica"
+  },
+  {
+   "start": 41.86,
+   "end": 44.98,
+   "text": "y acceder a información adaptada a su idioma."
+  },
+  {
+   "start": 44.98,
+   "end": 51.16,
+   "text": "Lo más innovador, la app incluye un asistente por voz que lee y escribe por ellas, eliminando"
+  },
+  {
+   "start": 51.16,
+   "end": 54.1,
+   "text": "barreras para quienes no saben leer o escribir."
+  },
+  {
+   "start": 54.1,
+   "end": 58.94,
+   "text": "Además, notifica en tiempo real la ubicación de las clínicas móviles más cercanas y"
+  },
+  {
+   "start": 58.94,
+   "end": 61.02,
+   "text": "ofrece un calendario de atención."
+  },
+  {
+   "start": 61.14,
+   "end": 65.62,
+   "text": "Bienestar es inclusiva, accesible y respetuosa con el medio ambiente."
+  },
+  {
+   "start": 65.62,
+   "end": 71.62,
+   "text": "Reduce el uso de papel, promueve la prevención y acerca la tecnología de forma simple y humana."
+  },
+  {
+   "start": 71.62,
+   "end": 76.58,
+   "text": "Con un desarrollo técnico robusto y un costo de implementación accesible, esta propuesta"
+  },
+  {
+   "start": 76.58,
+   "end": 81.7,
+   "text": "no solo es viable, sino necesaria, porque la salud no puede esperar y ninguna mujer"
+  },
+  {
+   "start": 81.7,
+   "end": 83.22,
+   "text": "debería quedar atrás."
+  },
+  {
+   "start": 83.22,
+   "end": 86.5,
+   "text": "Bienestar, tecnología con sentido, salud con cercanía."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 88.7
+}

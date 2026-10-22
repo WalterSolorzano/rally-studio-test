@@ -1,0 +1,152 @@
+{
+ "video_id": "yczmHjgGrCk",
+ "url": "https://www.youtube.com/watch?v=yczmHjgGrCk&feature=youtu.be",
+ "year": 2018,
+ "collection": "internacional",
+ "country": "EL SALVADOR",
+ "team": "SANTEINCRO",
+ "place_label": "TERCER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2018,
+   "collection": "internacional",
+   "place_label": "TERCER LUGAR",
+   "team": "SANTEINCRO",
+   "challenge": "02 - CENTROS DE ACOPIO ESTRATÉGICOS PARA COMUNIDADES MARGINADAS, EN SITUACIONES DE POBREZA O DESASTRES NATURALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:14:22+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "En momentos de catástrofe, las personas se unen para ayudar a todas aquellas que se encuentran en estado de vulnerabilidad, aquellos que han perdido familiares, amigos y todos sus bienes materiales. En marzo de 2017, la ciudad de Chiclayo, en el norte de Perú, sufrió trágicas inundaciones. Cerca de 700 casas fueron declaradas inhabitables y más de 29 mil personas fueron afectadas. El 22 de septiembre de 2017, en México, un terremoto de 7.1 grados en escala Richter dejó daños de grandes magnitudes. Se calculan alrededor de 286 víctimas mortales. El mismo mes en que Oaxaca fue epicentro de un sismo de magnitud de 8.2 grados, donde al menos 800 mil personas quedaron damnificadas. A pesar de toda esta atmósfera de negatividad, surge la luz de la solidaridad, la cual se ve reflejada a través de las donaciones y como objetivo tienen suplir las principales preocupaciones de los afectados. Pero una de las principales problemáticas que se suscitan al momento de recibir donativos es cómo se realizará la correcta clasificación de cada uno de ellos. Es por ello que hemos encontrado una manera que facilitará la administración de la solidaridad, la cual se hace tangible a través de los donativos. El Sistema de Asistencia y Protección Alimentaria, APA, es un software que administra, clasifica y organiza los diferentes recursos de primera necesidad y productos alimenticios que requieren las diferentes instituciones humanitarias ante una situación de emergencia. Todo esto con el objetivo de canalizar los esfuerzos humanitarios de manera ágil y efectiva al ahorrar tiempo tanto en la intervención de la zona afectada como en la selección y distribución de los productos alimenticios y de primera necesidad. Este software consta con una base de datos en la cual sus principales funciones son crear un inventario de los productos donados y almacenados en diferentes instituciones y organizaciones de ayuda en tiempo de catástrofe, además de localizar los diferentes centros de acopio por medio de una app. En caso de emergencia, APA es el mejor sistema para apoyar a las personas en situación de catástrofe. APA, integrando la solidaridad.",
+ "segments": [
+  {
+   "start": 2.83,
+   "end": 10.37,
+   "text": "En momentos de catástrofe, las personas se unen para ayudar a todas aquellas que se encuentran en estado de vulnerabilidad,"
+  },
+  {
+   "start": 10.37,
+   "end": 15.71,
+   "text": "aquellos que han perdido familiares, amigos y todos sus bienes materiales."
+  },
+  {
+   "start": 15.71,
+   "end": 23.31,
+   "text": "En marzo de 2017, la ciudad de Chiclayo, en el norte de Perú, sufrió trágicas inundaciones."
+  },
+  {
+   "start": 23.31,
+   "end": 30.39,
+   "text": "Cerca de 700 casas fueron declaradas inhabitables y más de 29 mil personas fueron afectadas."
+  },
+  {
+   "start": 30.87,
+   "end": 40.19,
+   "text": "El 22 de septiembre de 2017, en México, un terremoto de 7.1 grados en escala Richter dejó daños de grandes magnitudes."
+  },
+  {
+   "start": 40.19,
+   "end": 44.63,
+   "text": "Se calculan alrededor de 286 víctimas mortales."
+  },
+  {
+   "start": 44.63,
+   "end": 55.15,
+   "text": "El mismo mes en que Oaxaca fue epicentro de un sismo de magnitud de 8.2 grados, donde al menos 800 mil personas quedaron damnificadas."
+  },
+  {
+   "start": 55.71,
+   "end": 64.55,
+   "text": "A pesar de toda esta atmósfera de negatividad, surge la luz de la solidaridad, la cual se ve reflejada a través de las donaciones"
+  },
+  {
+   "start": 64.55,
+   "end": 69.35,
+   "text": "y como objetivo tienen suplir las principales preocupaciones de los afectados."
+  },
+  {
+   "start": 69.35,
+   "end": 74.79,
+   "text": "Pero una de las principales problemáticas que se suscitan al momento de recibir donativos"
+  },
+  {
+   "start": 74.79,
+   "end": 79.23,
+   "text": "es cómo se realizará la correcta clasificación de cada uno de ellos."
+  },
+  {
+   "start": 81.64,
+   "end": 87.72,
+   "text": "Es por ello que hemos encontrado una manera que facilitará la administración de la solidaridad,"
+  },
+  {
+   "start": 87.72,
+   "end": 90.92,
+   "text": "la cual se hace tangible a través de los donativos."
+  },
+  {
+   "start": 90.92,
+   "end": 98.84,
+   "text": "El Sistema de Asistencia y Protección Alimentaria, APA, es un software que administra, clasifica y organiza"
+  },
+  {
+   "start": 98.84,
+   "end": 103.6,
+   "text": "los diferentes recursos de primera necesidad y productos alimenticios"
+  },
+  {
+   "start": 103.6,
+   "end": 108.68,
+   "text": "que requieren las diferentes instituciones humanitarias ante una situación de emergencia."
+  },
+  {
+   "start": 109.68,
+   "end": 115.88,
+   "text": "Todo esto con el objetivo de canalizar los esfuerzos humanitarios de manera ágil y efectiva"
+  },
+  {
+   "start": 115.88,
+   "end": 119.36,
+   "text": "al ahorrar tiempo tanto en la intervención de la zona afectada"
+  },
+  {
+   "start": 119.36,
+   "end": 123.76,
+   "text": "como en la selección y distribución de los productos alimenticios y de primera necesidad."
+  },
+  {
+   "start": 125.16,
+   "end": 131.08,
+   "text": "Este software consta con una base de datos en la cual sus principales funciones son"
+  },
+  {
+   "start": 131.08,
+   "end": 135.92,
+   "text": "crear un inventario de los productos donados y almacenados en diferentes instituciones"
+  },
+  {
+   "start": 135.96,
+   "end": 138.96,
+   "text": "y organizaciones de ayuda en tiempo de catástrofe,"
+  },
+  {
+   "start": 138.96,
+   "end": 146.0,
+   "text": "además de localizar los diferentes centros de acopio por medio de una app."
+  },
+  {
+   "start": 146.0,
+   "end": 152.24,
+   "text": "En caso de emergencia, APA es el mejor sistema para apoyar a las personas en situación de catástrofe."
+  },
+  {
+   "start": 152.24,
+   "end": 155.0,
+   "text": "APA, integrando la solidaridad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 161.9
+}

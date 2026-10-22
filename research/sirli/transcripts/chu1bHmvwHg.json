@@ -1,0 +1,137 @@
+{
+ "video_id": "chu1bHmvwHg",
+ "url": "https://youtu.be/chu1bHmvwHg",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "BLUE BRAIN",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "BLUE BRAIN",
+   "challenge": "02 - EMPAQUES CONTAMINANTES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:36:01+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El municipio El Rama es una región privilegiada por su belleza natural, rodeado de tres ríos que fluye por su costado. Este lugar es hogar de una rica biodiversidad que depende de sus ecosistemas acuáticos y terrestres. Sin embargo, el uso de empaques de plástico y otros materiales, novio degradables, ha desencadenado una problemática ambiental de gran monitorio. Los desechos de plástico que tardan cientos de años en degradarse no solo contaminan los ríos y el suelo, sino que también ponen en riesgo a la flora y fauna que habitan esta región. Durante la temporada de lluvias, las consecuencias se vuelven aún más críticas. Los plásticos obstruyen el sistema de alcanzarillado provocando inundaciones que afectan la economía local y ponen en riesgo tanto la infraestructura del municipio como la vida siempre. Ante esta crisis surge una pregunta que todos deberíamos hacerme. ¿Qué podemos hacer para minimizar la cohesión de contaminación? El reciclaje avanzado de empaques contaminante es una solución innovadora que promueve la conciencia ciudadana sobre la importancia de reciclar plásticos y convertirlos en nuevos productos. Este enfoque beneficia tanto económicamente como socialmente y reduce la contaminación. Sin embargo, a nivel nacional estos proyectos no se implementan con frecuencia debido a la falta de interés de los ciudadanos e industrias. Además, fomenta la creatividad y responsabilidad de quienes participan, evitando que productos desechables como paraguas rotos, etc. terminen en basureros o alcantarillados donde contribuían a la contaminación ya que los plásticos tardan 150 años en descomponerse. El futuro de nuestro planeta y de nuestra comunidad depende de nuestras acciones. Es hora de actuar.",
+ "segments": [
+  {
+   "start": 1.62,
+   "end": 9.62,
+   "text": "El municipio El Rama es una región privilegiada por su belleza natural, rodeado de tres ríos que fluye por su costado."
+  },
+  {
+   "start": 9.62,
+   "end": 16.62,
+   "text": "Este lugar es hogar de una rica biodiversidad que depende de sus ecosistemas acuáticos y terrestres."
+  },
+  {
+   "start": 16.62,
+   "end": 21.62,
+   "text": "Sin embargo, el uso de empaques de plástico y otros materiales, novio degradables,"
+  },
+  {
+   "start": 21.62,
+   "end": 26.62,
+   "text": "ha desencadenado una problemática ambiental de gran monitorio."
+  },
+  {
+   "start": 26.62,
+   "end": 33.62,
+   "text": "Los desechos de plástico que tardan cientos de años en degradarse no solo contaminan los ríos y el suelo,"
+  },
+  {
+   "start": 33.62,
+   "end": 38.62,
+   "text": "sino que también ponen en riesgo a la flora y fauna que habitan esta región."
+  },
+  {
+   "start": 38.62,
+   "end": 43.62,
+   "text": "Durante la temporada de lluvias, las consecuencias se vuelven aún más críticas."
+  },
+  {
+   "start": 43.62,
+   "end": 50.62,
+   "text": "Los plásticos obstruyen el sistema de alcanzarillado provocando inundaciones que afectan la economía local"
+  },
+  {
+   "start": 50.62,
+   "end": 56.62,
+   "text": "y ponen en riesgo tanto la infraestructura del municipio como la vida siempre."
+  },
+  {
+   "start": 56.62,
+   "end": 61.62,
+   "text": "Ante esta crisis surge una pregunta que todos deberíamos hacerme."
+  },
+  {
+   "start": 61.62,
+   "end": 65.62,
+   "text": "¿Qué podemos hacer para minimizar la cohesión de contaminación?"
+  },
+  {
+   "start": 65.62,
+   "end": 70.62,
+   "text": "El reciclaje avanzado de empaques contaminante es una solución innovadora"
+  },
+  {
+   "start": 70.62,
+   "end": 75.62,
+   "text": "que promueve la conciencia ciudadana sobre la importancia de reciclar plásticos"
+  },
+  {
+   "start": 75.62,
+   "end": 78.62,
+   "text": "y convertirlos en nuevos productos."
+  },
+  {
+   "start": 78.62,
+   "end": 84.62,
+   "text": "Este enfoque beneficia tanto económicamente como socialmente y reduce la contaminación."
+  },
+  {
+   "start": 84.62,
+   "end": 89.62,
+   "text": "Sin embargo, a nivel nacional estos proyectos no se implementan con frecuencia"
+  },
+  {
+   "start": 89.62,
+   "end": 93.62,
+   "text": "debido a la falta de interés de los ciudadanos e industrias."
+  },
+  {
+   "start": 93.62,
+   "end": 98.62,
+   "text": "Además, fomenta la creatividad y responsabilidad de quienes participan,"
+  },
+  {
+   "start": 98.62,
+   "end": 105.62,
+   "text": "evitando que productos desechables como paraguas rotos, etc. terminen en basureros o alcantarillados"
+  },
+  {
+   "start": 105.62,
+   "end": 112.62,
+   "text": "donde contribuían a la contaminación ya que los plásticos tardan 150 años en descomponerse."
+  },
+  {
+   "start": 112.62,
+   "end": 117.62,
+   "text": "El futuro de nuestro planeta y de nuestra comunidad depende de nuestras acciones."
+  },
+  {
+   "start": 117.62,
+   "end": 119.62,
+   "text": "Es hora de actuar."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.7
+}

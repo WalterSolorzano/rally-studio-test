@@ -1,0 +1,157 @@
+{
+ "video_id": "rQgg1UlOv1I",
+ "url": "https://youtu.be/rQgg1UlOv1I",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "JUVENTUD SANDINISTA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "JUVENTUD SANDINISTA",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:36:30+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos Juventud Sandinista de Cur Uni Esteli. En el Rally Latinoamericano de Innovación presentamos AquaSense, una propuesta para convertir celulares en desuso en vigilancia comunitaria ante inundaciones. Elegimos el desafío, sensores al servicio de la comunidad. En Latinoamérica, una crecida puede poner en peligro a familias y comunidades. Nuestro reto es transformar los sensores de un celular olvidado en información para actuar. ¿Cómo funciona? El agua eleva un flotador conectado a un brazo articulado. El celular gira con ese brazo y su acelerómetro mide la inclinación. Tras calibrarlo, estimamos el nivel y la rapidez decresida. Un panel solar alimenta el nodo. La información se transmite por internet cuando hay servicio. Como respaldo local, proponemos Bluetooth entre dispositivos compatibles. La innovación combina tecnología reutilizada, medición y organización comunitaria. Brigadas y vecinos reciben información para seguir un protocolo acordado. Cada instalación adapta el mecanismo, los umbrales y la comunicación a su territorio. Así, Acuacense puede replicarse en comunidades urbanas y rurales de Latinoamérica. Estimamos un piloto de dos nodos en 15.382 Córdobas, aproximadamente 420 dólares, con celulares donados y desarrollo universitario en especie. La operación se estima en 20 dólares mensuales. El primer año sumaría 660 dólares. Estos costos deberán confirmarse mediante cotizaciones. El siguiente paso es validar precisión, autonomía y comunicación mediante un prototipo y pruebas comunitarias. Acuacense. Celulares que vuelven a servir. Comunidades mejor informadas para actuar.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.46,
+   "text": "Somos Juventud Sandinista de Cur Uni Esteli."
+  },
+  {
+   "start": 3.46,
+   "end": 7.34,
+   "text": "En el Rally Latinoamericano de Innovación presentamos AquaSense,"
+  },
+  {
+   "start": 7.34,
+   "end": 12.64,
+   "text": "una propuesta para convertir celulares en desuso en vigilancia comunitaria ante inundaciones."
+  },
+  {
+   "start": 12.64,
+   "end": 16.38,
+   "text": "Elegimos el desafío, sensores al servicio de la comunidad."
+  },
+  {
+   "start": 16.38,
+   "end": 21.12,
+   "text": "En Latinoamérica, una crecida puede poner en peligro a familias y comunidades."
+  },
+  {
+   "start": 21.12,
+   "end": 27.0,
+   "text": "Nuestro reto es transformar los sensores de un celular olvidado en información para actuar."
+  },
+  {
+   "start": 27.0,
+   "end": 28.26,
+   "text": "¿Cómo funciona?"
+  },
+  {
+   "start": 28.42,
+   "end": 31.7,
+   "text": "El agua eleva un flotador conectado a un brazo articulado."
+  },
+  {
+   "start": 31.7,
+   "end": 35.86,
+   "text": "El celular gira con ese brazo y su acelerómetro mide la inclinación."
+  },
+  {
+   "start": 35.86,
+   "end": 39.5,
+   "text": "Tras calibrarlo, estimamos el nivel y la rapidez decresida."
+  },
+  {
+   "start": 39.5,
+   "end": 41.58,
+   "text": "Un panel solar alimenta el nodo."
+  },
+  {
+   "start": 41.58,
+   "end": 44.84,
+   "text": "La información se transmite por internet cuando hay servicio."
+  },
+  {
+   "start": 44.84,
+   "end": 49.26,
+   "text": "Como respaldo local, proponemos Bluetooth entre dispositivos compatibles."
+  },
+  {
+   "start": 49.26,
+   "end": 54.38,
+   "text": "La innovación combina tecnología reutilizada, medición y organización comunitaria."
+  },
+  {
+   "start": 54.42,
+   "end": 58.5,
+   "text": "Brigadas y vecinos reciben información para seguir un protocolo acordado."
+  },
+  {
+   "start": 58.5,
+   "end": 63.3,
+   "text": "Cada instalación adapta el mecanismo, los umbrales y la comunicación a su territorio."
+  },
+  {
+   "start": 63.3,
+   "end": 68.94,
+   "text": "Así, Acuacense puede replicarse en comunidades urbanas y rurales de Latinoamérica."
+  },
+  {
+   "start": 68.94,
+   "end": 76.06,
+   "text": "Estimamos un piloto de dos nodos en 15.382 Córdobas, aproximadamente 420 dólares,"
+  },
+  {
+   "start": 76.06,
+   "end": 79.46,
+   "text": "con celulares donados y desarrollo universitario en especie."
+  },
+  {
+   "start": 79.46,
+   "end": 82.38,
+   "text": "La operación se estima en 20 dólares mensuales."
+  },
+  {
+   "start": 82.38,
+   "end": 85.46,
+   "text": "El primer año sumaría 660 dólares."
+  },
+  {
+   "start": 85.46,
+   "end": 89.1,
+   "text": "Estos costos deberán confirmarse mediante cotizaciones."
+  },
+  {
+   "start": 89.1,
+   "end": 95.7,
+   "text": "El siguiente paso es validar precisión, autonomía y comunicación mediante un prototipo y pruebas comunitarias."
+  },
+  {
+   "start": 95.7,
+   "end": 96.86,
+   "text": "Acuacense."
+  },
+  {
+   "start": 96.86,
+   "end": 98.74,
+   "text": "Celulares que vuelven a servir."
+  },
+  {
+   "start": 98.74,
+   "end": 101.26,
+   "text": "Comunidades mejor informadas para actuar."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 101.3
+}

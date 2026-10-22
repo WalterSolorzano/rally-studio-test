@@ -1,0 +1,132 @@
+{
+ "video_id": "40VW8bpA7wc",
+ "url": "https://youtu.be/40VW8bpA7wc",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "FINALSOFT",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "FINALSOFT",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:34:56+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que miles de celulares desechados conservan tecnología capaz de prevenir fallas en electrodomésticos? Redis transforma esos componentes en protección inteligente para pulverías, farmacias y supermercados, donde una avería puede generar grandes pérdidas. Recolectamos celulares en desuso, recuperamos sus placas y las adaptamos en carcasas impresas en tres de con anclaje magnético. El dispositivo monitorea temperatura, vibración y voltaje, detectando posibles fallas. Los datos se transmiten por WAFA mediante archivos XON, con alimentación basada en celdas termoeléctricas. Nuestra plataforma web muestra el estado de los equipos en tiempo real y emite alertas preventivas, reduciendo daños y costos de reparación. Redis combina innovación con economía circular. Cada placa reciclada cuesta 4 dólares con 50 centavos y reutilizamos herramientas de fabricación. Producir cada nodo cuesta 31 dólares y se vende a 40, generando un margen cercano al 30% sobre el costo. La inversión inicial es de 1.600 dólares, incluyendo 530 en equipos recondicionados. Nuestro mercado supera los 346.000 negocios centroamericanos, con una meta de 3.600 clientes, comenzando por Nicaragua. Con un crecimiento mensual proyectado del 8%, alcanzaríamos casi 1.500 clientes en 3 años, aumentando las ventas mensuales de 960 a más de 14.000 dólares. Finalmente, el valor presente neto supera los 26.000 dólares y la rentabilidad anual alcanza el 18.7%, frente a un atmar del 17.04%, respaldando la viabilidad financiera del proyecto. Rétis economía circular y monitoreó inteligente. La innovación que protege tu inversión.",
+ "segments": [
+  {
+   "start": 0.02,
+   "end": 6.02,
+   "text": "¿Sabías que miles de celulares desechados conservan tecnología capaz de prevenir fallas en electrodomésticos?"
+  },
+  {
+   "start": 6.02,
+   "end": 12.02,
+   "text": "Redis transforma esos componentes en protección inteligente para pulverías, farmacias y supermercados,"
+  },
+  {
+   "start": 12.02,
+   "end": 15.02,
+   "text": "donde una avería puede generar grandes pérdidas."
+  },
+  {
+   "start": 15.02,
+   "end": 21.02,
+   "text": "Recolectamos celulares en desuso, recuperamos sus placas y las adaptamos en carcasas impresas"
+  },
+  {
+   "start": 21.02,
+   "end": 23.02,
+   "text": "en tres de con anclaje magnético."
+  },
+  {
+   "start": 23.02,
+   "end": 29.02,
+   "text": "El dispositivo monitorea temperatura, vibración y voltaje, detectando posibles fallas."
+  },
+  {
+   "start": 30.02,
+   "end": 36.02,
+   "text": "Los datos se transmiten por WAFA mediante archivos XON, con alimentación basada en celdas termoeléctricas."
+  },
+  {
+   "start": 36.02,
+   "end": 42.02,
+   "text": "Nuestra plataforma web muestra el estado de los equipos en tiempo real y emite alertas preventivas,"
+  },
+  {
+   "start": 42.02,
+   "end": 44.02,
+   "text": "reduciendo daños y costos de reparación."
+  },
+  {
+   "start": 44.02,
+   "end": 48.02,
+   "text": "Redis combina innovación con economía circular."
+  },
+  {
+   "start": 48.02,
+   "end": 54.02,
+   "text": "Cada placa reciclada cuesta 4 dólares con 50 centavos y reutilizamos herramientas de fabricación."
+  },
+  {
+   "start": 55.02,
+   "end": 62.02,
+   "text": "Producir cada nodo cuesta 31 dólares y se vende a 40, generando un margen cercano al 30% sobre el costo."
+  },
+  {
+   "start": 63.02,
+   "end": 69.02,
+   "text": "La inversión inicial es de 1.600 dólares, incluyendo 530 en equipos recondicionados."
+  },
+  {
+   "start": 70.02,
+   "end": 74.02,
+   "text": "Nuestro mercado supera los 346.000 negocios centroamericanos,"
+  },
+  {
+   "start": 74.02,
+   "end": 79.02,
+   "text": "con una meta de 3.600 clientes, comenzando por Nicaragua."
+  },
+  {
+   "start": 79.02,
+   "end": 86.02,
+   "text": "Con un crecimiento mensual proyectado del 8%, alcanzaríamos casi 1.500 clientes en 3 años,"
+  },
+  {
+   "start": 86.02,
+   "end": 91.02,
+   "text": "aumentando las ventas mensuales de 960 a más de 14.000 dólares."
+  },
+  {
+   "start": 92.02,
+   "end": 99.02,
+   "text": "Finalmente, el valor presente neto supera los 26.000 dólares y la rentabilidad anual alcanza el 18.7%,"
+  },
+  {
+   "start": 99.02,
+   "end": 106.02,
+   "text": "frente a un atmar del 17.04%, respaldando la viabilidad financiera del proyecto."
+  },
+  {
+   "start": 106.02,
+   "end": 109.02,
+   "text": "Rétis economía circular y monitoreó inteligente."
+  },
+  {
+   "start": 110.02,
+   "end": 112.02,
+   "text": "La innovación que protege tu inversión."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 112.0
+}

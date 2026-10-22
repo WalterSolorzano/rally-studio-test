@@ -1,0 +1,152 @@
+{
+ "video_id": "CpgXYnSGkN8",
+ "url": "https://youtu.be/CpgXYnSGkN8?si=f7HlsuaVApPTApKW",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NOVA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "NOVA",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:57:15+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imagina que hoy un terremoto sacudo en Nicaragua. Las comunicaciones colapsan, las carreteras quedan bloqueadas y cientos de familias necesitan ayuda inmediata. Las autoridades enfrentan tres decisiones críticas. ¿A quién atender primero? ¿Dónde concentrar los esfuerzos? ¿Y qué recursos asignar? Para responder este desafío, presentamos CESI, un sistema de coordinación eficiente y conectividad integral post-emergencias diseñada para Nicaragua. CESI integra una red híbrida de comunicación satelital y radial con seis módulos fundamentales. Comunicación entre autoridades y rescatistas, inteligencia artificial para analizar alertas y anormalías, mapas interactivos con ruta alternativa, protocolo y manuales de emergencia, soporte técnico y un sistema de priorización de víctimas y asignación de recursos, incluyendo información hospitalaria. En su aviabilidad, técnicamente, utiliza tecnologías existentes. Económicamente, aprovecha infraestructura, gobernamental y soporte código abierto. Operativamente, está diseñada para integrarse con SINAPRET y organizaciones de primera respuesta. Legalmente, contempla las regulaciones y protocolos nacionales y, socialmente, busca llevar unas respuestas más rápidas y equitativas a las comunidades pulnerables y exladas. Nuestra visión es convertir CESI en una herramienta estratégica para la gestión de emergencia aniversidad, porque no buscamos reemplazar a quienes salvan vidas, sino dar la tecnología para salvar más CESI. Conectamos comunidades, optimizamos recursos y salvamos.",
+ "segments": [
+  {
+   "start": 0.02,
+   "end": 3.3,
+   "text": "Imagina que hoy un terremoto sacudo en Nicaragua."
+  },
+  {
+   "start": 3.3,
+   "end": 9.7,
+   "text": "Las comunicaciones colapsan, las carreteras quedan bloqueadas y cientos de familias necesitan ayuda inmediata."
+  },
+  {
+   "start": 9.7,
+   "end": 13.02,
+   "text": "Las autoridades enfrentan tres decisiones críticas."
+  },
+  {
+   "start": 13.02,
+   "end": 15.94,
+   "text": "¿A quién atender primero? ¿Dónde concentrar los esfuerzos?"
+  },
+  {
+   "start": 15.94,
+   "end": 17.46,
+   "text": "¿Y qué recursos asignar?"
+  },
+  {
+   "start": 17.46,
+   "end": 20.34,
+   "text": "Para responder este desafío, presentamos CESI,"
+  },
+  {
+   "start": 20.34,
+   "end": 26.38,
+   "text": "un sistema de coordinación eficiente y conectividad integral post-emergencias diseñada para Nicaragua."
+  },
+  {
+   "start": 26.94,
+   "end": 32.54,
+   "text": "CESI integra una red híbrida de comunicación satelital y radial con seis módulos fundamentales."
+  },
+  {
+   "start": 33.74,
+   "end": 35.94,
+   "text": "Comunicación entre autoridades y rescatistas,"
+  },
+  {
+   "start": 35.94,
+   "end": 39.1,
+   "text": "inteligencia artificial para analizar alertas y anormalías,"
+  },
+  {
+   "start": 39.1,
+   "end": 43.14,
+   "text": "mapas interactivos con ruta alternativa, protocolo y manuales de emergencia,"
+  },
+  {
+   "start": 43.14,
+   "end": 47.1,
+   "text": "soporte técnico y un sistema de priorización de víctimas y asignación de recursos,"
+  },
+  {
+   "start": 47.1,
+   "end": 49.18,
+   "text": "incluyendo información hospitalaria."
+  },
+  {
+   "start": 49.18,
+   "end": 52.58,
+   "text": "En su aviabilidad, técnicamente, utiliza tecnologías existentes."
+  },
+  {
+   "start": 52.66,
+   "end": 56.98,
+   "text": "Económicamente, aprovecha infraestructura, gobernamental y soporte código abierto."
+  },
+  {
+   "start": 56.98,
+   "end": 60.42,
+   "text": "Operativamente, está diseñada para integrarse con SINAPRET"
+  },
+  {
+   "start": 60.42,
+   "end": 63.14,
+   "text": "y organizaciones de primera respuesta."
+  },
+  {
+   "start": 63.14,
+   "end": 67.14,
+   "text": "Legalmente, contempla las regulaciones y protocolos nacionales"
+  },
+  {
+   "start": 67.14,
+   "end": 70.66,
+   "text": "y, socialmente, busca llevar unas respuestas más rápidas"
+  },
+  {
+   "start": 70.66,
+   "end": 73.94,
+   "text": "y equitativas a las comunidades pulnerables y exladas."
+  },
+  {
+   "start": 73.94,
+   "end": 77.86,
+   "text": "Nuestra visión es convertir CESI en una herramienta estratégica"
+  },
+  {
+   "start": 77.86,
+   "end": 80.34,
+   "text": "para la gestión de emergencia aniversidad,"
+  },
+  {
+   "start": 80.42,
+   "end": 82.9,
+   "text": "porque no buscamos reemplazar a quienes salvan vidas,"
+  },
+  {
+   "start": 82.9,
+   "end": 86.66,
+   "text": "sino dar la tecnología para salvar más CESI."
+  },
+  {
+   "start": 86.66,
+   "end": 90.5,
+   "text": "Conectamos comunidades, optimizamos recursos y salvamos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 92.8
+}

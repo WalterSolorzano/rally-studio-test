@@ -1,0 +1,87 @@
+{
+ "video_id": "nh_hZnrxqwc",
+ "url": "https://youtube.com/shorts/nh_hZnrxqwc?si=80niCA-srA2afXWx",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVATIVEMIND",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "INNOVATIVEMIND",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:33:11+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Actualmente la acumulación y mezcla de desechos en abazura común causa la pérdida de recursos valiosos que aún pueden aprovecharse. La falta de puntos de recolección, el desarmado, empírico y la manipulación sin protección generan riesgo a la salud y aumentan la contaminación. Nuestra propuesta implementa un sistema económico y seguro para recolectar, clasificar, desarmar y recuperar componentes reutilizables a través de rutas organizadas, protocolos de trabajo, con equipos de protección y un registro adecuado, le damos una segunda vida útil a los materiales. Lo innovador radica en integrar todo el proceso en un solo sistema accesible, debajo costo y sin necesidad de maquinaria compleja. Además, los residuos peligrosos son gestionados adecuadamente con entidades autorizadas para garantizar la seguridad. Esta iniciativa impulsa la participación comunitaria, crea empleo local y fomente el cuidado ambiental, logrando un entorno más limpio y sostenible para todo.",
+ "segments": [
+  {
+   "start": 0.46,
+   "end": 5.26,
+   "text": "Actualmente la acumulación y mezcla de desechos en abazura"
+  },
+  {
+   "start": 5.26,
+   "end": 9.62,
+   "text": "común causa la pérdida de recursos valiosos que aún pueden aprovecharse."
+  },
+  {
+   "start": 9.62,
+   "end": 16.3,
+   "text": "La falta de puntos de recolección, el desarmado, empírico y la manipulación sin protección"
+  },
+  {
+   "start": 16.3,
+   "end": 19.62,
+   "text": "generan riesgo a la salud y aumentan la contaminación."
+  },
+  {
+   "start": 19.62,
+   "end": 25.06,
+   "text": "Nuestra propuesta implementa un sistema económico y seguro para recolectar,"
+  },
+  {
+   "start": 25.06,
+   "end": 30.26,
+   "text": "clasificar, desarmar y recuperar componentes reutilizables a través de rutas organizadas,"
+  },
+  {
+   "start": 30.26,
+   "end": 34.5,
+   "text": "protocolos de trabajo, con equipos de protección y un registro adecuado,"
+  },
+  {
+   "start": 34.5,
+   "end": 42.5,
+   "text": "le damos una segunda vida útil a los materiales. Lo innovador radica en integrar todo el proceso"
+  },
+  {
+   "start": 42.5,
+   "end": 47.9,
+   "text": "en un solo sistema accesible, debajo costo y sin necesidad de maquinaria compleja."
+  },
+  {
+   "start": 47.9,
+   "end": 55.9,
+   "text": "Además, los residuos peligrosos son gestionados adecuadamente con entidades autorizadas para"
+  },
+  {
+   "start": 55.9,
+   "end": 61.06,
+   "text": "garantizar la seguridad. Esta iniciativa impulsa la participación comunitaria,"
+  },
+  {
+   "start": 61.06,
+   "end": 67.7,
+   "text": "crea empleo local y fomente el cuidado ambiental, logrando un entorno más limpio y sostenible para todo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 67.9
+}

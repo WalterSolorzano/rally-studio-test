@@ -1,0 +1,77 @@
+{
+ "video_id": "ijDdr1Dvtjg",
+ "url": "https://youtu.be/ijDdr1Dvtjg?si=BKA4MEdmXj6a59ft",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "KU SPARKS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "KU SPARKS",
+   "challenge": "02 - RECICLADO TEXTIL"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:23:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "A veces algo viejo solo necesita una nueva mirada. Tomamos lo que otros desechan y lo convertimos a algo nuevo, útil y viemoso. En Renovatex Steel aprendimos que cada hilo tiene una historia que contar. Cada aprende que renovamos es una forma de cuidar el planeta. Y cada hilo que unimos une también nuestro ganas de cambiar el mundo. No se trata solo de cocer, se trata de transformar. Lo que era desecho ahora vuelve a tener vida. Renovatex Steel nace para darse a una oportunidad, para cambiarlo simple en lo significativo. Porque reciclar no es solo cambiar una prenda, estudiar el mundo en lo que desechamos. Somos Renovatex Steel.",
+ "segments": [
+  {
+   "start": 0.46,
+   "end": 4.46,
+   "text": "A veces algo viejo solo necesita una nueva mirada."
+  },
+  {
+   "start": 4.46,
+   "end": 13.18,
+   "text": "Tomamos lo que otros desechan y lo convertimos a algo nuevo, útil y viemoso."
+  },
+  {
+   "start": 13.18,
+   "end": 18.18,
+   "text": "En Renovatex Steel aprendimos que cada hilo tiene una historia que contar."
+  },
+  {
+   "start": 18.18,
+   "end": 24.13,
+   "text": "Cada aprende que renovamos es una forma de cuidar el planeta."
+  },
+  {
+   "start": 24.13,
+   "end": 28.13,
+   "text": "Y cada hilo que unimos une también nuestro ganas de cambiar el mundo."
+  },
+  {
+   "start": 28.13,
+   "end": 36.19,
+   "text": "No se trata solo de cocer, se trata de transformar."
+  },
+  {
+   "start": 36.19,
+   "end": 39.19,
+   "text": "Lo que era desecho ahora vuelve a tener vida."
+  },
+  {
+   "start": 39.19,
+   "end": 46.19,
+   "text": "Renovatex Steel nace para darse a una oportunidad, para cambiarlo simple en lo significativo."
+  },
+  {
+   "start": 46.19,
+   "end": 51.19,
+   "text": "Porque reciclar no es solo cambiar una prenda, estudiar el mundo en lo que desechamos."
+  },
+  {
+   "start": 51.19,
+   "end": 54.19,
+   "text": "Somos Renovatex Steel."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 57.5
+}

@@ -1,0 +1,132 @@
+{
+ "video_id": "noFYP8VV_RA",
+ "url": "https://youtu.be/noFYP8VV_RA?si=hRYpsNF5MQTDJhUY",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "G5 INNOVATE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "G5 INNOVATE",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:35:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Creamos una plataforma en la que se recibe información vital cuando todo lo demás falla. Ante un desastre los bomberos y recatistas operan a ciegas. Por eso desarrollamos el centro de mando SOS Blue, un panel inteligente que recepciona datos de emergencia y genera un mapa de calor aunque las torres celulares colapsen. ¿Cómo logramos que esta información llegue al panel? A través de una red de Maya, la señal de auxilio viaja brincando de teléfono en utilizando bluetooth de bajo consumo. Los datos saltan de manera invisible entre los celulares de los ciudadanos hasta alcanzar un dispositivo con internet disparando la información al puesto de mando. Nuestro modelo de innovación social no busca lucrar con la tragedia. Nuestra ganancia es salvar vidas por eso nuestra app es totalmente gratis y quienes asumen el costo operativo son las alcaldías con apenas mil dólares anuales que nos hace 100% autosostenibles. Para alimentar este centro de mandos diseñamos la aplicación ciudadana llamada SOS Blue. Desde el teléfono de la víctima la app funciona de manera offline. Solo seleccionas tu estadera verdad y la aplicación captura tu ubicación satelital para empezar a emitir señales de auxilio a los teléfonos cercanos. La clave de nuestro éxito es el volumen. Entre más personas tengan instalada la aplicación más fuerte es la red y mucho mejor llegará la señal de a los mujeres. La meta es que todos la descarguen gratis y adquieren el panel de control para proteger a toda su población. Somos G5 Innovate y estamos aquí para salvar vidas.",
+ "segments": [
+  {
+   "start": 0.21,
+   "end": 5.01,
+   "text": "Creamos una plataforma en la que se recibe información vital cuando todo lo demás"
+  },
+  {
+   "start": 5.01,
+   "end": 10.71,
+   "text": "falla. Ante un desastre los bomberos y recatistas operan a ciegas. Por eso"
+  },
+  {
+   "start": 10.71,
+   "end": 15.37,
+   "text": "desarrollamos el centro de mando SOS Blue, un panel inteligente que recepciona"
+  },
+  {
+   "start": 15.37,
+   "end": 19.93,
+   "text": "datos de emergencia y genera un mapa de calor aunque las torres celulares"
+  },
+  {
+   "start": 19.93,
+   "end": 24.45,
+   "text": "colapsen. ¿Cómo logramos que esta información llegue al panel? A través de"
+  },
+  {
+   "start": 24.45,
+   "end": 28.31,
+   "text": "una red de Maya, la señal de auxilio viaja brincando de teléfono en"
+  },
+  {
+   "start": 28.71,
+   "end": 33.81,
+   "text": "utilizando bluetooth de bajo consumo. Los datos saltan de manera invisible entre los"
+  },
+  {
+   "start": 33.81,
+   "end": 37.43,
+   "text": "celulares de los ciudadanos hasta alcanzar un dispositivo con internet"
+  },
+  {
+   "start": 37.43,
+   "end": 41.83,
+   "text": "disparando la información al puesto de mando. Nuestro modelo de innovación"
+  },
+  {
+   "start": 41.83,
+   "end": 46.23,
+   "text": "social no busca lucrar con la tragedia. Nuestra ganancia es salvar vidas por eso"
+  },
+  {
+   "start": 46.23,
+   "end": 49.87,
+   "text": "nuestra app es totalmente gratis y quienes asumen el costo operativo son"
+  },
+  {
+   "start": 49.87,
+   "end": 55.23,
+   "text": "las alcaldías con apenas mil dólares anuales que nos hace 100% autosostenibles."
+  },
+  {
+   "start": 55.27,
+   "end": 59.19,
+   "text": "Para alimentar este centro de mandos diseñamos la aplicación ciudadana"
+  },
+  {
+   "start": 59.19,
+   "end": 65.11,
+   "text": "llamada SOS Blue. Desde el teléfono de la víctima la app funciona de manera offline."
+  },
+  {
+   "start": 65.11,
+   "end": 70.19,
+   "text": "Solo seleccionas tu estadera verdad y la aplicación captura tu ubicación"
+  },
+  {
+   "start": 70.19,
+   "end": 75.19,
+   "text": "satelital para empezar a emitir señales de auxilio a los teléfonos cercanos."
+  },
+  {
+   "start": 75.19,
+   "end": 79.55,
+   "text": "La clave de nuestro éxito es el volumen. Entre más personas tengan instalada"
+  },
+  {
+   "start": 79.55,
+   "end": 84.67,
+   "text": "la aplicación más fuerte es la red y mucho mejor llegará la señal de a los"
+  },
+  {
+   "start": 84.67,
+   "end": 90.31,
+   "text": "mujeres. La meta es que todos la descarguen gratis y adquieren el panel de control"
+  },
+  {
+   "start": 90.31,
+   "end": 95.39,
+   "text": "para proteger a toda su población. Somos G5 Innovate y estamos aquí para"
+  },
+  {
+   "start": 95.39,
+   "end": 98.07,
+   "text": "salvar vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.4
+}

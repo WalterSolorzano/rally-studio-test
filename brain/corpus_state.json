@@ -1,0 +1,71 @@
+{
+  "corpus_files": 17,
+  "project_file": null,
+  "missing_sources": [],
+  "files": [
+    {
+      "name": "analisis_nicaragua.pdf",
+      "bytes": 231056
+    },
+    {
+      "name": "claims_datos.md",
+      "bytes": 1164
+    },
+    {
+      "name": "ganadores_analisis.md",
+      "bytes": 30548
+    },
+    {
+      "name": "ganadores_db.md",
+      "bytes": 8695
+    },
+    {
+      "name": "ganadores_latam.md",
+      "bytes": 257480
+    },
+    {
+      "name": "guion_voz.md",
+      "bytes": 1814
+    },
+    {
+      "name": "investigacion_pitch.md",
+      "bytes": 25779
+    },
+    {
+      "name": "pautado_latam_ref.md",
+      "bytes": 12738
+    },
+    {
+      "name": "pautado_nacional_ref.md",
+      "bytes": 9854
+    },
+    {
+      "name": "rally_analisis.txt",
+      "bytes": 57341
+    },
+    {
+      "name": "retos.md",
+      "bytes": 3161
+    },
+    {
+      "name": "retos_ranked.md",
+      "bytes": 3384
+    },
+    {
+      "name": "retos_reporte.md",
+      "bytes": 2921
+    },
+    {
+      "name": "rubrica_latam.md",
+      "bytes": 2999
+    },
+    {
+      "name": "rubrica_oficial.jpeg",
+      "bytes": 207578
+    },
+    {
+      "name": "rubricas_matrices.md",
+      "bytes": 11867
+    }
+  ]
+}

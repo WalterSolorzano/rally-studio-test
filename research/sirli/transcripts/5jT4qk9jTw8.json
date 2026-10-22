@@ -1,0 +1,127 @@
+{
+ "video_id": "5jT4qk9jTw8",
+ "url": "https://youtu.be/5jT4qk9jTw8?si=lPRka4FJ85eyvnbH",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS AMONGUS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LOS AMONGUS",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:41:08+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Y si lo que llamamos progreso es en realidad parte del problema, durante años hemos medido el crecimiento por cuánto consumimos, cuántas montañas excavamos y cuántos recursos extraemos de la naturaleza, pero pocas veces nos detenemos a pensar en lo que estamos perdiendo en el proceso. Ojas, ramas, restos de poda y residuos orgánicos terminan acumulándose o siendo quemados cuando podrían tener una segunda oportunidad. Por eso, nosotros estudiantes de la universidad nacional autónoma de Nicaragua, un aleón, presentamos Bioterra, una aplicación y plataforma web que transforma los residuos verdes en oportunidades para las personas, las comunidades y Nicaragua. ¿Cómo resolvimos este problema? A través de la recolección accesible, permitiendo registrar ubicaciones, encontrar puntos de recolección o solicitar el servicio será gratuito, excepto por cantidades excepcionalmente grandes donde solo se cobrará el transporte. También ofreceremos recompensas ambientales, por cada donación los usuarios acumularán puntos que podrán canjear por fertilizantes y plantas, transformaremos la biomasa vegetal y los residuos orgánicos adecuados en fertilizantes mediante procesos responsables, reduciendo el desperdicio y promoviendo alternativas sostenibles. Además, impulsaremos una economía circular que conecte hogares, fincas y vendedores de plantas, creando acuerdos e intercambio y venta que beneficien a los pequeños productores y negocios locales. ¿Y qué aportamos nosotros al país? Calles y espacios más limpios, menos residuos desaprovechados, oportunidades para pequeños productores, apoyo a los negocios locales y una ciudadanía más consciente de su responsabilidad ambiental. Bioterra, transformamos residuos en recursos y pequeñas acciones en un futuro más sostenible para Nicaragua.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.8,
+   "text": "Y si lo que llamamos progreso es en realidad parte del problema, durante años hemos medido"
+  },
+  {
+   "start": 6.8,
+   "end": 12.84,
+   "text": "el crecimiento por cuánto consumimos, cuántas montañas excavamos y cuántos recursos extraemos"
+  },
+  {
+   "start": 12.84,
+   "end": 18.42,
+   "text": "de la naturaleza, pero pocas veces nos detenemos a pensar en lo que estamos perdiendo en el"
+  },
+  {
+   "start": 18.42,
+   "end": 25.16,
+   "text": "proceso. Ojas, ramas, restos de poda y residuos orgánicos terminan acumulándose o siendo"
+  },
+  {
+   "start": 25.16,
+   "end": 31.28,
+   "text": "quemados cuando podrían tener una segunda oportunidad. Por eso, nosotros estudiantes"
+  },
+  {
+   "start": 31.28,
+   "end": 37.04,
+   "text": "de la universidad nacional autónoma de Nicaragua, un aleón, presentamos Bioterra, una aplicación"
+  },
+  {
+   "start": 37.04,
+   "end": 42.72,
+   "text": "y plataforma web que transforma los residuos verdes en oportunidades para las personas, las"
+  },
+  {
+   "start": 42.72,
+   "end": 48.2,
+   "text": "comunidades y Nicaragua. ¿Cómo resolvimos este problema? A través de la recolección"
+  },
+  {
+   "start": 48.2,
+   "end": 53.44,
+   "text": "accesible, permitiendo registrar ubicaciones, encontrar puntos de recolección o solicitar"
+  },
+  {
+   "start": 53.44,
+   "end": 60.28,
+   "text": "el servicio será gratuito, excepto por cantidades excepcionalmente grandes donde solo se cobrará"
+  },
+  {
+   "start": 60.28,
+   "end": 65.96,
+   "text": "el transporte. También ofreceremos recompensas ambientales, por cada donación los usuarios"
+  },
+  {
+   "start": 65.96,
+   "end": 71.48,
+   "text": "acumularán puntos que podrán canjear por fertilizantes y plantas, transformaremos la"
+  },
+  {
+   "start": 71.48,
+   "end": 77.44,
+   "text": "biomasa vegetal y los residuos orgánicos adecuados en fertilizantes mediante procesos"
+  },
+  {
+   "start": 77.44,
+   "end": 82.68,
+   "text": "responsables, reduciendo el desperdicio y promoviendo alternativas sostenibles."
+  },
+  {
+   "start": 82.68,
+   "end": 88.72,
+   "text": "Además, impulsaremos una economía circular que conecte hogares, fincas y vendedores de plantas,"
+  },
+  {
+   "start": 88.72,
+   "end": 94.88,
+   "text": "creando acuerdos e intercambio y venta que beneficien a los pequeños productores y negocios locales."
+  },
+  {
+   "start": 94.88,
+   "end": 100.96,
+   "text": "¿Y qué aportamos nosotros al país? Calles y espacios más limpios, menos residuos"
+  },
+  {
+   "start": 100.96,
+   "end": 106.8,
+   "text": "desaprovechados, oportunidades para pequeños productores, apoyo a los negocios locales y"
+  },
+  {
+   "start": 106.8,
+   "end": 110.6,
+   "text": "una ciudadanía más consciente de su responsabilidad ambiental."
+  },
+  {
+   "start": 110.6,
+   "end": 118.28,
+   "text": "Bioterra, transformamos residuos en recursos y pequeñas acciones en un futuro más sostenible para Nicaragua."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.1
+}

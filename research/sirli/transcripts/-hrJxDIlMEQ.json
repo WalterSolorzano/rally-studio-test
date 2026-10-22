@@ -1,0 +1,152 @@
+{
+ "video_id": "-hrJxDIlMEQ",
+ "url": "https://www.youtube.com/watch?v=-hrJxDIlMEQ",
+ "year": 2019,
+ "collection": "internacional",
+ "country": "MÉXICO",
+ "team": "LOS ESTRAFALARIOS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2019,
+   "collection": "internacional",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LOS ESTRAFALARIOS",
+   "challenge": "07 - NUEVAS FORMAS DE PRODUCCIÓN HORTÍCOLA"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:06:54+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "Durante los últimos años ha ido en aumento el uso de productos plásticos en diferentes sectores de producción, y el agrícola no podía ser la excepción. Sin embargo, la constante utilización de estos genera grandes repercusiones que no se limitan a la acumulación de desechos plásticos, sino que también contribuyen con la contaminación de suelo, provocando infertilidad, disminución de la biodiversidad, y afectando negativamente a productos que consumimos día con día. Analizando esta problemática, observamos que la producción de hortalizas se genera con base de actividades lentas y poco rentables, como el uso de un semillero de plástico para la germinación de semillas donde se colocan las del producto deseado y pasadas tres o cuatro semanas se saca de este para plantarla en territorio definitivo, además de que el uso de fertilizantes químicos afecta de manera importante al medio ambiente. Tan solo en México, durante el 2018, para la producción de lechuga se utilizaron casi 10 millones de charolas de plástico, de las cuales solo una fracción mínima fue reciclada, mientras que el resto seguirá en el planeta unos cientos de años más. Consideramos que un punto de ruptura donde podemos intervenir de manera eficaz es modificando algunos aspectos del proceso de producción, como el impacto ambiental negativo que propicia el uso de estos germinadores altamente industrializados, implementando un aglomerado del tamaño de 14 filas por tres columnas con un espacio para 42 brotes, el cual llamamos Green Pot, integrado con un hongo endófito biocontrolador de la clase tricoderma, cuya función es potencializar las propiedades de la planta, haciendola resistente a plagas, falta de nutrientes en la tierra e inestabilidad ambiental. Otro componente es cascarón de huevo que nos brindará una fuente de calcio y resistencia, agregando en este bagazo de caña que nos proveerá de azúcares suficientes para mantener el hongo en condiciones óptimas durante el transporte y la germinación, unido con un musílago de nopal que no genera residuos porque las secciones de los semilleros están diseñadas para integrarse al cultivo y fertilizarlo. El proceso de elaboración del Green Pot comienza con la mezcla del bagazo de caña y el hongo, después se añade el cascarón de huevo triturado y la composta. La unión del aglomerado se lleva a cabo mediante musílago de nopal moldeado por la presión de una estampadora manual, que, además de dar forma, cumple con la función de seccionar las cavidades de nuestra charola. El funcionamiento de nuestro producto consiste en germinar las semillas de las hortalizas para su posterior trasplante a la tierra sin la necesidad de sacar la planta del semillero, pues cada celda se plantará en tierra que al degradarse en un tiempo estimado de una semana funcionará como el primer abono de la planta, mientras que los hongos nos evitarán el uso de plaguicidas. Gracias a la rentabilidad y sustentabilidad del producto, se obtiene como resultado la optimización del proceso, generando mayor productividad y ganancias para los pequeños y medianos productores.",
+ "segments": [
+  {
+   "start": 4.66,
+   "end": 17.85,
+   "text": "Durante los últimos años ha ido en aumento el uso de productos plásticos en diferentes sectores de producción, y el agrícola no podía ser la excepción."
+  },
+  {
+   "start": 17.85,
+   "end": 24.85,
+   "text": "Sin embargo, la constante utilización de estos genera grandes repercusiones que no se limitan a la acumulación de desechos plásticos,"
+  },
+  {
+   "start": 24.85,
+   "end": 33.85,
+   "text": "sino que también contribuyen con la contaminación de suelo, provocando infertilidad, disminución de la biodiversidad, y afectando negativamente a productos que consumimos día con día."
+  },
+  {
+   "start": 33.85,
+   "end": 40.85,
+   "text": "Analizando esta problemática, observamos que la producción de hortalizas se genera con base de actividades lentas y poco rentables,"
+  },
+  {
+   "start": 40.85,
+   "end": 50.85,
+   "text": "como el uso de un semillero de plástico para la germinación de semillas donde se colocan las del producto deseado y pasadas tres o cuatro semanas se saca de este para plantarla en territorio definitivo,"
+  },
+  {
+   "start": 50.85,
+   "end": 55.85,
+   "text": "además de que el uso de fertilizantes químicos afecta de manera importante al medio ambiente."
+  },
+  {
+   "start": 56.85,
+   "end": 63.85,
+   "text": "Tan solo en México, durante el 2018, para la producción de lechuga se utilizaron casi 10 millones de charolas de plástico,"
+  },
+  {
+   "start": 63.85,
+   "end": 69.85,
+   "text": "de las cuales solo una fracción mínima fue reciclada, mientras que el resto seguirá en el planeta unos cientos de años más."
+  },
+  {
+   "start": 70.85,
+   "end": 77.85,
+   "text": "Consideramos que un punto de ruptura donde podemos intervenir de manera eficaz es modificando algunos aspectos del proceso de producción,"
+  },
+  {
+   "start": 77.85,
+   "end": 82.85,
+   "text": "como el impacto ambiental negativo que propicia el uso de estos germinadores altamente industrializados,"
+  },
+  {
+   "start": 82.85,
+   "end": 90.85,
+   "text": "implementando un aglomerado del tamaño de 14 filas por tres columnas con un espacio para 42 brotes, el cual llamamos Green Pot,"
+  },
+  {
+   "start": 90.85,
+   "end": 95.85,
+   "text": "integrado con un hongo endófito biocontrolador de la clase tricoderma,"
+  },
+  {
+   "start": 95.85,
+   "end": 103.85,
+   "text": "cuya función es potencializar las propiedades de la planta, haciendola resistente a plagas, falta de nutrientes en la tierra e inestabilidad ambiental."
+  },
+  {
+   "start": 103.85,
+   "end": 108.85,
+   "text": "Otro componente es cascarón de huevo que nos brindará una fuente de calcio y resistencia,"
+  },
+  {
+   "start": 108.85,
+   "end": 116.85,
+   "text": "agregando en este bagazo de caña que nos proveerá de azúcares suficientes para mantener el hongo en condiciones óptimas durante el transporte y la germinación,"
+  },
+  {
+   "start": 116.85,
+   "end": 125.85,
+   "text": "unido con un musílago de nopal que no genera residuos porque las secciones de los semilleros están diseñadas para integrarse al cultivo y fertilizarlo."
+  },
+  {
+   "start": 126.85,
+   "end": 131.85,
+   "text": "El proceso de elaboración del Green Pot comienza con la mezcla del bagazo de caña y el hongo,"
+  },
+  {
+   "start": 131.85,
+   "end": 135.85,
+   "text": "después se añade el cascarón de huevo triturado y la composta."
+  },
+  {
+   "start": 135.85,
+   "end": 141.85,
+   "text": "La unión del aglomerado se lleva a cabo mediante musílago de nopal moldeado por la presión de una estampadora manual,"
+  },
+  {
+   "start": 141.85,
+   "end": 147.85,
+   "text": "que, además de dar forma, cumple con la función de seccionar las cavidades de nuestra charola."
+  },
+  {
+   "start": 148.85,
+   "end": 157.85,
+   "text": "El funcionamiento de nuestro producto consiste en germinar las semillas de las hortalizas para su posterior trasplante a la tierra sin la necesidad de sacar la planta del semillero,"
+  },
+  {
+   "start": 157.85,
+   "end": 164.85,
+   "text": "pues cada celda se plantará en tierra que al degradarse en un tiempo estimado de una semana funcionará como el primer abono de la planta,"
+  },
+  {
+   "start": 164.85,
+   "end": 168.85,
+   "text": "mientras que los hongos nos evitarán el uso de plaguicidas."
+  },
+  {
+   "start": 169.85,
+   "end": 172.85,
+   "text": "Gracias a la rentabilidad y sustentabilidad del producto,"
+  },
+  {
+   "start": 172.85,
+   "end": 179.85,
+   "text": "se obtiene como resultado la optimización del proceso, generando mayor productividad y ganancias para los pequeños y medianos productores."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 182.3
+}

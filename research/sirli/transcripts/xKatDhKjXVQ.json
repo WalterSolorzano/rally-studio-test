@@ -1,0 +1,192 @@
+{
+ "video_id": "xKatDhKjXVQ",
+ "url": "https://www.youtube.com/watch?v=xKatDhKjXVQ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CHECKMATE UA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "CHECKMATE UA",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:09:32+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hola, somos Chechmeyua de la Universidad de MCA. En Nicaragua, los ISMOS son un riesgo constante. Y muchas veces no tenemos la capacidad de reaccionar y debido a esto tenemos pérdidas humanas y daños materiales. Muchas personas no disponen de herramientas tecnológicas que les avissen con anticipación sobre estos desastres naturales. Hay otro problema, milete de dispositivos electrones que se han guardado o desechado, lo cual aumenta los residuos electrónicos. Por esta razón creamos la aplicación Nick Alerta, la cual reutiliza teléfono en desuso para contribuir a la prevención de sismo y el cuido del medio ambiente. ¿Cómo funcionan? El acerómetro y el GPS reciben alteraciones inusuales. La ADT permite ver estos registros, consultar alertas sísmicas oficiales, recibir reportes comunitarias co-localizados, seguir guías de emergencias, incluso sin conexión a internet. Comenzaremos gradualmente en la costa del Pacífico con alianzas a universidades e instituciones de gestión de riesgo. El impacto social es doble, fortalece la participación de la ciudadanía, en lo cultural la prevención, en lo ambiental entiende el uso de los positivos. No requiere de un árbol costoso, no requiere de bastante energía y escalable para el país. Queremos ser claros, ni que alerta no pretende reemplazar sistema oficiales ni prediseterremotos. Es una herramienta experimental y complementaria que a futuro podría implementarse pronóstico y seguimiento de huracanes. Convertimos teléfonos olvidados en aliados para proteger la vida.",
+ "segments": [
+  {
+   "start": 0.69,
+   "end": 4.77,
+   "text": "Hola, somos Chechmeyua de la Universidad de MCA."
+  },
+  {
+   "start": 4.77,
+   "end": 8.93,
+   "text": "En Nicaragua, los ISMOS son un riesgo constante."
+  },
+  {
+   "start": 8.93,
+   "end": 14.25,
+   "text": "Y muchas veces no tenemos la capacidad de reaccionar y debido a esto tenemos pérdidas humanas"
+  },
+  {
+   "start": 14.25,
+   "end": 15.57,
+   "text": "y daños materiales."
+  },
+  {
+   "start": 15.57,
+   "end": 21.17,
+   "text": "Muchas personas no disponen de herramientas tecnológicas que les avissen con anticipación sobre estos"
+  },
+  {
+   "start": 21.17,
+   "end": 22.61,
+   "text": "desastres naturales."
+  },
+  {
+   "start": 22.61,
+   "end": 28.45,
+   "text": "Hay otro problema, milete de dispositivos electrones que se han guardado o desechado,"
+  },
+  {
+   "start": 28.45,
+   "end": 31.83,
+   "text": "lo cual aumenta los residuos electrónicos."
+  },
+  {
+   "start": 31.83,
+   "end": 35.03,
+   "text": "Por esta razón creamos la aplicación Nick Alerta,"
+  },
+  {
+   "start": 35.03,
+   "end": 40.03,
+   "text": "la cual reutiliza teléfono en desuso para contribuir"
+  },
+  {
+   "start": 40.03,
+   "end": 44.57,
+   "text": "a la prevención de sismo y el cuido del medio ambiente."
+  },
+  {
+   "start": 44.57,
+   "end": 45.57,
+   "text": "¿Cómo funcionan?"
+  },
+  {
+   "start": 45.57,
+   "end": 48.83,
+   "text": "El acerómetro y el GPS reciben alteraciones inusuales."
+  },
+  {
+   "start": 48.83,
+   "end": 50.91,
+   "text": "La ADT permite ver estos registros,"
+  },
+  {
+   "start": 50.91,
+   "end": 53.45,
+   "text": "consultar alertas sísmicas oficiales,"
+  },
+  {
+   "start": 53.45,
+   "end": 56.67,
+   "text": "recibir reportes comunitarias co-localizados,"
+  },
+  {
+   "start": 56.67,
+   "end": 60.67,
+   "text": "seguir guías de emergencias, incluso sin conexión a internet."
+  },
+  {
+   "start": 60.67,
+   "end": 63.67,
+   "text": "Comenzaremos gradualmente en la costa del Pacífico"
+  },
+  {
+   "start": 63.67,
+   "end": 67.67,
+   "text": "con alianzas a universidades e instituciones de gestión de riesgo."
+  },
+  {
+   "start": 68.67,
+   "end": 70.67,
+   "text": "El impacto social es doble,"
+  },
+  {
+   "start": 70.67,
+   "end": 73.67,
+   "text": "fortalece la participación de la ciudadanía,"
+  },
+  {
+   "start": 73.67,
+   "end": 75.67,
+   "text": "en lo cultural la prevención,"
+  },
+  {
+   "start": 75.67,
+   "end": 78.67,
+   "text": "en lo ambiental entiende el uso de los positivos."
+  },
+  {
+   "start": 78.67,
+   "end": 80.67,
+   "text": "No requiere de un árbol costoso,"
+  },
+  {
+   "start": 80.67,
+   "end": 84.67,
+   "text": "no requiere de bastante energía y escalable para el país."
+  },
+  {
+   "start": 84.67,
+   "end": 86.67,
+   "text": "Queremos ser claros,"
+  },
+  {
+   "start": 86.67,
+   "end": 89.67,
+   "text": "ni que alerta no pretende reemplazar sistema oficiales"
+  },
+  {
+   "start": 89.67,
+   "end": 91.67,
+   "text": "ni prediseterremotos."
+  },
+  {
+   "start": 91.67,
+   "end": 94.67,
+   "text": "Es una herramienta experimental y complementaria"
+  },
+  {
+   "start": 94.67,
+   "end": 97.67,
+   "text": "que a futuro podría implementarse"
+  },
+  {
+   "start": 97.67,
+   "end": 100.67,
+   "text": "pronóstico y seguimiento de huracanes."
+  },
+  {
+   "start": 100.67,
+   "end": 102.67,
+   "text": "Convertimos teléfonos olvidados"
+  },
+  {
+   "start": 102.67,
+   "end": 105.67,
+   "text": "en aliados para proteger la vida."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 122.7
+}

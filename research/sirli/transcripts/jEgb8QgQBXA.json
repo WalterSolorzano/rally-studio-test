@@ -1,0 +1,97 @@
+{
+ "video_id": "jEgb8QgQBXA",
+ "url": "https://youtu.be/jEgb8QgQBXA?si=Z6_aLXCD4MW4uLbE",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ALERT-INNOVA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ALERT-INNOVA",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:10:23+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En los últimos años, las lluvias intensas han causado inundaciones que han afectado a millones de familias en Latinoamérica. De acuerdo con el informe emitido por UNICEF, 2023 desde el año 2000 los desastres han afectado a más de 200 millones de personas en América Latina y otras regiones. Muchas de ellas viven en zonas rurales sin acceso a sistemas de alerta temprana. La información no llega a tiempo y la naturaleza no espera. Alertin Nova surge como una solución para cambiar eso. Es una plataforma de monitoreo climático y alertas tempranas que informa en tiempo real a las comunidades en riesgo, usando herramientas digitales y sistemas accesibles. Alertin Nova recoge datos meteorológicos, analiza patrones del clima y detecta riesgos potenciales antes de que el desastre ocurra. La información se envía de forma inmediata a través de mensajes SMS, radio comunitaria o una app móvil, dependiendo de la conectividad de cada zona. Además, Alertin Odo permite a las autoridades locales y equipos de respuesta visualizar en un solo mapa los puntos críticos, facilitando la toma de decisiones rápidas y coordinadas. Gracias a su bajo costo de desarrollo, solo 257.99 dólares es una herramienta sostenible y escalable que puede implementarse en toda la región. Con Alertin Odo buscamos algo más que tecnología. Buscamos prevenir pérdidas, proteger vidas y fortalecer la resiliencia de nuestras comunidades. Porque cuando la información llega a tiempo, la esperanza también no hace. Alertin Nova, tecnología que informa, protege y salva vidas.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.0,
+   "text": "En los últimos años, las lluvias intensas han causado inundaciones que han afectado a millones de familias en Latinoamérica."
+  },
+  {
+   "start": 7.0,
+   "end": 17.0,
+   "text": "De acuerdo con el informe emitido por UNICEF, 2023 desde el año 2000 los desastres han afectado a más de 200 millones de personas en América Latina y otras regiones."
+  },
+  {
+   "start": 17.0,
+   "end": 22.0,
+   "text": "Muchas de ellas viven en zonas rurales sin acceso a sistemas de alerta temprana."
+  },
+  {
+   "start": 22.0,
+   "end": 26.0,
+   "text": "La información no llega a tiempo y la naturaleza no espera."
+  },
+  {
+   "start": 26.0,
+   "end": 30.0,
+   "text": "Alertin Nova surge como una solución para cambiar eso."
+  },
+  {
+   "start": 30.0,
+   "end": 39.0,
+   "text": "Es una plataforma de monitoreo climático y alertas tempranas que informa en tiempo real a las comunidades en riesgo, usando herramientas digitales y sistemas accesibles."
+  },
+  {
+   "start": 39.0,
+   "end": 47.0,
+   "text": "Alertin Nova recoge datos meteorológicos, analiza patrones del clima y detecta riesgos potenciales antes de que el desastre ocurra."
+  },
+  {
+   "start": 47.0,
+   "end": 57.0,
+   "text": "La información se envía de forma inmediata a través de mensajes SMS, radio comunitaria o una app móvil, dependiendo de la conectividad de cada zona."
+  },
+  {
+   "start": 57.0,
+   "end": 67.0,
+   "text": "Además, Alertin Odo permite a las autoridades locales y equipos de respuesta visualizar en un solo mapa los puntos críticos, facilitando la toma de decisiones rápidas y coordinadas."
+  },
+  {
+   "start": 67.0,
+   "end": 78.0,
+   "text": "Gracias a su bajo costo de desarrollo, solo 257.99 dólares es una herramienta sostenible y escalable que puede implementarse en toda la región."
+  },
+  {
+   "start": 78.0,
+   "end": 82.0,
+   "text": "Con Alertin Odo buscamos algo más que tecnología."
+  },
+  {
+   "start": 82.0,
+   "end": 88.0,
+   "text": "Buscamos prevenir pérdidas, proteger vidas y fortalecer la resiliencia de nuestras comunidades."
+  },
+  {
+   "start": 88.0,
+   "end": 92.0,
+   "text": "Porque cuando la información llega a tiempo, la esperanza también no hace."
+  },
+  {
+   "start": 92.0,
+   "end": 96.0,
+   "text": "Alertin Nova, tecnología que informa, protege y salva vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 111.5
+}

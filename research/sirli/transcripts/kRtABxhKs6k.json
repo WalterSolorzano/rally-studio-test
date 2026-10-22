@@ -1,0 +1,87 @@
+{
+ "video_id": "kRtABxhKs6k",
+ "url": "https://youtu.be/kRtABxhKs6k",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS NACATAMALITOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS NACATAMALITOS",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:45:41+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "alerta sísmica alerta sísmica ¿Qué pasaría si durante una emergencia se necesita informar dónde ocurre, cuándo sucede y para qué se necesitan los recursos para ayudar a tu comunidad? Imagina un desastre en minutos la autoridad, si está turo y poco personal y lo quedó en la misma empresa ¿Los reportes se duplican, que hanislado o no se le atienden sin medir la gravedad? Esa retrasa es la respuesta y la ayuda no siempre llega a quienes más la necesitan Nuestra plataforma convierte reportes en una misión clara, qué ocurre, dónde ocurre y qué recursos se necesitan en ese lugar y cómo llegar también Algo más donos reportes de acuerdo a su magnitud y también, qué habitando duplicados Nuestra mapa también muestra las rutas disponibles y los lugares seguros para nuestra población Nosotros nos sustituimos a la autoridad y a la sistema existente Los fortalecemos con información territorial organizada para decidir mejor A vez más, guardamos el historial de evento y riesgo para mejorar la preparación y planificación futura Somos Singer, información que salva vidas",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.74,
+   "text": "alerta sísmica alerta sísmica"
+  },
+  {
+   "start": 9.74,
+   "end": 23.13,
+   "text": "¿Qué pasaría si durante una emergencia se necesita informar dónde ocurre, cuándo sucede y para qué se necesitan los recursos para ayudar a tu comunidad?"
+  },
+  {
+   "start": 23.13,
+   "end": 35.13,
+   "text": "Imagina un desastre en minutos la autoridad, si está turo y poco personal y lo quedó en la misma empresa"
+  },
+  {
+   "start": 35.13,
+   "end": 42.13,
+   "text": "¿Los reportes se duplican, que hanislado o no se le atienden sin medir la gravedad?"
+  },
+  {
+   "start": 42.13,
+   "end": 47.13,
+   "text": "Esa retrasa es la respuesta y la ayuda no siempre llega a quienes más la necesitan"
+  },
+  {
+   "start": 47.13,
+   "end": 57.13,
+   "text": "Nuestra plataforma convierte reportes en una misión clara, qué ocurre, dónde ocurre y qué recursos se necesitan en ese lugar y cómo llegar también"
+  },
+  {
+   "start": 57.13,
+   "end": 62.13,
+   "text": "Algo más donos reportes de acuerdo a su magnitud y también, qué habitando duplicados"
+  },
+  {
+   "start": 62.13,
+   "end": 67.13,
+   "text": "Nuestra mapa también muestra las rutas disponibles y los lugares seguros para nuestra población"
+  },
+  {
+   "start": 67.13,
+   "end": 71.13,
+   "text": "Nosotros nos sustituimos a la autoridad y a la sistema existente"
+  },
+  {
+   "start": 71.13,
+   "end": 75.13,
+   "text": "Los fortalecemos con información territorial organizada para decidir mejor"
+  },
+  {
+   "start": 75.13,
+   "end": 82.13,
+   "text": "A vez más, guardamos el historial de evento y riesgo para mejorar la preparación y planificación futura"
+  },
+  {
+   "start": 82.13,
+   "end": 86.13,
+   "text": "Somos Singer, información que salva vidas"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 86.4
+}

@@ -1,0 +1,142 @@
+{
+ "video_id": "BPPPb844K_M",
+ "url": "https://youtu.be/BPPPb844K_M?si=F7ADsyFrka8TCnbw",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS POLINIZADORES",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "LOS POLINIZADORES",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:46:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imaginen un mundo sin los colores vibrantes de las flores silvestres. Imaginen huertos sin frutas y campos sin cosechas. Esta no es una escena de un futuro distópico. Es una posibilidad real si no protegemos a nuestros polinizadores. Los polinizadores, incluyendo las mariposas, las abejas y los abejorros, son los héroes no reconocidos de nuestros ecosistemas. La aplicación web Atlas 3D es una herramienta digital que ofrece un sinnúmero de información para la identificación, cuidado y manejo de los principales polinizadores en la región. En estas contamos con un mapa interactivo en 3D, el cual mediante vamos seleccionando cada país de Latinoamérica. Vamos a obtener información específica de cada uno de los polinizadores que se encuentran en cada una de estas regiones. Tenemos los cultivos principales que ellos polinizan, así como también tenemos una biblioteca de polinizadores, el cual nos brinda una imagen de referencia para una mayor identificación y más breve posible. También tenemos amenazas críticas de los animales polinizadores, también cosechas no sustentables de los polinizadores. Tenemos el valor económico de la polinización en América Latina, en cada uno de los diferentes cultivos que tenemos. Tenemos los planes que van a ser plan básico, plan pro y plan premium, con una cantidad bastante accesible.",
+ "segments": [
+  {
+   "start": 11.28,
+   "end": 14.68,
+   "text": "Imaginen un mundo sin los colores vibrantes de las flores silvestres."
+  },
+  {
+   "start": 15.8,
+   "end": 18.56,
+   "text": "Imaginen huertos sin frutas y campos sin cosechas."
+  },
+  {
+   "start": 19.52,
+   "end": 21.76,
+   "text": "Esta no es una escena de un futuro distópico."
+  },
+  {
+   "start": 22.56,
+   "end": 26.04,
+   "text": "Es una posibilidad real si no protegemos a nuestros polinizadores."
+  },
+  {
+   "start": 27.04,
+   "end": 31.36,
+   "text": "Los polinizadores, incluyendo las mariposas, las abejas y los abejorros,"
+  },
+  {
+   "start": 31.68,
+   "end": 34.4,
+   "text": "son los héroes no reconocidos de nuestros ecosistemas."
+  },
+  {
+   "start": 38.96,
+   "end": 43.16,
+   "text": "La aplicación web Atlas 3D es una herramienta digital"
+  },
+  {
+   "start": 43.16,
+   "end": 47.28,
+   "text": "que ofrece un sinnúmero de información para la identificación,"
+  },
+  {
+   "start": 47.6,
+   "end": 51.6,
+   "text": "cuidado y manejo de los principales polinizadores en la región."
+  },
+  {
+   "start": 52.32,
+   "end": 55.32,
+   "text": "En estas contamos con un mapa interactivo en 3D,"
+  },
+  {
+   "start": 55.76,
+   "end": 59.8,
+   "text": "el cual mediante vamos seleccionando cada país de Latinoamérica."
+  },
+  {
+   "start": 60.2,
+   "end": 63.64,
+   "text": "Vamos a obtener información específica de cada uno de los polinizadores"
+  },
+  {
+   "start": 63.64,
+   "end": 66.56,
+   "text": "que se encuentran en cada una de estas regiones."
+  },
+  {
+   "start": 67.04,
+   "end": 70.04,
+   "text": "Tenemos los cultivos principales que ellos polinizan,"
+  },
+  {
+   "start": 70.52,
+   "end": 74.2,
+   "text": "así como también tenemos una biblioteca de polinizadores,"
+  },
+  {
+   "start": 74.52,
+   "end": 77.08,
+   "text": "el cual nos brinda una imagen de referencia"
+  },
+  {
+   "start": 77.36,
+   "end": 81.16,
+   "text": "para una mayor identificación y más breve posible."
+  },
+  {
+   "start": 81.48,
+   "end": 84.88,
+   "text": "También tenemos amenazas críticas de los animales polinizadores,"
+  },
+  {
+   "start": 85.36,
+   "end": 89.68,
+   "text": "también cosechas no sustentables de los polinizadores."
+  },
+  {
+   "start": 90.24,
+   "end": 93.6,
+   "text": "Tenemos el valor económico de la polinización en América Latina,"
+  },
+  {
+   "start": 93.96,
+   "end": 98.64,
+   "text": "en cada uno de los diferentes cultivos que tenemos."
+  },
+  {
+   "start": 99.12,
+   "end": 103.96,
+   "text": "Tenemos los planes que van a ser plan básico, plan pro y plan premium,"
+  },
+  {
+   "start": 104.4,
+   "end": 107.08,
+   "text": "con una cantidad bastante accesible."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.8
+}

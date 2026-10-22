@@ -1,0 +1,117 @@
+{
+ "video_id": "0Ir8JW6mnBY",
+ "url": "https://youtu.be/0Ir8JW6mnBY?si=kq-f_mrEvxw3SW0x",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS KRUKUCITOS",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "LOS KRUKUCITOS",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:43:00+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Te imaginas una Nicaragua donde cada flor tenga un propósito, cada comunidad sea parte de la solución y cada polinizador tenga una oportunidad para sobrevivir. En Nicaragua contamos con una gran riqueza natural pero los polinizadores enfrentan amenazas como la pérdida de hábitat, el luz y una adecuada de plaguesides y la inmersión de plantas que les proporcionan alimento y recuptura. La innovación de Polilatam consiste en utilizar la inteligencia artificial y los datos comunitarios para orientar acciones de conversación. La tecnología podría ayudar a identificar plantas y polinizadores a partir de fotografías, organizar observaciones y detectar teorías en los que podría faltar el alimento plural. Polilatam busca generar impact con vientales sociales mediante la recuperación de espaces favorables para los polinizadores. Entre sus proyectos están los resultados esperados, se encuentran 1. Promover la siembra y conservación de plantas nativas. 2. Recuperar hábitat y espaces de alimentación para los polinizadores. 3. Comentar la educación ambiental en fueros y comunidades. 4. Incentivar prácticas agrícolas favorables a la vida de diversidad para crear una red de colaboración entre productores, estudiantes y organizaciones ambientales para desarrollar un modelo que pueda adaptarse a otros países de Latinoamérica. En Polilatam creemos que proteger al polinizador es proteger la vida, la vida de diversidad y el futuro en nuestras comunidades. Queremos demostrar que la tecnología no solo sirve para crear aplicaciones, sino también para conectar personas, recuperar espaces naturales y generar cambios positivos en nuestro entorno.",
+ "segments": [
+  {
+   "start": 0.05,
+   "end": 7.67,
+   "text": "Te imaginas una Nicaragua donde cada flor tenga un propósito, cada comunidad sea parte de la"
+  },
+  {
+   "start": 7.67,
+   "end": 15.23,
+   "text": "solución y cada polinizador tenga una oportunidad para sobrevivir. En Nicaragua contamos con una"
+  },
+  {
+   "start": 15.23,
+   "end": 20.33,
+   "text": "gran riqueza natural pero los polinizadores enfrentan amenazas como la pérdida de hábitat,"
+  },
+  {
+   "start": 20.33,
+   "end": 27.53,
+   "text": "el luz y una adecuada de plaguesides y la inmersión de plantas que les proporcionan alimento y"
+  },
+  {
+   "start": 27.53,
+   "end": 35.77,
+   "text": "recuptura. La innovación de Polilatam consiste en utilizar la inteligencia artificial y los datos"
+  },
+  {
+   "start": 35.77,
+   "end": 43.37,
+   "text": "comunitarios para orientar acciones de conversación. La tecnología podría ayudar a identificar plantas"
+  },
+  {
+   "start": 43.37,
+   "end": 49.93,
+   "text": "y polinizadores a partir de fotografías, organizar observaciones y detectar teorías"
+  },
+  {
+   "start": 49.93,
+   "end": 56.65,
+   "text": "en los que podría faltar el alimento plural. Polilatam busca generar impact con vientales"
+  },
+  {
+   "start": 56.65,
+   "end": 61.69,
+   "text": "sociales mediante la recuperación de espaces favorables para los polinizadores."
+  },
+  {
+   "start": 61.69,
+   "end": 68.05,
+   "text": "Entre sus proyectos están los resultados esperados, se encuentran 1. Promover la siembra y conservación"
+  },
+  {
+   "start": 68.05,
+   "end": 74.97,
+   "text": "de plantas nativas. 2. Recuperar hábitat y espaces de alimentación para los polinizadores."
+  },
+  {
+   "start": 74.97,
+   "end": 79.73,
+   "text": "3. Comentar la educación ambiental en fueros y comunidades."
+  },
+  {
+   "start": 80.49,
+   "end": 86.73,
+   "text": "4. Incentivar prácticas agrícolas favorables a la vida de diversidad para crear una red de"
+  },
+  {
+   "start": 86.73,
+   "end": 93.69,
+   "text": "colaboración entre productores, estudiantes y organizaciones ambientales para desarrollar"
+  },
+  {
+   "start": 93.69,
+   "end": 98.49,
+   "text": "un modelo que pueda adaptarse a otros países de Latinoamérica."
+  },
+  {
+   "start": 98.49,
+   "end": 104.89,
+   "text": "En Polilatam creemos que proteger al polinizador es proteger la vida, la vida de diversidad"
+  },
+  {
+   "start": 105.05,
+   "end": 111.93,
+   "text": "y el futuro en nuestras comunidades. Queremos demostrar que la tecnología no solo sirve para crear aplicaciones,"
+  },
+  {
+   "start": 111.93,
+   "end": 120.57,
+   "text": "sino también para conectar personas, recuperar espaces naturales y generar cambios positivos en nuestro entorno."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 121.9
+}

@@ -1,0 +1,67 @@
+/* Estilo de impresión del libro. Se incrusta en libro.html. */
+:root {
+  --tinta: #1a1d24;
+  --gris: #5b6472;
+  --linea: #d7dbe3;
+  --acento: #1d45b9;
+  --rojo: #f81110;
+}
+html { font-size: 16px; }
+body {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: var(--tinta);
+  line-height: 1.55;
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 6rem;
+  background: #fff;
+}
+h1, h2, h3, h4 { line-height: 1.2; font-weight: 650; letter-spacing: -0.01em; }
+h1 { font-size: 2rem; margin: 3rem 0 1rem; border-bottom: 2px solid var(--tinta); padding-bottom: .4rem; }
+h2 { font-size: 1.45rem; margin: 2.6rem 0 .8rem; page-break-before: always; }
+h2:first-of-type { page-break-before: avoid; }
+h3 { font-size: 1.1rem; margin: 1.8rem 0 .5rem; color: var(--acento); }
+h4 { font-size: 1rem; margin: 1.4rem 0 .4rem; }
+p { margin: .55rem 0 .75rem; text-align: justify; hyphens: auto; }
+ul, ol { margin: .5rem 0 .9rem 1.2rem; }
+li { margin: .18rem 0; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .78rem;
+  margin: 1rem 0 1.4rem;
+  page-break-inside: avoid;
+}
+thead th {
+  background: #eef1f7;
+  text-align: left;
+  font-weight: 650;
+  border-bottom: 2px solid var(--tinta);
+}
+th, td { padding: .3rem .42rem; border-bottom: 1px solid var(--linea); vertical-align: top; }
+tbody tr:nth-child(even) { background: #fafbfd; }
+td:not(:first-child), th:not(:first-child) { text-align: right; }
+img { max-width: 100%; height: auto; display: block; margin: 1.2rem auto .4rem; }
+figure { margin: 1.4rem 0; }
+figcaption, em { color: var(--gris); font-size: .9em; }
+blockquote {
+  margin: 1rem 0;
+  padding: .6rem 1rem;
+  border-left: 3px solid var(--acento);
+  background: #f7f9fd;
+  color: #2b3038;
+  font-style: italic;
+}
+code, pre { font-family: "Cascadia Mono", Consolas, monospace; font-size: .82rem; }
+pre { background: #f5f6f9; padding: .8rem 1rem; overflow-x: auto; border-left: 3px solid var(--gris); }
+hr { border: 0; border-top: 1px solid var(--linea); margin: 2.4rem 0; }
+a { color: var(--acento); text-decoration: none; }
+#TOC { background: #f7f9fd; border: 1px solid var(--linea); padding: .8rem 1.2rem; margin: 2rem 0; font-size: .9rem; }
+#TOC ul { list-style: none; margin-left: 0; }
+#TOC ul ul { margin-left: 1rem; }
+#TOC a { color: var(--tinta); }
+@media print {
+  body { max-width: none; padding: 0; font-size: 10.5pt; }
+  a { color: var(--tinta); }
+  #TOC { page-break-after: always; }
+}

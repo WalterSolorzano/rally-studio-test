@@ -1,0 +1,132 @@
+{
+ "video_id": "tPQnoDtvtrU",
+ "url": "https://youtu.be/tPQnoDtvtrU",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ATOMOS DE VIDA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ATOMOS DE VIDA",
+   "challenge": "03 - AGUA SEGURA"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:18:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Bruguaia atraviesa por la peor sequía en 70 años y las consecuencias son evidentes, más aún en la capital. El gobierno anunció que en menos de 10 días, a Montevideo simplemente se quedará sin agua potable. Y a los residentes de la Ciudad Mexicana de Monterrey enfrentan una histórica escasez de agua que las autoridades atribuyen al calor extremo que ha generado condiciones de sequías severas y en una baja de precedentes en las dos presas que abastecen la zona. El contenedor principal está fabricado a partir de un plástico rotilizable de terescalato de polietilena, el cual es resistente a la corrupción y puede ser muy fácil de adquirir. Además, el sistema implementa el uso de lámparas y germicidas de inmersión que utilizan radio ultravioleta para la descontaminación o desinfección del agua, a diferencia de los métodos convencionales que utilizan productos derivados del cloro. Esta es de gran importancia ya que se ha demostrado que el mal uso del cloro puede llegar a generar efecto al perso en la salud de las personas. Por otra parte, el sistema estará alimentado por un panel solar compuesto por discos, los cuales serán fabricados a partir de residuos tecnológicos como no son los discos de sílice. Este enfoque permite aprovechar la radiación solar para transformarla en electrones que serán canalizada y recoletada para la producción de energía. Por otra parte, el filtro purificador que utiliza carbón activador retiene partículas orgánicas que garantizan una mejor calidad en el agua, brindando así un producto más saludable.",
+ "segments": [
+  {
+   "start": 8.53,
+   "end": 13.85,
+   "text": "Bruguaia atraviesa por la peor sequía en 70 años y las consecuencias son evidentes, más"
+  },
+  {
+   "start": 13.85,
+   "end": 15.35,
+   "text": "aún en la capital."
+  },
+  {
+   "start": 15.35,
+   "end": 20.17,
+   "text": "El gobierno anunció que en menos de 10 días, a Montevideo simplemente se quedará sin agua"
+  },
+  {
+   "start": 20.17,
+   "end": 21.17,
+   "text": "potable."
+  },
+  {
+   "start": 21.17,
+   "end": 25.97,
+   "text": "Y a los residentes de la Ciudad Mexicana de Monterrey enfrentan una histórica escasez"
+  },
+  {
+   "start": 25.97,
+   "end": 30.69,
+   "text": "de agua que las autoridades atribuyen al calor extremo que ha generado condiciones"
+  },
+  {
+   "start": 30.69,
+   "end": 50.59,
+   "text": "de sequías severas y en una baja de precedentes en las dos presas que abastecen la zona."
+  },
+  {
+   "start": 50.59,
+   "end": 55.79,
+   "text": "El contenedor principal está fabricado a partir de un plástico rotilizable de terescalato"
+  },
+  {
+   "start": 55.79,
+   "end": 63.03,
+   "text": "de polietilena, el cual es resistente a la corrupción y puede ser muy fácil de adquirir."
+  },
+  {
+   "start": 63.03,
+   "end": 70.23,
+   "text": "Además, el sistema implementa el uso de lámparas y germicidas de inmersión que utilizan radio"
+  },
+  {
+   "start": 70.23,
+   "end": 75.57,
+   "text": "ultravioleta para la descontaminación o desinfección del agua, a diferencia de"
+  },
+  {
+   "start": 75.57,
+   "end": 79.71,
+   "text": "los métodos convencionales que utilizan productos derivados del cloro."
+  },
+  {
+   "start": 79.71,
+   "end": 84.07,
+   "text": "Esta es de gran importancia ya que se ha demostrado que el mal uso del cloro puede llegar a generar"
+  },
+  {
+   "start": 84.07,
+   "end": 87.81,
+   "text": "efecto al perso en la salud de las personas."
+  },
+  {
+   "start": 87.81,
+   "end": 94.27,
+   "text": "Por otra parte, el sistema estará alimentado por un panel solar compuesto por discos, los"
+  },
+  {
+   "start": 94.27,
+   "end": 99.75,
+   "text": "cuales serán fabricados a partir de residuos tecnológicos como no son los discos de sílice."
+  },
+  {
+   "start": 99.75,
+   "end": 103.75,
+   "text": "Este enfoque permite aprovechar la radiación solar para transformarla en electrones que"
+  },
+  {
+   "start": 103.75,
+   "end": 108.11,
+   "text": "serán canalizada y recoletada para la producción de energía."
+  },
+  {
+   "start": 108.11,
+   "end": 112.79,
+   "text": "Por otra parte, el filtro purificador que utiliza carbón activador retiene partículas"
+  },
+  {
+   "start": 112.79,
+   "end": 118.11,
+   "text": "orgánicas que garantizan una mejor calidad en el agua, brindando así un producto más"
+  },
+  {
+   "start": 118.11,
+   "end": 118.87,
+   "text": "saludable."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.0
+}

@@ -1,0 +1,97 @@
+{
+ "video_id": "ST9z3t0V9WQ",
+ "url": "https://youtu.be/ST9z3t0V9WQ",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS IRRESOLUTOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS IRRESOLUTOS",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:05:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Alucuar es un sistema que consta de varios dispositivos orientados a la detección de deslizamiento, el cual será capaz de identificar los territorios de riesgo por medio de un sitio web y futura aplicación. Además de indicar las zonas estratégicas de dónde se verán ubicar los sensores de movimientos ubicados a la falda de la ladera, sensor de precipitación ubicado en acima de la ladera y los sensores de ruptura ubicados bajo tierras que permitirán detectar los grados de riesgo, así como el inicio de un deslizamiento. Todos estos datos serán emitidos, guardados y analizados en el centro de procesamiento de datos más cercanos ubicados en la falda de la ladera. El mismo también enviará una alerta con código de deslave de forma inmediata a un sitio web y la futura app. Asimismo, en compromiso con la biodisponibilidad del mismo, este contará con paneles solares en el techo del centro de procesamiento para su alimentación energética. El sitio web está diseñado con una interfaz sencilla e intuitiva que permitirá al usuario acceder a las diferentes herramientas de sistema, tales como selección de ubicación y vista en tiempo real, a través de un mapa geográfico en base a sistemas de coordenadas GPS, con el objetivo de proporcionar localidades inestables y seguras en cuanto a movimiento de remoción en masa. En base a lo antes mencionado, la app móvil tendrá todos los datos en tiempo real, así como una conexión a un sistema de alarma central que alertará al usuario al momento exacto en que se dé un deslizamiento. Asimismo, ya hará el individuo en la zona segura circundante a su ubicación.",
+ "segments": [
+  {
+   "start": 3.25,
+   "end": 8.25,
+   "text": "Alucuar es un sistema que consta de varios dispositivos orientados a la detección de deslizamiento,"
+  },
+  {
+   "start": 8.25,
+   "end": 14.25,
+   "text": "el cual será capaz de identificar los territorios de riesgo por medio de un sitio web y futura aplicación."
+  },
+  {
+   "start": 14.25,
+   "end": 22.25,
+   "text": "Además de indicar las zonas estratégicas de dónde se verán ubicar los sensores de movimientos ubicados a la falda de la ladera,"
+  },
+  {
+   "start": 22.25,
+   "end": 27.25,
+   "text": "sensor de precipitación ubicado en acima de la ladera y los sensores de ruptura ubicados bajo tierras"
+  },
+  {
+   "start": 27.25,
+   "end": 32.25,
+   "text": "que permitirán detectar los grados de riesgo, así como el inicio de un deslizamiento."
+  },
+  {
+   "start": 32.25,
+   "end": 40.25,
+   "text": "Todos estos datos serán emitidos, guardados y analizados en el centro de procesamiento de datos más cercanos ubicados en la falda de la ladera."
+  },
+  {
+   "start": 40.25,
+   "end": 46.25,
+   "text": "El mismo también enviará una alerta con código de deslave de forma inmediata a un sitio web y la futura app."
+  },
+  {
+   "start": 46.25,
+   "end": 55.25,
+   "text": "Asimismo, en compromiso con la biodisponibilidad del mismo, este contará con paneles solares en el techo del centro de procesamiento para su alimentación energética."
+  },
+  {
+   "start": 56.25,
+   "end": 64.25,
+   "text": "El sitio web está diseñado con una interfaz sencilla e intuitiva que permitirá al usuario acceder a las diferentes herramientas de sistema,"
+  },
+  {
+   "start": 64.25,
+   "end": 72.25,
+   "text": "tales como selección de ubicación y vista en tiempo real, a través de un mapa geográfico en base a sistemas de coordenadas GPS,"
+  },
+  {
+   "start": 72.25,
+   "end": 79.25,
+   "text": "con el objetivo de proporcionar localidades inestables y seguras en cuanto a movimiento de remoción en masa."
+  },
+  {
+   "start": 79.25,
+   "end": 84.25,
+   "text": "En base a lo antes mencionado, la app móvil tendrá todos los datos en tiempo real,"
+  },
+  {
+   "start": 84.25,
+   "end": 92.25,
+   "text": "así como una conexión a un sistema de alarma central que alertará al usuario al momento exacto en que se dé un deslizamiento."
+  },
+  {
+   "start": 92.25,
+   "end": 98.25,
+   "text": "Asimismo, ya hará el individuo en la zona segura circundante a su ubicación."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.0
+}

@@ -1,0 +1,137 @@
+{
+ "video_id": "srSl9IxRrhM",
+ "url": "https://youtu.be/srSl9IxRrhM",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "STEM SYNERGY",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "STEM SYNERGY",
+   "challenge": "02 - EMPAQUES CONTAMINANTES"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:10:07+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Se estima que en América Latina se generan diariamente 17.000 toneladas de residuos plásticos, y para el año 2060, esta cifra podría superar los mil millones de toneladas anuales, según el Foro Mundial de la Naturaleza y la OCDE. Este problema es grave por los embases plásticos utilizados para snacks contribuyen significativamente a la contaminación en calles y océanos. Ante esta situación, hemos desarrollado una solución innovadora, dioplásticos biodegradables derivados de la Cáscara de Banano. Este material no sólo ayuda a reducir los desechos plásticos, sino que también representa una alternativa más sustentable que los plásticos convencionales. Aprovechamos un residuo orgánico, pues la Cáscara de Banano es un su producto sin otro uso. Esto es relevante en América Latina, una de las regiones con mayor producción de bananos en el mundo, lo que hace de nuestra solución una opción tanto accesible como sostenible. Observamos que los costos de producción disminuyen tal que se genera un ahorro de incluso 818.60% por kilogramos en comparación al polietileno. Además, la diferencia de costo de maquinaria comparados con el costo recorrido en el proceso del plástico es de 983.000 dólares. Nuestro bioplástico equipara la resistencia de los utilizados actualmente en el empaquetado. El proceso para hacer el bioplástico es simple y utiliza ingredientes accesibles, Cáscara de Banano, Maicena, Glicerina, Dinagre Blanco, Agua Destilada y Cera de Candelilla. Trituramos la Cáscara de Banano. Se pasa molienda y luego a la mezcla con los demás ingredientes. La mezcla se lamina y finalmente se deshidrata, obteniendo láminas listas para su uso. Este proyecto puede ser económicamente viable y ambientalmente sostenible, ya que la producción de bioplásticos a partir de Cáscara de Banano no solo ofrece un ahorro significativo en comparación con los plásticos convencionales, sino que también contribuye a la reducción de residuos y al uso responsable de los recursos.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.2,
+   "text": "Se estima que en América Latina se generan diariamente 17.000 toneladas de residuos plásticos,"
+  },
+  {
+   "start": 5.2,
+   "end": 10.16,
+   "text": "y para el año 2060, esta cifra podría superar los mil millones de toneladas anuales,"
+  },
+  {
+   "start": 10.16,
+   "end": 13.72,
+   "text": "según el Foro Mundial de la Naturaleza y la OCDE."
+  },
+  {
+   "start": 13.72,
+   "end": 21.4,
+   "text": "Este problema es grave por los embases plásticos utilizados para snacks contribuyen significativamente a la contaminación en calles y océanos."
+  },
+  {
+   "start": 21.4,
+   "end": 25.0,
+   "text": "Ante esta situación, hemos desarrollado una solución innovadora,"
+  },
+  {
+   "start": 25.0,
+   "end": 28.72,
+   "text": "dioplásticos biodegradables derivados de la Cáscara de Banano."
+  },
+  {
+   "start": 28.72,
+   "end": 31.96,
+   "text": "Este material no sólo ayuda a reducir los desechos plásticos,"
+  },
+  {
+   "start": 31.96,
+   "end": 36.92,
+   "text": "sino que también representa una alternativa más sustentable que los plásticos convencionales."
+  },
+  {
+   "start": 36.92,
+   "end": 41.44,
+   "text": "Aprovechamos un residuo orgánico, pues la Cáscara de Banano es un su producto sin otro uso."
+  },
+  {
+   "start": 41.44,
+   "end": 46.32,
+   "text": "Esto es relevante en América Latina, una de las regiones con mayor producción de bananos en el mundo,"
+  },
+  {
+   "start": 46.32,
+   "end": 50.36,
+   "text": "lo que hace de nuestra solución una opción tanto accesible como sostenible."
+  },
+  {
+   "start": 50.36,
+   "end": 58.68,
+   "text": "Observamos que los costos de producción disminuyen tal que se genera un ahorro de incluso 818.60% por kilogramos en comparación al polietileno."
+  },
+  {
+   "start": 58.8,
+   "end": 66.04,
+   "text": "Además, la diferencia de costo de maquinaria comparados con el costo recorrido en el proceso del plástico es de 983.000 dólares."
+  },
+  {
+   "start": 66.68,
+   "end": 71.32,
+   "text": "Nuestro bioplástico equipara la resistencia de los utilizados actualmente en el empaquetado."
+  },
+  {
+   "start": 71.92,
+   "end": 75.84,
+   "text": "El proceso para hacer el bioplástico es simple y utiliza ingredientes accesibles,"
+  },
+  {
+   "start": 75.84,
+   "end": 81.72,
+   "text": "Cáscara de Banano, Maicena, Glicerina, Dinagre Blanco, Agua Destilada y Cera de Candelilla."
+  },
+  {
+   "start": 82.36,
+   "end": 84.16,
+   "text": "Trituramos la Cáscara de Banano."
+  },
+  {
+   "start": 84.8,
+   "end": 88.2,
+   "text": "Se pasa molienda y luego a la mezcla con los demás ingredientes."
+  },
+  {
+   "start": 88.88,
+   "end": 93.56,
+   "text": "La mezcla se lamina y finalmente se deshidrata, obteniendo láminas listas para su uso."
+  },
+  {
+   "start": 94.24,
+   "end": 97.96,
+   "text": "Este proyecto puede ser económicamente viable y ambientalmente sostenible,"
+  },
+  {
+   "start": 97.96,
+   "end": 105.12,
+   "text": "ya que la producción de bioplásticos a partir de Cáscara de Banano no solo ofrece un ahorro significativo en comparación con los plásticos convencionales,"
+  },
+  {
+   "start": 105.12,
+   "end": 109.84,
+   "text": "sino que también contribuye a la reducción de residuos y al uso responsable de los recursos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 111.6
+}

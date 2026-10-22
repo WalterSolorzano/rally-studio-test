@@ -1,0 +1,142 @@
+{
+ "video_id": "WVdgVYW00GA",
+ "url": "https://www.youtube.com/watch?v=WVdgVYW00GA",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOSMAESTROS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOSMAESTROS",
+   "challenge": "01 - SEGUNDA VIDA DE LOS MOTORES ELÉCTRICOS DOMÉSTICOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:47:33+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imaginen trabajar durante meses para producir café de calidad y perder dinero porque no hay suficiente sol para secarlo. Esta es la realidad de muchos pequeños productores del norte de Nicaragua. Si venden su café húmedo, reciben menos dinero. Si esperan a que se seque, arriesgan su calidad. Y las secadores industriales son demasiado acustosas para ellos. Y si pudieran secar su café sin depender del sol, les presentamos Rota Café. Una secadora rotativa diseñada para pequeños productores capaz de procesar entre 25 y 30 kg de café percamino húmedo. Utilizando aire caliente indirecto y tecnología de control automatizado. Sus objetivos es alcanzar un humedad final del 10 al 12% en un tiempo estimado de 18 a 24 horas. Reduciendo el trabajo manual y permitiendo un secado más controlado. Pero esta innovación va más allá. Reutilizamos motores de lavabra en desuso transformando residuos en recursos productivos. Incorporamos sensores y un sistema de seguridad independiente del controlador electrónico para mejorar el control y la seguridad durante superación. El resultado que buscamos, una solución accesible, reparable localmente y adaptable a las necesidades de las comunidades cafetaleras. Además, las cooperativas podrán compartir el equipo entre varios productores. Mientras los tederes comunitarios desarrollan nuevas oportunidades de mantenimiento y certificación. Nuestro propósito es claro que los pequeños productores tengan más control sobre su cosecha, más alternativas para comercializar su café y menor dependencia de las condiciones climáticas. Porque innovar no siempre significa inventar algo completamente nuevo. A ese significa encontrar una manera más inteligente de aprovechar lo que ya tenemos para resolver un problema real. Rota café. El clima no está en nuestras manos. Pero el futuro de nuestra producción sí puede estarlo.",
+ "segments": [
+  {
+   "start": 0.3,
+   "end": 6.5,
+   "text": "Imaginen trabajar durante meses para producir café de calidad y perder dinero porque no hay suficiente sol para secarlo."
+  },
+  {
+   "start": 6.86,
+   "end": 10.3,
+   "text": "Esta es la realidad de muchos pequeños productores del norte de Nicaragua."
+  },
+  {
+   "start": 10.5,
+   "end": 13.5,
+   "text": "Si venden su café húmedo, reciben menos dinero."
+  },
+  {
+   "start": 13.7,
+   "end": 16.5,
+   "text": "Si esperan a que se seque, arriesgan su calidad."
+  },
+  {
+   "start": 16.7,
+   "end": 20.1,
+   "text": "Y las secadores industriales son demasiado acustosas para ellos."
+  },
+  {
+   "start": 20.3,
+   "end": 25.5,
+   "text": "Y si pudieran secar su café sin depender del sol, les presentamos Rota Café."
+  },
+  {
+   "start": 26.1,
+   "end": 33.7,
+   "text": "Una secadora rotativa diseñada para pequeños productores capaz de procesar entre 25 y 30 kg de café percamino húmedo."
+  },
+  {
+   "start": 33.9,
+   "end": 38.3,
+   "text": "Utilizando aire caliente indirecto y tecnología de control automatizado."
+  },
+  {
+   "start": 38.5,
+   "end": 44.7,
+   "text": "Sus objetivos es alcanzar un humedad final del 10 al 12% en un tiempo estimado de 18 a 24 horas."
+  },
+  {
+   "start": 44.9,
+   "end": 48.3,
+   "text": "Reduciendo el trabajo manual y permitiendo un secado más controlado."
+  },
+  {
+   "start": 48.5,
+   "end": 50.7,
+   "text": "Pero esta innovación va más allá."
+  },
+  {
+   "start": 51.1,
+   "end": 56.5,
+   "text": "Reutilizamos motores de lavabra en desuso transformando residuos en recursos productivos."
+  },
+  {
+   "start": 56.7,
+   "end": 64.9,
+   "text": "Incorporamos sensores y un sistema de seguridad independiente del controlador electrónico para mejorar el control y la seguridad durante superación."
+  },
+  {
+   "start": 65.1,
+   "end": 73.9,
+   "text": "El resultado que buscamos, una solución accesible, reparable localmente y adaptable a las necesidades de las comunidades cafetaleras."
+  },
+  {
+   "start": 74.1,
+   "end": 78.7,
+   "text": "Además, las cooperativas podrán compartir el equipo entre varios productores."
+  },
+  {
+   "start": 79.1,
+   "end": 84.1,
+   "text": "Mientras los tederes comunitarios desarrollan nuevas oportunidades de mantenimiento y certificación."
+  },
+  {
+   "start": 84.3,
+   "end": 89.3,
+   "text": "Nuestro propósito es claro que los pequeños productores tengan más control sobre su cosecha,"
+  },
+  {
+   "start": 89.5,
+   "end": 94.7,
+   "text": "más alternativas para comercializar su café y menor dependencia de las condiciones climáticas."
+  },
+  {
+   "start": 94.9,
+   "end": 98.9,
+   "text": "Porque innovar no siempre significa inventar algo completamente nuevo."
+  },
+  {
+   "start": 99.1,
+   "end": 105.5,
+   "text": "A ese significa encontrar una manera más inteligente de aprovechar lo que ya tenemos para resolver un problema real."
+  },
+  {
+   "start": 106.3,
+   "end": 107.3,
+   "text": "Rota café."
+  },
+  {
+   "start": 107.5,
+   "end": 109.5,
+   "text": "El clima no está en nuestras manos."
+  },
+  {
+   "start": 109.7,
+   "end": 112.5,
+   "text": "Pero el futuro de nuestra producción sí puede estarlo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 112.6
+}

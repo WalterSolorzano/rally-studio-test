@@ -1,0 +1,5 @@
+video_id,duration_s,rms_db,rms_std_db,silencio_pct,habla_pct,zcr,centroide_hz,rolloff_hz,planitud,onsets_por_s,dinamica_db,cambios_energia,speech_s,segmentos,wpm
+VJ9JvDcJkyY,83.7,-15.17,21.87,48.0,52.0,0.08048,509.9,1218.7,0.23639,1.59,27.89,133,76.9,16,136.5
+PPsthDd5v0k,96.4,-21.15,11.23,51.2,48.8,0.08495,511.6,849.2,0.23159,2.36,18.92,228,83.4,19,151.8
+p6G3qiSNVUc,107.7,-9.46,13.12,33.0,67.0,0.04937,296.2,549.6,0.10833,1.98,30.26,213,99.2,27,130.7
+MftX1SKtzeQ,83.8,-32.1,33.43,21.9,78.1,0.11898,1099.5,2406.9,0.19942,3.57,98.14,299,66.5,14,166.9

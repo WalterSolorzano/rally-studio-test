@@ -1,0 +1,82 @@
+{
+ "video_id": "CQ421-FcNJA",
+ "url": "https://www.youtube.com/watch?v=CQ421-FcNJA",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "GURDIANES DEL CAMPO",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "GURDIANES DEL CAMPO",
+   "challenge": "01 - APROVECHAMIENTO TETRA PAK"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:29:57+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Amas a la tierra. ¿Por qué votas en el embáscade? Sabías que una de las principales causas de contaminación en el mundo es el inadecuado desecho de estos productos. Nosotros te damos la solución. Sabías que cada embáscade de trapar no solo es basura ni mal reciclaje, es también oro blanco que desperdiciamos, que podría ser un futuro techo, que podrían hacer de nuestras manos. Somos guardianes del campo. Una de las ventajas del reciclaje es dándole una segunda oportunidad a los embases creando producto agropecuario, como ser comederos y bebederos para animales de pequeñas especies, como ser aves, conejos, entre otros. También creando macetera y paneles aislantes. Únete a nuestro equipo. Somos guardianes del campo.",
+ "segments": [
+  {
+   "start": 8.27,
+   "end": 10.27,
+   "text": "Amas a la tierra."
+  },
+  {
+   "start": 10.27,
+   "end": 11.27,
+   "text": "¿Por qué votas en el embáscade?"
+  },
+  {
+   "start": 11.27,
+   "end": 17.27,
+   "text": "Sabías que una de las principales causas de contaminación en el mundo es el inadecuado desecho de estos productos."
+  },
+  {
+   "start": 17.27,
+   "end": 22.45,
+   "text": "Nosotros te damos la solución."
+  },
+  {
+   "start": 22.45,
+   "end": 30.45,
+   "text": "Sabías que cada embáscade de trapar no solo es basura ni mal reciclaje, es también oro blanco que desperdiciamos,"
+  },
+  {
+   "start": 30.45,
+   "end": 35.45,
+   "text": "que podría ser un futuro techo, que podrían hacer de nuestras manos."
+  },
+  {
+   "start": 35.45,
+   "end": 37.45,
+   "text": "Somos guardianes del campo."
+  },
+  {
+   "start": 37.45,
+   "end": 45.45,
+   "text": "Una de las ventajas del reciclaje es dándole una segunda oportunidad a los embases creando producto agropecuario,"
+  },
+  {
+   "start": 45.45,
+   "end": 52.45,
+   "text": "como ser comederos y bebederos para animales de pequeñas especies, como ser aves, conejos, entre otros."
+  },
+  {
+   "start": 52.45,
+   "end": 55.45,
+   "text": "También creando macetera y paneles aislantes."
+  },
+  {
+   "start": 55.45,
+   "end": 59.45,
+   "text": "Únete a nuestro equipo. Somos guardianes del campo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 62.6
+}

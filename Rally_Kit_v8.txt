@@ -1,0 +1,580 @@
+===== PAGE 1 =====
+Kit Operativo v8
+Orientativo, no ley absoluta
+Skills de diseño + contexto de uso
+Rally Studio · Workbench de Innovación · Octubre 2026
+Los retos los fijan los organizadores. Esto es brújula, no receta.
+Cambios v8 vs v7:
+Tono orientativo (no leyes):
+- "Recomendamos" en lugar de "prohibido"
+- "Funciona cuando" en lugar de "siempre"
+- "Evitar" en lugar de "prohibición absoluta"
+Contexto de uso por herramienta:
+- Cada herramienta tiene situación → recomendación → por qué
+- El equipo evalúa según el reto real recibido
+Reconocimiento de incertidumbre:
+- Los retos son impredecibles (los fija el organizador)
+- Los patrones son observaciones, no garantías
+- El sistema ya tiene sus bases; este kit se audita contra ellas
+Skills de diseño añadidas:
+- brandkit (MIT): brand-kit completo, 8 modos visuales
+- brand-identity: logo, colors, typography, iconography
+- color-palette (MIT): extrae colores de imagen
+- colormind: paletas brand-anchored
+- Designer Skills Collection: 63 skills, 8 plugins
+- Logo Creator: logos minimalistas
+- rally-diseno (propia): coordina todas + criterios rally
+Patrones perdedores rebajados a observaciones
+(excepto los 2 que sí son reglas oficiales)
+9
+skills propias
+9
+skills diseño ext.
+0
+leyes absolutas
+Z.ai Research · Octubre 2026 · v8.0
+Verifíquese contra bases oficiales. Los retos los fijan los organizadores. Busca lo mejor para el usuario.
+
+===== PAGE 2 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 2
+Tabla de contenidos
+2
+Tabla de contenidos
+3
+1. Cómo leer este kit (no es ley absoluta)
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+1.1 Convenciones de lenguaje
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+1.2 Los retos son impredecibles
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+1.3 El sistema ya tiene sus propias bases
+4
+2. Cuándo usar cada herramienta (criterios, no leyes)
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+2.1 Video — según el tipo de reto
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+2.2 Voz — según el tier y el contexto
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+2.3 3D — según la pieza
+6
+3. Skills de diseño — paletas, marca e identidad
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+3.1 Skills de diseño externas (7 verificadas)
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+3.2 Skill propia: rally-diseno
+8
+4. Skills propias (9)
+9
+5. Patrones perdedores (observaciones, no leyes)
+10
+6. Verificación y auditoría continua
+11
+7. Estructura de entregables v8
+
+===== PAGE 3 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 3
+1. Cómo leer este kit (no es ley absoluta)
+Este kit es un punto de partida basado en patrones observados entre 2014 y 2026. No es un manual definitivo
+ni una garantía de victoria. Las bases oficiales del certamen mandan sobre cualquier cosa que diga aquí. Los
+retos los fijan los organizadores; el equipo no los conoce de antemano. Los patrones son observaciones de
+ediciones anteriores que deben verificarse y adaptarse al contexto real del reto.
+Principio fundamental: Si algo en este kit entra en contradicción con las bases oficiales publicadas, gana la base.
+Si los patrones observados no aplican al reto específico que el equipo recibe, ignora el patrón y adapta al contexto
+real. Busca siempre lo mejor para el usuario.
+1.1 Convenciones de lenguaje
+ Frase en el kit
+ Significado real
+ No significa
+"Recomendamos"
+Sugerencia basada en patrones observados
+Obligación o regla oficial
+"Funciona cuando"
+Criterio de aplicabilidad
+Garantía de resultado
+"Evitar"
+Advertencia basada en patrones perdedores
+Prohibición absoluta
+"Verificar"
+Depende de fuentes externas que cambian
+Hecho comprobado definitivo
+"135 ppm" o "240-270
+palabras"
+Estimación orientativa
+Umbral oficial (la regla es ≤120s)
+ Tabla 1. Convenciones de lenguaje. Nada en este kit es ley absoluta.
+1.2 Los retos son impredecibles
+Los retos los crea el comité organizador (internacional en Latam, nacional en Nicaragua Innova). El equipo los
+conoce recién a las 08:00 AM del viernes. Los patrones de este kit son observaciones de ediciones anteriores: en
+2025, 6 equipos del podio de México eligieron el mismo reto de huertos verticales; en 2024, el reto de
+micropresas dominó. Pero el equipo no sabe qué reto recibirá hasta el momento de empezar. El kit prepara al
+equipo para temas probables, no para un reto específico.
+1.3 El sistema ya tiene sus propias bases
+El kit v8 reconoce que el sistema Rally Studio ya tiene su propio corpus (Manual Maestro v2.5, Informe de
+Investigación v1.0, grafo de conocimiento, brain/, STATE, handoffs). Este kit debe verificarse y auditarse
+contra lo que el sistema ya tiene, no reemplazarlo. Si el sistema tiene información más actualizada o específica
+al contexto del equipo, esa información manda.
+
+===== PAGE 4 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 4
+2. Cuándo usar cada herramienta (criterios,
+no leyes)
+Esta sección reemplaza las "recomendaciones absolutas" del v7 por criterios contextuales. Cada herramienta
+tiene un contexto donde brilla y otro donde no aporta. El equipo debe evaluar qué herramienta usar según el reto
+real recibido, no según una lista fija.
+2.1 Video — según el tipo de reto
+ Situación
+ Recomendación
+ Por qué
+ Alternativa si falla
+El reto pide territorio específico y el
+equipo puede grabar
+Metraje real (celular, dron)
+Auténtico, el jurado percibe
+validación real
+Stock CC0 de Poly Haven o
+Wikimedia
+El reto es abstracto (sensores,
+polinizadores, motores)
+HTML+GSAP +
+HyperFrames
+No se necesita territorio; el
+concepto basta
+Metraje de stock temático
+El equipo tiene GPU 8GB+ y necesita
+toma imposible
+Wan 2.2 marcado
+[SINTÉTICO]
+Último recurso, no primero
+HTML+GSAP con animación
+Contadores animados (ODS, métricas
+del Acto IV)
+HTML + GSAP
+Blender es lento para contadores
+matplotlib animado → MP4
+Ensamblar el pitch final
+ffmpeg + Kdenlive
+HyperFrames genera escenas;
+Kdenlive une
+LosslessCut para cortes rápidos
+El equipo tiene buen narrador humano
+Micrófono real + ffmpeg
+loudnorm
+Preferible a síntesis si hay tiempo
+Chatterbox v3 o Kokoro TTS
+ Tabla 2. Video: usar según el tipo de reto, no según una regla fija.
+2.2 Voz — según el tier y el contexto
+ Situación
+ Recomendación
+ Por qué
+Iterando guion, probando cronometría
+(Tier 0-2)
+Kokoro (CPU, rápido)
+No necesita GPU, genera en segundos, calidad 4/5
+Voz final del pitch, equipo con GPU (Tier
+2)
+Chatterbox v3 (finetune
+LatAm)
+Mejor calidad. Declarar IA (PerTh watermark). Claim 65.3% es
+marketing.
+Equipo sin GPU, voz final (Tier 0-1)
+Piper (CPU)
+Verificar licencia de cada voz. Declarar IA.
+Probar clonación de voz del narrador real
+Qwen3-TTS (3s de audio)
+Banco de pruebas. Calidad del español NO verificada — probar antes.
+El equipo tiene narrador humano con buen
+micrófono
+Grabar real + ffmpeg
+loudnorm
+Siempre preferible a síntesis si hay tiempo y talento
+El equipo no quiere declarar IA en el
+pautado
+Voz humana grabada
+Cualquier voz sintética se declara; si no se quiere declarar, grabar real
+ Tabla 3. Voz: la elección depende del tier, el contexto y si el equipo quiere o no declarar IA.
+2.3 3D — según la pieza
+ Situación
+ Recomendación
+ Por qué
+Pieza protagonista del prototipo
+(compuerta, sensor, biofiltro)
+Modelado manual en Blender
+El jurado evalúa viabilidad técnica; la pieza IA se percibe como
+truco
+Props de fondo (café, vegetación,
+mobiliario)
+Poly Haven CC0, Kenney,
+BlenderKit
+Assets reales, sin GPU, sin riesgo de 'aspecto IA'
+Prop específico no disponible en CC0
+TripoSR o TRELLIS.2 vía
+Spaces
+Solo image-to-3D para props de fondo. NO para pieza
+protagonista
+
+===== PAGE 5 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 5
+ Situación
+ Recomendación
+ Por qué
+El equipo no sabe modelar y necesita algo
+rápido
+TRELLIS.2 vía navegador
+(Spaces)
+Mejor modelo descargable (MIT, 4B, PBR+GLB). Requiere
+GPU alta.
+El prototipo es software puro (app,
+plataforma)
+No necesita 3D; usar mockup UI
+El 3D es para hardware. Para software, capturas de Playwright.
+Blender no abre en laptop vieja (OpenGL
+<3.3)
+Cycles CPU 32 muestras 720p o
+vista Workbench
+Verificar con doctor (ejecuta Blender real)
+ Tabla 4. 3D: la pieza protagonista se modela a mano; los props de fondo pueden ser CC0 o IA.
+
+===== PAGE 6 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 6
+3. Skills de diseño — paletas, marca e
+identidad
+El usuario pidió específicamente skills para paletas de color y diseño de marca, más allá de Impeccable y
+frontend-design que ya amaba. Esta sección documenta las skills de diseño encontradas y verificadas, con
+criterios de cuándo activar cada una.
+3.1 Skills de diseño externas (7 verificadas)
+ Skill
+ Origen
+ Licencia
+ Qué hace
+ Cuándo activarla
+brandkit
+Leonxlnx/taste-skill
+MIT
+Brand-kit completo: logo systems,
+paletas, tipografía, mockups. 8 modos
+visuales (dark developer, luxury,
+cultural, etc.)
+Cuando el proyecto necesita identidad visual
+completa desde cero
+brand-identity
+rampstackco/claude-skills
+Verificar
+Logo, visual identity, brand colors,
+typography, iconography. Guía paso a
+paso
+Cuando se necesita guía estructurada de
+identidad de marca
+color-palette
+qrost
+MIT
+Extrae colores dominantes de imagen de
+referencia → HEX/RGB JSON. Output
+estructurado para agentes
+Cuando el equipo tiene imagen inspiración
+(foto territorio, producto) y necesita paleta
+colormind
+boilerrat
+Verificar
+Genera paletas brand-anchored desde un
+color base. JSON + Markdown
+Cuando el equipo tiene un color base y
+necesita complementarios
+Designer Skills
+Collection
+MC Dean / Owl-Listener
+Gratuito
+GitHub
+63 skills en 8 plugins: research, systems,
+strategy, UI, interaction, prototyping,
+design ops, toolkit
+Cuando el equipo necesita workflow de
+diseño completo end-to-end
+Logo Creator
+samuraigpt
+Verificar
+Generación de logos profesionales
+minimalistas
+Cuando se necesita logo rápido sin diseñador
+frontend-design
+Anthropic
+Apache-2.0
+Baseline contra aspecto genérico de IA.
+Linter de diseño
+Siempre que se genere UI web
+Impeccable
+pbakaus
+MIT
+Linter determinista contra aspecto IA.
+Escribe PRODUCT.md y DESIGN.md
+Después de generar diseño. Requiere
+paleta+tipografía fijadas. Úsalo como
+LINTER, no generador
+GSAP
+gsap oficiales
+MIT
+Animación de contadores, transiciones,
+timeline
+Para Acto IV del PAS-V (métricas, ODS).
+Mejor que Blender para animación
+ Tabla 5. 9 skills de diseño. Verificar licencia de las marcadas 'Verificar' antes de usar. NO instalar catálogos enteros (+1.600
+ skills comunitarias; elegir a mano).
+3.2 Skill propia: rally-diseno
+Se añadió una novena skill propia al kit: rally-diseno. Coordina las skills externas de diseño y añade criterios
+específicos del rally:
+ Criterio
+ Orientación (no ley)
+ Contexto donde aplica
+Paleta sobria (azules, grises)
+Comunica seriedad técnica
+Proyectos técnicos (IoT, sensores), filtro internacional
+Latam
+Paleta con acento cultural (tierra,
+verde tropical)
+Comunica pertinencia territorial
+Proyectos de territorio (café, cacao), filtro nacional
+Tipografía sans-serif limpia
+(Inter, Source Sans 3)
+Universalidad y legibilidad
+Proyectos técnicos / internacionales
+Tipografía sans-serif redondeada
+(Nunito, Quicksand)
+Cercanía y calidez
+Proyectos sociales / culturales
+Logo generado con IA (brandkit,
+Logo Creator)
+Rápido, sin diseñador
+El equipo no tiene diseñador gráfico
+
+===== PAGE 7 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 7
+ Criterio
+ Orientación (no ley)
+ Contexto donde aplica
+Logo diseñado manualmente
+(Inkscape, Figma)
+Específico y controlado
+El equipo tiene diseñador o el logo debe ser muy específico
+Coherencia visual del video
+Paleta del proyecto en elementos gráficos
+Cuando es posible; no forzar en footage real del territorio
+ Tabla 6. Criterios de rally-diseno. Todo es orientativo; adaptar al reto real.
+
+===== PAGE 8 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 8
+4. Skills propias (9)
+ Skill
+ Tipo
+ Función
+ Cuándo usarla
+rally-guion
+LLM + script ffprobe
+Guion PAS-V (240-270 palabras orientativo)
+Tras selección del reto y validación Efecto Wow
+(T-12h)
+rally-investigacion
+LLM + script
+Verificar claims [A]/[B]/[C]/[D]
+Durante redacción del pautado (T-12h a T-8h)
+rally-pautado
+Script python-docx
+Rellenar .docx maestro, límites del encabezado
+Tras congelamiento arquitectura (T-8h)
+rally-presupuesto
+Script openpyxl
+Generar .xlsx con supuestos configurables
+T-8h a T-6h
+rally-canvas
+Script Mermaid+Graphv
+iz+matplotlib
+Canvas del reporte. Contadores HTML+GSAP
+Durante redacción del pautado (T-8h a T-6h)
+rally-voz
+Script + ffprobe
+Sintetizar voz, declarar IA
+Tras guion (T-10h), iterar hasta T-5h
+rally-auditor
+Script checks/
+Coherencia numérica normalizada + conteo +
+duración
+T-2h y T-1h antes de carga SIRLI
+rally-marca
+LLM
+Naming dual (squad + marca registrable)
+Durante ideación (T-20h)
+rally-diseno
+LLM + scripts
+Paletas, tipografía, identidad visual, logo
+Tras naming (T-20h), antes de canvas (T-8h)
+ Tabla 7. 9 skills propias en formato SKILL.md. La constructora las escribe con scripts deterministas.
+
+===== PAGE 9 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 9
+5. Patrones perdedores (observaciones, no
+leyes)
+Estos patrones se observan en proyectos que perdieron puntos o fueron descalificados. No son leyes absolutas:
+son advertencias basadas en evidencia observada. El equipo debe evaluar si aplican a su contexto real.
+ Patrón observado
+ Tipo
+ Severidad
+ Contexto donde aplica
+Video >120s
+Regla oficial SIRLI
+Descalificación automática
+Siempre — esto SÍ es regla, no observación
+YouTube en 'Privado'
+Error operativo
+0 puntos (jurado recibe 403)
+Siempre — verificar antes de cargar URL
+Discrepancia numérica video vs PDF
+Patrón perdedor
+Pérdida de puntos en
+prefactibilidad
+Cuando las cifras no coinciden entre entregables
+Sufijo '-INNOVA' en el nombre
+Patrón observado
+No aparece en podios desde 2025
+No es regla; el equipo puede usarlo si tiene razón
+App móvil pasiva ante crisis estructural
+Patrón observado
+Los ganadores suelen presentar
+hardware tangible
+No es prohibición; depende del reto
+Reciclaje artesanal de bajo valor
+Patrón observado
+Los ganadores suelen proponer
+transformación industrial
+No es regla; depende del reto
+3D hipercomplejo que consume
+tiempo de render
+Patrón observado
+No aporta comprensión, consume
+horas
+Cuando el render tarda >20 min en Cycles 1080p
+Replanteamiento técnico a medianoche
+(T-6h)
+Patrón observado
+Destruye guion, renders,
+presupuesto, pautado
+Congelar arquitectura en T-12h es buena
+práctica
+Fantasía térmica (cifras sin respaldo)
+Patrón observado
+Jurado detecta cifras sin fuente
+Marcar [SIMULADO] o reformular con fuente
+ Tabla 8. Patrones perdedores. Solo los dos primeros son reglas oficiales; el resto son observaciones.
+
+===== PAGE 10 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 10
+6. Verificación y auditoría continua
+Este kit debe verificarse y auditarse continuamente contra:
+ Qué verificar
+ Contra qué
+ Cuándo
+ Cómo
+Reglas del certamen
+Bases oficiales publicadas cada
+año
+T-7d antes del rally
+Leer bases oficiales del año en curso
+Rúbrica de evaluación
+Imagen oficial
+rubrica_oficial.jpeg + bases
+T-7d
+Comparar pesos de criterios
+Límites de campos del pautado
+Encabezados de la maqueta oficial
+del año
+T-7d
+Ejecutar check-campo sobre maqueta vacía
+Versiones de herramientas
+Repos oficiales de cada
+herramienta
+Cada 3 meses +
+T-7d
+python arsenal.py refresh
+Licencias de skills externas
+Repositorio de cada skill
+Antes de instalar
+Leer LICENSE de cada repo
+Disponibilidad de free tiers
+Términos de servicio de cada
+servicio
+T-7d
+Probar registro sin tarjeta
+Duración del video
+Regla oficial ≤120s
+T-2h
+python arsenal.py check-duracion
+Coherencia numérica
+Guion escrito + transcripción +
+pautado
+T-1h
+python arsenal.py check-coherencia
+Conteo de caracteres por campo
+Encabezado de la maqueta del año
+T-1h
+python arsenal.py check-campo
+Simulacro completo
+Flujo real: guion → voz → render
+→ export → subida
+T-7d y T-24h
+Protocolo de simulacro del PDF v6 sección 6
+ Tabla 9. Verificación continua. El kit no es estático; debe auditarse contra la realidad de cada edición.
+
+===== PAGE 11 =====
+Rally de Innovación Nicaragua
+Registro y análisis · 2023-2026
+Análisis estratégico
+Página 11
+7. Estructura de entregables v8
+rally-kit-v8/ ├── AGENTS.md # Estándar que leen opencode, antigravity, Cline ├── Rally_Kit_v8.pdf # Este PDF ├──
+arsenal.lock.yaml # Registro de herramientas ├── arsenal.py # Gestor multiplataforma ├── smoke.py # Prueba de
+humo (~6 min) ├── checks/ │ ├── __init__.py │ ├── campo_chars.py # Conteo por campo (lee límites del encabezado) │
+├── coherencia.py # Coherencia numérica normalizada (3 fuentes) │ └── duracion.py # Validación duración ffprobe ├──
+skills/ # 9 skills propias en SKILL.md │ ├── rally-guion.SKILL.md │ ├── rally-investigacion.SKILL.md │ ├──
+rally-pautado.SKILL.md │ ├── rally-presupuesto.SKILL.md │ ├── rally-canvas.SKILL.md │ ├── rally-voz.SKILL.md │ ├──
+rally-auditor.SKILL.md │ ├── rally-marca.SKILL.md │ └── rally-diseno.SKILL.md # NUEVA v8: paletas, marca, identidad
+visual ├── territorios/ │ └── README.md # Banco por TEMA de reto (12 temas probables) └── plantillas/ └── paleta/ └──
+colores.py # Paleta del equipo como variables Python
+Cambios v8 vs v7:
+• Tono orientativo (no leyes): "recomendamos" en lugar de "prohibido", "funciona cuando" en lugar de
+"siempre"
+• Contexto de uso por herramienta: cada herramienta tiene una tabla "situación → recomendación → por qué
+→ alternativa"
+• Reconocimiento de que los retos son impredecibles y los patrones son observaciones
+• Referencia a que el sistema ya tiene sus propias bases y este kit debe auditarse contra ellas
+• Skill rally-diseno añadida (paletas, tipografía, identidad visual, logo)
+• 9 skills externas de diseño documentadas (brandkit, brand-identity, color-palette, colormind, Designer Skills
+Collection, Logo Creator, frontend-design, Impeccable, GSAP)
+• Patrones perdedores rebajados de "reglas" a "observaciones" (excepto los 2 que sí son reglas oficiales)
+• Sección de verificación continua: qué verificar, contra qué, cuándo, cómo
+ Kit operativo v8 generado el 19 de octubre de 2026. No es ley absoluta: verifíquese contra las bases oficiales de cada
+certamen. Los retos los fijan los organizadores; el equipo no los conoce de antemano. Busque lo mejor para el usuario y el
+ contexto real del rally.

@@ -1,0 +1,122 @@
+{
+ "video_id": "NIV6Vw4JRyY",
+ "url": "https://www.youtube.com/watch?v=NIV6Vw4JRyY",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "GRUPO F.I.Q",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "GRUPO F.I.Q",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:25:28+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En el barrio Arlen Sioux, en el Raman y Caragua, 2.710 personas están expuestas a inundaciones y 795 enfrentan un riesgo alto. Cuando los ríos se unen, los sedimentos acumulan, el drenaje pierde capacidad y el agua amenaza a los hogares. Sin alertas oportunas, muchas familias reaccionan cuando el peligro ya está cerca. Frente a esta realidad, la pregunta no es cómo detener el agua, sino cómo ganarle tiempo. Así nace, alerta a raíz, una propuesta que combina prevención y participación comunitaria. Plantamos tres barreras, vettiver para sujetar el suelo, trampas para retener sedimentos y un módulo piloto de solita para evaluar el tratamiento del agua de lluvias. Además, sensores solares monitorean la lluvia y el nivel del agua para activar alertas locales, incluso sin internet que manda la alerta a una aplicación, que les permita a los pobladores saber sus rutas de evacuación utilizando información de referencia de lineté. Mediante sirenas y promotores comunitarios, buscamos que las familias puedan prepararse antes de que el agua llegue a sus hogares. Nuestra meta es que el 90% de los hogares, en riesgo alto, reciban alerta con 30 minutos de participación, objetivo que se validará durante el piloto. Con una inversión estimada de 980.919 para un piloto de 2 km, buscamos contribuir el bienestar social y el desarrollo de comunidades más resilientes ante los riesgos climáticos, en consonancia con las prioridades nacionales. Alerta a raíz nace en Nicaragua, pero su potencial puede extenderse a otras comunidades del Caribe Latinoamericano que enfrentan desafíos similares adaptándose a las necesidades de cada territorio. Vamos el grupo feed. Alerta a raíz. Ganarle tiempo al agua es proteger la vida.",
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 8.32,
+   "text": "En el barrio Arlen Sioux, en el Raman y Caragua, 2.710 personas están expuestas a inundaciones y 795"
+  },
+  {
+   "start": 8.32,
+   "end": 14.78,
+   "text": "enfrentan un riesgo alto. Cuando los ríos se unen, los sedimentos acumulan, el drenaje pierde capacidad"
+  },
+  {
+   "start": 14.78,
+   "end": 20.86,
+   "text": "y el agua amenaza a los hogares. Sin alertas oportunas, muchas familias reaccionan cuando el peligro ya está cerca."
+  },
+  {
+   "start": 20.86,
+   "end": 25.84,
+   "text": "Frente a esta realidad, la pregunta no es cómo detener el agua, sino cómo ganarle tiempo."
+  },
+  {
+   "start": 25.84,
+   "end": 32.02,
+   "text": "Así nace, alerta a raíz, una propuesta que combina prevención y participación comunitaria."
+  },
+  {
+   "start": 32.02,
+   "end": 38.96,
+   "text": "Plantamos tres barreras, vettiver para sujetar el suelo, trampas para retener sedimentos y un"
+  },
+  {
+   "start": 38.96,
+   "end": 45.4,
+   "text": "módulo piloto de solita para evaluar el tratamiento del agua de lluvias. Además, sensores solares"
+  },
+  {
+   "start": 45.4,
+   "end": 51.32,
+   "text": "monitorean la lluvia y el nivel del agua para activar alertas locales, incluso sin internet que"
+  },
+  {
+   "start": 51.32,
+   "end": 56.52,
+   "text": "manda la alerta a una aplicación, que les permita a los pobladores saber sus rutas de evacuación"
+  },
+  {
+   "start": 56.52,
+   "end": 61.8,
+   "text": "utilizando información de referencia de lineté. Mediante sirenas y promotores comunitarios,"
+  },
+  {
+   "start": 61.8,
+   "end": 66.48,
+   "text": "buscamos que las familias puedan prepararse antes de que el agua llegue a sus hogares."
+  },
+  {
+   "start": 66.48,
+   "end": 71.72,
+   "text": "Nuestra meta es que el 90% de los hogares, en riesgo alto, reciban alerta con 30 minutos"
+  },
+  {
+   "start": 71.72,
+   "end": 76.04,
+   "text": "de participación, objetivo que se validará durante el piloto. Con una inversión"
+  },
+  {
+   "start": 76.04,
+   "end": 82.92,
+   "text": "estimada de 980.919 para un piloto de 2 km, buscamos contribuir el bienestar social y"
+  },
+  {
+   "start": 82.92,
+   "end": 88.08,
+   "text": "el desarrollo de comunidades más resilientes ante los riesgos climáticos, en consonancia"
+  },
+  {
+   "start": 88.08,
+   "end": 92.96,
+   "text": "con las prioridades nacionales. Alerta a raíz nace en Nicaragua, pero su potencial puede"
+  },
+  {
+   "start": 92.96,
+   "end": 98.06,
+   "text": "extenderse a otras comunidades del Caribe Latinoamericano que enfrentan desafíos similares"
+  },
+  {
+   "start": 98.06,
+   "end": 101.52,
+   "text": "adaptándose a las necesidades de cada territorio."
+  },
+  {
+   "start": 101.52,
+   "end": 106.52,
+   "text": "Vamos el grupo feed. Alerta a raíz. Ganarle tiempo al agua es proteger la vida."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 107.6
+}

@@ -1,0 +1,92 @@
+{
+ "video_id": "XFPHXVjPjcA",
+ "url": "https://youtu.be/XFPHXVjPjcA?si=8Jfphfh1oukE5P-2",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECOALT",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ECOALT",
+   "challenge": "09 - GRIS A VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:23:56+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imagino un mundo donde el escasez de agua ya no sea un problema, donde cada agua te cuenta y donde el cuidado del recurso más valioso es una prioridad. Hoy en día la escasez de agua es una realidad cada vez más evidente, ya que diversos estudios nos indican que, a diario, una familia promedio puede gastar hasta 1.100 litros de agua. Algunas soluciones existen, como reutilizar el agua para riego de plantas y uso en inodoros. Sin embargo, prevalece un peligro latente, las bacterias patógenas y residuos nocivos, principalmente debido a que no hay un proceso de tratamiento previo a su uso. Es aquí donde entra nuestro revolucionario sistema ATECO, nuestra misión es purificar, determinar la calidad y rehusar el agua de uso doméstico de manera segura y eficiente. Nuestro sistema incorpora el agua residual procedente de la lavadora, el pantry, el avamanos y la ducha, y la canaliza a través de una columna de filtración que captura aceites, detergentes y otros residuos. El agua pretratada pasa a otro proceso de fitoremedición, teniendo al junco en la purificación del agua debido a que el agua que fluye a través de los tallos y raíces sale considerablemente más limpia, mejorando la claridad y la calidad del agua. Después de ser tratada biotecnológicamente, nuestro proyecto ayudará al monitoreo casero de parámetros de calidad, midiendo el pH, claridad, olor y los sólidos disueltos totales de manera casera. Además de ir acompañado de un sistema de ultravioleta tipo C para ayudar a eliminar los microorganismos presentes. La la medición de los sólidos totales se mostrarán los resultados en partes por millón. Un alto valor en los sólidos totales nos determinará la presencia de contaminantes afectando la calidad del agua. De igual forma, observando el color y el olor del agua tratada proporcionará indicaciones sobre su calidad. Una vez realizado el tratamiento por medio de sistemas automatizados por arvinos y bombas, el agua se almacenará en tanques para su uso en riesgos, descargue de inodores y lavadoras.",
+ "segments": [
+  {
+   "start": 3.09,
+   "end": 11.09,
+   "text": "Imagino un mundo donde el escasez de agua ya no sea un problema, donde cada agua te cuenta y donde el cuidado del recurso más valioso es una prioridad."
+  },
+  {
+   "start": 11.09,
+   "end": 21.09,
+   "text": "Hoy en día la escasez de agua es una realidad cada vez más evidente, ya que diversos estudios nos indican que, a diario, una familia promedio puede gastar hasta 1.100 litros de agua."
+  },
+  {
+   "start": 21.09,
+   "end": 26.09,
+   "text": "Algunas soluciones existen, como reutilizar el agua para riego de plantas y uso en inodoros."
+  },
+  {
+   "start": 26.09,
+   "end": 35.09,
+   "text": "Sin embargo, prevalece un peligro latente, las bacterias patógenas y residuos nocivos, principalmente debido a que no hay un proceso de tratamiento previo a su uso."
+  },
+  {
+   "start": 35.09,
+   "end": 44.09,
+   "text": "Es aquí donde entra nuestro revolucionario sistema ATECO, nuestra misión es purificar, determinar la calidad y rehusar el agua de uso doméstico de manera segura y eficiente."
+  },
+  {
+   "start": 44.09,
+   "end": 55.09,
+   "text": "Nuestro sistema incorpora el agua residual procedente de la lavadora, el pantry, el avamanos y la ducha, y la canaliza a través de una columna de filtración que captura aceites, detergentes y otros residuos."
+  },
+  {
+   "start": 55.09,
+   "end": 70.09,
+   "text": "El agua pretratada pasa a otro proceso de fitoremedición, teniendo al junco en la purificación del agua debido a que el agua que fluye a través de los tallos y raíces sale considerablemente más limpia, mejorando la claridad y la calidad del agua."
+  },
+  {
+   "start": 70.09,
+   "end": 81.09,
+   "text": "Después de ser tratada biotecnológicamente, nuestro proyecto ayudará al monitoreo casero de parámetros de calidad, midiendo el pH, claridad, olor y los sólidos disueltos totales de manera casera."
+  },
+  {
+   "start": 81.09,
+   "end": 87.09,
+   "text": "Además de ir acompañado de un sistema de ultravioleta tipo C para ayudar a eliminar los microorganismos presentes."
+  },
+  {
+   "start": 87.09,
+   "end": 92.09,
+   "text": "La la medición de los sólidos totales se mostrarán los resultados en partes por millón."
+  },
+  {
+   "start": 92.09,
+   "end": 98.09,
+   "text": "Un alto valor en los sólidos totales nos determinará la presencia de contaminantes afectando la calidad del agua."
+  },
+  {
+   "start": 98.09,
+   "end": 104.09,
+   "text": "De igual forma, observando el color y el olor del agua tratada proporcionará indicaciones sobre su calidad."
+  },
+  {
+   "start": 104.09,
+   "end": 115.09,
+   "text": "Una vez realizado el tratamiento por medio de sistemas automatizados por arvinos y bombas, el agua se almacenará en tanques para su uso en riesgos, descargue de inodores y lavadoras."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.0
+}

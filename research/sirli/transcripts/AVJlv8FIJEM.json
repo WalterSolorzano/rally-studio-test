@@ -1,0 +1,167 @@
+{
+ "video_id": "AVJlv8FIJEM",
+ "url": "https://youtu.be/AVJlv8FIJEM?si=-AiO7KXFBn07pRrB",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SEMILLITAS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "SEMILLITAS",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:01:38+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Qué pasaría si las abejas desaparecieron? En América Latina, la FABA ha alertado sobre la pérdida de colonias de abejas sin aguijón, perteneciente al grupo Meliponini, el insecto polinizador más eficiente del mundo, especialmente cuando se trata de agricultura comercial y la producción de alimentos humanos. La desforestation, los plaguesidas y el cambio climático están destruyendo el hábitat de nuestro polinizador nativo, dejándolos sin refugio y sin recursos suficientes para sobrevivir. Cuando perdemos a nuestro polinizador, ponemos en riesgo la biodiversidad, la producción agrícola y nuestra propia seguridad alimentaria y nutricional. Por eso desarrollamos Polinova, una propuesta dirigida a universidades agrónoma y verdes de América Latina que consiste en implementar biosantuarios de 225 metros cuadrados destinados a la protección y multiplicación de la beja nativa Meliponaviké, por ser una especie productora por excelencia de miel y por su adaptabilidad en el ecosistema latinoamericano. Estos espacios cuentan con vegetación polinizante y colmelas construidas a partir de palets reciclados proporcionando refugio y recursos florales a nuestras abejas. Incorporamos un mecanismo reversible de filamentos flexibles en la entrada de las colmenas, diseñado para recolectar únicamente una parte del polen que transportan las abejas sin abrir las colmenas y procurando preservar sus reservas alimenticias. Además, mediante un deshidratador solar buscamos secar y procesar el polen recolectado para elaborar bloques alimenticios complementarios, combinando polen, miel y harina de soya. Estos bloques están pensados para apoyar la alimentación de las colonias durante la época de escase floral. Asimismo, convertimos las universidades en centros de formación donde los estudiantes aprenden a conservar polinizadores, manejar las colonias y elaborar estos suplementos para transmitir su conocimiento a agricultores y comunidades de América Latina. Contribuyéndolo a los ODSes 2, 4, 2 y 15. Con una inversión inicial estimada de 230 dólares por módulo, un costo de 64.50 dólares por colmena y un retorno de inversión proyectado de 2.2 años proponemos un modelo accesible, replicable y basado en materiales reciclado y energía solar. Porque no queremos crear solamente un refugio para las abejas. Queremos sembrar conocimiento, multiplicar soluciones y construir un futuro donde la biodiversidad y la agricultura prosperen juntas. Somos Poli Nova, Polinización Key Nova.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.54,
+   "text": "¿Qué pasaría si las abejas desaparecieron?"
+  },
+  {
+   "start": 2.54,
+   "end": 6.66,
+   "text": "En América Latina, la FABA ha alertado sobre la pérdida de colonias de abejas sin aguijón,"
+  },
+  {
+   "start": 6.66,
+   "end": 10.82,
+   "text": "perteneciente al grupo Meliponini, el insecto polinizador más eficiente del mundo,"
+  },
+  {
+   "start": 10.82,
+   "end": 14.72,
+   "text": "especialmente cuando se trata de agricultura comercial y la producción de alimentos humanos."
+  },
+  {
+   "start": 14.72,
+   "end": 20.46,
+   "text": "La desforestation, los plaguesidas y el cambio climático están destruyendo el hábitat de nuestro polinizador nativo,"
+  },
+  {
+   "start": 20.46,
+   "end": 23.9,
+   "text": "dejándolos sin refugio y sin recursos suficientes para sobrevivir."
+  },
+  {
+   "start": 23.9,
+   "end": 27.02,
+   "text": "Cuando perdemos a nuestro polinizador, ponemos en riesgo la biodiversidad,"
+  },
+  {
+   "start": 27.02,
+   "end": 30.4,
+   "text": "la producción agrícola y nuestra propia seguridad alimentaria y nutricional."
+  },
+  {
+   "start": 30.4,
+   "end": 35.16,
+   "text": "Por eso desarrollamos Polinova, una propuesta dirigida a universidades agrónoma y verdes de América Latina"
+  },
+  {
+   "start": 35.16,
+   "end": 38.52,
+   "text": "que consiste en implementar biosantuarios de 225 metros cuadrados"
+  },
+  {
+   "start": 38.52,
+   "end": 42.28,
+   "text": "destinados a la protección y multiplicación de la beja nativa Meliponaviké,"
+  },
+  {
+   "start": 42.28,
+   "end": 47.46,
+   "text": "por ser una especie productora por excelencia de miel y por su adaptabilidad en el ecosistema latinoamericano."
+  },
+  {
+   "start": 47.46,
+   "end": 52.8,
+   "text": "Estos espacios cuentan con vegetación polinizante y colmelas construidas a partir de palets reciclados"
+  },
+  {
+   "start": 52.8,
+   "end": 55.8,
+   "text": "proporcionando refugio y recursos florales a nuestras abejas."
+  },
+  {
+   "start": 55.86,
+   "end": 60.14,
+   "text": "Incorporamos un mecanismo reversible de filamentos flexibles en la entrada de las colmenas,"
+  },
+  {
+   "start": 60.14,
+   "end": 64.42,
+   "text": "diseñado para recolectar únicamente una parte del polen que transportan las abejas"
+  },
+  {
+   "start": 64.42,
+   "end": 68.3,
+   "text": "sin abrir las colmenas y procurando preservar sus reservas alimenticias."
+  },
+  {
+   "start": 68.3,
+   "end": 72.62,
+   "text": "Además, mediante un deshidratador solar buscamos secar y procesar el polen recolectado"
+  },
+  {
+   "start": 72.62,
+   "end": 78.14,
+   "text": "para elaborar bloques alimenticios complementarios, combinando polen, miel y harina de soya."
+  },
+  {
+   "start": 78.14,
+   "end": 82.62,
+   "text": "Estos bloques están pensados para apoyar la alimentación de las colonias durante la época de escase floral."
+  },
+  {
+   "start": 82.62,
+   "end": 87.8,
+   "text": "Asimismo, convertimos las universidades en centros de formación donde los estudiantes aprenden a conservar polinizadores,"
+  },
+  {
+   "start": 87.8,
+   "end": 93.36,
+   "text": "manejar las colonias y elaborar estos suplementos para transmitir su conocimiento a agricultores y comunidades de América Latina."
+  },
+  {
+   "start": 93.36,
+   "end": 96.2,
+   "text": "Contribuyéndolo a los ODSes 2, 4, 2 y 15."
+  },
+  {
+   "start": 96.2,
+   "end": 101.88,
+   "text": "Con una inversión inicial estimada de 230 dólares por módulo, un costo de 64.50 dólares por colmena"
+  },
+  {
+   "start": 101.88,
+   "end": 109.16,
+   "text": "y un retorno de inversión proyectado de 2.2 años proponemos un modelo accesible, replicable y basado en materiales reciclado y energía solar."
+  },
+  {
+   "start": 109.16,
+   "end": 111.92,
+   "text": "Porque no queremos crear solamente un refugio para las abejas."
+  },
+  {
+   "start": 111.94,
+   "end": 117.76,
+   "text": "Queremos sembrar conocimiento, multiplicar soluciones y construir un futuro donde la biodiversidad y la agricultura prosperen juntas."
+  },
+  {
+   "start": 117.76,
+   "end": 119.76,
+   "text": "Somos Poli Nova, Polinización Key Nova."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.8
+}

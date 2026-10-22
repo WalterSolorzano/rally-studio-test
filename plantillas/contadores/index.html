@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contadores del Acto IV</title>
+<style>
+  :root {
+    --bg: #101311;
+    --surface: #171b18;
+    --text: #f2f0ea;
+    --muted: #9aa39b;
+    --accent: #c8a24a;
+    --line: #2a302b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Inter", "Source Sans 3", system-ui, sans-serif;
+  }
+  .board {
+    width: min(1100px, 92vw);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+  }
+  .metric {
+    background: var(--surface);
+    padding: clamp(1.5rem, 4vw, 3rem);
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+  }
+  .metric__value {
+    font-size: clamp(2.6rem, 7vw, 5.5rem);
+    font-weight: 650;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    color: var(--text);
+  }
+  .metric__value span { color: var(--accent); }
+  .metric__label {
+    font-size: clamp(.8rem, 1.4vw, 1rem);
+    color: var(--muted);
+    letter-spacing: .02em;
+    max-width: 22ch;
+  }
+  .metric__source {
+    margin-top: auto;
+    font-size: .72rem;
+    color: var(--muted);
+    border-top: 1px solid var(--line);
+    padding-top: .75rem;
+  }
+  @media (max-width: 720px) {
+    .board { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<main class="board" id="board">
+  <article class="metric">
+    <div class="metric__value" data-counter data-target="1250" data-suffix=" L">0 L</div>
+    <div class="metric__label">Agua recuperada por familia al mes</div>
+    <div class="metric__source">[SIMULADO] Reemplazar con el claim y la fuente</div>
+  </article>
+  <article class="metric">
+    <div class="metric__value" data-counter data-target="64" data-suffix="%">0%</div>
+    <div class="metric__label">Demanda cubierta en el piloto</div>
+    <div class="metric__source">[SIMULADO] Reemplazar con el claim y la fuente</div>
+  </article>
+  <article class="metric">
+    <div class="metric__value" data-counter data-target="4850" data-prefix="$" data-decimals="0">$0</div>
+    <div class="metric__label">Costo de implementacion</div>
+    <div class="metric__source">Debe coincidir con budget/budget.json</div>
+  </article>
+</main>
+
+<!-- GSAP local si existe; si no, CDN. El fallback deja los numeros finales. -->
+<script src="../gsap.min.js" onerror="this.remove()"></script>
+<script>
+(function () {
+  var nodes = Array.prototype.slice.call(document.querySelectorAll('[data-counter]'));
+
+  function formato(valor, el) {
+    var decimales = parseInt(el.dataset.decimals || '0', 10);
+    var texto = valor.toLocaleString('es-NI', {
+      minimumFractionDigits: decimales,
+      maximumFractionDigits: decimales
+    });
+    return (el.dataset.prefix || '') + texto + (el.dataset.suffix || '');
+  }
+
+  function escribir(el, valor) {
+    el.textContent = formato(valor, el);
+  }
+
+  if (!window.gsap) {
+    nodes.forEach(function (el) { escribir(el, parseFloat(el.dataset.target)); });
+    return;
+  }
+
+  nodes.forEach(function (el) {
+    var estado = { valor: 0 };
+    escribir(el, 0);
+    gsap.to(estado, {
+      valor: parseFloat(el.dataset.target),
+      duration: 1.8,
+      ease: 'power2.out',
+      delay: 0.25,
+      onUpdate: function () { escribir(el, estado.valor); },
+      onComplete: function () { escribir(el, parseFloat(el.dataset.target)); }
+    });
+  });
+}());
+</script>
+</body>
+</html>

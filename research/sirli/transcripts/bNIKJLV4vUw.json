@@ -1,0 +1,172 @@
+{
+ "video_id": "bNIKJLV4vUw",
+ "url": "https://youtu.be/bNIKJLV4vUw?si=RxeFbNIEJNc9B-Xy",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CANELO TEAM",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "CANELO TEAM",
+   "challenge": "07 - REUTILIZACIÓN DE ACEITE DOMÉSTICO"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:07:48+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que un solo litro de aceite de cocina puede contaminar hasta mil metros cúlicos de agua? Es su equivalente al agua que consume una persona durante casi 20 años. En Managua, miles de hogares y negocios siguen tirándolo por entrenaje, no usando obstrucciones, inmundaciones y contaminación. Por eso creamos Renova, una red de acopio comunitaria que recolecta el aceite usado para convertirlo en biodiesel en la alianza con academia. Renova conecta la comunidad con las universidades. Establecemos centros de acopio clave en la alcaldía Distrilo 5, UNICA, La Parroquia Santo Domingo de Guzmán, La Vicaria Ceni-Cidro Labrador y comercias locales como pulpería doña Ana y la PIB. Nos encargamos de la recolección estratégica y entregamos la materia prima directamente a los laboratorios de la UNAMANAWA y la UNI. Quienes encargan de su transformación tecnológica en biodiesel. De esta forma, impulsamos un modelo de economía circular sostenible sin altos costos de infraestructura propia, uniendo el impacto ambiental comunitario con la investigación y capacidad científica universitaria. Contamos con un encargado de operaciones que monitorea constantemente los niveles de enado en cada centro de acopio para coordinar rutas de recolección optimizadas. Una vez recolentados filtramos el aceite y lo entregamos formalmente a los laboratorios de la UNAMANAWA y la UNI. Las universidades aplican transencerificación para obtener biodiesel de alta calidad mientras Renova coordina la introducción de combustibles finales. Nuestro modelo es altamente rentable, con una inversión neta de 282.000 Córdobas y un costo de 48 Córdobas por litro. Proyectamos 2.7 millones en ingresos el primer año, alcanzando un atir del 42% y recuperando la inversión en solo 3 años. Renova transforma residuos en futuro. Somos el equipo canelo.",
+ "segments": [
+  {
+   "start": 17.42,
+   "end": 22.26,
+   "text": "¿Sabías que un solo litro de aceite de cocina puede contaminar hasta mil metros cúlicos"
+  },
+  {
+   "start": 22.26,
+   "end": 23.26,
+   "text": "de agua?"
+  },
+  {
+   "start": 23.26,
+   "end": 26.54,
+   "text": "Es su equivalente al agua que consume una persona durante casi 20 años."
+  },
+  {
+   "start": 26.54,
+   "end": 30.94,
+   "text": "En Managua, miles de hogares y negocios siguen tirándolo por entrenaje, no usando obstrucciones,"
+  },
+  {
+   "start": 30.94,
+   "end": 32.66,
+   "text": "inmundaciones y contaminación."
+  },
+  {
+   "start": 32.66,
+   "end": 37.22,
+   "text": "Por eso creamos Renova, una red de acopio comunitaria que recolecta el aceite usado"
+  },
+  {
+   "start": 37.22,
+   "end": 40.42,
+   "text": "para convertirlo en biodiesel en la alianza con academia."
+  },
+  {
+   "start": 40.42,
+   "end": 43.74,
+   "text": "Renova conecta la comunidad con las universidades."
+  },
+  {
+   "start": 43.74,
+   "end": 48.54,
+   "text": "Establecemos centros de acopio clave en la alcaldía Distrilo 5, UNICA, La Parroquia Santo"
+  },
+  {
+   "start": 48.54,
+   "end": 53.54,
+   "text": "Domingo de Guzmán, La Vicaria Ceni-Cidro Labrador y comercias locales como pulpería doña Ana"
+  },
+  {
+   "start": 53.54,
+   "end": 54.54,
+   "text": "y la PIB."
+  },
+  {
+   "start": 54.54,
+   "end": 58.9,
+   "text": "Nos encargamos de la recolección estratégica y entregamos la materia prima directamente"
+  },
+  {
+   "start": 58.9,
+   "end": 61.78,
+   "text": "a los laboratorios de la UNAMANAWA y la UNI."
+  },
+  {
+   "start": 61.78,
+   "end": 65.7,
+   "text": "Quienes encargan de su transformación tecnológica en biodiesel."
+  },
+  {
+   "start": 65.7,
+   "end": 71.78,
+   "text": "De esta forma, impulsamos un modelo de economía circular sostenible sin altos costos de infraestructura"
+  },
+  {
+   "start": 71.78,
+   "end": 78.46,
+   "text": "propia, uniendo el impacto ambiental comunitario con la investigación y capacidad científica"
+  },
+  {
+   "start": 78.46,
+   "end": 79.46,
+   "text": "universitaria."
+  },
+  {
+   "start": 79.46,
+   "end": 82.22,
+   "text": "Contamos con un encargado de operaciones que monitorea constantemente los niveles de"
+  },
+  {
+   "start": 82.22,
+   "end": 86.34,
+   "text": "enado en cada centro de acopio para coordinar rutas de recolección optimizadas."
+  },
+  {
+   "start": 86.34,
+   "end": 89.74,
+   "text": "Una vez recolentados filtramos el aceite y lo entregamos formalmente a los laboratorios"
+  },
+  {
+   "start": 89.74,
+   "end": 91.42,
+   "text": "de la UNAMANAWA y la UNI."
+  },
+  {
+   "start": 91.42,
+   "end": 96.42,
+   "text": "Las universidades aplican transencerificación para obtener biodiesel de alta calidad mientras"
+  },
+  {
+   "start": 96.42,
+   "end": 98.78,
+   "text": "Renova coordina la introducción de combustibles finales."
+  },
+  {
+   "start": 98.78,
+   "end": 104.5,
+   "text": "Nuestro modelo es altamente rentable, con una inversión neta de 282.000 Córdobas y"
+  },
+  {
+   "start": 104.5,
+   "end": 107.18,
+   "text": "un costo de 48 Córdobas por litro."
+  },
+  {
+   "start": 107.18,
+   "end": 114.22,
+   "text": "Proyectamos 2.7 millones en ingresos el primer año, alcanzando un atir del 42% y recuperando"
+  },
+  {
+   "start": 114.22,
+   "end": 116.3,
+   "text": "la inversión en solo 3 años."
+  },
+  {
+   "start": 116.3,
+   "end": 118.82,
+   "text": "Renova transforma residuos en futuro."
+  },
+  {
+   "start": 118.82,
+   "end": 120.18,
+   "text": "Somos el equipo canelo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.7
+}

@@ -1,0 +1,4200 @@
+{
+ "muestra": {
+  "premios_sede": 4715,
+  "premios_sede_2021": 4197,
+  "grupos_sede_categoria": 1744
+ },
+ "podio": [
+  {
+   "primero": 1,
+   "segundo": 1,
+   "tercero": 1,
+   "grupos": 997
+  },
+  {
+   "primero": 1,
+   "segundo": 1,
+   "tercero": 0,
+   "grupos": 456
+  },
+  {
+   "primero": 1,
+   "segundo": 0,
+   "tercero": 0,
+   "grupos": 268
+  },
+  {
+   "primero": 0,
+   "segundo": 1,
+   "tercero": 0,
+   "grupos": 15
+  },
+  {
+   "primero": 0,
+   "segundo": 0,
+   "tercero": 1,
+   "grupos": 5
+  },
+  {
+   "primero": 1,
+   "segundo": 0,
+   "tercero": 1,
+   "grupos": 3
+  }
+ ],
+ "desafios_distintos_en_grupos_de_tres": {
+  "1": 47,
+  "2": 425,
+  "3": 525
+ },
+ "premiados_por_sede": [
+  {
+   "premiados": 1,
+   "ediciones": 47
+  },
+  {
+   "premiados": 2,
+   "ediciones": 69
+  },
+  {
+   "premiados": 3,
+   "ediciones": 118
+  },
+  {
+   "premiados": 4,
+   "ediciones": 192
+  },
+  {
+   "premiados": 5,
+   "ediciones": 152
+  },
+  {
+   "premiados": 6,
+   "ediciones": 355
+  }
+ ],
+ "celdas": {
+  "n1": 288,
+  "n2": 459,
+  "n3": 997,
+  "grupos": 1744,
+  "premios": 4197
+ },
+ "banda": [
+  {
+   "equipos_por_grupo_completo": 3,
+   "equipos_estimados": 4197,
+   "p_primero": 0.4155,
+   "p_podio": 1.0
+  },
+  {
+   "equipos_por_grupo_completo": 5,
+   "equipos_estimados": 6191,
+   "p_primero": 0.2817,
+   "p_podio": 0.6779
+  },
+  {
+   "equipos_por_grupo_completo": 8,
+   "equipos_estimados": 9182,
+   "p_primero": 0.1899,
+   "p_podio": 0.4571
+  },
+  {
+   "equipos_por_grupo_completo": 12,
+   "equipos_estimados": 13170,
+   "p_primero": 0.1324,
+   "p_podio": 0.3187
+  },
+  {
+   "equipos_por_grupo_completo": 20,
+   "equipos_estimados": 21146,
+   "p_primero": 0.0825,
+   "p_podio": 0.1985
+  },
+  {
+   "equipos_por_grupo_completo": 30,
+   "equipos_estimados": 31116,
+   "p_primero": 0.056,
+   "p_podio": 0.1349
+  }
+ ],
+ "nicaragua": {
+  "celdas": {
+   "n1": 82,
+   "n2": 161,
+   "n3": 240,
+   "grupos": 483,
+   "premios": 1124
+  },
+  "banda": [
+   {
+    "equipos_por_grupo_completo": 3,
+    "equipos_estimados": 1124,
+    "p_primero": 0.4297,
+    "p_podio": 1.0
+   },
+   {
+    "equipos_por_grupo_completo": 5,
+    "equipos_estimados": 1604,
+    "p_primero": 0.3011,
+    "p_podio": 0.7007
+   },
+   {
+    "equipos_por_grupo_completo": 8,
+    "equipos_estimados": 2324,
+    "p_primero": 0.2078,
+    "p_podio": 0.4836
+   },
+   {
+    "equipos_por_grupo_completo": 12,
+    "equipos_estimados": 3284,
+    "p_primero": 0.1471,
+    "p_podio": 0.3423
+   },
+   {
+    "equipos_por_grupo_completo": 20,
+    "equipos_estimados": 5204,
+    "p_primero": 0.0928,
+    "p_podio": 0.216
+   },
+   {
+    "equipos_por_grupo_completo": 30,
+    "equipos_estimados": 7604,
+    "p_primero": 0.0635,
+    "p_podio": 0.1478
+   }
+  ],
+  "escenarios": {
+   "p_techo": 0.4297,
+   "equipos_techo": 1124,
+   "p_media": 0.2078,
+   "equipos_media": 2324,
+   "p_grande": 0.1206,
+   "equipos_grande": 4004,
+   "p_chico": 0.1698,
+   "equipos_por_grupo": 4.81
+  }
+ },
+ "por_pais": [
+  {
+   "pais": "NICARAGUA",
+   "grupos": 483,
+   "n1": 82,
+   "n2": 161,
+   "n3": 240,
+   "premios": 1124,
+   "p_techo": 0.4297,
+   "equipos_techo": 1124,
+   "p_media": 0.2078,
+   "equipos_media": 2324,
+   "p_grande": 0.1206,
+   "equipos_grande": 4004,
+   "p_chico": 0.1698,
+   "equipos_por_grupo": 4.81
+  },
+  {
+   "pais": "ARGENTINA",
+   "grupos": 353,
+   "n1": 51,
+   "n2": 115,
+   "n3": 187,
+   "premios": 842,
+   "p_techo": 0.4192,
+   "equipos_techo": 842,
+   "p_media": 0.1986,
+   "equipos_media": 1777,
+   "p_grande": 0.1144,
+   "equipos_grande": 3086,
+   "p_chico": 0.1445,
+   "equipos_por_grupo": 5.03
+  },
+  {
+   "pais": "MÉXICO",
+   "grupos": 353,
+   "n1": 32,
+   "n2": 39,
+   "n3": 282,
+   "premios": 956,
+   "p_techo": 0.3692,
+   "equipos_techo": 956,
+   "p_media": 0.1492,
+   "equipos_media": 2366,
+   "p_grande": 0.0813,
+   "equipos_grande": 4340,
+   "p_chico": 0.0907,
+   "equipos_por_grupo": 6.7
+  },
+  {
+   "pais": "COLOMBIA",
+   "grupos": 225,
+   "n1": 48,
+   "n2": 68,
+   "n3": 109,
+   "premios": 511,
+   "p_techo": 0.4403,
+   "equipos_techo": 511,
+   "p_media": 0.2131,
+   "equipos_media": 1056,
+   "p_grande": 0.1237,
+   "equipos_grande": 1819,
+   "p_chico": 0.2133,
+   "equipos_por_grupo": 4.69
+  },
+  {
+   "pais": "CHILE",
+   "grupos": 103,
+   "n1": 19,
+   "n2": 24,
+   "n3": 60,
+   "premios": 247,
+   "p_techo": 0.417,
+   "equipos_techo": 247,
+   "p_media": 0.1883,
+   "equipos_media": 547,
+   "p_grande": 0.1065,
+   "equipos_grande": 967,
+   "p_chico": 0.1845,
+   "equipos_por_grupo": 5.31
+  },
+  {
+   "pais": "EL SALVADOR",
+   "grupos": 98,
+   "n1": 12,
+   "n2": 21,
+   "n3": 65,
+   "premios": 249,
+   "p_techo": 0.3936,
+   "equipos_techo": 249,
+   "p_media": 0.1707,
+   "equipos_media": 574,
+   "p_grande": 0.0952,
+   "equipos_grande": 1029,
+   "p_chico": 0.1224,
+   "equipos_por_grupo": 5.86
+  },
+  {
+   "pais": "COSTA RICA",
+   "grupos": 36,
+   "n1": 9,
+   "n2": 10,
+   "n3": 17,
+   "premios": 80,
+   "p_techo": 0.45,
+   "equipos_techo": 80,
+   "p_media": 0.2182,
+   "equipos_media": 165,
+   "p_grande": 0.1268,
+   "equipos_grande": 284,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 4.58
+  },
+  {
+   "pais": "BOLIVIA",
+   "grupos": 30,
+   "n1": 8,
+   "n2": 2,
+   "n3": 20,
+   "premios": 72,
+   "p_techo": 0.4167,
+   "equipos_techo": 72,
+   "p_media": 0.1744,
+   "equipos_media": 172,
+   "p_grande": 0.0962,
+   "equipos_grande": 312,
+   "p_chico": 0.2667,
+   "equipos_por_grupo": 5.73
+  }
+ ],
+ "sedes_nicaragua": [
+  {
+   "sede": "URACCAN NUEVA GUINEA",
+   "grupos": 8,
+   "premios": 20,
+   "ediciones": 4,
+   "anios": [
+    2022,
+    2023,
+    2025,
+    2026
+   ],
+   "n1": 1,
+   "n2": 2,
+   "n3": 5,
+   "p_techo": 0.4,
+   "equipos_techo": 20,
+   "p_media": 0.1778,
+   "equipos_media": 45,
+   "p_grande": 0.1,
+   "equipos_grande": 80,
+   "p_chico": 0.125,
+   "equipos_por_grupo": 5.62
+  },
+  {
+   "sede": "CID UNAN-MANAGUA",
+   "grupos": 6,
+   "premios": 15,
+   "ediciones": 3,
+   "anios": [
+    2022,
+    2023,
+    2025
+   ],
+   "n1": 0,
+   "n2": 3,
+   "n3": 3,
+   "p_techo": 0.4,
+   "equipos_techo": 15,
+   "p_media": 0.2,
+   "equipos_media": 30,
+   "p_grande": 0.1176,
+   "equipos_grande": 51,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "CNIA 1 UNAN-MANAGUA",
+   "grupos": 6,
+   "premios": 14,
+   "ediciones": 3,
+   "anios": [
+    2022,
+    2023,
+    2025
+   ],
+   "n1": 0,
+   "n2": 4,
+   "n3": 2,
+   "p_techo": 0.4286,
+   "equipos_techo": 14,
+   "p_media": 0.25,
+   "equipos_media": 24,
+   "p_grande": 0.1579,
+   "equipos_grande": 38,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 4.0
+  },
+  {
+   "sede": "CNIA 2 UNAN-MANAGUA",
+   "grupos": 6,
+   "premios": 13,
+   "ediciones": 3,
+   "anios": [
+    2022,
+    2023,
+    2025
+   ],
+   "n1": 2,
+   "n2": 1,
+   "n3": 3,
+   "p_techo": 0.4615,
+   "equipos_techo": 13,
+   "p_media": 0.2143,
+   "equipos_media": 28,
+   "p_grande": 0.1224,
+   "equipos_grande": 49,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 4.67
+  },
+  {
+   "sede": "UML-SEDE LEÓN",
+   "grupos": 6,
+   "premios": 12,
+   "ediciones": 3,
+   "anios": [
+    2024,
+    2025,
+    2026
+   ],
+   "n1": 0,
+   "n2": 6,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 12,
+   "p_media": 0.5,
+   "equipos_media": 12,
+   "p_grande": 0.5,
+   "equipos_grande": 12,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNCPGGL CUR MATAGALPA",
+   "grupos": 6,
+   "premios": 12,
+   "ediciones": 3,
+   "anios": [
+    2024,
+    2025,
+    2026
+   ],
+   "n1": 2,
+   "n2": 2,
+   "n3": 2,
+   "p_techo": 0.5,
+   "equipos_techo": 12,
+   "p_media": 0.2727,
+   "equipos_media": 22,
+   "p_grande": 0.1667,
+   "equipos_grande": 36,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 3.67
+  },
+  {
+   "sede": "UNIVERSIDAD MARTÍN LUTERO SEDE SAN CARLOS",
+   "grupos": 6,
+   "premios": 11,
+   "ediciones": 3,
+   "anios": [
+    2022,
+    2025,
+    2026
+   ],
+   "n1": 2,
+   "n2": 3,
+   "n3": 1,
+   "p_techo": 0.5455,
+   "equipos_techo": 11,
+   "p_media": 0.375,
+   "equipos_media": 16,
+   "p_grande": 0.2609,
+   "equipos_grande": 23,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 2.67
+  },
+  {
+   "sede": "URACCAN RECINTO BLUEFIELDS",
+   "grupos": 6,
+   "premios": 13,
+   "ediciones": 3,
+   "anios": [
+    2021,
+    2022,
+    2023
+   ],
+   "n1": 1,
+   "n2": 3,
+   "n3": 2,
+   "p_techo": 0.4615,
+   "equipos_techo": 13,
+   "p_media": 0.2609,
+   "equipos_media": 23,
+   "p_grande": 0.1622,
+   "equipos_grande": 37,
+   "p_chico": 0.1667,
+   "equipos_por_grupo": 3.83
+  },
+  {
+   "sede": "UML MASAYA",
+   "grupos": 5,
+   "premios": 12,
+   "ediciones": 3,
+   "anios": [
+    2024,
+    2025,
+    2026
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 3,
+   "p_techo": 0.4167,
+   "equipos_techo": 12,
+   "p_media": 0.1852,
+   "equipos_media": 27,
+   "p_grande": 0.1042,
+   "equipos_grande": 48,
+   "p_chico": 0.2,
+   "equipos_por_grupo": 5.4
+  },
+  {
+   "sede": "AUDITORIO 21 RURD UNAN-MANAGUA",
+   "grupos": 4,
+   "premios": 10,
+   "ediciones": 2,
+   "anios": [
+    2022,
+    2023
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 2,
+   "p_techo": 0.4,
+   "equipos_techo": 10,
+   "p_media": 0.2,
+   "equipos_media": 20,
+   "p_grande": 0.1176,
+   "equipos_grande": 34,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "BICU CUR EL RAMA",
+   "grupos": 4,
+   "premios": 8,
+   "ediciones": 2,
+   "anios": [
+    2025,
+    2026
+   ],
+   "n1": 0,
+   "n2": 4,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 8,
+   "p_media": 0.5,
+   "equipos_media": 8,
+   "p_grande": 0.5,
+   "equipos_grande": 8,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "CUR UNI ESTELI",
+   "grupos": 4,
+   "premios": 12,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 4,
+   "p_techo": 0.3333,
+   "equipos_techo": 12,
+   "p_media": 0.125,
+   "equipos_media": 32,
+   "p_grande": 0.0667,
+   "equipos_grande": 60,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CUR UNI JUIGALPA",
+   "grupos": 4,
+   "premios": 12,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 4,
+   "p_techo": 0.3333,
+   "equipos_techo": 12,
+   "p_media": 0.125,
+   "equipos_media": 32,
+   "p_grande": 0.0667,
+   "equipos_grande": 60,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "FAREM - CHONTALES/ UNAN - MANAGUA",
+   "grupos": 4,
+   "premios": 9,
+   "ediciones": 2,
+   "anios": [
+    2022,
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 2,
+   "p_techo": 0.4444,
+   "equipos_techo": 9,
+   "p_media": 0.2105,
+   "equipos_media": 19,
+   "p_grande": 0.1212,
+   "equipos_grande": 33,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 4.75
+  },
+  {
+   "sede": "UAM",
+   "grupos": 4,
+   "premios": 10,
+   "ediciones": 2,
+   "anios": [
+    2022,
+    2023
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 2,
+   "p_techo": 0.4,
+   "equipos_techo": 10,
+   "p_media": 0.2,
+   "equipos_media": 20,
+   "p_grande": 0.1176,
+   "equipos_grande": 34,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UCC-MANAGUA",
+   "grupos": 4,
+   "premios": 9,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2026
+   ],
+   "n1": 0,
+   "n2": 3,
+   "n3": 1,
+   "p_techo": 0.4444,
+   "equipos_techo": 9,
+   "p_media": 0.2857,
+   "equipos_media": 14,
+   "p_grande": 0.1905,
+   "equipos_grande": 21,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 3.5
+  },
+  {
+   "sede": "UML CHINANDEGA",
+   "grupos": 4,
+   "premios": 11,
+   "ediciones": 2,
+   "anios": [
+    2025,
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 3,
+   "p_techo": 0.3636,
+   "equipos_techo": 11,
+   "p_media": 0.1538,
+   "equipos_media": 26,
+   "p_grande": 0.0851,
+   "equipos_grande": 47,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 6.5
+  },
+  {
+   "sede": "UML SEDE EL RAMA",
+   "grupos": 4,
+   "premios": 8,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2024
+   ],
+   "n1": 1,
+   "n2": 2,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 8,
+   "p_media": 0.3077,
+   "equipos_media": 13,
+   "p_grande": 0.2,
+   "equipos_grande": 20,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 3.25
+  },
+  {
+   "sede": "UML SEDE JALAPA",
+   "grupos": 4,
+   "premios": 6,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2025
+   ],
+   "n1": 2,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 6,
+   "p_media": 0.6667,
+   "equipos_media": 6,
+   "p_grande": 0.6667,
+   "equipos_grande": 6,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UNCPGGL CUR JUIGALPA",
+   "grupos": 4,
+   "premios": 10,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2026
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 2,
+   "p_techo": 0.4,
+   "equipos_techo": 10,
+   "p_media": 0.2,
+   "equipos_media": 20,
+   "p_grande": 0.1176,
+   "equipos_grande": 34,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNCPGGL SEDE CENTRAL",
+   "grupos": 4,
+   "premios": 11,
+   "ediciones": 2,
+   "anios": [
+    2025,
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 3,
+   "p_techo": 0.3636,
+   "equipos_techo": 11,
+   "p_media": 0.1538,
+   "equipos_media": 26,
+   "p_grande": 0.0851,
+   "equipos_grande": 47,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 6.5
+  },
+  {
+   "sede": "UNCSM - NEYSI RÍOS 1.",
+   "grupos": 4,
+   "premios": 10,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2025
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 3,
+   "p_techo": 0.4,
+   "equipos_techo": 10,
+   "p_media": 0.16,
+   "equipos_media": 25,
+   "p_grande": 0.087,
+   "equipos_grande": 46,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 6.25
+  },
+  {
+   "sede": "UNI-RUPAP",
+   "grupos": 4,
+   "premios": 12,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 4,
+   "p_techo": 0.3333,
+   "equipos_techo": 12,
+   "p_media": 0.125,
+   "equipos_media": 32,
+   "p_grande": 0.0667,
+   "equipos_grande": 60,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI-RUSB",
+   "grupos": 4,
+   "premios": 12,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 4,
+   "p_techo": 0.3333,
+   "equipos_techo": 12,
+   "p_media": 0.125,
+   "equipos_media": 32,
+   "p_grande": 0.0667,
+   "equipos_grande": 60,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNICA",
+   "grupos": 4,
+   "premios": 7,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2024
+   ],
+   "n1": 1,
+   "n2": 3,
+   "n3": 0,
+   "p_techo": 0.5714,
+   "equipos_techo": 7,
+   "p_media": 0.5714,
+   "equipos_media": 7,
+   "p_grande": 0.5714,
+   "equipos_grande": 7,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 1.75
+  },
+  {
+   "sede": "UNICIT",
+   "grupos": 4,
+   "premios": 10,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2025
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 3,
+   "p_techo": 0.4,
+   "equipos_techo": 10,
+   "p_media": 0.16,
+   "equipos_media": 25,
+   "p_grande": 0.087,
+   "equipos_grande": 46,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 6.25
+  },
+  {
+   "sede": "UNIVERSIDAD CENTRAL DE NICARAGUA",
+   "grupos": 4,
+   "premios": 12,
+   "ediciones": 2,
+   "anios": [
+    2025,
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 4,
+   "p_techo": 0.3333,
+   "equipos_techo": 12,
+   "p_media": 0.125,
+   "equipos_media": 32,
+   "p_grande": 0.0667,
+   "equipos_grande": 60,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNIVERSIDAD DE MANAGUA",
+   "grupos": 4,
+   "premios": 8,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2024
+   ],
+   "n1": 0,
+   "n2": 4,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 8,
+   "p_media": 0.5,
+   "equipos_media": 8,
+   "p_grande": 0.5,
+   "equipos_grande": 8,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNIVERSIDAD MARTIN LUTERO SEDE OCOTAL",
+   "grupos": 4,
+   "premios": 8,
+   "ediciones": 2,
+   "anios": [
+    2021,
+    2022
+   ],
+   "n1": 1,
+   "n2": 2,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 8,
+   "p_media": 0.3077,
+   "equipos_media": 13,
+   "p_grande": 0.2,
+   "equipos_grande": 20,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 3.25
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL DE INGENIERÍA SEDE JUIGALPA",
+   "grupos": 4,
+   "premios": 8,
+   "ediciones": 2,
+   "anios": [
+    2021,
+    2022
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.5,
+   "equipos_techo": 8,
+   "p_media": 0.2222,
+   "equipos_media": 18,
+   "p_grande": 0.125,
+   "equipos_grande": 32,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL POLITÉCNICA UNP",
+   "grupos": 4,
+   "premios": 11,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2025
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 3,
+   "p_techo": 0.3636,
+   "equipos_techo": 11,
+   "p_media": 0.1538,
+   "equipos_media": 26,
+   "p_grande": 0.0851,
+   "equipos_grande": 47,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 6.5
+  },
+  {
+   "sede": "URACCAN BILWI",
+   "grupos": 4,
+   "premios": 9,
+   "ediciones": 2,
+   "anios": [
+    2024,
+    2025
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 2,
+   "p_techo": 0.4444,
+   "equipos_techo": 9,
+   "p_media": 0.2105,
+   "equipos_media": 19,
+   "p_grande": 0.1212,
+   "equipos_grande": 33,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 4.75
+  },
+  {
+   "sede": "URACCAN CUR LAS MINAS",
+   "grupos": 4,
+   "premios": 10,
+   "ediciones": 2,
+   "anios": [
+    2025,
+    2026
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 3,
+   "p_techo": 0.4,
+   "equipos_techo": 10,
+   "p_media": 0.16,
+   "equipos_media": 25,
+   "p_grande": 0.087,
+   "equipos_grande": 46,
+   "p_chico": 0.25,
+   "equipos_por_grupo": 6.25
+  },
+  {
+   "sede": "URACCAN RECINTO LAS MINAS",
+   "grupos": 4,
+   "premios": 8,
+   "ediciones": 2,
+   "anios": [
+    2021,
+    2022
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.5,
+   "equipos_techo": 8,
+   "p_media": 0.2222,
+   "equipos_media": 18,
+   "p_grande": 0.125,
+   "equipos_grande": 32,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "BICENTENARIA UNAN - LEON",
+   "grupos": 3,
+   "premios": 9,
+   "ediciones": 2,
+   "anios": [
+    2021,
+    2022
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 3,
+   "p_techo": 0.3333,
+   "equipos_techo": 9,
+   "p_media": 0.125,
+   "equipos_media": 24,
+   "p_grande": 0.0667,
+   "equipos_grande": 45,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "BICU SEDE CENTRAL BLUEFIELDS",
+   "grupos": 3,
+   "premios": 5,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2024
+   ],
+   "n1": 1,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.6,
+   "equipos_techo": 5,
+   "p_media": 0.6,
+   "equipos_media": 5,
+   "p_grande": 0.6,
+   "equipos_grande": 5,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 1.67
+  },
+  {
+   "sede": "LA AMERICAN UNIVERSITY (LAAU)",
+   "grupos": 3,
+   "premios": 6,
+   "ediciones": 2,
+   "anios": [
+    2023,
+    2025
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 6,
+   "p_media": 0.2727,
+   "equipos_media": 11,
+   "p_grande": 0.1667,
+   "equipos_grande": 18,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 3.67
+  },
+  {
+   "sede": "UML OCOTAL",
+   "grupos": 3,
+   "premios": 6,
+   "ediciones": 2,
+   "anios": [
+    2025,
+    2026
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 6,
+   "p_media": 0.2727,
+   "equipos_media": 11,
+   "p_grande": 0.1667,
+   "equipos_grande": 18,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 3.67
+  },
+  {
+   "sede": "UNAN MANAGUA FAREM ESTELÍ",
+   "grupos": 3,
+   "premios": 6,
+   "ediciones": 2,
+   "anios": [
+    2022,
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 6,
+   "p_media": 0.2727,
+   "equipos_media": 11,
+   "p_grande": 0.1667,
+   "equipos_grande": 18,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 3.67
+  },
+  {
+   "sede": "UNIVERSIDAD MARTÍN LUTERO SEDE JINOTEGA",
+   "grupos": 3,
+   "premios": 5,
+   "ediciones": 2,
+   "anios": [
+    2021,
+    2022
+   ],
+   "n1": 1,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.6,
+   "equipos_techo": 5,
+   "p_media": 0.6,
+   "equipos_media": 5,
+   "p_grande": 0.6,
+   "equipos_grande": 5,
+   "p_chico": 0.3333,
+   "equipos_por_grupo": 1.67
+  },
+  {
+   "sede": "UNIVERSIDAD MARTÍN LUTERO SEDE SANTO TOMÁS",
+   "grupos": 3,
+   "premios": 7,
+   "ediciones": 2,
+   "anios": [
+    2022,
+    2025
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 1,
+   "p_techo": 0.4286,
+   "equipos_techo": 7,
+   "p_media": 0.25,
+   "equipos_media": 12,
+   "p_grande": 0.1579,
+   "equipos_grande": 19,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 4.0
+  },
+  {
+   "sede": "AUDITORIO FERNANDO GORDILLO",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "BERNARDINO DÍAZ OCHOA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "BICU",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "BICU - BILWI PUERTO CABEZAS",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "BICU - BLUEFIELDS",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "BICU BONANZA",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "BICU CUR BONANZA",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "BICU SEDE PUERTO CABEZAS BILWI",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "BLUEFIELDS INDIAN AND CARIBBEAN UNIVERSITY - RECINTO EL RAMA",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "BLUEFIELDS INDIAN AND CARIBBEAN UNIVERSITY EL RAMA",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "CASIMIRO 1",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CASIMIRO 2",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CASIMIRO 3",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "CENTRO DE INNOVACIÓN URACCAN - NUEVA GUINEA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "CENTRO DE INNOVACIÓN Y DISEÑO, PABELLÓN “LUISA AMANDA ESPINOZA”, CID, UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "CENTRO NACIONAL DE INNOVACIÓN ABIERTA CARLOS MARTÍNEZ RIVAS",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "CENTRO NACIONAL DE INNOVACIÓN ABIERTA “COMANDANTE TOMÁS BORGE MARTÍNEZ”, CNIA 1, UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CENTRO NACIONAL DE INNOVACIÓN ABIERTA “COMANDANTE TOMÁS BORGE MARTÍNEZ”, CNIA 2, UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "CENTRO UNIVERSITARIO REGIONAL DE CARAZO “GENERAL MIGUEL ÁNGEL ORTEZ”, CUR-CARAZO, UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CENTRO UNIVERSITARIO REGIONAL DE CHONTALES \"CORNELIO SILVA ARGÜELLO\", CUR-CHONTALES, UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CENTRO UNIVERSITARIO REGIONAL DE ESTELÍ “LEONEL RUGAMA RUGAMA”, CUR-ESTELÍ, UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CENTRO UNIVERSITARIO REGIONAL DE MATAGALPA “MARIANO FIALLOS GIL”, CUR-MATAGALPA, UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "CENTRO UNIVERSITARIO REGIONAL UNA JUIGALPA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CENTRO UNIVERSITARIO REGIONAL UNA-JUIGALPA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CENTRO UNIVERSITARIO UNA CAMOAPA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "CUR CARAZO UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "CUR CHONTALES",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CUR ESTELÍ-UNAN MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "CUR MATAGALPA UNAN - MANAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "CUR SOMOTILLO / UNAN LEÓN",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "FAREM - MATAGALPA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "FAREM CHONTALES UNAN MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "FAREM CHONTALES UNICAM NUEVA GUINEA UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "FAREM MATAGALPA - UNAN MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "FAREM MATAGALPA UNAN - MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "FAREM-CARAZO /UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "FAREM-CARAZO/UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "KEISER UNIVERSITY LATIN AMERICAN CAMPUS",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "LAAU",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "NEYSI RÍOS 2 - UNCSM",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "RECINTO CENTRAL UNFLEP",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "RECINTO UNIVERSITARIO SIMON BOLIVAR RUSB",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "SEDE CENTRAL (UNAN-LEÓN)",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "SEDE CENTRAL ULSA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "SEDE CUR UNI JUIGALPA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "SEDE UNI-RUPAP",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UAM - SEDE DIEM",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UAM - SEDE JAGUARES",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UAM - SEDE SEMILLERO DE INNOVACIÓN",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UAM-DIEM",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UAM-JAGUARES",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UCN MANAGUA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "ULSA NICARAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UML - SEDE JINOTEGA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UML JALAPA",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UML NIVEL CENTRAL",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UML SEDE CENTRAL",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UML SEDE JINOTEGA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UML SEDE LEON",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UML SEDE OCOTAL",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UML SEDE SAN CARLOS",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UML SEDE SANTO TOMAS",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UML SEDE SANTO TOMÁS",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UML SEDE-LEÓN",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UML- SEDE JALAPA",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UML- SEDE MANAGUA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "UML-SEDE NUEVA GUINEA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UML-SEDE SAN CARLOS",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UML-SEDE SANTO TOMÁS",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UML-SIUNA",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNA - MANAGUA - JUAN FRANCISCO PAGUAGA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNA CAMOAPA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNA MANAGUA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "UNA SEDE UNIVERSITARIA CAMOAPA, BOACO, NICARAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNA SEDE UNIVERSITARIA JUIGALPA, CHONTALES, NICARAGUA",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNACAMOAPA24",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNAJUIGALPA24",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNAMANAGUA2024",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNAN -LEÓN(CENTRO UNIVERSITARIO REGIONAL-JINOTEGA/ MARLON ZELAYA CRUZ).",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UNAN LEON - CUR JINOTEGA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNAN LEON CUR JINOTEGA MARLON ZELAYA CRUZ",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNAN MANAGUA / CUR-CHONTALES",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNAN, FAREM-CARAZO",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNAN-LEÓN / SEDE CENTRAL",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNAN-LEÓN CUR/SOMOTILLO",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "UNAN-LEÓN-CUR JINOTEGA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNAN-MANAGUA CID",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNAN-MANAGUA CNIA 1",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "UNAN-MANAGUA CNIA 2",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNAN-MANAGUA/CUR-CARAZO",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNAN-MANAGUA/CUR-ESTELÍ",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNAN-MANAGUA/CUR-MATAGALPA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNAN_LEON_SEDE_CENTRAL",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNCPGGL - SEDE CENTRAL LEÓN",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNCSM - NEYSI RÍOS 2.",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNFLEP",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNHSJM MANAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNI - RUACS",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNI - RUPAP",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UNI - RUSB",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI CUR ESTELÍ",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI RUPAP 1",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI RUPAP 2",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI RUSB",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNI RUSB 2",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI-IES",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI-RUACS",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI-RUAUV",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNI-RUSB 1",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNIAV RIVAS",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNICA NICARAGUA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNICAM BOACO UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 3,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 1,
+   "n2": 1,
+   "n3": 0,
+   "p_techo": 0.6667,
+   "equipos_techo": 3,
+   "p_media": 0.6667,
+   "equipos_media": 3,
+   "p_grande": 0.6667,
+   "equipos_grande": 3,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 1.5
+  },
+  {
+   "sede": "UNICAM NUEVA GUINEA DE LA UNAN-MANAGUA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNICAM-EL VIEJO / UNAN-LEÓN",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNICIT-NICARAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNITEC",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNIVERSIDAD AMERICANA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNIVERSIDAD AUTÓNOMA DE CHINANDEGA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "UNIVERSIDAD CATÓLICA REDEMPTORIS MATER (UNICA)",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNIVERSIDAD CENTRAL DE NICARAGUA UCN",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNIVERSIDAD DE TECNOLOGÍA Y COMERCIO UNITEC",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "UNIVERSIDAD IBEROAMERICANA DE CIENCIA Y TECNOLOGÍA",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNIVERSIDAD INTERNACIONAL ANTONIO DE VALDIVIESO",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNIVERSIDAD INTERNACIONAL ANTONIO DE VALDIVIESO-RIVAS",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNIVERSIDAD MARTIN LUTERO SEDE SIUNA",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2022
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNIVERSIDAD MARTÍN LUTERO, SANTO TOMAS",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL AGRARIA (UNA)",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL AGRARIA - MANAGUA, NICARAGUA",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL AUTÓNOMA DE NICARAGUA - LEÓN",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 1,
+   "n2": 0,
+   "n3": 1,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.2222,
+   "equipos_media": 9,
+   "p_grande": 0.125,
+   "equipos_grande": 16,
+   "p_chico": 0.5,
+   "equipos_por_grupo": 4.5
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL DE INGENIERÍA, RECINTO UNIVERSITARIO AUGUSTO C. SANDINO",
+   "grupos": 2,
+   "premios": 4,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 0,
+   "n2": 2,
+   "n3": 0,
+   "p_techo": 0.5,
+   "equipos_techo": 4,
+   "p_media": 0.5,
+   "equipos_media": 4,
+   "p_grande": 0.5,
+   "equipos_grande": 4,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 2.0
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL FRANCISCO LUIS ESPINOZA PINEDA - UNFLEP",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNIVERSIDAD NACIONAL MULTIDISCIPLINARIA RICARDO MORALES AVILÉS- RECINTO COMANDANTE RICARDO MORALES AVILÉS",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNIVERSIDAD POLITÉCNICA DE NICARAGUA UPOLI",
+   "grupos": 2,
+   "premios": 2,
+   "ediciones": 1,
+   "anios": [
+    2021
+   ],
+   "n1": 2,
+   "n2": 0,
+   "n3": 0,
+   "p_techo": 1.0,
+   "equipos_techo": 2,
+   "p_media": 1.0,
+   "equipos_media": 2,
+   "p_grande": 1.0,
+   "equipos_grande": 2,
+   "p_chico": 1.0,
+   "equipos_por_grupo": 1.0
+  },
+  {
+   "sede": "UNMRMA-SEDE COMANDANTE RICARDO MORALES AVILÉS",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNMRMA-SEDE MUJERES DEL CUÁ",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "UNP- RECINTO CENTRAL",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "URACCAN - BILWI",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  },
+  {
+   "sede": "URACCAN - BLUEFIELDS",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2026
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "URACCAN CUR NUEVA GUINEA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2024
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "URACCAN SIUNA",
+   "grupos": 2,
+   "premios": 5,
+   "ediciones": 1,
+   "anios": [
+    2023
+   ],
+   "n1": 0,
+   "n2": 1,
+   "n3": 1,
+   "p_techo": 0.4,
+   "equipos_techo": 5,
+   "p_media": 0.2,
+   "equipos_media": 10,
+   "p_grande": 0.1176,
+   "equipos_grande": 17,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 5.0
+  },
+  {
+   "sede": "URACCAN-BLUEFIELDS",
+   "grupos": 2,
+   "premios": 6,
+   "ediciones": 1,
+   "anios": [
+    2025
+   ],
+   "n1": 0,
+   "n2": 0,
+   "n3": 2,
+   "p_techo": 0.3333,
+   "equipos_techo": 6,
+   "p_media": 0.125,
+   "equipos_media": 16,
+   "p_grande": 0.0667,
+   "equipos_grande": 30,
+   "p_chico": 0.0,
+   "equipos_por_grupo": 8.0
+  }
+ ],
+ "estratos": {
+  "year": [
+   {
+    "valor": "2021",
+    "grupos": 218,
+    "n1": 59,
+    "n2": 58,
+    "n3": 101,
+    "p_grupo_minimo": 0.2706,
+    "ic_p_grupo_minimo": [
+     0.216,
+     0.3332
+    ],
+    "p_primero_k8": 0.1027
+   },
+   {
+    "valor": "2022",
+    "grupos": 268,
+    "n1": 55,
+    "n2": 76,
+    "n3": 137,
+    "p_grupo_minimo": 0.2052,
+    "ic_p_grupo_minimo": [
+     0.1612,
+     0.2576
+    ],
+    "p_primero_k8": 0.1051
+   },
+   {
+    "valor": "2023",
+    "grupos": 302,
+    "n1": 54,
+    "n2": 105,
+    "n3": 143,
+    "p_grupo_minimo": 0.1788,
+    "ic_p_grupo_minimo": [
+     0.1397,
+     0.226
+    ],
+    "p_primero_k8": 0.1016
+   },
+   {
+    "valor": "2024",
+    "grupos": 304,
+    "n1": 53,
+    "n2": 76,
+    "n3": 175,
+    "p_grupo_minimo": 0.1743,
+    "ic_p_grupo_minimo": [
+     0.1358,
+     0.221
+    ],
+    "p_primero_k8": 0.109
+   },
+   {
+    "valor": "2025",
+    "grupos": 316,
+    "n1": 33,
+    "n2": 71,
+    "n3": 212,
+    "p_grupo_minimo": 0.1044,
+    "ic_p_grupo_minimo": [
+     0.0753,
+     0.143
+    ],
+    "p_primero_k8": 0.1133
+   },
+   {
+    "valor": "2026",
+    "grupos": 336,
+    "n1": 34,
+    "n2": 73,
+    "n3": 229,
+    "p_grupo_minimo": 0.1012,
+    "ic_p_grupo_minimo": [
+     0.0733,
+     0.1381
+    ],
+    "p_primero_k8": 0.1138
+   }
+  ],
+  "country": [
+   {
+    "valor": "ARGENTINA",
+    "grupos": 353,
+    "n1": 51,
+    "n2": 115,
+    "n3": 187,
+    "p_grupo_minimo": 0.1445,
+    "ic_p_grupo_minimo": [
+     0.1116,
+     0.185
+    ],
+    "p_primero_k8": 0.1052
+   },
+   {
+    "valor": "CHILE",
+    "grupos": 103,
+    "n1": 19,
+    "n2": 24,
+    "n3": 60,
+    "p_grupo_minimo": 0.1845,
+    "ic_p_grupo_minimo": [
+     0.1214,
+     0.2702
+    ],
+    "p_primero_k8": 0.1097
+   },
+   {
+    "valor": "COLOMBIA",
+    "grupos": 225,
+    "n1": 48,
+    "n2": 68,
+    "n3": 109,
+    "p_grupo_minimo": 0.2133,
+    "ic_p_grupo_minimo": [
+     0.1649,
+     0.2714
+    ],
+    "p_primero_k8": 0.1032
+   },
+   {
+    "valor": "EL SALVADOR",
+    "grupos": 98,
+    "n1": 12,
+    "n2": 21,
+    "n3": 65,
+    "p_grupo_minimo": 0.1224,
+    "ic_p_grupo_minimo": [
+     0.0715,
+     0.2019
+    ],
+    "p_primero_k8": 0.1132
+   },
+   {
+    "valor": "MÉXICO",
+    "grupos": 353,
+    "n1": 32,
+    "n2": 39,
+    "n3": 282,
+    "p_grupo_minimo": 0.0907,
+    "ic_p_grupo_minimo": [
+     0.0649,
+     0.1252
+    ],
+    "p_primero_k8": 0.1192
+   },
+   {
+    "valor": "NICARAGUA",
+    "grupos": 483,
+    "n1": 82,
+    "n2": 161,
+    "n3": 240,
+    "p_grupo_minimo": 0.1698,
+    "ic_p_grupo_minimo": [
+     0.1389,
+     0.2058
+    ],
+    "p_primero_k8": 0.1033
+   }
+  ],
+  "category": [
+   {
+    "valor": "ÁREA IMPACTO SOCIAL",
+    "grupos": 876,
+    "n1": 139,
+    "n2": 232,
+    "n3": 505,
+    "p_grupo_minimo": 0.1587,
+    "ic_p_grupo_minimo": [
+     0.136,
+     0.1844
+    ],
+    "p_primero_k8": 0.1088
+   },
+   {
+    "valor": "ÁREA INNOVACIÓN",
+    "grupos": 868,
+    "n1": 149,
+    "n2": 227,
+    "n3": 492,
+    "p_grupo_minimo": 0.1717,
+    "ic_p_grupo_minimo": [
+     0.148,
+     0.1982
+    ],
+    "p_primero_k8": 0.1084
+   }
+  ]
+ },
+ "probabilidad": {
+  "entre_premiados": 0.4108,
+  "entre_premiados_ic": [
+   0.396,
+   0.4257
+  ],
+  "piso_absoluto": 0.2376,
+  "techo_absoluto_documentado": 0.5717
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "video_id": "0F8mGBmukvE",
+ "url": "https://www.youtube.com/watch?v=0F8mGBmukvE",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CENTINELA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "CENTINELA",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:28:00+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Una familia de América Latina dedicado toda su vida a cultivar tierra, día tras día con esfuerzo de dedicación y amor por su trabajo, lograron cosechar y alimentar a toda su comunidad, pero una noche todo cambió. Una tormenta intensa provocó un deslizamiento de tierra que arrasó con los cultivos. Su hogar y su esperanza no fue porque no tuvieron tiempo de actuar, sino porque la alerta de desastres nunca llegó. Desde el año 2000 más de 150 millones de personas han sido afectadas por los desastres naturales y nos surge una pregunta ¿cuántas vidas más deben perderse antes de que actuemos? Te presentamos la IDEA 360 alert, una solución tecnológica que convierte los segundos en oportunidades y las alertas en vidas salvadas. Es una aplicación móvil conectada a sensores ambientales inteligentes, llamados centinelas. Estos sensores detectan inundaciones, incendios o sismos y envían alertas en tiempo real directamente a los centros oficiales de acopio de datos. Desde ahí la información llega instantáneamente a los teléfonos de las familias. Es fácil, rápido y accesible. Nuestro sistema utiliza inteligencia artificial para analizar el entorno, interpreta datos y enute alertas precisas y personalizadas, adaptadas a cada comunidad. Hacia su bajo costo y diseño modular puede instalarse incluso en zonas más rurales, fortaleciendo la prevención y la preparación ciudadana frente a desastres naturales. Les sostiene de alianzas con gobiernos locales y organismos de protección civil, generando los fondos necesarios para la instalación, mantenimiento y expansión del sistema. Así garantizamos que las familias estén protegidas sin costo alguno. Imagina comunidades que ya no viven con miedo, familias que pueden dormir tranquilas, niños que llegan a casa seguros. Eso es 360 alert, tecnología con propósito, innovación que salva vidas. Te invito a ser parte de esta revolución preventiva y a impulsar con nosotros esta idea que puede salvar miles de vidas en América Latina. Somos 360 alert.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Una familia de América Latina dedicado toda su vida a cultivar tierra, día tras día con"
+  },
+  {
+   "start": 5.0,
+   "end": 11.08,
+   "text": "esfuerzo de dedicación y amor por su trabajo, lograron cosechar y alimentar a toda su comunidad,"
+  },
+  {
+   "start": 11.08,
+   "end": 12.84,
+   "text": "pero una noche todo cambió."
+  },
+  {
+   "start": 12.84,
+   "end": 17.44,
+   "text": "Una tormenta intensa provocó un deslizamiento de tierra que arrasó con los cultivos."
+  },
+  {
+   "start": 17.44,
+   "end": 21.4,
+   "text": "Su hogar y su esperanza no fue porque no tuvieron tiempo de actuar, sino porque"
+  },
+  {
+   "start": 21.4,
+   "end": 23.92,
+   "text": "la alerta de desastres nunca llegó."
+  },
+  {
+   "start": 23.92,
+   "end": 28.88,
+   "text": "Desde el año 2000 más de 150 millones de personas han sido afectadas por los desastres"
+  },
+  {
+   "start": 28.88,
+   "end": 34.72,
+   "text": "naturales y nos surge una pregunta ¿cuántas vidas más deben perderse antes de que actuemos?"
+  },
+  {
+   "start": 34.72,
+   "end": 41.28,
+   "text": "Te presentamos la IDEA 360 alert, una solución tecnológica que convierte los segundos en oportunidades"
+  },
+  {
+   "start": 41.28,
+   "end": 43.48,
+   "text": "y las alertas en vidas salvadas."
+  },
+  {
+   "start": 43.48,
+   "end": 47.48,
+   "text": "Es una aplicación móvil conectada a sensores ambientales inteligentes,"
+  },
+  {
+   "start": 47.48,
+   "end": 49.16,
+   "text": "llamados centinelas."
+  },
+  {
+   "start": 49.16,
+   "end": 54.72,
+   "text": "Estos sensores detectan inundaciones, incendios o sismos y envían alertas en tiempo real"
+  },
+  {
+   "start": 54.72,
+   "end": 57.92,
+   "text": "directamente a los centros oficiales de acopio de datos."
+  },
+  {
+   "start": 58.0,
+   "end": 61.84,
+   "text": "Desde ahí la información llega instantáneamente a los teléfonos de las familias."
+  },
+  {
+   "start": 61.84,
+   "end": 64.12,
+   "text": "Es fácil, rápido y accesible."
+  },
+  {
+   "start": 64.12,
+   "end": 68.04,
+   "text": "Nuestro sistema utiliza inteligencia artificial para analizar el entorno,"
+  },
+  {
+   "start": 68.04,
+   "end": 71.88,
+   "text": "interpreta datos y enute alertas precisas y personalizadas,"
+  },
+  {
+   "start": 71.88,
+   "end": 73.64,
+   "text": "adaptadas a cada comunidad."
+  },
+  {
+   "start": 73.64,
+   "end": 78.64,
+   "text": "Hacia su bajo costo y diseño modular puede instalarse incluso en zonas más rurales,"
+  },
+  {
+   "start": 78.64,
+   "end": 83.44,
+   "text": "fortaleciendo la prevención y la preparación ciudadana frente a desastres naturales."
+  },
+  {
+   "start": 83.44,
+   "end": 87.76,
+   "text": "Les sostiene de alianzas con gobiernos locales y organismos de protección civil,"
+  },
+  {
+   "start": 87.76,
+   "end": 93.32,
+   "text": "generando los fondos necesarios para la instalación, mantenimiento y expansión del sistema."
+  },
+  {
+   "start": 93.32,
+   "end": 97.6,
+   "text": "Así garantizamos que las familias estén protegidas sin costo alguno."
+  },
+  {
+   "start": 97.6,
+   "end": 102.48,
+   "text": "Imagina comunidades que ya no viven con miedo, familias que pueden dormir tranquilas,"
+  },
+  {
+   "start": 102.48,
+   "end": 104.72,
+   "text": "niños que llegan a casa seguros."
+  },
+  {
+   "start": 104.72,
+   "end": 110.08,
+   "text": "Eso es 360 alert, tecnología con propósito, innovación que salva vidas."
+  },
+  {
+   "start": 110.08,
+   "end": 114.96,
+   "text": "Te invito a ser parte de esta revolución preventiva y a impulsar con nosotros esta idea"
+  },
+  {
+   "start": 114.96,
+   "end": 117.96,
+   "text": "que puede salvar miles de vidas en América Latina."
+  },
+  {
+   "start": 117.96,
+   "end": 119.76,
+   "text": "Somos 360 alert."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.5
+}

@@ -1,0 +1,82 @@
+{
+ "video_id": "HhNZFG4CbsY",
+ "url": "https://youtu.be/HhNZFG4CbsY?si=5KWBRlB2AO8DysMM",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "POLYMATH",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "POLYMATH",
+   "challenge": "05 - HUERTOS VERTICALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:31:37+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La seguridad alimentaria en nuestra ciudad es un problema recurrente, especialmente para comunidades generales. En América Latina la falta de exceso, alimento fresco y nutritivo en nuestras ciudades es una realidad que afecta la salud, la economía y el futuro de millones de familias. Rebiotics democratiza la hidroponía, bajos costos, materiales enciclados y una tecnología sencilla que cualquier comunidad puede replicar. Simplemente un sistema de riesgo automatizado con un sensor de humedad que, pendiendo del nivel base de porcentaje de humedad, activaría nuestra bomba que llenaría de agua a sobre mostrando el porcentaje en el LCD y en diferentes estados de humedad. Y si la solución estuviera al alcance de todos, con Rebiotics cada pared, cada balcón, cada espacio se convierte en una oportunidad. Estamos construyendo comunidades más sanas, más educativas y más resilientes. Un huerto a la vez. Rebiotics es el futuro. Únete a nosotros.",
+ "segments": [
+  {
+   "start": 0.02,
+   "end": 7.66,
+   "text": "La seguridad alimentaria en nuestra ciudad es un problema recurrente, especialmente para comunidades"
+  },
+  {
+   "start": 7.66,
+   "end": 13.5,
+   "text": "generales. En América Latina la falta de exceso, alimento fresco y nutritivo en nuestras ciudades"
+  },
+  {
+   "start": 13.5,
+   "end": 18.62,
+   "text": "es una realidad que afecta la salud, la economía y el futuro de millones de familias."
+  },
+  {
+   "start": 18.62,
+   "end": 24.14,
+   "text": "Rebiotics democratiza la hidroponía, bajos costos, materiales enciclados y una tecnología"
+  },
+  {
+   "start": 24.14,
+   "end": 29.26,
+   "text": "sencilla que cualquier comunidad puede replicar. Simplemente un sistema de riesgo automatizado"
+  },
+  {
+   "start": 29.26,
+   "end": 33.78,
+   "text": "con un sensor de humedad que, pendiendo del nivel base de porcentaje de humedad, activaría"
+  },
+  {
+   "start": 33.78,
+   "end": 39.3,
+   "text": "nuestra bomba que llenaría de agua a sobre mostrando el porcentaje en el LCD y en diferentes"
+  },
+  {
+   "start": 39.3,
+   "end": 45.42,
+   "text": "estados de humedad. Y si la solución estuviera al alcance de todos, con Rebiotics cada pared,"
+  },
+  {
+   "start": 45.42,
+   "end": 51.62,
+   "text": "cada balcón, cada espacio se convierte en una oportunidad. Estamos construyendo comunidades"
+  },
+  {
+   "start": 51.62,
+   "end": 57.5,
+   "text": "más sanas, más educativas y más resilientes. Un huerto a la vez. Rebiotics es el"
+  },
+  {
+   "start": 57.5,
+   "end": 59.1,
+   "text": "futuro. Únete a nosotros."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 60.4
+}

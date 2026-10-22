@@ -1,0 +1,11 @@
+[A1 - 0:00 - 0:20]
+En Managua (Cuenca Cauce Oriental), en nicaragua, las inundaciones y anegaciones afectan anualmente a mas de 120,000 personas en zonas urbanas y periurbanas de la cuenca del pacifico (SINAPRED (Sistema Nacional para la Prevencion, Mitigacion y Atencion de Desastres), 2024). Un desafio que impacta directamente la seguridad y el bienestar de nuestras familias nicaraguenses.
+
+[A2 - 0:20 - 1:00]
+Nace HIDRO-VIGIA, desarrollado por Mentes Pinoleras. Sistema ciber-fisico de telemetria hiperlocal con sensores de nivel ultrasonicos y red LoRaWAN para alerta temprana comunitaria con 30 minutos de anticipacion. Nuestro mecanismo combina materia prima local con sensores y control de alta eficiencia.
+
+[A3 - 1:00 - 1:35]
+La puesta en marcha requiere un costo superficial de $4,850 USD, articulable con programas de infraestructura municipal y cooperativas locales.
+
+[A4 - 1:35 - 2:00]
+Alineados con el Plan Nacional de Lucha Contra la Pobreza (Eje 3: Proteccion de la Vida y Resiliencia ante el Cambio Climatico) y los ODS 11, ODS 13, ODS 3. HIDRO-VIGIA: innovacion y talento nicaraguense al servicio de la comunidad.

@@ -1,0 +1,132 @@
+{
+ "video_id": "hYJqUJ35_qw",
+ "url": "https://youtu.be/hYJqUJ35_qw",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECHONIC",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ECHONIC",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:15:00+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Un desastre puede destruir carreteras, derribar antenas y dejar a miles de personas sin comunicación, pero ¿y si la información pudiera encontrar su camino incluso cuando todo falla? Somos Seconic y hoy les presentamos en Tinella un proyecto que transforma celulares y tecnología de radio frecuencia en una red inteligente de respuestas ante emergencias mediante tablets y dispositivos conectados a una red lorenmaia. La información llega a una central de monitoreo con un mapa de incidentes georeferenciados en tiempo real, una inteligencia artificial analiza las prioridades y optimiza la asignación de recursos. Tinella permite que brigadistas, voluntarios y miembros de organizaciones comunitarias como grupos juveniles reporten emergencias desde una aplicación móvil, registrando personas atrapadas, necesidades médicas, inundaciones, ríos de bordado, deslaves o sismos. El sistema también permite administrar ambulancias, equipos médicos y otros recursos disponibles, actualizar su estado libre, ocupado o en atención y generar reportes para mejorar la coordinación, agilizar las decisiones y aprovechar cada recurso donde más se necesita. Con una inversión inicial de 5.482 dólares y un costo por estación de 3.750 dólares. ¿Tu impacto? Según una estimulación publicada por SinaPret en 2018, Nicaragua tenía 1.797 comunidades expuestas al alto riesgo, con aproximadamente 1.7 millones de personas vulnerables. Centinella busca fortalecer la capacidad de respuesta para estas comunidades, reduciendo retrasos y optimizando el uso de recursos. Con Centinella, cada recurso llega donde más se necesita y cada decisión cuenta para proteger más vidas.",
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 6.14,
+   "text": "Un desastre puede destruir carreteras, derribar antenas y dejar a miles de personas sin comunicación,"
+  },
+  {
+   "start": 6.14,
+   "end": 11.14,
+   "text": "pero ¿y si la información pudiera encontrar su camino incluso cuando todo falla?"
+  },
+  {
+   "start": 11.14,
+   "end": 16.14,
+   "text": "Somos Seconic y hoy les presentamos en Tinella un proyecto que transforma celulares y tecnología"
+  },
+  {
+   "start": 16.14,
+   "end": 21.14,
+   "text": "de radio frecuencia en una red inteligente de respuestas ante emergencias mediante tablets"
+  },
+  {
+   "start": 21.14,
+   "end": 24.14,
+   "text": "y dispositivos conectados a una red lorenmaia."
+  },
+  {
+   "start": 24.14,
+   "end": 28.14,
+   "text": "La información llega a una central de monitoreo con un mapa de incidentes georeferenciados"
+  },
+  {
+   "start": 28.14,
+   "end": 33.14,
+   "text": "en tiempo real, una inteligencia artificial analiza las prioridades y optimiza la asignación de recursos."
+  },
+  {
+   "start": 33.14,
+   "end": 38.14,
+   "text": "Tinella permite que brigadistas, voluntarios y miembros de organizaciones comunitarias"
+  },
+  {
+   "start": 38.14,
+   "end": 42.14,
+   "text": "como grupos juveniles reporten emergencias desde una aplicación móvil,"
+  },
+  {
+   "start": 42.14,
+   "end": 48.14,
+   "text": "registrando personas atrapadas, necesidades médicas, inundaciones, ríos de bordado, deslaves o sismos."
+  },
+  {
+   "start": 48.14,
+   "end": 53.14,
+   "text": "El sistema también permite administrar ambulancias, equipos médicos y otros recursos disponibles,"
+  },
+  {
+   "start": 53.14,
+   "end": 59.14,
+   "text": "actualizar su estado libre, ocupado o en atención y generar reportes para mejorar la coordinación,"
+  },
+  {
+   "start": 59.14,
+   "end": 63.14,
+   "text": "agilizar las decisiones y aprovechar cada recurso donde más se necesita."
+  },
+  {
+   "start": 63.14,
+   "end": 70.14,
+   "text": "Con una inversión inicial de 5.482 dólares y un costo por estación de 3.750 dólares."
+  },
+  {
+   "start": 70.14,
+   "end": 75.14,
+   "text": "¿Tu impacto? Según una estimulación publicada por SinaPret en 2018,"
+  },
+  {
+   "start": 75.14,
+   "end": 79.14,
+   "text": "Nicaragua tenía 1.797 comunidades expuestas al alto riesgo,"
+  },
+  {
+   "start": 79.14,
+   "end": 83.14,
+   "text": "con aproximadamente 1.7 millones de personas vulnerables."
+  },
+  {
+   "start": 83.14,
+   "end": 87.14,
+   "text": "Centinella busca fortalecer la capacidad de respuesta para estas comunidades,"
+  },
+  {
+   "start": 87.14,
+   "end": 90.14,
+   "text": "reduciendo retrasos y optimizando el uso de recursos."
+  },
+  {
+   "start": 90.14,
+   "end": 94.14,
+   "text": "Con Centinella, cada recurso llega donde más se necesita"
+  },
+  {
+   "start": 94.14,
+   "end": 97.14,
+   "text": "y cada decisión cuenta para proteger más vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 101.4
+}

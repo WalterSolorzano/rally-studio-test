@@ -1,0 +1,72 @@
+{
+ "video_id": "A5pzWGx75pU",
+ "url": "https://youtu.be/A5pzWGx75pU?si=-3ua9qsjjcL3b6kZ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "FENIX CODE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "FENIX CODE",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:34:28+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En Nicaragua, muchos comunidades carecen de herramientas accesibles para registrar vibraciones y compartir información después de un sismo, especialmente cuando falla la conectividad. Sismo PREP propone reutilizar celulares en desuso, como estaciones comunitarias que registren vibraciones mediante su sensor, aprovechando recursos tecnológicos disponibles. Registra vibraciones, comparte datos mediante redes locales sin internet. La propuesta ayuda a estudiantes, a docentes, a familiares, a las comunidades facilitando reportes, la coordinación de simulacros, acciones de preparación. Integra inteligencia artificial, etnomología reutilizada para reducir el costo. Sismo PREP no predice terremoto ni sustituye alertas oficiales.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.43,
+   "text": "En Nicaragua, muchos comunidades carecen de herramientas accesibles para registrar vibraciones"
+  },
+  {
+   "start": 9.43,
+   "end": 15.43,
+   "text": "y compartir información después de un sismo, especialmente cuando falla la conectividad."
+  },
+  {
+   "start": 15.43,
+   "end": 23.43,
+   "text": "Sismo PREP propone reutilizar celulares en desuso, como estaciones comunitarias"
+  },
+  {
+   "start": 23.43,
+   "end": 29.43,
+   "text": "que registren vibraciones mediante su sensor, aprovechando recursos tecnológicos disponibles."
+  },
+  {
+   "start": 29.43,
+   "end": 35.43,
+   "text": "Registra vibraciones, comparte datos mediante redes locales sin internet."
+  },
+  {
+   "start": 35.43,
+   "end": 42.78,
+   "text": "La propuesta ayuda a estudiantes, a docentes, a familiares, a las comunidades"
+  },
+  {
+   "start": 42.78,
+   "end": 47.78,
+   "text": "facilitando reportes, la coordinación de simulacros, acciones de preparación."
+  },
+  {
+   "start": 47.78,
+   "end": 53.78,
+   "text": "Integra inteligencia artificial, etnomología reutilizada para reducir el costo."
+  },
+  {
+   "start": 53.78,
+   "end": 60.78,
+   "text": "Sismo PREP no predice terremoto ni sustituye alertas oficiales."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 77.0
+}

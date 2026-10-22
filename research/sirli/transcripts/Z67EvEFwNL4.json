@@ -1,0 +1,137 @@
+{
+ "video_id": "Z67EvEFwNL4",
+ "url": "https://youtu.be/Z67EvEFwNL4",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "BAKAHNU",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "BAKAHNU",
+   "challenge": "02 - EMPAQUES CONTAMINANTES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:45:22+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La poca conciencia ambiental, el uso accesivo del plástico y los bajos índices de reciclaje están generando contaminación ambiental para la sociedad actual y las futuras generaciones. Según la ONU, la humanidad produce más de 400 millones de toneladas de plástico al año y para el 2030 se duplicará. Vacano propone el desarrollo de un biopolímero natural a base de residuos de aceite vegetal, de uso doméstico e industrial, fibras de cualquier variedad de caña y cáscara de platán, y un sustituto ideal para el plástico convencional. El bioplástico se fabrica recolectando estos elementos que al ser acondicionado se homogeniza. En un equipo impulsado por energía solar se adiciona aceite filtrado en carbón activado, ácido acético y la glicerina para la consistencia y flexibilidad. Finalmente se envían a máquinas laminadoras para crear productos equivalentes a termoplásticos y termoestables. El proyecto se diferencia por el uso de recursos renovables, el aprovechamiento de residuos industriales y domésticos, siendo novedosa la formulación única a base de polímeros de almidón y celulosas. Desechos como el aceite contaminan el agua, el bagazo de caña, al ser incinerado genera dióxido de carbón, y los desechos de plátano producen gas metán. Esto se invierte con una cultura sustentable que minimiza la guaya ecológica y los riesgos de salud pública. La inversión inicial es de $10.000 y el costo de producción de una unidad de bioplástico es de $2.000, con un precio de venta de $0.32 y el margen de ganancia del 35%. Socialmente es una fuente de empleo que mejora el nivel de vida y de los colaboradores y su familia. El mercado tiene dos segmentos importantes, empresas industriales y usuarios finales de desechables que pueden ser adquiridos en supermercados, distribuidoras y tiendas de abarrote. Únete a Bacano Biopac y se parte de la solución para un planeta más limpio.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "La poca conciencia ambiental, el uso accesivo del plástico y los bajos índices de reciclaje"
+  },
+  {
+   "start": 5.0,
+   "end": 10.0,
+   "text": "están generando contaminación ambiental para la sociedad actual y las futuras generaciones."
+  },
+  {
+   "start": 10.0,
+   "end": 15.0,
+   "text": "Según la ONU, la humanidad produce más de 400 millones de toneladas de plástico al año"
+  },
+  {
+   "start": 15.0,
+   "end": 17.0,
+   "text": "y para el 2030 se duplicará."
+  },
+  {
+   "start": 17.0,
+   "end": 23.0,
+   "text": "Vacano propone el desarrollo de un biopolímero natural a base de residuos de aceite vegetal,"
+  },
+  {
+   "start": 23.0,
+   "end": 29.0,
+   "text": "de uso doméstico e industrial, fibras de cualquier variedad de caña y cáscara de platán,"
+  },
+  {
+   "start": 29.0,
+   "end": 32.0,
+   "text": "y un sustituto ideal para el plástico convencional."
+  },
+  {
+   "start": 32.0,
+   "end": 38.0,
+   "text": "El bioplástico se fabrica recolectando estos elementos que al ser acondicionado se homogeniza."
+  },
+  {
+   "start": 38.0,
+   "end": 43.0,
+   "text": "En un equipo impulsado por energía solar se adiciona aceite filtrado en carbón activado,"
+  },
+  {
+   "start": 43.0,
+   "end": 47.0,
+   "text": "ácido acético y la glicerina para la consistencia y flexibilidad."
+  },
+  {
+   "start": 47.0,
+   "end": 53.0,
+   "text": "Finalmente se envían a máquinas laminadoras para crear productos equivalentes a termoplásticos y termoestables."
+  },
+  {
+   "start": 53.0,
+   "end": 59.0,
+   "text": "El proyecto se diferencia por el uso de recursos renovables, el aprovechamiento de residuos industriales y domésticos,"
+  },
+  {
+   "start": 59.0,
+   "end": 64.0,
+   "text": "siendo novedosa la formulación única a base de polímeros de almidón y celulosas."
+  },
+  {
+   "start": 64.0,
+   "end": 71.0,
+   "text": "Desechos como el aceite contaminan el agua, el bagazo de caña, al ser incinerado genera dióxido de carbón,"
+  },
+  {
+   "start": 71.0,
+   "end": 74.0,
+   "text": "y los desechos de plátano producen gas metán."
+  },
+  {
+   "start": 74.0,
+   "end": 80.0,
+   "text": "Esto se invierte con una cultura sustentable que minimiza la guaya ecológica y los riesgos de salud pública."
+  },
+  {
+   "start": 80.0,
+   "end": 87.0,
+   "text": "La inversión inicial es de $10.000 y el costo de producción de una unidad de bioplástico es de $2.000,"
+  },
+  {
+   "start": 87.0,
+   "end": 93.0,
+   "text": "con un precio de venta de $0.32 y el margen de ganancia del 35%."
+  },
+  {
+   "start": 93.0,
+   "end": 100.0,
+   "text": "Socialmente es una fuente de empleo que mejora el nivel de vida y de los colaboradores y su familia."
+  },
+  {
+   "start": 100.0,
+   "end": 106.0,
+   "text": "El mercado tiene dos segmentos importantes, empresas industriales y usuarios finales de desechables"
+  },
+  {
+   "start": 106.0,
+   "end": 110.0,
+   "text": "que pueden ser adquiridos en supermercados, distribuidoras y tiendas de abarrote."
+  },
+  {
+   "start": 110.0,
+   "end": 115.0,
+   "text": "Únete a Bacano Biopac y se parte de la solución para un planeta más limpio."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.5
+}

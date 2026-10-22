@@ -1,0 +1,217 @@
+{
+ "video_id": "ptk5sPr7-zE",
+ "url": "https://youtu.be/ptk5sPr7-zE",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MONETIZANDO LA PASIÓN",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MONETIZANDO LA PASIÓN",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:49:26+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Se imaginan perder parte de una cosecha por culpa de los baches del camino? Muchos pequeños productores transportan frutas como tomates, fresas y aguacates en camiones que recorren caminos rurales y regulares. Durante el viaje, los golpes y las vibraciones pueden dañar la fruta, provocando pérdidas económicas. Lo más preocupante es que muchas veces el conductor no se da cuenta del daño hasta llegar al mercado, cuando ya es demasiado tarde. Pero ¿y si pudiéramos prevenir parte de esas pérdidas utilizando algo que muchas personas tienen en casa? Aquí nace FruitGuard. La propuesta consiste en convertir un celular viejo o en desuso en un sensor de vibraciones que ayude a proteger las frutas durante su transporte. ¿Cómo funciona? El celular se coloca de forma segura cerca de la carga y utiliza su acelerómetro para detectar las vibraciones. Mediante Bluetooth, envía la información al teléfono del conductor. Una aplicación muestra alertas de colores y puede emitir una dertencia de voz cuando las vibraciones alcanzan niveles preocupantes, recomendando reducir la velocidad. Además, puede registrar los tramos del camino donde se producen vibraciones fuertes, dando a identificar zonas problemáticas para futuros recorridos. Pero FruitGuard no se trata solamente de tecnología. También se trata de las personas que trabajan cada día para llevar sus productos al mercado. Cada caja de fruta que se pierde representa tiempo, esfuerzo y dinero. Por eso, queremos ofrecer una alternativa accesible que permita tomar mejores decisiones durante el transporte, especialmente a los pequeños productores que no pueden invertir en equipos costosos. Lo mejor es que aprovechamos tecnología que ya tenemos, reducimos la necesidad de comprar sensores costosos y damos una segunda vida a los celulares que ya no utilizamos. Además, al evitar que se desperdicie fruta, contribuimos al cuidado del medio ambiente. Con FruitGuard buscamos ayudar a los pequeños productores a proteger sus cosechas, reducir las pérdidas de alimentos y cuidar sus ingresos. Nuestra propuesta todavía necesita pruebas reales para comprobar su efectividad, pero creemos que una idea sencilla puede convertirse en una herramienta valiosa para la comunidad. Porque no podemos eliminar todos los baches del camino, pero sí podemos usar la tecnología para tomar mejores decisiones. Somos el equipo monetizando tu pasión y presentamos FruitGuard. Tu fruta vale cada golpe cuenta.",
+ "segments": [
+  {
+   "start": 0.08,
+   "end": 4.72,
+   "text": "¿Se imaginan perder parte de una cosecha por culpa de los baches del camino?"
+  },
+  {
+   "start": 4.72,
+   "end": 8.6,
+   "text": "Muchos pequeños productores transportan frutas como tomates, fresas y aguacates en camiones"
+  },
+  {
+   "start": 8.6,
+   "end": 11.04,
+   "text": "que recorren caminos rurales y regulares."
+  },
+  {
+   "start": 11.04,
+   "end": 14.9,
+   "text": "Durante el viaje, los golpes y las vibraciones pueden dañar la fruta, provocando pérdidas"
+  },
+  {
+   "start": 14.9,
+   "end": 15.9,
+   "text": "económicas."
+  },
+  {
+   "start": 15.9,
+   "end": 19.68,
+   "text": "Lo más preocupante es que muchas veces el conductor no se da cuenta del daño hasta"
+  },
+  {
+   "start": 19.68,
+   "end": 22.56,
+   "text": "llegar al mercado, cuando ya es demasiado tarde."
+  },
+  {
+   "start": 22.56,
+   "end": 26.2,
+   "text": "Pero ¿y si pudiéramos prevenir parte de esas pérdidas utilizando algo que muchas"
+  },
+  {
+   "start": 26.2,
+   "end": 28.0,
+   "text": "personas tienen en casa?"
+  },
+  {
+   "start": 28.0,
+   "end": 29.36,
+   "text": "Aquí nace FruitGuard."
+  },
+  {
+   "start": 29.36,
+   "end": 33.16,
+   "text": "La propuesta consiste en convertir un celular viejo o en desuso en un sensor de vibraciones"
+  },
+  {
+   "start": 33.16,
+   "end": 36.0,
+   "text": "que ayude a proteger las frutas durante su transporte."
+  },
+  {
+   "start": 36.0,
+   "end": 37.0,
+   "text": "¿Cómo funciona?"
+  },
+  {
+   "start": 37.0,
+   "end": 40.76,
+   "text": "El celular se coloca de forma segura cerca de la carga y utiliza su acelerómetro para"
+  },
+  {
+   "start": 40.76,
+   "end": 42.2,
+   "text": "detectar las vibraciones."
+  },
+  {
+   "start": 42.2,
+   "end": 45.52,
+   "text": "Mediante Bluetooth, envía la información al teléfono del conductor."
+  },
+  {
+   "start": 45.52,
+   "end": 48.8,
+   "text": "Una aplicación muestra alertas de colores y puede emitir una dertencia de voz cuando"
+  },
+  {
+   "start": 48.8,
+   "end": 52.96,
+   "text": "las vibraciones alcanzan niveles preocupantes, recomendando reducir la velocidad."
+  },
+  {
+   "start": 52.96,
+   "end": 56.72,
+   "text": "Además, puede registrar los tramos del camino donde se producen vibraciones fuertes,"
+  },
+  {
+   "start": 56.72,
+   "end": 59.68,
+   "text": "dando a identificar zonas problemáticas para futuros recorridos."
+  },
+  {
+   "start": 59.68,
+   "end": 62.52,
+   "text": "Pero FruitGuard no se trata solamente de tecnología."
+  },
+  {
+   "start": 62.52,
+   "end": 66.56,
+   "text": "También se trata de las personas que trabajan cada día para llevar sus productos al mercado."
+  },
+  {
+   "start": 66.56,
+   "end": 70.52,
+   "text": "Cada caja de fruta que se pierde representa tiempo, esfuerzo y dinero."
+  },
+  {
+   "start": 70.52,
+   "end": 74.2,
+   "text": "Por eso, queremos ofrecer una alternativa accesible que permita tomar mejores decisiones"
+  },
+  {
+   "start": 74.2,
+   "end": 77.44,
+   "text": "durante el transporte, especialmente a los pequeños productores que no pueden invertir"
+  },
+  {
+   "start": 77.44,
+   "end": 78.76,
+   "text": "en equipos costosos."
+  },
+  {
+   "start": 78.76,
+   "end": 82.92,
+   "text": "Lo mejor es que aprovechamos tecnología que ya tenemos, reducimos la necesidad de"
+  },
+  {
+   "start": 82.92,
+   "end": 87.6,
+   "text": "comprar sensores costosos y damos una segunda vida a los celulares que ya no utilizamos."
+  },
+  {
+   "start": 87.6,
+   "end": 92.2,
+   "text": "Además, al evitar que se desperdicie fruta, contribuimos al cuidado del medio ambiente."
+  },
+  {
+   "start": 92.2,
+   "end": 96.28,
+   "text": "Con FruitGuard buscamos ayudar a los pequeños productores a proteger sus cosechas,"
+  },
+  {
+   "start": 96.28,
+   "end": 99.2,
+   "text": "reducir las pérdidas de alimentos y cuidar sus ingresos."
+  },
+  {
+   "start": 99.2,
+   "end": 103.0,
+   "text": "Nuestra propuesta todavía necesita pruebas reales para comprobar su efectividad,"
+  },
+  {
+   "start": 103.0,
+   "end": 106.96,
+   "text": "pero creemos que una idea sencilla puede convertirse en una herramienta valiosa para"
+  },
+  {
+   "start": 106.96,
+   "end": 108.04,
+   "text": "la comunidad."
+  },
+  {
+   "start": 108.04,
+   "end": 112.28,
+   "text": "Porque no podemos eliminar todos los baches del camino, pero sí podemos usar la tecnología"
+  },
+  {
+   "start": 112.36,
+   "end": 114.36,
+   "text": "para tomar mejores decisiones."
+  },
+  {
+   "start": 114.36,
+   "end": 117.56,
+   "text": "Somos el equipo monetizando tu pasión y presentamos FruitGuard."
+  },
+  {
+   "start": 117.56,
+   "end": 119.36,
+   "text": "Tu fruta vale cada golpe cuenta."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.5
+}

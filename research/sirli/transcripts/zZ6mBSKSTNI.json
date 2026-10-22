@@ -1,0 +1,57 @@
+{
+ "video_id": "zZ6mBSKSTNI",
+ "url": "https://youtu.be/zZ6mBSKSTNI",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "BITSOLUTION",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "BITSOLUTION",
+   "challenge": "03 - ENLAZANDO GENERACIONES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:46:08+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Mandra es una aplicación que contribuye a los adultos mayores en el aprendizaje de matemáticas de física, con el fin de mantener activo el cerebro, donde el joven es el mentor interactivo, aprovechándole entorno en la tecnología, a través del uso de la realidad aumentada. Esta utiliza la cámara de los dispositivos móviles. En la aplicación se tiene un menú y un menú, facilitando la visualización de los números y símbolos y los ejercicios.",
+ "segments": [
+  {
+   "start": 86.26,
+   "end": 91.78,
+   "text": "Mandra es una aplicación que contribuye a los adultos mayores en el aprendizaje de matemáticas"
+  },
+  {
+   "start": 91.78,
+   "end": 97.74,
+   "text": "de física, con el fin de mantener activo el cerebro, donde el joven es el mentor interactivo,"
+  },
+  {
+   "start": 97.74,
+   "end": 102.86,
+   "text": "aprovechándole entorno en la tecnología, a través del uso de la realidad aumentada."
+  },
+  {
+   "start": 102.86,
+   "end": 105.86,
+   "text": "Esta utiliza la cámara de los dispositivos móviles."
+  },
+  {
+   "start": 105.86,
+   "end": 110.5,
+   "text": "En la aplicación se tiene un menú y un menú, facilitando la visualización de los números"
+  },
+  {
+   "start": 110.5,
+   "end": 112.02,
+   "text": "y símbolos y los ejercicios."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 117.2
+}

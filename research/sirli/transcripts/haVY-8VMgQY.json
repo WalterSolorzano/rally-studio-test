@@ -1,0 +1,107 @@
+{
+ "video_id": "haVY-8VMgQY",
+ "url": "https://youtu.be/haVY-8VMgQY",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ROBINS",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ROBINS",
+   "challenge": "07 - REUTILIZACIÓN DE ACEITE DOMÉSTICO"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:07:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Según la fundación AQUAE, un solo litro de aceite usado puede contaminar hasta mil litros de agua, contaminando nuestros ríos y saturando los alcantarillados. Mil heliogarets y comercios generan toneladas de este residuo sin una alternativa de disposición económica ni segura, mientras otros sectores como el de transporte enfrentan crisis en cuanto al precio alto del diesel fósil. Para solucionarlo, creamos nuestro propio sistema modular de 1,350. Esta solución es accesible para que convertir este residuo en un biodícer de alta calidad en un solo ciclo operativo de 2 horas. Esta planta aprovecha la gravedad, así para inyectar los insumos, mezcla todo a velocidad perfecta y separa lo que sería el combustible y glicerina de forma natural, aprovechando hasta un 93% del aceite. Rompemos la barrera técnica de los componentes químicos, con sensores de fuga y para de emergencia, para así mejorar la operación y tener una mejor sencillez. Operamos bajo un modelo de negocio de venta de servicio. Los habitantes y pequeños negocios locales nos entregan su aceite y nosotros lo transformamos en biodícer y glicerina de manera limpia y económica. Con una inversión inicial de $3,330, nuestro retorno de inversión está estimado para dentro del primer año de funcionamiento. De estas formas salvando miles de litros de agua, diminuciendo la economía local y diminuyendo la huella de carbono. Porque de un solo desecho sacamos dos productos y lo convertimos en energía sostenible. Somos Robin y hoy estamos aquí para hacerlo realidad. Muchas gracias.",
+ "segments": [
+  {
+   "start": 3.7,
+   "end": 9.14,
+   "text": "Según la fundación AQUAE, un solo litro de aceite usado puede contaminar hasta mil litros de agua,"
+  },
+  {
+   "start": 9.14,
+   "end": 12.26,
+   "text": "contaminando nuestros ríos y saturando los alcantarillados."
+  },
+  {
+   "start": 12.26,
+   "end": 18.34,
+   "text": "Mil heliogarets y comercios generan toneladas de este residuo sin una alternativa de disposición económica ni segura,"
+  },
+  {
+   "start": 18.34,
+   "end": 23.7,
+   "text": "mientras otros sectores como el de transporte enfrentan crisis en cuanto al precio alto del diesel fósil."
+  },
+  {
+   "start": 23.7,
+   "end": 28.18,
+   "text": "Para solucionarlo, creamos nuestro propio sistema modular de 1,350."
+  },
+  {
+   "start": 28.18,
+   "end": 35.06,
+   "text": "Esta solución es accesible para que convertir este residuo en un biodícer de alta calidad en un solo ciclo operativo de 2 horas."
+  },
+  {
+   "start": 35.06,
+   "end": 40.98,
+   "text": "Esta planta aprovecha la gravedad, así para inyectar los insumos, mezcla todo a velocidad perfecta"
+  },
+  {
+   "start": 40.98,
+   "end": 47.86,
+   "text": "y separa lo que sería el combustible y glicerina de forma natural, aprovechando hasta un 93% del aceite."
+  },
+  {
+   "start": 47.86,
+   "end": 54.02,
+   "text": "Rompemos la barrera técnica de los componentes químicos, con sensores de fuga y para de emergencia,"
+  },
+  {
+   "start": 54.02,
+   "end": 58.02,
+   "text": "para así mejorar la operación y tener una mejor sencillez."
+  },
+  {
+   "start": 58.18,
+   "end": 61.06,
+   "text": "Operamos bajo un modelo de negocio de venta de servicio."
+  },
+  {
+   "start": 61.06,
+   "end": 70.18,
+   "text": "Los habitantes y pequeños negocios locales nos entregan su aceite y nosotros lo transformamos en biodícer y glicerina de manera limpia y económica."
+  },
+  {
+   "start": 70.18,
+   "end": 79.62,
+   "text": "Con una inversión inicial de $3,330, nuestro retorno de inversión está estimado para dentro del primer año de funcionamiento."
+  },
+  {
+   "start": 79.62,
+   "end": 86.02,
+   "text": "De estas formas salvando miles de litros de agua, diminuciendo la economía local y diminuyendo la huella de carbono."
+  },
+  {
+   "start": 86.18,
+   "end": 91.06,
+   "text": "Porque de un solo desecho sacamos dos productos y lo convertimos en energía sostenible."
+  },
+  {
+   "start": 91.06,
+   "end": 95.06,
+   "text": "Somos Robin y hoy estamos aquí para hacerlo realidad. Muchas gracias."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 96.1
+}

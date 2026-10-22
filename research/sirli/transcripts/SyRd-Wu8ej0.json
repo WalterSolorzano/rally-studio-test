@@ -1,0 +1,237 @@
+{
+ "video_id": "SyRd-Wu8ej0",
+ "url": "https://youtu.be/SyRd-Wu8ej0",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS SIN IDEAS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LOS SIN IDEAS",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:47:21+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada año millones de teléfonos móviles son desechados. Aunque muchos de sus componentes aún funcionan, estos celulares terminan acumulándose como residuos electrónicos, generando contaminación y desperdiciando tecnología que todavía puede ser aprovechada. Nosotros vimos una oportunidad donde atropen basura. Por eso creamos crear una propuesta que da una segunda vida a los celulares en desuso. En lugar de desecharlos recuperamos componentes como el GPS, acelerómetro, giroscopio, micrófono y módulos de comunicación para convertirlo en dispositivos funcionales de monitoreo y alerta temprana de desastres naturales. El funcionamiento de crear comienza con la recuperación de celulares en desuso. Osteriormente, estos son desmontados para creer los componentes funcionales y se le instala un sistema ligero capaz de operar automáticamente. Una vez instalado, los celulares recupilan información de manera continua y los datos son enviados a la plataforma web de crear, donde son procesados y transformados en alertas que pueden ser consultadas por las autoridades y responsables del monitoreo. Además, para reforzar nuestro compromiso con la sostenibilidad, diseñamos una carcasa ecológica utilizando plástico recuperado los mismos teléfonos móviles reciclados, el cual es procesado y moldeado mediante termofusión para crear una estructura resistente y duradera. Una vez ensamblado e instalado, estos dispositivos se ubicarán en punto estratégico de las comunidades, donde contribuirán a la detección temprana de posibles desastres naturales y al fortalecimiento de la seguridad comunitaria. En las zonas rurales, también podrán aprovechar sistema de energía solar y existentes para garantizar su función continua. Con un costo aproximado de 680 cordobas por dispositivo, Create demuestra que es posible transformar resudo en soluciones accesibles y de gran impacto social. Nuestro proyecto no solo reutiliza celulares, también reduce la contaminación, promueve el reciclaje y convierte la tecnología descartada en una herramienta útil para proteger a nuestras comunidades. Porque, en los sin ideas, creemos que un celular viejo no es final de su historia. Con Create le damos una nueva vida y lo transformamos en una oportunidad para construir comunidades más seguras, sostenibles e innovadoras.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "Cada año millones de teléfonos móviles son desechados."
+  },
+  {
+   "start": 3.0,
+   "end": 5.2,
+   "text": "Aunque muchos de sus componentes aún funcionan,"
+  },
+  {
+   "start": 5.2,
+   "end": 8.6,
+   "text": "estos celulares terminan acumulándose como residuos electrónicos,"
+  },
+  {
+   "start": 8.6,
+   "end": 12.6,
+   "text": "generando contaminación y desperdiciando tecnología que todavía puede ser aprovechada."
+  },
+  {
+   "start": 12.6,
+   "end": 15.0,
+   "text": "Nosotros vimos una oportunidad donde atropen basura."
+  },
+  {
+   "start": 15.0,
+   "end": 19.2,
+   "text": "Por eso creamos crear una propuesta que da una segunda vida a los celulares en desuso."
+  },
+  {
+   "start": 19.2,
+   "end": 22.4,
+   "text": "En lugar de desecharlos recuperamos componentes como el GPS,"
+  },
+  {
+   "start": 22.4,
+   "end": 26.5,
+   "text": "acelerómetro, giroscopio, micrófono y módulos de comunicación"
+  },
+  {
+   "start": 26.5,
+   "end": 29.7,
+   "text": "para convertirlo en dispositivos funcionales de monitoreo"
+  },
+  {
+   "start": 29.7,
+   "end": 31.7,
+   "text": "y alerta temprana de desastres naturales."
+  },
+  {
+   "start": 31.7,
+   "end": 35.7,
+   "text": "El funcionamiento de crear comienza con la recuperación de celulares en desuso."
+  },
+  {
+   "start": 35.7,
+   "end": 39.3,
+   "text": "Osteriormente, estos son desmontados para creer los componentes funcionales"
+  },
+  {
+   "start": 39.3,
+   "end": 42.5,
+   "text": "y se le instala un sistema ligero capaz de operar automáticamente."
+  },
+  {
+   "start": 42.5,
+   "end": 46.3,
+   "text": "Una vez instalado, los celulares recupilan información de manera continua"
+  },
+  {
+   "start": 46.3,
+   "end": 48.9,
+   "text": "y los datos son enviados a la plataforma web de crear,"
+  },
+  {
+   "start": 48.9,
+   "end": 52.1,
+   "text": "donde son procesados y transformados en alertas que pueden ser consultadas"
+  },
+  {
+   "start": 52.1,
+   "end": 54.5,
+   "text": "por las autoridades y responsables del monitoreo."
+  },
+  {
+   "start": 54.5,
+   "end": 57.9,
+   "text": "Además, para reforzar nuestro compromiso con la sostenibilidad,"
+  },
+  {
+   "start": 57.9,
+   "end": 61.1,
+   "text": "diseñamos una carcasa ecológica utilizando plástico recuperado"
+  },
+  {
+   "start": 61.1,
+   "end": 63.1,
+   "text": "los mismos teléfonos móviles reciclados,"
+  },
+  {
+   "start": 63.1,
+   "end": 65.8,
+   "text": "el cual es procesado y moldeado mediante termofusión"
+  },
+  {
+   "start": 65.8,
+   "end": 68.1,
+   "text": "para crear una estructura resistente y duradera."
+  },
+  {
+   "start": 68.1,
+   "end": 70.0,
+   "text": "Una vez ensamblado e instalado,"
+  },
+  {
+   "start": 70.0,
+   "end": 73.3,
+   "text": "estos dispositivos se ubicarán en punto estratégico de las comunidades,"
+  },
+  {
+   "start": 73.3,
+   "end": 76.9,
+   "text": "donde contribuirán a la detección temprana de posibles desastres naturales"
+  },
+  {
+   "start": 76.9,
+   "end": 79.1,
+   "text": "y al fortalecimiento de la seguridad comunitaria."
+  },
+  {
+   "start": 79.1,
+   "end": 80.3,
+   "text": "En las zonas rurales,"
+  },
+  {
+   "start": 80.3,
+   "end": 82.7,
+   "text": "también podrán aprovechar sistema de energía solar"
+  },
+  {
+   "start": 82.7,
+   "end": 85.5,
+   "text": "y existentes para garantizar su función continua."
+  },
+  {
+   "start": 85.5,
+   "end": 89.2,
+   "text": "Con un costo aproximado de 680 cordobas por dispositivo,"
+  },
+  {
+   "start": 89.2,
+   "end": 91.6,
+   "text": "Create demuestra que es posible transformar resudo"
+  },
+  {
+   "start": 91.6,
+   "end": 93.9,
+   "text": "en soluciones accesibles y de gran impacto social."
+  },
+  {
+   "start": 93.9,
+   "end": 96.3,
+   "text": "Nuestro proyecto no solo reutiliza celulares,"
+  },
+  {
+   "start": 96.3,
+   "end": 98.0,
+   "text": "también reduce la contaminación,"
+  },
+  {
+   "start": 98.0,
+   "end": 100.6,
+   "text": "promueve el reciclaje y convierte la tecnología descartada"
+  },
+  {
+   "start": 100.6,
+   "end": 103.7,
+   "text": "en una herramienta útil para proteger a nuestras comunidades."
+  },
+  {
+   "start": 103.7,
+   "end": 105.5,
+   "text": "Porque, en los sin ideas,"
+  },
+  {
+   "start": 105.5,
+   "end": 108.7,
+   "text": "creemos que un celular viejo no es final de su historia."
+  },
+  {
+   "start": 108.7,
+   "end": 110.9,
+   "text": "Con Create le damos una nueva vida"
+  },
+  {
+   "start": 110.9,
+   "end": 112.7,
+   "text": "y lo transformamos en una oportunidad"
+  },
+  {
+   "start": 112.7,
+   "end": 114.5,
+   "text": "para construir comunidades más seguras,"
+  },
+  {
+   "start": 114.5,
+   "end": 115.9,
+   "text": "sostenibles e innovadoras."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.9
+}

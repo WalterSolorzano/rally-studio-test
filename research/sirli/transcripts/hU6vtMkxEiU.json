@@ -1,0 +1,222 @@
+{
+ "video_id": "hU6vtMkxEiU",
+ "url": "https://youtu.be/hU6vtMkxEiU?si=AKVBE8J41Od4Wrwt",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ISÓBARA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ISÓBARA",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:34:51+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Si ustedes me reciben, tenemos herido y necesitamos suministros. No podemos salir. Repito, no hay pasos. No hay pasos. ¿Y si les dijera que ante una catástrofe podemos volver al pasado y ver al futuro al mismo tiempo? Volver al uso de radio frecuencia cuando las redes convencionales fallan y avanzar con drones que permiten llevar la conectividad a lugares donde resulta difícil. No es un viaje en el tiempo, es Isóvara. Una nueva forma de coordinar la respuesta ante un desastre. Somos Isóvara, una propuesta de comunicación y coordinación para emergencias que buscan conectar a las comunidades, organizar sus necesidades y facilitar la distribución más equitativa de los recursos. Comenzamos con los principios de comunicación mediante radiofrecuencia. Pero ¿qué hacemos cuando la distancia, el terreno o los obstáculos impiden establecer estos enlaces de comunicación? Para Isóvara propone utilizar drones equipados con dispositivos de comunicación que funcionen como puntos de acceso o repetidores aéreos. Su función es ampliar la cobertura y facilitar la transmisión de información hacia el centro de coordinación. Si no hay conexión externa puede crear una red local que permita la comunicación dentro de su enlace. No llevamos solamente un tron, sino una posibilidad de conexión. Con las prioridades definidas, Isóvara facilita la coordinación de los equipos y los suministros. Los drones de carga pueden complementar el transporte terrestre en zonas de difícil acceso. El registro de las asignaciones y la entrega ayuda a identificar necesidades pendientes y a utilizar mejor los recursos disponibles. Volvemos a la radio y avanzamos con los drones. Correctamos comunidades. Organizamos necesidades. Coordinamos recursos. Para que nadie quede fuera de la respuesta. Para Isóvara. La distancia no debería decidir quién recibe ayuda.",
+ "segments": [
+  {
+   "start": 4.85,
+   "end": 7.49,
+   "text": "Si ustedes me reciben, tenemos herido y necesitamos suministros."
+  },
+  {
+   "start": 7.49,
+   "end": 9.65,
+   "text": "No podemos salir. Repito, no hay pasos."
+  },
+  {
+   "start": 9.65,
+   "end": 10.65,
+   "text": "No hay pasos."
+  },
+  {
+   "start": 10.65,
+   "end": 20.14,
+   "text": "¿Y si les dijera que ante una catástrofe"
+  },
+  {
+   "start": 20.14,
+   "end": 22.94,
+   "text": "podemos volver al pasado y ver al futuro al mismo tiempo?"
+  },
+  {
+   "start": 22.94,
+   "end": 26.74,
+   "text": "Volver al uso de radio frecuencia cuando las redes convencionales fallan"
+  },
+  {
+   "start": 26.74,
+   "end": 29.26,
+   "text": "y avanzar con drones que permiten llevar la conectividad"
+  },
+  {
+   "start": 29.26,
+   "end": 31.14,
+   "text": "a lugares donde resulta difícil."
+  },
+  {
+   "start": 31.14,
+   "end": 33.66,
+   "text": "No es un viaje en el tiempo, es Isóvara."
+  },
+  {
+   "start": 33.66,
+   "end": 36.46,
+   "text": "Una nueva forma de coordinar la respuesta ante un desastre."
+  },
+  {
+   "start": 36.46,
+   "end": 39.42,
+   "text": "Somos Isóvara, una propuesta de comunicación y coordinación"
+  },
+  {
+   "start": 39.42,
+   "end": 42.06,
+   "text": "para emergencias que buscan conectar a las comunidades,"
+  },
+  {
+   "start": 42.06,
+   "end": 44.94,
+   "text": "organizar sus necesidades y facilitar la distribución"
+  },
+  {
+   "start": 44.94,
+   "end": 46.78,
+   "text": "más equitativa de los recursos."
+  },
+  {
+   "start": 46.78,
+   "end": 50.26,
+   "text": "Comenzamos con los principios de comunicación mediante radiofrecuencia."
+  },
+  {
+   "start": 50.26,
+   "end": 53.7,
+   "text": "Pero ¿qué hacemos cuando la distancia, el terreno o los obstáculos"
+  },
+  {
+   "start": 53.7,
+   "end": 56.1,
+   "text": "impiden establecer estos enlaces de comunicación?"
+  },
+  {
+   "start": 56.1,
+   "end": 59.34,
+   "text": "Para Isóvara propone utilizar drones equipados"
+  },
+  {
+   "start": 59.34,
+   "end": 63.1,
+   "text": "con dispositivos de comunicación que funcionen como puntos de acceso"
+  },
+  {
+   "start": 63.1,
+   "end": 64.74,
+   "text": "o repetidores aéreos."
+  },
+  {
+   "start": 64.74,
+   "end": 68.42,
+   "text": "Su función es ampliar la cobertura y facilitar la transmisión"
+  },
+  {
+   "start": 68.5,
+   "end": 71.02,
+   "text": "de información hacia el centro de coordinación."
+  },
+  {
+   "start": 71.02,
+   "end": 74.06,
+   "text": "Si no hay conexión externa puede crear una red local"
+  },
+  {
+   "start": 74.06,
+   "end": 76.74,
+   "text": "que permita la comunicación dentro de su enlace."
+  },
+  {
+   "start": 76.74,
+   "end": 80.58,
+   "text": "No llevamos solamente un tron, sino una posibilidad de conexión."
+  },
+  {
+   "start": 80.58,
+   "end": 84.46,
+   "text": "Con las prioridades definidas, Isóvara facilita la coordinación"
+  },
+  {
+   "start": 84.46,
+   "end": 86.62,
+   "text": "de los equipos y los suministros."
+  },
+  {
+   "start": 86.62,
+   "end": 89.5,
+   "text": "Los drones de carga pueden complementar el transporte terrestre"
+  },
+  {
+   "start": 89.5,
+   "end": 91.22,
+   "text": "en zonas de difícil acceso."
+  },
+  {
+   "start": 91.22,
+   "end": 93.46,
+   "text": "El registro de las asignaciones y la entrega ayuda"
+  },
+  {
+   "start": 93.46,
+   "end": 95.82,
+   "text": "a identificar necesidades pendientes"
+  },
+  {
+   "start": 95.9,
+   "end": 98.42,
+   "text": "y a utilizar mejor los recursos disponibles."
+  },
+  {
+   "start": 99.62,
+   "end": 102.02,
+   "text": "Volvemos a la radio y avanzamos con los drones."
+  },
+  {
+   "start": 102.02,
+   "end": 103.82,
+   "text": "Correctamos comunidades."
+  },
+  {
+   "start": 103.82,
+   "end": 105.82,
+   "text": "Organizamos necesidades."
+  },
+  {
+   "start": 105.82,
+   "end": 107.42,
+   "text": "Coordinamos recursos."
+  },
+  {
+   "start": 107.42,
+   "end": 109.62,
+   "text": "Para que nadie quede fuera de la respuesta."
+  },
+  {
+   "start": 109.62,
+   "end": 111.42,
+   "text": "Para Isóvara."
+  },
+  {
+   "start": 111.42,
+   "end": 114.22,
+   "text": "La distancia no debería decidir quién recibe ayuda."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.4
+}

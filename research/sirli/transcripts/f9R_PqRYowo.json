@@ -1,0 +1,172 @@
+{
+ "video_id": "f9R_PqRYowo",
+ "url": "https://youtu.be/f9R_PqRYowo",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INGENIO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INGENIO",
+   "challenge": "04 - SISTEMA DE ALERTA TEMPRANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:20:14+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Latinoamérica es una región propensa de saestres naturales, fenómenos que afectan de manera directa la vida de miles de familias. Factores sociales y económicos en el crecimiento urbano desordenado y la pobreza obliga a muchas personas a asentarse en zonas de alto riesgo, exponiéndose a la posibilidad de impactos devastadores. Esta realidad genera miedo, incertidumbre, dolor y una amenaza constante de pérdidas humanas. Se surge la propuesta de SAT-TUNAN, sistema que salvaguarda el vivir. Una respuesta tecnológica con enfoque en la concientización y protección ciudadana, en cual es un exo a protocolos de seguridad contra la asistencia naturales existentes en cada país. El sistema consiste en una red de sensores intercunditados mediante una metropolitana IRINET, que recopila datos con fiebre sin tiempo real y los envía a la mueve. La información es procesada mediante inteligencia oficial, la cual analiza los patrones de riesgo y emite alertas sembranas a un vándal de control central, notificando también a los usuarios un buen tiempo necesario para actuar previamente. Asimismo se propone la implementación de una aplicación móvil que permite a los habitantes de personas en riesgo visualizar en tiempo real cuando ocurra o está por ocurrido suceso. La aplicación mostrará los puntos de evacuación más cercanos y aquellas áreas sensibles como ríos, lugares propensos, afectaciones. Este sistema será monitoreada por entidades gubernamentales, quienes emitirán las alertas oficiales y notificaciones que llegan a los usuarios. El SAT-TUNAN incluye un estudio hidrogeológico e hidrológico previo, la instalación de sensores ultrasonicos de contacto y oxido de carbonia y detectores de gas, además de paneles solares que garantizan autonomía energética. Todo esto se complementa con un interfaz digital accesible para brigadistas y comunidades, optimizando la gestión y el tiempo de respuesta ante cualquier amenaza natural. CUNAN tiene un inversor inicial de 80.254 dólares y genera una rentabilidad sólida. El BPN de 189.139 dólares en el actio del 65.78%, que confirma que el proyecto ha creado un valor significativo. Una recuperación de tan solo dos años y un ROID de 0.36, interpretando que la inversión es recuperable a la constitución.",
+ "segments": [
+  {
+   "start": 0.69,
+   "end": 4.81,
+   "text": "Latinoamérica es una región propensa de saestres naturales, fenómenos que afectan de manera"
+  },
+  {
+   "start": 4.81,
+   "end": 8.69,
+   "text": "directa la vida de miles de familias. Factores sociales y económicos en el crecimiento urbano"
+  },
+  {
+   "start": 8.69,
+   "end": 13.69,
+   "text": "desordenado y la pobreza obliga a muchas personas a asentarse en zonas de alto riesgo, exponiéndose"
+  },
+  {
+   "start": 13.69,
+   "end": 17.69,
+   "text": "a la posibilidad de impactos devastadores. Esta realidad genera miedo, incertidumbre,"
+  },
+  {
+   "start": 17.69,
+   "end": 20.69,
+   "text": "dolor y una amenaza constante de pérdidas humanas."
+  },
+  {
+   "start": 20.69,
+   "end": 23.69,
+   "text": "Se surge la propuesta de SAT-TUNAN, sistema que salvaguarda el vivir."
+  },
+  {
+   "start": 23.69,
+   "end": 27.69,
+   "text": "Una respuesta tecnológica con enfoque en la concientización y protección ciudadana,"
+  },
+  {
+   "start": 27.69,
+   "end": 32.69,
+   "text": "en cual es un exo a protocolos de seguridad contra la asistencia naturales existentes en cada país."
+  },
+  {
+   "start": 32.69,
+   "end": 36.69,
+   "text": "El sistema consiste en una red de sensores intercunditados mediante una metropolitana"
+  },
+  {
+   "start": 36.69,
+   "end": 39.69,
+   "text": "IRINET, que recopila datos con fiebre sin tiempo real y los envía a la mueve."
+  },
+  {
+   "start": 39.69,
+   "end": 43.69,
+   "text": "La información es procesada mediante inteligencia oficial, la cual analiza los patrones de riesgo"
+  },
+  {
+   "start": 43.69,
+   "end": 47.69,
+   "text": "y emite alertas sembranas a un vándal de control central, notificando también a los usuarios"
+  },
+  {
+   "start": 47.69,
+   "end": 49.69,
+   "text": "un buen tiempo necesario para actuar previamente."
+  },
+  {
+   "start": 49.69,
+   "end": 53.69,
+   "text": "Asimismo se propone la implementación de una aplicación móvil que permite a los habitantes"
+  },
+  {
+   "start": 53.69,
+   "end": 57.69,
+   "text": "de personas en riesgo visualizar en tiempo real cuando ocurra o está por ocurrido suceso."
+  },
+  {
+   "start": 57.69,
+   "end": 61.69,
+   "text": "La aplicación mostrará los puntos de evacuación más cercanos y aquellas áreas sensibles"
+  },
+  {
+   "start": 61.69,
+   "end": 64.69,
+   "text": "como ríos, lugares propensos, afectaciones."
+  },
+  {
+   "start": 64.69,
+   "end": 68.69,
+   "text": "Este sistema será monitoreada por entidades gubernamentales, quienes emitirán las alertas oficiales"
+  },
+  {
+   "start": 68.69,
+   "end": 71.69,
+   "text": "y notificaciones que llegan a los usuarios."
+  },
+  {
+   "start": 71.69,
+   "end": 74.69,
+   "text": "El SAT-TUNAN incluye un estudio hidrogeológico e hidrológico previo,"
+  },
+  {
+   "start": 74.69,
+   "end": 78.69,
+   "text": "la instalación de sensores ultrasonicos de contacto y oxido de carbonia y detectores de gas,"
+  },
+  {
+   "start": 78.69,
+   "end": 82.69,
+   "text": "además de paneles solares que garantizan autonomía energética."
+  },
+  {
+   "start": 82.69,
+   "end": 86.69,
+   "text": "Todo esto se complementa con un interfaz digital accesible para brigadistas y comunidades,"
+  },
+  {
+   "start": 86.69,
+   "end": 90.69,
+   "text": "optimizando la gestión y el tiempo de respuesta ante cualquier amenaza natural."
+  },
+  {
+   "start": 90.69,
+   "end": 95.69,
+   "text": "CUNAN tiene un inversor inicial de 80.254 dólares y genera una rentabilidad sólida."
+  },
+  {
+   "start": 95.69,
+   "end": 101.69,
+   "text": "El BPN de 189.139 dólares en el actio del 65.78%,"
+  },
+  {
+   "start": 101.69,
+   "end": 104.69,
+   "text": "que confirma que el proyecto ha creado un valor significativo."
+  },
+  {
+   "start": 104.69,
+   "end": 108.69,
+   "text": "Una recuperación de tan solo dos años y un ROID de 0.36,"
+  },
+  {
+   "start": 108.69,
+   "end": 111.69,
+   "text": "interpretando que la inversión es recuperable a la constitución."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.7
+}

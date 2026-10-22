@@ -1,0 +1,257 @@
+{
+ "video_id": "yhVE1ZRDQZk",
+ "url": "https://www.youtube.com/watch?v=yhVE1ZRDQZk",
+ "year": 2017,
+ "collection": "internacional",
+ "country": "URUGUAY",
+ "team": "GRUPO PLAY",
+ "place_label": "PRIMER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2017,
+   "collection": "internacional",
+   "place_label": "PRIMER LUGAR",
+   "team": "GRUPO PLAY",
+   "challenge": "08 - MEJORA DE LA VIDA DE LOS NIÑOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:19:05+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "¿Sabías que 6 millones de niños mueren por año en el mundo? Según la OMS, la segunda mayor causa de mortalidad infantil y causa de malnutrición son las enfermedades diarreicas. El problema afecta principalmente a países subdesarrollados donde las enfermedades son contraídas por el consumo de agua contaminada. Previniendo el consumo de esta agua, se pueden salvar millones de niños. Para esto, desarrollamos Battle Life. Battle Life es una innovadora campaña internacional de salud que en conjunto con las principales fundaciones y ONGs del mundo mejorarán la calidad de vida de los niños. La campaña consta del desarrollo, producción y distribución en masa de botellas inteligentes. Estas proveerán la información vital que los diversos organismos necesitan para poder identificar las fuentes de aguas contaminadas y así saber dónde enfocar sus esfuerzos de manera realmente eficiente. ¿Cómo se enviará la información? Mediante un dispositivo situado en la parte inferior de la botella compuesto por un simple chip que triangula la posición de la misma en caso de detectar contaminación en el agua y una batería capaz de cargarse con el movimiento de la botella. La carga de la batería es posible gracias a un rotor que gira alrededor de un piote y mediante la oscilación actúa sobre el mecanismo de carga entregándole batería al dispositivo. ¿Cómo se detectará la contaminación? Esto se logrará adhiriendo al plástico de la botella estructuras microscópicas fácilmente industrializables llamadas liposomas. Dichos liposomas, en contacto con patógenos que causan diarrea, adquieren un color rojo intenso, advirtiendo al usuario que el agua está contaminada y no se adapta para consumo. Actualmente este es un problema difícil de afrontar. Según un estudio de la MIT, varias comunidades generan un gran rechazo hacia la tecnología actual, dificultando la implementación de aparatos electrónicos sofisticados. Battle Life incorporará de manera discreta y sencilla la tecnología necesaria para solucionar este problema en un objeto cotidiano y simple, amigable con el usuario y sin ser invasivo en sus costumbres. Es recibida por organizaciones, tales como la ONU, OMS, Unicef, entre otras, las cuales comparten nuestro objetivo, creando un mapa de calidad de agua que les ayudará a tomar acciones frente a los focos de contaminación de agua y proliferación de la diarrea. Battle Life también está presente en los países desarrollados. Con cada compra de producto, se enviará uno gratis a zonas de mayor necesidad. Gracias a la efectividad de este programa, Battle Life podrá mejorar la calidad de vida de millones de niños alrededor del mundo. El futuro de los niños siempre es hoy. Mañana será tarde.",
+ "segments": [
+  {
+   "start": 1.26,
+   "end": 5.26,
+   "text": "¿Sabías que 6 millones de niños mueren por año en el mundo?"
+  },
+  {
+   "start": 5.26,
+   "end": 10.26,
+   "text": "Según la OMS, la segunda mayor causa de mortalidad infantil y causa de malnutrición"
+  },
+  {
+   "start": 10.26,
+   "end": 12.26,
+   "text": "son las enfermedades diarreicas."
+  },
+  {
+   "start": 12.26,
+   "end": 16.26,
+   "text": "El problema afecta principalmente a países subdesarrollados"
+  },
+  {
+   "start": 16.26,
+   "end": 20.26,
+   "text": "donde las enfermedades son contraídas por el consumo de agua contaminada."
+  },
+  {
+   "start": 20.26,
+   "end": 24.26,
+   "text": "Previniendo el consumo de esta agua, se pueden salvar millones de niños."
+  },
+  {
+   "start": 24.26,
+   "end": 28.86,
+   "text": "Para esto, desarrollamos Battle Life."
+  },
+  {
+   "start": 29.86,
+   "end": 32.86,
+   "text": "Battle Life es una innovadora campaña internacional de salud"
+  },
+  {
+   "start": 32.86,
+   "end": 35.86,
+   "text": "que en conjunto con las principales fundaciones y ONGs del mundo"
+  },
+  {
+   "start": 35.86,
+   "end": 38.86,
+   "text": "mejorarán la calidad de vida de los niños."
+  },
+  {
+   "start": 38.86,
+   "end": 43.86,
+   "text": "La campaña consta del desarrollo, producción y distribución en masa"
+  },
+  {
+   "start": 43.86,
+   "end": 45.86,
+   "text": "de botellas inteligentes."
+  },
+  {
+   "start": 45.86,
+   "end": 49.86,
+   "text": "Estas proveerán la información vital que los diversos organismos necesitan"
+  },
+  {
+   "start": 49.86,
+   "end": 52.86,
+   "text": "para poder identificar las fuentes de aguas contaminadas"
+  },
+  {
+   "start": 52.86,
+   "end": 57.86,
+   "text": "y así saber dónde enfocar sus esfuerzos de manera realmente eficiente."
+  },
+  {
+   "start": 57.86,
+   "end": 62.84,
+   "text": "¿Cómo se enviará la información?"
+  },
+  {
+   "start": 62.84,
+   "end": 65.84,
+   "text": "Mediante un dispositivo situado en la parte inferior de la botella"
+  },
+  {
+   "start": 65.84,
+   "end": 69.84,
+   "text": "compuesto por un simple chip que triangula la posición de la misma"
+  },
+  {
+   "start": 69.84,
+   "end": 71.84,
+   "text": "en caso de detectar contaminación en el agua"
+  },
+  {
+   "start": 71.84,
+   "end": 75.84,
+   "text": "y una batería capaz de cargarse con el movimiento de la botella."
+  },
+  {
+   "start": 75.84,
+   "end": 79.84,
+   "text": "La carga de la batería es posible gracias a un rotor que gira alrededor de un piote"
+  },
+  {
+   "start": 79.84,
+   "end": 82.84,
+   "text": "y mediante la oscilación actúa sobre el mecanismo de carga"
+  },
+  {
+   "start": 82.84,
+   "end": 84.84,
+   "text": "entregándole batería al dispositivo."
+  },
+  {
+   "start": 84.84,
+   "end": 87.84,
+   "text": "¿Cómo se detectará la contaminación?"
+  },
+  {
+   "start": 87.84,
+   "end": 90.84,
+   "text": "Esto se logrará adhiriendo al plástico de la botella"
+  },
+  {
+   "start": 90.84,
+   "end": 95.84,
+   "text": "estructuras microscópicas fácilmente industrializables llamadas liposomas."
+  },
+  {
+   "start": 95.84,
+   "end": 99.84,
+   "text": "Dichos liposomas, en contacto con patógenos que causan diarrea,"
+  },
+  {
+   "start": 99.84,
+   "end": 102.84,
+   "text": "adquieren un color rojo intenso, advirtiendo al usuario"
+  },
+  {
+   "start": 102.84,
+   "end": 106.84,
+   "text": "que el agua está contaminada y no se adapta para consumo."
+  },
+  {
+   "start": 106.84,
+   "end": 109.84,
+   "text": "Actualmente este es un problema difícil de afrontar."
+  },
+  {
+   "start": 109.84,
+   "end": 112.84,
+   "text": "Según un estudio de la MIT, varias comunidades generan un gran rechazo"
+  },
+  {
+   "start": 112.84,
+   "end": 115.84,
+   "text": "hacia la tecnología actual, dificultando la implementación"
+  },
+  {
+   "start": 115.84,
+   "end": 117.84,
+   "text": "de aparatos electrónicos sofisticados."
+  },
+  {
+   "start": 117.84,
+   "end": 120.84,
+   "text": "Battle Life incorporará de manera discreta y sencilla"
+  },
+  {
+   "start": 120.84,
+   "end": 123.84,
+   "text": "la tecnología necesaria para solucionar este problema"
+  },
+  {
+   "start": 123.84,
+   "end": 127.84,
+   "text": "en un objeto cotidiano y simple, amigable con el usuario"
+  },
+  {
+   "start": 127.84,
+   "end": 130.84,
+   "text": "y sin ser invasivo en sus costumbres."
+  },
+  {
+   "start": 130.84,
+   "end": 136.84,
+   "text": "Es recibida por organizaciones, tales como la ONU, OMS, Unicef, entre otras,"
+  },
+  {
+   "start": 136.84,
+   "end": 140.84,
+   "text": "las cuales comparten nuestro objetivo, creando un mapa de calidad de agua"
+  },
+  {
+   "start": 140.84,
+   "end": 143.84,
+   "text": "que les ayudará a tomar acciones frente a los focos de contaminación de agua"
+  },
+  {
+   "start": 143.84,
+   "end": 145.84,
+   "text": "y proliferación de la diarrea."
+  },
+  {
+   "start": 145.84,
+   "end": 148.84,
+   "text": "Battle Life también está presente en los países desarrollados."
+  },
+  {
+   "start": 148.84,
+   "end": 153.84,
+   "text": "Con cada compra de producto, se enviará uno gratis a zonas de mayor necesidad."
+  },
+  {
+   "start": 153.84,
+   "end": 161.1,
+   "text": "Gracias a la efectividad de este programa, Battle Life podrá mejorar"
+  },
+  {
+   "start": 161.1,
+   "end": 164.1,
+   "text": "la calidad de vida de millones de niños alrededor del mundo."
+  },
+  {
+   "start": 164.1,
+   "end": 169.1,
+   "text": "El futuro de los niños siempre es hoy. Mañana será tarde."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 171.7
+}

@@ -1,0 +1,102 @@
+{
+ "video_id": "2e7fMsARqpk",
+ "url": "https://youtu.be/2e7fMsARqpk",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LATAM VIS TEAM",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LATAM VIS TEAM",
+   "challenge": "01 - INCLUSIÓN LABORAL DE PERSONAS DEL ESPECTRO AUTISTA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:03:36+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que solo el 10% de las personas con TEA son empleadas? Y no todos cuentan con un entorno laboral que se adecude a las necesidades que su condición implica. Sugerimos un conjunto de paneles modificables con un metro de ancho 1.5 de alto integrado con una pantalla de 12 pulgadas elaborado con materiales ecológicos, donde el usuario dispone de tres pantallas personalizables para sentirse cómodo en su ambiente laboral. Fácil, uso. Permite la gestión de tareas y con ayuda del talbat puede escuchar el contenido de las notificaciones, cambiar la apariencia de las pantallas tanto del color como el mosaico. La importante función de modificar el sonido, una pizarra idáctica con diferentes colores y pinceles vinculada a Google Drive. Asimismo, el usuario puede regular la luminosidad de sus paneles, la intermitencia y aleatoriedad de los colores. Las alarmas son un complemento de administración de tiempo para optimizar la productividad. Y para mejorar la comunicación de las emociones, el usuario puede escoger el emoji con el que se sienta identificado. Así la persona que le asiste comprenderá cómo abordarle. Apollado de una aplicación móvil, el jefe podrá enviar mensajes, agendar un evento, asignar una tarea, que se verán reflejados en la pantalla del usuario. Nuestro modelo de viabilidad estima un costo de producción de 1086.17 dólares y las empresas podrán abrirlo a 1400 dólares. Somos la única opción en el mercado para incluir al autismo. Somos Esperanza TEA. No eres diferente, eres auténtico.",
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 4.14,
+   "text": "¿Sabías que solo el 10% de las personas con TEA son empleadas?"
+  },
+  {
+   "start": 4.14,
+   "end": 10.14,
+   "text": "Y no todos cuentan con un entorno laboral que se adecude a las necesidades que su condición implica."
+  },
+  {
+   "start": 11.14,
+   "end": 20.14,
+   "text": "Sugerimos un conjunto de paneles modificables con un metro de ancho 1.5 de alto integrado con una pantalla de 12 pulgadas"
+  },
+  {
+   "start": 20.14,
+   "end": 29.14,
+   "text": "elaborado con materiales ecológicos, donde el usuario dispone de tres pantallas personalizables para sentirse cómodo en su ambiente laboral."
+  },
+  {
+   "start": 29.14,
+   "end": 38.14,
+   "text": "Fácil, uso. Permite la gestión de tareas y con ayuda del talbat puede escuchar el contenido de las notificaciones,"
+  },
+  {
+   "start": 38.14,
+   "end": 43.14,
+   "text": "cambiar la apariencia de las pantallas tanto del color como el mosaico."
+  },
+  {
+   "start": 44.14,
+   "end": 53.14,
+   "text": "La importante función de modificar el sonido, una pizarra idáctica con diferentes colores y pinceles vinculada a Google Drive."
+  },
+  {
+   "start": 53.14,
+   "end": 60.14,
+   "text": "Asimismo, el usuario puede regular la luminosidad de sus paneles, la intermitencia y aleatoriedad de los colores."
+  },
+  {
+   "start": 61.14,
+   "end": 66.14,
+   "text": "Las alarmas son un complemento de administración de tiempo para optimizar la productividad."
+  },
+  {
+   "start": 67.14,
+   "end": 74.14,
+   "text": "Y para mejorar la comunicación de las emociones, el usuario puede escoger el emoji con el que se sienta identificado."
+  },
+  {
+   "start": 74.14,
+   "end": 78.14,
+   "text": "Así la persona que le asiste comprenderá cómo abordarle."
+  },
+  {
+   "start": 78.14,
+   "end": 88.14,
+   "text": "Apollado de una aplicación móvil, el jefe podrá enviar mensajes, agendar un evento, asignar una tarea, que se verán reflejados en la pantalla del usuario."
+  },
+  {
+   "start": 89.14,
+   "end": 99.14,
+   "text": "Nuestro modelo de viabilidad estima un costo de producción de 1086.17 dólares y las empresas podrán abrirlo a 1400 dólares."
+  },
+  {
+   "start": 99.14,
+   "end": 105.14,
+   "text": "Somos la única opción en el mercado para incluir al autismo. Somos Esperanza TEA."
+  },
+  {
+   "start": 106.14,
+   "end": 108.14,
+   "text": "No eres diferente, eres auténtico."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 111.4
+}

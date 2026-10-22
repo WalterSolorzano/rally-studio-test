@@ -1,0 +1,97 @@
+{
+ "video_id": "SGYQA1fPPPw",
+ "url": "https://youtu.be/SGYQA1fPPPw?si=8mVQoqOc89u7R_NQ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "HTTPS://INGES",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "HTTPS://INGES",
+   "challenge": "07 - REUTILIZACIÓN DE ACEITE DOMÉSTICO"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:28:54+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que el aceite de cocinuzado puede contaminar grandes cantidades de agua cuando se desechinca correctamente? Por eso nace EcoFuel, una iniciativa innovadora que buscaba formar un residuo contaminante en una oportunidad para cuidar el medio ambiente y beneficiar la sociedad. Cada usuario de EcoFuel recibió un fructo diseñado para limpar el aceite cocinuzado y prepararlo para su recolección. Cuando el aceite esté filtrado del usuario escandida en el código QR, identifica su registro y notifica la empresa que el aceite está listo para ser recogido. A continuación, un camión de EcoFuel llega hasta el domicilio o establecimiento. Verifica la cantidad de licro entregado y registra el volumen recolocado según esa cantidad. El usuario recibe un punto acumulable en su cuenta. Y aparte, el usuario recibe una remodelación de 10 cordones efectivos por licro. ¿Y qué puede hacer con esos puntos? Convertirlo en beneficios reales donde el usuario podrá encangiarlo a empresas alias privadas y así obtener descuentos comerciales. Finalmente, el aceite arrocolectado será aclarado a instalaciones especializadas para su procesamiento y aprovechamiento en la producción de biodiesel y otros productos útiles. Según su calidad y las condiciones técnicas. Nuestra visión es construir una latinoamerica más limpia, donde reciclar tenga un valor y cada persona pueda concluir al cambio. El costo total del proyecto es de 23.346 dólares. EcoFuel, tu aceite tiene una segunda vida y tu compromiso también tiene una recompensa.",
+ "segments": [
+  {
+   "start": 0.34,
+   "end": 6.34,
+   "text": "¿Sabías que el aceite de cocinuzado puede contaminar grandes cantidades de agua cuando se desechinca correctamente?"
+  },
+  {
+   "start": 7.34,
+   "end": 16.34,
+   "text": "Por eso nace EcoFuel, una iniciativa innovadora que buscaba formar un residuo contaminante en una oportunidad para cuidar el medio ambiente y beneficiar la sociedad."
+  },
+  {
+   "start": 17.34,
+   "end": 25.34,
+   "text": "Cada usuario de EcoFuel recibió un fructo diseñado para limpar el aceite cocinuzado y prepararlo para su recolección."
+  },
+  {
+   "start": 25.34,
+   "end": 34.34,
+   "text": "Cuando el aceite esté filtrado del usuario escandida en el código QR, identifica su registro y notifica la empresa que el aceite está listo para ser recogido."
+  },
+  {
+   "start": 35.34,
+   "end": 40.34,
+   "text": "A continuación, un camión de EcoFuel llega hasta el domicilio o establecimiento."
+  },
+  {
+   "start": 41.34,
+   "end": 46.34,
+   "text": "Verifica la cantidad de licro entregado y registra el volumen recolocado según esa cantidad."
+  },
+  {
+   "start": 47.34,
+   "end": 50.34,
+   "text": "El usuario recibe un punto acumulable en su cuenta."
+  },
+  {
+   "start": 50.34,
+   "end": 56.34,
+   "text": "Y aparte, el usuario recibe una remodelación de 10 cordones efectivos por licro."
+  },
+  {
+   "start": 57.34,
+   "end": 67.34,
+   "text": "¿Y qué puede hacer con esos puntos? Convertirlo en beneficios reales donde el usuario podrá encangiarlo a empresas alias privadas y así obtener descuentos comerciales."
+  },
+  {
+   "start": 68.34,
+   "end": 83.11,
+   "text": "Finalmente, el aceite arrocolectado será aclarado a instalaciones especializadas para su procesamiento y aprovechamiento en la producción de biodiesel y otros productos útiles."
+  },
+  {
+   "start": 84.11,
+   "end": 87.11,
+   "text": "Según su calidad y las condiciones técnicas."
+  },
+  {
+   "start": 88.11,
+   "end": 97.11,
+   "text": "Nuestra visión es construir una latinoamerica más limpia, donde reciclar tenga un valor y cada persona pueda concluir al cambio."
+  },
+  {
+   "start": 98.11,
+   "end": 102.11,
+   "text": "El costo total del proyecto es de 23.346 dólares."
+  },
+  {
+   "start": 103.11,
+   "end": 109.11,
+   "text": "EcoFuel, tu aceite tiene una segunda vida y tu compromiso también tiene una recompensa."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 110.7
+}

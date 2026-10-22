@@ -1,0 +1,132 @@
+{
+ "video_id": "3JNjxVyX2M0",
+ "url": "https://youtube.com/shorts/3JNjxVyX2M0",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MARIO KART",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "MARIO KART",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:23:03+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el equipo Mario Kart del Curginotega CD1ALEON. Nuestro desafío es sensores para el servicio de la comunidad. En nuestras casas duermen millones de celulares en desuso, abandonados en cajones. Cada vez que adquirimos uno, estamos aumentando la basura electrónica, además de gastar nuestros recursos. Pero, y si te dijera que lo podemos ocupar en algo mejor, e incluso salvar vidas? Un celular es un pequeño computador con acelerómetro, giroscopio, cámara, micrófonos y mucho más. Por eso creamos EREA, la cual va a hacer que un celular en desuso pase a ser una estación comunitaria de protección. Instalamos un teléfono en un punto fijo, ya sea una universidad o una escuela. Al contener un acelerómetro, este va a medir las vibraciones del suelo, además de la activación del movimiento. Una vez que hay movimiento sostenido por 10 segundos, este va a activar un alarma, lo cual va a empezar a dar instrucciones para salvar, guardar las vidas. Después del sismo, el mismo teléfono te llamará paso a paso y te dirá cómo brindar primeros auxilios. Contiene la función de toma de pulso y frecuencia respiratoria. Además de que no necesite internet, el mismo teléfono lo contiene. A diferencia de otras auxilios, EREA ofrece un punto fijo en la comunidad, además de tener un bajo costo. Esta auxilio se complementa con Ineter, SinaPrec y Comuprec. Nuestra auxilio ya está disponible en Android y cuenta con 29 pruebas automáticas. Con EREA reducimos los residuos electrónicos. Cuidamos en medio ambiente, además de estar protegiendo a nuestra comunidad. Con la tecnología podemos dar segundas oportunidades. Somos el equipo Mario Carr.",
+ "segments": [
+  {
+   "start": 0.4,
+   "end": 4.8,
+   "text": "Somos el equipo Mario Kart del Curginotega CD1ALEON."
+  },
+  {
+   "start": 4.8,
+   "end": 9.52,
+   "text": "Nuestro desafío es sensores para el servicio de la comunidad."
+  },
+  {
+   "start": 9.52,
+   "end": 15.44,
+   "text": "En nuestras casas duermen millones de celulares en desuso, abandonados en cajones."
+  },
+  {
+   "start": 15.44,
+   "end": 23.0,
+   "text": "Cada vez que adquirimos uno, estamos aumentando la basura electrónica, además de gastar nuestros recursos."
+  },
+  {
+   "start": 23.0,
+   "end": 29.6,
+   "text": "Pero, y si te dijera que lo podemos ocupar en algo mejor, e incluso salvar vidas?"
+  },
+  {
+   "start": 30.56,
+   "end": 38.04,
+   "text": "Un celular es un pequeño computador con acelerómetro, giroscopio, cámara, micrófonos y mucho más."
+  },
+  {
+   "start": 38.04,
+   "end": 47.44,
+   "text": "Por eso creamos EREA, la cual va a hacer que un celular en desuso pase a ser una estación comunitaria de protección."
+  },
+  {
+   "start": 47.44,
+   "end": 52.84,
+   "text": "Instalamos un teléfono en un punto fijo, ya sea una universidad o una escuela."
+  },
+  {
+   "start": 52.84,
+   "end": 60.36,
+   "text": "Al contener un acelerómetro, este va a medir las vibraciones del suelo, además de la activación del movimiento."
+  },
+  {
+   "start": 60.48,
+   "end": 65.68,
+   "text": "Una vez que hay movimiento sostenido por 10 segundos, este va a activar un alarma,"
+  },
+  {
+   "start": 65.68,
+   "end": 70.48,
+   "text": "lo cual va a empezar a dar instrucciones para salvar, guardar las vidas."
+  },
+  {
+   "start": 70.48,
+   "end": 77.2,
+   "text": "Después del sismo, el mismo teléfono te llamará paso a paso y te dirá cómo brindar primeros auxilios."
+  },
+  {
+   "start": 77.2,
+   "end": 81.68,
+   "text": "Contiene la función de toma de pulso y frecuencia respiratoria."
+  },
+  {
+   "start": 81.68,
+   "end": 86.72,
+   "text": "Además de que no necesite internet, el mismo teléfono lo contiene."
+  },
+  {
+   "start": 86.72,
+   "end": 93.36,
+   "text": "A diferencia de otras auxilios, EREA ofrece un punto fijo en la comunidad, además de tener un bajo costo."
+  },
+  {
+   "start": 93.36,
+   "end": 99.48,
+   "text": "Esta auxilio se complementa con Ineter, SinaPrec y Comuprec."
+  },
+  {
+   "start": 99.48,
+   "end": 107.16,
+   "text": "Nuestra auxilio ya está disponible en Android y cuenta con 29 pruebas automáticas."
+  },
+  {
+   "start": 107.16,
+   "end": 110.12,
+   "text": "Con EREA reducimos los residuos electrónicos."
+  },
+  {
+   "start": 110.12,
+   "end": 114.84,
+   "text": "Cuidamos en medio ambiente, además de estar protegiendo a nuestra comunidad."
+  },
+  {
+   "start": 114.92,
+   "end": 118.44,
+   "text": "Con la tecnología podemos dar segundas oportunidades."
+  },
+  {
+   "start": 118.44,
+   "end": 120.8,
+   "text": "Somos el equipo Mario Carr."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.9
+}

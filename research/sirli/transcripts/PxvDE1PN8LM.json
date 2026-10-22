@@ -1,0 +1,82 @@
+{
+ "video_id": "PxvDE1PN8LM",
+ "url": "https://youtu.be/PxvDE1PN8LM?si=xQrV45N_ETDCvVZV",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TECNOGENIOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "TECNOGENIOS",
+   "challenge": "06 - REVALORIZACIÓN RESIDUOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:46:33+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Los procesamientos industriales y caseros de cítricos como la naranja presentan desafíos significativos en términos de generación de residuos orgánicos y su gestión inadecuada, lo que tiene un impacto negativo en la eficiencia de recursos, el medio ambiente, la salud y la economía. Las cascaras y pulpas de este cítrico generan grandes cantidades como subproductos y a menudo se desechan debido a la falta de alternativas de reutilización o conciencia sobre su valor potencial. Estos subproductos contienen nutrientes, compuestos bioactivos y fibras que podrían ser utilizados de manera más efectiva en lugar de desecharlos. Entre las alternativas para darle el tratamiento adecuado a estas cascaras y pulpas se encuentra el uso de pellets a base de residuos orgánicos de naranja. Entre estas soluciones destacamos el aprovechamiento integral de los residuos. Nuestra propuesta se centra en un aspecto específico de residuos como transformación orgánica de flama y fertilizantes, aprovechando todos los componentes de la naranja en un producto versátil y de alto valor. Este proceso se realizará en un primer paso a través de la recolección del producto, seguido por la etapa del secado de la cáscara y la semilla para proceder a su trituración y compactación obteniendo nuestro producto final. Entre los impactos significativos de esta propuesta está la reducción de residuos que permite darle un trato diferenciado a este desecho que se envían en los vertederos, causes y calles. Al hacer uso de pellets orgánicos como fuente de flama se reduce la necesidad de utilizar combustibles fósiles no renovables, como el petróleo o el gas natural. Esto contribuye a la conservación de recursos naturales y la preservación del medio ambiente. Otro de los impactos a corto plazo es la generación de empleos locales, ya que la implementación de la producción de pellet en naranja va a beneficiar las comunidades agrícolas y promover el desarrollo económico regional dando impulso a la economía local.",
+ "segments": [
+  {
+   "start": 0.21,
+   "end": 15.21,
+   "text": "Los procesamientos industriales y caseros de cítricos como la naranja presentan desafíos significativos en términos de generación de residuos orgánicos y su gestión inadecuada, lo que tiene un impacto negativo en la eficiencia de recursos, el medio ambiente, la salud y la economía."
+  },
+  {
+   "start": 15.21,
+   "end": 26.21,
+   "text": "Las cascaras y pulpas de este cítrico generan grandes cantidades como subproductos y a menudo se desechan debido a la falta de alternativas de reutilización o conciencia sobre su valor potencial."
+  },
+  {
+   "start": 26.21,
+   "end": 35.21,
+   "text": "Estos subproductos contienen nutrientes, compuestos bioactivos y fibras que podrían ser utilizados de manera más efectiva en lugar de desecharlos."
+  },
+  {
+   "start": 36.21,
+   "end": 44.21,
+   "text": "Entre las alternativas para darle el tratamiento adecuado a estas cascaras y pulpas se encuentra el uso de pellets a base de residuos orgánicos de naranja."
+  },
+  {
+   "start": 44.21,
+   "end": 49.21,
+   "text": "Entre estas soluciones destacamos el aprovechamiento integral de los residuos."
+  },
+  {
+   "start": 49.21,
+   "end": 61.21,
+   "text": "Nuestra propuesta se centra en un aspecto específico de residuos como transformación orgánica de flama y fertilizantes, aprovechando todos los componentes de la naranja en un producto versátil y de alto valor."
+  },
+  {
+   "start": 62.21,
+   "end": 74.21,
+   "text": "Este proceso se realizará en un primer paso a través de la recolección del producto, seguido por la etapa del secado de la cáscara y la semilla para proceder a su trituración y compactación obteniendo nuestro producto final."
+  },
+  {
+   "start": 75.21,
+   "end": 85.21,
+   "text": "Entre los impactos significativos de esta propuesta está la reducción de residuos que permite darle un trato diferenciado a este desecho que se envían en los vertederos, causes y calles."
+  },
+  {
+   "start": 85.21,
+   "end": 94.21,
+   "text": "Al hacer uso de pellets orgánicos como fuente de flama se reduce la necesidad de utilizar combustibles fósiles no renovables, como el petróleo o el gas natural."
+  },
+  {
+   "start": 94.21,
+   "end": 99.21,
+   "text": "Esto contribuye a la conservación de recursos naturales y la preservación del medio ambiente."
+  },
+  {
+   "start": 99.21,
+   "end": 113.21,
+   "text": "Otro de los impactos a corto plazo es la generación de empleos locales, ya que la implementación de la producción de pellet en naranja va a beneficiar las comunidades agrícolas y promover el desarrollo económico regional dando impulso a la economía local."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 113.6
+}

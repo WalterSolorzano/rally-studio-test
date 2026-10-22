@@ -1,0 +1,117 @@
+{
+ "video_id": "qso7jAS8ZI0",
+ "url": "https://youtube.com/shorts/qso7jAS8ZI0?si=nfNK8Z8maojTMuQM",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CASIMIRO-INDUSTRIES",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "CASIMIRO-INDUSTRIES",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:08:16+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imagínate que hay un terremoto en Nicaragua, hay personas heridas, comunidades afectadas y familias que necesitan ayuda, pero los equipos de emergencia no saben con exactitud dónde se les necesita más. Y en ese momento cada minuto cuenta, los recursos deben utilizarse y aprovecharse de la mejor manera. Por eso creamos RedVida Nicaragua, una plataforma que conecta a la ciudadanía con la gestión de emergencias y ayuda a priorizar la asistencia después de un desastre. RedVida integra un sistema de alertas colaborativas mediante los sensores de movimiento de los teléfonos que permite identificar señales similares entre varios dispositivos y señalar el posible evento para su revisión. Desde la aplicación las personas pueden reportar daños, inundaciones, heridos y otras situaciones de emergencia, sin necesidad de una conexión a internet. Toda la información recopilada se organiza en un centro de operaciones para facilitar la zona más afectada y reconocer la necesidad urgente y facilitar una mejor distribución de nuestros recursos. Con RedVida Nicaragua buscamos que los recursos se dirijan donde más se necesitan, porque una respuesta coordinada puede marcar la diferencia donde más importa. RedVida Nicaragua, conectando información, coordinando esfuerzos y priorizando vidas.",
+ "segments": [
+  {
+   "start": 2.74,
+   "end": 7.74,
+   "text": "Imagínate que hay un terremoto en Nicaragua, hay personas heridas, comunidades afectadas"
+  },
+  {
+   "start": 7.74,
+   "end": 12.64,
+   "text": "y familias que necesitan ayuda, pero los equipos de emergencia no saben con exactitud dónde"
+  },
+  {
+   "start": 12.64,
+   "end": 14.14,
+   "text": "se les necesita más."
+  },
+  {
+   "start": 14.14,
+   "end": 19.22,
+   "text": "Y en ese momento cada minuto cuenta, los recursos deben utilizarse y aprovecharse de la mejor"
+  },
+  {
+   "start": 19.22,
+   "end": 20.22,
+   "text": "manera."
+  },
+  {
+   "start": 20.22,
+   "end": 25.6,
+   "text": "Por eso creamos RedVida Nicaragua, una plataforma que conecta a la ciudadanía con la gestión"
+  },
+  {
+   "start": 25.6,
+   "end": 30.58,
+   "text": "de emergencias y ayuda a priorizar la asistencia después de un desastre."
+  },
+  {
+   "start": 30.58,
+   "end": 35.78,
+   "text": "RedVida integra un sistema de alertas colaborativas mediante los sensores de movimiento de los"
+  },
+  {
+   "start": 35.78,
+   "end": 41.78,
+   "text": "teléfonos que permite identificar señales similares entre varios dispositivos y señalar"
+  },
+  {
+   "start": 41.78,
+   "end": 44.18,
+   "text": "el posible evento para su revisión."
+  },
+  {
+   "start": 44.18,
+   "end": 49.42,
+   "text": "Desde la aplicación las personas pueden reportar daños, inundaciones, heridos y otras"
+  },
+  {
+   "start": 49.42,
+   "end": 53.82,
+   "text": "situaciones de emergencia, sin necesidad de una conexión a internet."
+  },
+  {
+   "start": 53.82,
+   "end": 57.86,
+   "text": "Toda la información recopilada se organiza en un centro de operaciones para facilitar"
+  },
+  {
+   "start": 57.86,
+   "end": 63.58,
+   "text": "la zona más afectada y reconocer la necesidad urgente y facilitar una mejor distribución de"
+  },
+  {
+   "start": 63.58,
+   "end": 65.22,
+   "text": "nuestros recursos."
+  },
+  {
+   "start": 65.22,
+   "end": 69.78,
+   "text": "Con RedVida Nicaragua buscamos que los recursos se dirijan donde más se necesitan, porque"
+  },
+  {
+   "start": 69.78,
+   "end": 73.98,
+   "text": "una respuesta coordinada puede marcar la diferencia donde más importa."
+  },
+  {
+   "start": 73.98,
+   "end": 79.78,
+   "text": "RedVida Nicaragua, conectando información, coordinando esfuerzos y priorizando vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 82.8
+}

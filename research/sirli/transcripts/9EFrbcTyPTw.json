@@ -1,0 +1,142 @@
+{
+ "video_id": "9EFrbcTyPTw",
+ "url": "https://www.youtube.com/watch?v=9EFrbcTyPTw",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NORTEX",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NORTEX",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:53:46+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Pensores al servicio de la comunidad. Ante los riesgos naturales y el alto costo de monitoreo, proponemos dar una nueva vida a los celulares en desuso. Creamos Renovak, un prototipo que reutiliza los sensores de celulares en desuso, ensamblados en cajas herméticas y con soporte rígido y alimentación externa. Adaptamos estos dispositivos a tres perfiles de monitoreo. Usalo según tus necesidades. Escuela, para registrar vibraciones asociadas a sismo. El dispositivo cacta y genera una alerta. Para identificar movimientos e inclinaciones del terreno. Yos para apoyar el monitoreo del nivel del agua. Los datos recopilados se envían a una plataforma central, facilitando el seguimiento de las condiciones del entorno. Renovak integra 13 herramientas digitales. Un software para recopilar y visualizar los datos de los dispositivos. Un sitio web donde los donantes registran sus celulares. Identifican el modelo y consultan los centros de acope. Y don un módulo administrativo para gestionar solicitudes, reseccionar donaciones y controlar el inventario. Renovak busca transformar residu electrónico en recursos para la prevención, reducir la basura tecnológica y promover la participación comunitaria. Tomos Norte, equipo de la UNAM Curmate Agalpa. Tecnología reutilizada, comunidades más preparadas y un futuro más seguro.",
+ "segments": [
+  {
+   "start": 9.78,
+   "end": 12.78,
+   "text": "Pensores al servicio de la comunidad."
+  },
+  {
+   "start": 12.78,
+   "end": 18.3,
+   "text": "Ante los riesgos naturales y el alto costo de monitoreo, proponemos dar una nueva vida"
+  },
+  {
+   "start": 18.3,
+   "end": 20.18,
+   "text": "a los celulares en desuso."
+  },
+  {
+   "start": 20.18,
+   "end": 27.02,
+   "text": "Creamos Renovak, un prototipo que reutiliza los sensores de celulares en desuso, ensamblados"
+  },
+  {
+   "start": 27.02,
+   "end": 31.92,
+   "text": "en cajas herméticas y con soporte rígido y alimentación externa."
+  },
+  {
+   "start": 31.92,
+   "end": 35.78,
+   "text": "Adaptamos estos dispositivos a tres perfiles de monitoreo."
+  },
+  {
+   "start": 35.78,
+   "end": 38.2,
+   "text": "Usalo según tus necesidades."
+  },
+  {
+   "start": 38.2,
+   "end": 41.98,
+   "text": "Escuela, para registrar vibraciones asociadas a sismo."
+  },
+  {
+   "start": 41.98,
+   "end": 45.62,
+   "text": "El dispositivo cacta y genera una alerta."
+  },
+  {
+   "start": 45.62,
+   "end": 49.62,
+   "text": "Para identificar movimientos e inclinaciones del terreno."
+  },
+  {
+   "start": 49.62,
+   "end": 52.78,
+   "text": "Yos para apoyar el monitoreo del nivel del agua."
+  },
+  {
+   "start": 52.78,
+   "end": 56.7,
+   "text": "Los datos recopilados se envían a una plataforma central,"
+  },
+  {
+   "start": 56.7,
+   "end": 60.7,
+   "text": "facilitando el seguimiento de las condiciones del entorno."
+  },
+  {
+   "start": 60.7,
+   "end": 63.82,
+   "text": "Renovak integra 13 herramientas digitales."
+  },
+  {
+   "start": 63.82,
+   "end": 68.38,
+   "text": "Un software para recopilar y visualizar los datos de los dispositivos."
+  },
+  {
+   "start": 68.38,
+   "end": 71.86,
+   "text": "Un sitio web donde los donantes registran sus celulares."
+  },
+  {
+   "start": 71.86,
+   "end": 75.22,
+   "text": "Identifican el modelo y consultan los centros de acope."
+  },
+  {
+   "start": 75.22,
+   "end": 78.82,
+   "text": "Y don un módulo administrativo para gestionar solicitudes,"
+  },
+  {
+   "start": 78.82,
+   "end": 82.82,
+   "text": "reseccionar donaciones y controlar el inventario."
+  },
+  {
+   "start": 82.82,
+   "end": 88.14,
+   "text": "Renovak busca transformar residu electrónico en recursos para la prevención,"
+  },
+  {
+   "start": 88.14,
+   "end": 93.62,
+   "text": "reducir la basura tecnológica y promover la participación comunitaria."
+  },
+  {
+   "start": 93.62,
+   "end": 97.42,
+   "text": "Tomos Norte, equipo de la UNAM Curmate Agalpa."
+  },
+  {
+   "start": 97.42,
+   "end": 102.62,
+   "text": "Tecnología reutilizada, comunidades más preparadas y un futuro más seguro."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.7
+}

@@ -1,0 +1,147 @@
+{
+ "video_id": "L-sIGIKsTRM",
+ "url": "https://youtu.be/L-sIGIKsTRM?si=whWFawiIARwRidK1",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NICARAÍCES",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "NICARAÍCES",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:56:26+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Qué pasaría si un desastre natural dejara a toda una comunidad incomunicada, sin acceso a las vías principales y sin posibilidad de pedir ayuda? En América Latina, esta situación puede convertirse en una realidad donde cada segundo perdido representa una vida en riesgo. Por eso nace Vialler, una aplicación diseñada para mejorar la comunicación, coordinar los rescates y optimizar los recursos durante la emergencia. Vialler está en español, inglés y portugués. Integra mapas de zonas afectadas, rutas alternativas, hospitales cercanos, reportes de daños y un botón SOS. Nuestra propuesta plantea que la información de emergencia sea recibida por una sede ubicada en cada cabecera departamental, bajo la coordinación de los bomberos unificados. Esta sede funcionaría como centro de información conectando las estaciones de bomberos de los diferentes municipios para coordinar una respuesta más rápida. ¿Y cómo le lograríamos? Mediante Cifes, una tecnología inalámbrica de bajo consumo que permitiría transmitir datos y alerta SOS entre dispositivos compatibles, incluso sin internet ni cobertura celular mediante una red de equipos dentro de su alcance. De esta manera, Vialler busca fortalecer la comunicación entre comunidad y cuerpo de rescate, identificar las zonas prioritarias y distribuir los recursos donde más se necesitan, porque una emergencia no solamente requiere ayuda. Los desastres naturales no siempre se pueden evitar, pero sí podemos transformar nuestra manera de responder. Vialler no es solamente una aplicación, es una propuesta para conectar comunidades, coordinar esfuerzos y proteger vidas. Vialler, porque cada segundo cuenta y cada vida importa. Somos Nicarraíces de la Universidad Nacional Autónoma de Nicaragua, Unang Managua, Curcarazo.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.8,
+   "text": "¿Qué pasaría si un desastre natural dejara a toda una comunidad incomunicada, sin acceso"
+  },
+  {
+   "start": 7.8,
+   "end": 13.04,
+   "text": "a las vías principales y sin posibilidad de pedir ayuda? En América Latina, esta situación"
+  },
+  {
+   "start": 13.04,
+   "end": 19.4,
+   "text": "puede convertirse en una realidad donde cada segundo perdido representa una vida en riesgo."
+  },
+  {
+   "start": 19.4,
+   "end": 24.72,
+   "text": "Por eso nace Vialler, una aplicación diseñada para mejorar la comunicación, coordinar los"
+  },
+  {
+   "start": 24.72,
+   "end": 29.64,
+   "text": "rescates y optimizar los recursos durante la emergencia. Vialler está en español,"
+  },
+  {
+   "start": 29.64,
+   "end": 31.16,
+   "text": "inglés y portugués."
+  },
+  {
+   "start": 32.32,
+   "end": 38.08,
+   "text": "Integra mapas de zonas afectadas, rutas alternativas, hospitales cercanos,"
+  },
+  {
+   "start": 38.08,
+   "end": 43.72,
+   "text": "reportes de daños y un botón SOS. Nuestra propuesta plantea que la información de"
+  },
+  {
+   "start": 43.72,
+   "end": 48.52,
+   "text": "emergencia sea recibida por una sede ubicada en cada cabecera departamental,"
+  },
+  {
+   "start": 48.52,
+   "end": 54.84,
+   "text": "bajo la coordinación de los bomberos unificados. Esta sede funcionaría como centro de información"
+  },
+  {
+   "start": 54.84,
+   "end": 59.52,
+   "text": "conectando las estaciones de bomberos de los diferentes municipios para coordinar una"
+  },
+  {
+   "start": 59.52,
+   "end": 61.24,
+   "text": "respuesta más rápida."
+  },
+  {
+   "start": 61.24,
+   "end": 69.88,
+   "text": "¿Y cómo le lograríamos? Mediante Cifes, una tecnología inalámbrica de bajo consumo que"
+  },
+  {
+   "start": 69.88,
+   "end": 77.76,
+   "text": "permitiría transmitir datos y alerta SOS entre dispositivos compatibles, incluso sin"
+  },
+  {
+   "start": 77.76,
+   "end": 83.72,
+   "text": "internet ni cobertura celular mediante una red de equipos dentro de su alcance."
+  },
+  {
+   "start": 83.72,
+   "end": 88.8,
+   "text": "De esta manera, Vialler busca fortalecer la comunicación entre comunidad y"
+  },
+  {
+   "start": 88.8,
+   "end": 92.76,
+   "text": "cuerpo de rescate, identificar las zonas prioritarias y distribuir los recursos donde"
+  },
+  {
+   "start": 92.76,
+   "end": 97.0,
+   "text": "más se necesitan, porque una emergencia no solamente requiere ayuda. Los desastres"
+  },
+  {
+   "start": 97.0,
+   "end": 100.68,
+   "text": "naturales no siempre se pueden evitar, pero sí podemos transformar nuestra manera"
+  },
+  {
+   "start": 100.68,
+   "end": 104.48,
+   "text": "de responder. Vialler no es solamente una aplicación, es una propuesta para"
+  },
+  {
+   "start": 104.48,
+   "end": 109.08,
+   "text": "conectar comunidades, coordinar esfuerzos y proteger vidas. Vialler, porque cada segundo"
+  },
+  {
+   "start": 109.08,
+   "end": 110.48,
+   "text": "cuenta y cada vida importa."
+  },
+  {
+   "start": 111.76,
+   "end": 116.48,
+   "text": "Somos Nicarraíces de la Universidad Nacional Autónoma de Nicaragua,"
+  },
+  {
+   "start": 116.48,
+   "end": 117.96,
+   "text": "Unang Managua, Curcarazo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.2
+}

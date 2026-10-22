@@ -1,0 +1,87 @@
+{
+ "video_id": "n1etZILNLQ8",
+ "url": "https://youtu.be/n1etZILNLQ8",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NEONOVA",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "NEONOVA",
+   "challenge": "03 - ENLAZANDO GENERACIONES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:39:51+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que en Latinoamérica alrededor de 165 mil personas mayores de 60 años viven en residencias para adultos? Más del 30% de ellos se sienten excluidos de la sociedad. Con el envejecimiento de la población y la falta de oportunidades para interactuar, los adultos mayores enfrentan desafíos sociales y cognitivos. Al mismo tiempo, muchos jóvenes buscan maneras de hacer una diferencia en sus comunidades. Presentamos Juventata, una plataforma innovadora diseñada para cerrar esta brecha generacional. Esta app es un elemento didáctico y multifuncional donde convierte los jóvenes en jultores, garantizando un entorno cómodo y seguro para el adulto mayor. Pueden conectarse, participar en actividades físicas, desafíos cognitivos y disfrutar de experiencias significativas juntos. Únete a Juventata y se parte de un movimiento que une generaciones.",
+ "segments": [
+  {
+   "start": 1.3,
+   "end": 8.38,
+   "text": "¿Sabías que en Latinoamérica alrededor de 165 mil personas mayores de 60 años"
+  },
+  {
+   "start": 8.38,
+   "end": 10.46,
+   "text": "viven en residencias para adultos?"
+  },
+  {
+   "start": 10.46,
+   "end": 15.42,
+   "text": "Más del 30% de ellos se sienten excluidos de la sociedad."
+  },
+  {
+   "start": 15.42,
+   "end": 20.38,
+   "text": "Con el envejecimiento de la población y la falta de oportunidades para interactuar,"
+  },
+  {
+   "start": 20.38,
+   "end": 24.94,
+   "text": "los adultos mayores enfrentan desafíos sociales y cognitivos."
+  },
+  {
+   "start": 24.94,
+   "end": 31.26,
+   "text": "Al mismo tiempo, muchos jóvenes buscan maneras de hacer una diferencia en sus comunidades."
+  },
+  {
+   "start": 31.3,
+   "end": 38.74,
+   "text": "Presentamos Juventata, una plataforma innovadora diseñada para cerrar esta brecha generacional."
+  },
+  {
+   "start": 38.74,
+   "end": 45.38,
+   "text": "Esta app es un elemento didáctico y multifuncional donde convierte los jóvenes en jultores,"
+  },
+  {
+   "start": 45.38,
+   "end": 49.86,
+   "text": "garantizando un entorno cómodo y seguro para el adulto mayor."
+  },
+  {
+   "start": 49.86,
+   "end": 55.38,
+   "text": "Pueden conectarse, participar en actividades físicas, desafíos cognitivos"
+  },
+  {
+   "start": 55.38,
+   "end": 60.3,
+   "text": "y disfrutar de experiencias significativas juntos."
+  },
+  {
+   "start": 60.3,
+   "end": 66.26,
+   "text": "Únete a Juventata y se parte de un movimiento que une generaciones."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 71.7
+}

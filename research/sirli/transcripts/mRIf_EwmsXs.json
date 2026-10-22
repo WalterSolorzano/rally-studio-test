@@ -1,0 +1,127 @@
+{
+ "video_id": "mRIf_EwmsXs",
+ "url": "https://youtu.be/mRIf_EwmsXs?si=XrpiPalBASNtUY07",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "HIDRONIC",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "HIDRONIC",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:28:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada temporada de lluvias representa un desafío para muchas comunidades. En Sabana Grande, Managua, la micro presa, las maravillas, forma parte del sistema de rendaje pluvial. Sin embargo, las obstrucciones de los caos y la falta de información oportuna pueden dificultar la prevención y la respuesta ante situaciones de riesgo. Antes de este problema, nace Hydronik, innovación que fluye vida que perdura. Proponemos una plataforma digital que integra cuatro herramientas fundamentales, monitoreo de niveles del agua, alertas tempranas, un mapa para recordar incidencias y una visualización de áreas verdes para apoyar la protección ambiental. ¿Qué nos hace diferentes? Hydronik reúne información hídrica, reportes ciudadanos y seguimiento ambiental en un solo espacio. Así buscamos conectar a la comunidad con las instituciones y transformar los datos en información útil para tomar decisiones preventivas. Nuestro propósito es contribuir a proteger a las familias cercanas a la micro presa, facilitando la comunicación de riesgo y la atención de incidencias. También buscamos promover el cuidado de los caos y la área verde, porque prevenir significa cuidar tanto a las personas como al entorno. Hydronik puede desarrollarse por etapas, comenzando con el registro digital de información y reportes para después incorporar sensores y nuevas conexiones con apoyo técnico e institucional. En el aspecto económico, Hydronik utiliza herramientas accesibles y recursos de código abierto. Socialmente, su viabilidad dependerá de la confianza comunitaria y las alianzas institucionales. Abientalmente, busca mantenerse mediante la cooperación con organizaciones comprometidas con la conservación, permitiendo que la propuesta crezca de forma responsable y sostenible. No prometemos eliminar la inundación, prometemos fortalecer la prevención. Somos Hydronik, una vación que fluye vida que perdura.",
+ "segments": [
+  {
+   "start": 0.34,
+   "end": 4.34,
+   "text": "Cada temporada de lluvias representa un desafío para muchas comunidades."
+  },
+  {
+   "start": 4.34,
+   "end": 10.34,
+   "text": "En Sabana Grande, Managua, la micro presa, las maravillas, forma parte del sistema de rendaje pluvial."
+  },
+  {
+   "start": 10.34,
+   "end": 19.34,
+   "text": "Sin embargo, las obstrucciones de los caos y la falta de información oportuna pueden dificultar la prevención y la respuesta ante situaciones de riesgo."
+  },
+  {
+   "start": 19.34,
+   "end": 24.34,
+   "text": "Antes de este problema, nace Hydronik, innovación que fluye vida que perdura."
+  },
+  {
+   "start": 24.34,
+   "end": 34.34,
+   "text": "Proponemos una plataforma digital que integra cuatro herramientas fundamentales, monitoreo de niveles del agua, alertas tempranas, un mapa para recordar incidencias"
+  },
+  {
+   "start": 34.34,
+   "end": 38.34,
+   "text": "y una visualización de áreas verdes para apoyar la protección ambiental."
+  },
+  {
+   "start": 38.34,
+   "end": 40.34,
+   "text": "¿Qué nos hace diferentes?"
+  },
+  {
+   "start": 40.34,
+   "end": 47.34,
+   "text": "Hydronik reúne información hídrica, reportes ciudadanos y seguimiento ambiental en un solo espacio."
+  },
+  {
+   "start": 47.34,
+   "end": 55.34,
+   "text": "Así buscamos conectar a la comunidad con las instituciones y transformar los datos en información útil para tomar decisiones preventivas."
+  },
+  {
+   "start": 55.34,
+   "end": 60.34,
+   "text": "Nuestro propósito es contribuir a proteger a las familias cercanas a la micro presa,"
+  },
+  {
+   "start": 60.34,
+   "end": 64.34,
+   "text": "facilitando la comunicación de riesgo y la atención de incidencias."
+  },
+  {
+   "start": 64.34,
+   "end": 71.34,
+   "text": "También buscamos promover el cuidado de los caos y la área verde, porque prevenir significa cuidar tanto a las personas como al entorno."
+  },
+  {
+   "start": 71.34,
+   "end": 79.34,
+   "text": "Hydronik puede desarrollarse por etapas, comenzando con el registro digital de información y reportes para después incorporar sensores"
+  },
+  {
+   "start": 79.34,
+   "end": 82.34,
+   "text": "y nuevas conexiones con apoyo técnico e institucional."
+  },
+  {
+   "start": 82.34,
+   "end": 89.34,
+   "text": "En el aspecto económico, Hydronik utiliza herramientas accesibles y recursos de código abierto."
+  },
+  {
+   "start": 89.34,
+   "end": 95.34,
+   "text": "Socialmente, su viabilidad dependerá de la confianza comunitaria y las alianzas institucionales."
+  },
+  {
+   "start": 95.34,
+   "end": 102.34,
+   "text": "Abientalmente, busca mantenerse mediante la cooperación con organizaciones comprometidas con la conservación,"
+  },
+  {
+   "start": 102.34,
+   "end": 106.34,
+   "text": "permitiendo que la propuesta crezca de forma responsable y sostenible."
+  },
+  {
+   "start": 106.34,
+   "end": 111.34,
+   "text": "No prometemos eliminar la inundación, prometemos fortalecer la prevención."
+  },
+  {
+   "start": 111.34,
+   "end": 115.34,
+   "text": "Somos Hydronik, una vación que fluye vida que perdura."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.9
+}

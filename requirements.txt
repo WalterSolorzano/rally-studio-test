@@ -1,0 +1,24 @@
+# Python
+python-docx>=1.1
+openpyxl>=3.1
+requests>=2.31
+pillow>=10.0
+playwright>=1.44
+psutil>=5.9
+soundfile>=0.12
+# Lectura de PDF/DOCX del corpus y de lo que traiga el humano (skills del agente)
+pdfplumber>=0.11
+
+# OCR local (red de seguridad del tablero /api/ocr cuando no hay endpoint IA conectado)
+# easyocr           # instala PyTorch (~2GB); solo si quieres OCR neuronal sin IA en la nube
+
+# IA gratis: FreeLLMAPI (34 proveedores gratis detras de un endpoint OpenAI-compatible; local en Windows)
+#   instalador .exe: https://github.com/tashfeenahmed/freellmapi/releases/latest
+#   luego: RALLY_AI_URL=http://127.0.0.1:31415/v1  +  RALLY_AI_KEY=freellm-...  (ver AUTO_IA.md)
+
+# TTS (instalar uno o ambos según GPU disponible)
+# pip install chatterbox-tts   # con GPU VRAM >= 4GB, MIT license
+# pip install kokoro            # sin GPU, Apache 2.0
+
+# Audio
+# ffmpeg debe estar instalado en el sistema (https://ffmpeg.org/download.html)

@@ -1,0 +1,177 @@
+{
+ "video_id": "10RSpJvenqA",
+ "url": "https://youtu.be/10RSpJvenqA?si=NB3KThh82zqwQjkO",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "DATAPIECE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "DATAPIECE",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:29:59+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Seis de la mañana, 20 minutos a la parada y nadie sabe si el bulla paso o si va a llegar Así viajan millones en latinoamérica Ruta sin mapear, esperas a ciega y conducción temeraria que casi nunca se sanciona Porque la queja de un pasajero no se puede comprobar Y monitorar cada agua cuesta más de lo que una alcaldía puede pagar Pero hay millones de celulares viejos olvidados en una daveta Nosotros los convertimos en la solución Esto es Ruta Segura Un celular en desuso va oculto en el bu Conectaba su batería Cada poco segundos informa dónde está y qué tan rápido va Y cómo maneja Cada frenazo, cada curva brusca Cada bus tiene su propio testigo a costo casi cero Con esos datos nuestra aplicación muestra cada bus en vivo Indica que ruta tomar donde subir y donde bajar Y avisa, tu bus llega en 4 minutos Al bajar el pasajero califica el trato, la limpieza y la forma de manejar nuestra innovación El escor de seguridad híbrido Si alguien reporta manejo brusco, revisamos lo que registró el bus En ese minuto exacto Si hubo una frenada de pánico, el reporte se va al día Si no, se descarta Cero quejas falsas y un ranking confiable de conductores y rutas Ciudades inteligentes a bajo costo Economía circular para la seguridad vial Y premios para los mejores conductores No inventamos a parar de tocaros No formamos basura electrónica en ciudades inteligentes",
+ "segments": [
+  {
+   "start": 0.75,
+   "end": 6.09,
+   "text": "Seis de la mañana, 20 minutos a la parada y nadie sabe si el bulla paso o si va a llegar"
+  },
+  {
+   "start": 7.69,
+   "end": 9.69,
+   "text": "Así viajan millones en latinoamérica"
+  },
+  {
+   "start": 10.15,
+   "end": 14.51,
+   "text": "Ruta sin mapear, esperas a ciega y conducción temeraria que casi nunca se sanciona"
+  },
+  {
+   "start": 14.51,
+   "end": 17.29,
+   "text": "Porque la queja de un pasajero no se puede comprobar"
+  },
+  {
+   "start": 17.29,
+   "end": 21.31,
+   "text": "Y monitorar cada agua cuesta más de lo que una alcaldía puede pagar"
+  },
+  {
+   "start": 22.31,
+   "end": 25.49,
+   "text": "Pero hay millones de celulares viejos olvidados en una daveta"
+  },
+  {
+   "start": 25.49,
+   "end": 28.05,
+   "text": "Nosotros los convertimos en la solución"
+  },
+  {
+   "start": 28.05,
+   "end": 30.05,
+   "text": "Esto es Ruta Segura"
+  },
+  {
+   "start": 31.51,
+   "end": 33.91,
+   "text": "Un celular en desuso va oculto en el bu"
+  },
+  {
+   "start": 33.91,
+   "end": 35.91,
+   "text": "Conectaba su batería"
+  },
+  {
+   "start": 35.91,
+   "end": 38.91,
+   "text": "Cada poco segundos informa dónde está y qué tan rápido va"
+  },
+  {
+   "start": 38.91,
+   "end": 40.41,
+   "text": "Y cómo maneja"
+  },
+  {
+   "start": 40.41,
+   "end": 42.41,
+   "text": "Cada frenazo, cada curva brusca"
+  },
+  {
+   "start": 42.41,
+   "end": 45.71,
+   "text": "Cada bus tiene su propio testigo a costo casi cero"
+  },
+  {
+   "start": 45.71,
+   "end": 49.51,
+   "text": "Con esos datos nuestra aplicación muestra cada bus en vivo"
+  },
+  {
+   "start": 49.51,
+   "end": 52.91,
+   "text": "Indica que ruta tomar donde subir y donde bajar"
+  },
+  {
+   "start": 52.91,
+   "end": 55.91,
+   "text": "Y avisa, tu bus llega en 4 minutos"
+  },
+  {
+   "start": 55.91,
+   "end": 59.71,
+   "text": "Al bajar el pasajero califica el trato, la limpieza"
+  },
+  {
+   "start": 60.37,
+   "end": 63.37,
+   "text": "y la forma de manejar nuestra innovación"
+  },
+  {
+   "start": 63.37,
+   "end": 65.37,
+   "text": "El escor de seguridad híbrido"
+  },
+  {
+   "start": 65.37,
+   "end": 69.37,
+   "text": "Si alguien reporta manejo brusco, revisamos lo que registró el bus"
+  },
+  {
+   "start": 69.37,
+   "end": 71.37,
+   "text": "En ese minuto exacto"
+  },
+  {
+   "start": 71.37,
+   "end": 74.37,
+   "text": "Si hubo una frenada de pánico, el reporte se va al día"
+  },
+  {
+   "start": 74.37,
+   "end": 76.37,
+   "text": "Si no, se descarta"
+  },
+  {
+   "start": 76.37,
+   "end": 80.37,
+   "text": "Cero quejas falsas y un ranking confiable de conductores y rutas"
+  },
+  {
+   "start": 80.37,
+   "end": 82.37,
+   "text": "Ciudades inteligentes a bajo costo"
+  },
+  {
+   "start": 82.37,
+   "end": 85.37,
+   "text": "Economía circular para la seguridad vial"
+  },
+  {
+   "start": 85.37,
+   "end": 87.37,
+   "text": "Y premios para los mejores conductores"
+  },
+  {
+   "start": 88.03,
+   "end": 90.03,
+   "text": "No inventamos a parar de tocaros"
+  },
+  {
+   "start": 90.03,
+   "end": 94.03,
+   "text": "No formamos basura electrónica en ciudades inteligentes"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 95.6
+}

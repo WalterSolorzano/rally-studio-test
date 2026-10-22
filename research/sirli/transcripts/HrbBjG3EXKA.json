@@ -1,0 +1,157 @@
+{
+ "video_id": "HrbBjG3EXKA",
+ "url": "https://youtu.be/HrbBjG3EXKA",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "OVERTEAMUML2023",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "OVERTEAMUML2023",
+   "challenge": "02 - SIEMPRE EN CONTACTO"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:41:32+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el equipo Overteam, nuestro desafío es siempre en contacto. Les presentamos una innovación tecnológica que podría salvar vidas en su próxima extravesía. El brazalete de seguridad y localización. Este dispositivo compacto y equipado por una Raspberry PiPico y módulos GPS y Lora es mucho más que un simple accesorio. Es tu guardián en tierras desconocidas. Imagina estar en medio de la nada y necesitar ayuda. Este brazalete es la respuesta. En el momento que presionas el botón SOS, en segundo se crea un servidor web local y una página web básica que muestra tu ubicación en tiempo real. Esta información es invaluable para las autoridades o equipos de rescate. Pero eso no es todo. El brazalete también monitoriza tu frecuencia cardíaca. Si detecta una caída significativa, se envían señales adicionales. Esto no solo salva vida, sino que también proporciona tranquilidad a tus seres queridos. Como disminuye la frecuencia cardíaca, significará que la persona está herida o ha perdido sangre, lo que indica una situación crítica. En este caso, el dispositivo enviará dos señales en un rango de cinco minutos. Las cuales serán interpretadas por el receptor de la siguiente manera. Si el sensor no detecta pulso cardíaco, significará que la persona está fallecida o ha perdido el dispositivo. En este caso, el dispositivo enviará coordenadas tres veces en un rango de cinco minutos. Esta es una idea innovadora, ya que no se utiliza internet para enviar estos tipos de mensajes específicos, sino que se enviará a través de GPS, según la cantidad de veces que se repita una señal en un período de tiempo determinado. De esta forma podemos saber si la vida de una persona está en riesgo durante su travesía.",
+ "segments": [
+  {
+   "start": 1.52,
+   "end": 5.72,
+   "text": "Somos el equipo Overteam, nuestro desafío es siempre en contacto."
+  },
+  {
+   "start": 5.72,
+   "end": 10.36,
+   "text": "Les presentamos una innovación tecnológica que podría salvar vidas en su próxima"
+  },
+  {
+   "start": 10.36,
+   "end": 14.72,
+   "text": "extravesía. El brazalete de seguridad y localización."
+  },
+  {
+   "start": 14.72,
+   "end": 21.32,
+   "text": "Este dispositivo compacto y equipado por una Raspberry PiPico y módulos GPS y Lora"
+  },
+  {
+   "start": 21.32,
+   "end": 24.12,
+   "text": "es mucho más que un simple accesorio."
+  },
+  {
+   "start": 24.12,
+   "end": 26.52,
+   "text": "Es tu guardián en tierras desconocidas."
+  },
+  {
+   "start": 26.52,
+   "end": 29.92,
+   "text": "Imagina estar en medio de la nada y necesitar ayuda."
+  },
+  {
+   "start": 29.92,
+   "end": 32.92,
+   "text": "Este brazalete es la respuesta."
+  },
+  {
+   "start": 32.92,
+   "end": 38.72,
+   "text": "En el momento que presionas el botón SOS, en segundo se crea un servidor web local"
+  },
+  {
+   "start": 38.72,
+   "end": 43.72,
+   "text": "y una página web básica que muestra tu ubicación en tiempo real."
+  },
+  {
+   "start": 43.72,
+   "end": 51.57,
+   "text": "Esta información es invaluable para las autoridades o equipos de rescate."
+  },
+  {
+   "start": 51.57,
+   "end": 52.77,
+   "text": "Pero eso no es todo."
+  },
+  {
+   "start": 52.77,
+   "end": 56.77,
+   "text": "El brazalete también monitoriza tu frecuencia cardíaca."
+  },
+  {
+   "start": 56.77,
+   "end": 60.97,
+   "text": "Si detecta una caída significativa, se envían señales adicionales."
+  },
+  {
+   "start": 60.97,
+   "end": 66.77,
+   "text": "Esto no solo salva vida, sino que también proporciona tranquilidad a tus seres queridos."
+  },
+  {
+   "start": 66.77,
+   "end": 71.77,
+   "text": "Como disminuye la frecuencia cardíaca, significará que la persona está herida o ha perdido sangre,"
+  },
+  {
+   "start": 71.77,
+   "end": 74.57,
+   "text": "lo que indica una situación crítica."
+  },
+  {
+   "start": 74.57,
+   "end": 78.97,
+   "text": "En este caso, el dispositivo enviará dos señales en un rango de cinco minutos."
+  },
+  {
+   "start": 78.97,
+   "end": 82.97,
+   "text": "Las cuales serán interpretadas por el receptor de la siguiente manera."
+  },
+  {
+   "start": 83.17,
+   "end": 85.77,
+   "text": "Si el sensor no detecta pulso cardíaco,"
+  },
+  {
+   "start": 85.77,
+   "end": 90.17,
+   "text": "significará que la persona está fallecida o ha perdido el dispositivo."
+  },
+  {
+   "start": 90.17,
+   "end": 95.97,
+   "text": "En este caso, el dispositivo enviará coordenadas tres veces en un rango de cinco minutos."
+  },
+  {
+   "start": 95.97,
+   "end": 102.17,
+   "text": "Esta es una idea innovadora, ya que no se utiliza internet para enviar estos tipos de mensajes específicos,"
+  },
+  {
+   "start": 102.17,
+   "end": 104.77,
+   "text": "sino que se enviará a través de GPS,"
+  },
+  {
+   "start": 104.77,
+   "end": 110.17,
+   "text": "según la cantidad de veces que se repita una señal en un período de tiempo determinado."
+  },
+  {
+   "start": 110.17,
+   "end": 116.37,
+   "text": "De esta forma podemos saber si la vida de una persona está en riesgo durante su travesía."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 116.9
+}

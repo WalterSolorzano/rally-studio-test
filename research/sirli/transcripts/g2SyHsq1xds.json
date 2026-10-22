@@ -1,0 +1,112 @@
+{
+ "video_id": "g2SyHsq1xds",
+ "url": "https://youtu.be/g2SyHsq1xds",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS MOMOTOMBITOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS MOMOTOMBITOS",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:45:19+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Sabían que millones de celulares en desuso duermen en cajones aunque siguen funcionando, mientras miles de escuelas rurales en Latinoamérica no tienen un solo laboratorio. Cada celular olvidado es un pequeño computador con asensores capaces de medir lo que casi nunca se mide por faltar instrumentos accesibles. Por eso creamos QB, nuestra misión es transformar esa basura electrónica en la valija científica circular, se trata de un kit educativo para comunidades rurales respaldado por estudios científicos que convierte celulares descartados en tres instrumentos prácticos para el aula y el campo. ¿Qué me da nuestro kit? Primero, acoplando lentes recicladas de DVD a la cámara, creamos un microscopio para detectar parásito en el agua y hongos agrícolas. Segundo, nuestro simulador musular anticismo en el cual los estudiantes crearán maquetas de vivienda usando acelerómetro, giroscopio y magnetómetro para medir vibraciones e inclinaciones reales aprendiendo a construir casas simurresistentes. Nuestro diseño musular es replicable en el ecosistema de Latinoamérica desde zonas sísmica andina y cafetales centroamericanos hasta cuencas amazonicas. Con QB nuestra misión al 2030 es equipar 15.000 escuelas rurales. Somos 100% circulares y autosustentables. Fabricar el kit cuesta 65 dólares frente a 3000 dólares en equipos tradicionales. Despertemos esos celulares de los casones y pongamos los sensores al servicio de la comunidad.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.12,
+   "text": "Sabían que millones de celulares en desuso duermen en cajones aunque siguen funcionando,"
+  },
+  {
+   "start": 7.12,
+   "end": 12.0,
+   "text": "mientras miles de escuelas rurales en Latinoamérica no tienen un solo laboratorio."
+  },
+  {
+   "start": 12.0,
+   "end": 17.4,
+   "text": "Cada celular olvidado es un pequeño computador con asensores capaces de medir lo que casi"
+  },
+  {
+   "start": 17.4,
+   "end": 20.6,
+   "text": "nunca se mide por faltar instrumentos accesibles."
+  },
+  {
+   "start": 20.6,
+   "end": 26.68,
+   "text": "Por eso creamos QB, nuestra misión es transformar esa basura electrónica en la valija científica"
+  },
+  {
+   "start": 26.68,
+   "end": 31.6,
+   "text": "circular, se trata de un kit educativo para comunidades rurales respaldado por estudios"
+  },
+  {
+   "start": 31.6,
+   "end": 37.88,
+   "text": "científicos que convierte celulares descartados en tres instrumentos prácticos para el aula y el campo."
+  },
+  {
+   "start": 37.88,
+   "end": 42.28,
+   "text": "¿Qué me da nuestro kit? Primero, acoplando lentes recicladas de DVD a la cámara,"
+  },
+  {
+   "start": 42.28,
+   "end": 46.2,
+   "text": "creamos un microscopio para detectar parásito en el agua y hongos agrícolas."
+  },
+  {
+   "start": 46.2,
+   "end": 51.76,
+   "text": "Segundo, nuestro simulador musular anticismo en el cual los estudiantes crearán maquetas de"
+  },
+  {
+   "start": 51.76,
+   "end": 57.88,
+   "text": "vivienda usando acelerómetro, giroscopio y magnetómetro para medir vibraciones e inclinaciones reales"
+  },
+  {
+   "start": 57.88,
+   "end": 63.2,
+   "text": "aprendiendo a construir casas simurresistentes. Nuestro diseño musular es replicable en el"
+  },
+  {
+   "start": 63.2,
+   "end": 67.96,
+   "text": "ecosistema de Latinoamérica desde zonas sísmica andina y cafetales centroamericanos hasta"
+  },
+  {
+   "start": 67.96,
+   "end": 73.8,
+   "text": "cuencas amazonicas. Con QB nuestra misión al 2030 es equipar 15.000 escuelas rurales."
+  },
+  {
+   "start": 73.8,
+   "end": 79.84,
+   "text": "Somos 100% circulares y autosustentables. Fabricar el kit cuesta 65 dólares frente"
+  },
+  {
+   "start": 79.84,
+   "end": 84.08,
+   "text": "a 3000 dólares en equipos tradicionales. Despertemos esos celulares de los casones y"
+  },
+  {
+   "start": 84.08,
+   "end": 86.32,
+   "text": "pongamos los sensores al servicio de la comunidad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 89.5
+}

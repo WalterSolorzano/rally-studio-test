@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$title$</title>
+  <meta name="author" content="Rally Studio">
+  <meta name="description" content="Base documental, verificación de fuentes y estado de la evidencia del corpus de Rally Studio.">
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body>
+
+<header class="cover">
+  <div class="cover-band"></div>
+  <p class="cover-kicker">Rally Studio · Documento de sustento</p>
+  <h1 class="cover-title">$title$</h1>
+  <p class="cover-sub">$subtitle$</p>
+  <div class="cover-rule"></div>
+  <dl class="cover-meta">
+    <div>
+      <dt>Versión</dt>
+      <dd>$version$</dd>
+    </div>
+    <div>
+      <dt>Fecha de corte</dt>
+      <dd>$date$</dd>
+    </div>
+    <div>
+      <dt>Ámbito</dt>
+      <dd>$scope$</dd>
+    </div>
+    <div>
+      <dt>Audiencia</dt>
+      <dd>$audience$</dd>
+    </div>
+  </dl>
+  <div class="cover-foot">
+    <span>$footleft$</span>
+    <span>$footright$</span>
+  </div>
+</header>
+
+<section class="toc-page">
+  <h2 class="toc-title">Contenido</h2>
+$if(toc)$
+  <nav id="TOC" role="doc-toc">
+    $table-of-contents$
+  </nav>
+$endif$
+</section>
+
+<main class="content">
+$body$
+</main>
+
+</body>
+</html>

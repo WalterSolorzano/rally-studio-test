@@ -1,0 +1,112 @@
+{
+ "video_id": "RZbea1B1lUY",
+ "url": "https://youtu.be/RZbea1B1lUY?si=dCI7lEAEidVVF2q-",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MINDBROK CUR-JINOTEGA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MINDBROK CUR-JINOTEGA",
+   "challenge": "06 - REVALORIZACIÓN RESIDUOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:39:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hoy en día el impacto de los residuos cítricos, especialmente de la naranja, es la alta fermentabilidad que esta posee. Debido a su alto contenido de carbohidratos que aceleran su degradación, estos generan mal olor, proporcionan un ambiente propicio para la proliferación de moscas y otros insectos. Esto crea un ciclo que puede llegar a ser difícil de controlar, ya que las poblaciones de insectos se alimentan y se reproducen en estos desechos, lo que a su vez contribuyen a la persistencia del problema, generando una afectación en el entorno, por lo cual esto desencadena un problema para la salud pública que requiere soluciones rápidas e innovadoras. Somos Citrus Pau, formulando productos para crear una línea corporal con propiedades antioxidantes, antinocrobianos, purificantes, también un efoliante que permite eliminar partículas nocivas, su vez una crema hidratante para la incorrecia, dejando una piel terza y sin imperfecciones. Estos productos nos caracterizan por tener un empaque ecológico y biodelegable, lo que no hace distinta en las competencias. Este producto genera vitaminas A y C, siendo fundamentales para mantener la salud y el bienestar del organismo. La vitamina A que desempeña un papel crucial en la visión, ya que es necesaria para la cíntesis de la proteína retinol esencial a la función de los receptores de luz en la retina. Además, también contribuye al fortalecimiento del sistema inmunológico y el mantenimiento de la piel y las mucosas en óptimas condiciones. Por otro lado, la vitamina C, conocida por su poderoso efecto antioxidante, es esencial para la cíntesis del colágeno, una proteína estructural que proporciona firmeza y la especiidad de una piel. Esta vitamina también fue agonipapel crucial en la cicatrización de heridas y la reparación de tejido.",
+ "segments": [
+  {
+   "start": 5.42,
+   "end": 13.22,
+   "text": "Hoy en día el impacto de los residuos cítricos, especialmente de la naranja, es la alta fermentabilidad que esta posee."
+  },
+  {
+   "start": 13.22,
+   "end": 19.98,
+   "text": "Debido a su alto contenido de carbohidratos que aceleran su degradación, estos generan mal olor,"
+  },
+  {
+   "start": 19.98,
+   "end": 25.86,
+   "text": "proporcionan un ambiente propicio para la proliferación de moscas y otros insectos."
+  },
+  {
+   "start": 25.86,
+   "end": 29.82,
+   "text": "Esto crea un ciclo que puede llegar a ser difícil de controlar,"
+  },
+  {
+   "start": 29.82,
+   "end": 35.82,
+   "text": "ya que las poblaciones de insectos se alimentan y se reproducen en estos desechos,"
+  },
+  {
+   "start": 35.82,
+   "end": 42.46,
+   "text": "lo que a su vez contribuyen a la persistencia del problema, generando una afectación en el entorno,"
+  },
+  {
+   "start": 42.46,
+   "end": 50.22,
+   "text": "por lo cual esto desencadena un problema para la salud pública que requiere soluciones rápidas e innovadoras."
+  },
+  {
+   "start": 50.22,
+   "end": 58.02,
+   "text": "Somos Citrus Pau, formulando productos para crear una línea corporal con propiedades antioxidantes, antinocrobianos, purificantes,"
+  },
+  {
+   "start": 58.02,
+   "end": 62.02,
+   "text": "también un efoliante que permite eliminar partículas nocivas,"
+  },
+  {
+   "start": 62.02,
+   "end": 68.02,
+   "text": "su vez una crema hidratante para la incorrecia, dejando una piel terza y sin imperfecciones."
+  },
+  {
+   "start": 68.02,
+   "end": 75.22,
+   "text": "Estos productos nos caracterizan por tener un empaque ecológico y biodelegable, lo que no hace distinta en las competencias."
+  },
+  {
+   "start": 75.22,
+   "end": 82.22,
+   "text": "Este producto genera vitaminas A y C, siendo fundamentales para mantener la salud y el bienestar del organismo."
+  },
+  {
+   "start": 82.42,
+   "end": 92.42,
+   "text": "La vitamina A que desempeña un papel crucial en la visión, ya que es necesaria para la cíntesis de la proteína retinol esencial a la función de los receptores de luz en la retina."
+  },
+  {
+   "start": 92.42,
+   "end": 99.42,
+   "text": "Además, también contribuye al fortalecimiento del sistema inmunológico y el mantenimiento de la piel y las mucosas en óptimas condiciones."
+  },
+  {
+   "start": 99.42,
+   "end": 106.42,
+   "text": "Por otro lado, la vitamina C, conocida por su poderoso efecto antioxidante, es esencial para la cíntesis del colágeno,"
+  },
+  {
+   "start": 106.42,
+   "end": 110.42,
+   "text": "una proteína estructural que proporciona firmeza y la especiidad de una piel."
+  },
+  {
+   "start": 110.42,
+   "end": 116.62,
+   "text": "Esta vitamina también fue agonipapel crucial en la cicatrización de heridas y la reparación de tejido."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 116.6
+}

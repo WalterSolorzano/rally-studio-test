@@ -1,0 +1,157 @@
+{
+ "video_id": "kPJxJAjAfQU",
+ "url": "https://youtu.be/kPJxJAjAfQU?si=VrLdnp5pFXnJCHeQ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NAHUALLI",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "NAHUALLI",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:23:29+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cuando pensamos en mosca, ¿qué es lo primero que solemos pensar? Suciedad, enfermedades, insectos que queremos eliminar. Pues sin una mosquita más pequeña que la cabeza de un alfiler no existiría el chocolate. Ella es la que poliniza el cacao. Y la estamos eliminando. En las fincas de Latinoamérica se fumía durante la floración y se quema la hojarazca, donde se cría esa mosquita. El resultado es que de cada 100 flores de cacao, menos de 5 se convierten más cerca. Eso lo pagan los pequeños productores. En Nicaragua ganan menos del salario mínimo agropecuario. Las mujeres son apenas el 11% del empleo en el cacao y los jóvenes se van porque en su comunidad no hay oportunidades. Moscla convierte la protección de esa mosquita en un oficio pagado. Cada cooperativa forma a jóvenes y mujeres como guardianes, polmiguinizadores. En cada finca, arman rincones de crías, contalles de banano, podridos y hojarazca. Lo que ya hay. Los vecinos firman un pacto para no fumigar en floración y juntos cuentan flores y frutos para medir el cambio. El guardián cobra por los resultados, una parte de la cosecha adicional que ayudó a producir. Y vamos más allá. Proponemos trabajar con el Ministerio Auropecuario de cada país para crear un sello de calidad para el cacao producido con polinización natural. Un cacao que cuida a sus polinizadores se vende mejor y ese precio vuelve a la comunidad. Mosla, el mañana del cacao, se decide hoy.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.68,
+   "text": "Cuando pensamos en mosca, ¿qué es lo primero que solemos pensar?"
+  },
+  {
+   "start": 7.68,
+   "end": 12.36,
+   "text": "Suciedad, enfermedades, insectos que queremos eliminar."
+  },
+  {
+   "start": 12.36,
+   "end": 18.0,
+   "text": "Pues sin una mosquita más pequeña que la cabeza de un alfiler no existiría el chocolate."
+  },
+  {
+   "start": 18.0,
+   "end": 20.6,
+   "text": "Ella es la que poliniza el cacao."
+  },
+  {
+   "start": 20.6,
+   "end": 22.36,
+   "text": "Y la estamos eliminando."
+  },
+  {
+   "start": 22.36,
+   "end": 27.44,
+   "text": "En las fincas de Latinoamérica se fumía durante la floración y se quema la hojarazca,"
+  },
+  {
+   "start": 27.44,
+   "end": 30.16,
+   "text": "donde se cría esa mosquita."
+  },
+  {
+   "start": 30.16,
+   "end": 35.88,
+   "text": "El resultado es que de cada 100 flores de cacao, menos de 5 se convierten más cerca."
+  },
+  {
+   "start": 35.88,
+   "end": 38.24,
+   "text": "Eso lo pagan los pequeños productores."
+  },
+  {
+   "start": 38.24,
+   "end": 41.6,
+   "text": "En Nicaragua ganan menos del salario mínimo agropecuario."
+  },
+  {
+   "start": 41.6,
+   "end": 45.8,
+   "text": "Las mujeres son apenas el 11% del empleo en el cacao"
+  },
+  {
+   "start": 45.8,
+   "end": 49.64,
+   "text": "y los jóvenes se van porque en su comunidad no hay oportunidades."
+  },
+  {
+   "start": 49.64,
+   "end": 54.28,
+   "text": "Moscla convierte la protección de esa mosquita en un oficio pagado."
+  },
+  {
+   "start": 54.36,
+   "end": 59.76,
+   "text": "Cada cooperativa forma a jóvenes y mujeres como guardianes, polmiguinizadores."
+  },
+  {
+   "start": 59.76,
+   "end": 65.12,
+   "text": "En cada finca, arman rincones de crías, contalles de banano, podridos y hojarazca."
+  },
+  {
+   "start": 65.12,
+   "end": 66.6,
+   "text": "Lo que ya hay."
+  },
+  {
+   "start": 66.6,
+   "end": 70.36,
+   "text": "Los vecinos firman un pacto para no fumigar en floración"
+  },
+  {
+   "start": 70.36,
+   "end": 74.32,
+   "text": "y juntos cuentan flores y frutos para medir el cambio."
+  },
+  {
+   "start": 74.32,
+   "end": 76.64,
+   "text": "El guardián cobra por los resultados,"
+  },
+  {
+   "start": 76.64,
+   "end": 80.68,
+   "text": "una parte de la cosecha adicional que ayudó a producir."
+  },
+  {
+   "start": 80.72,
+   "end": 82.8,
+   "text": "Y vamos más allá."
+  },
+  {
+   "start": 82.8,
+   "end": 86.48,
+   "text": "Proponemos trabajar con el Ministerio Auropecuario de cada país"
+  },
+  {
+   "start": 86.48,
+   "end": 91.68,
+   "text": "para crear un sello de calidad para el cacao producido con polinización natural."
+  },
+  {
+   "start": 91.68,
+   "end": 94.96,
+   "text": "Un cacao que cuida a sus polinizadores se vende mejor"
+  },
+  {
+   "start": 94.96,
+   "end": 97.68,
+   "text": "y ese precio vuelve a la comunidad."
+  },
+  {
+   "start": 97.68,
+   "end": 101.52,
+   "text": "Mosla, el mañana del cacao, se decide hoy."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 101.6
+}

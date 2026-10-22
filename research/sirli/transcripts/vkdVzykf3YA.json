@@ -1,0 +1,132 @@
+{
+ "video_id": "vkdVzykf3YA",
+ "url": "https://youtu.be/vkdVzykf3YA?si=A8vWdLBysV7mDpcG",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TEAM NEXUS",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "TEAM NEXUS",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:20:22+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿De qué sirve producir energía limpia si al final no sabemos qué hacer con sus residuos? Las celdas solares representan una alternativa energética sostenible, pero cuando dejan de funcionar surge una doble matica. Las empresas enfrentan costos de gestión y el planeta pierde materiales valiosos como aluminio, cobre y vidrio. La energía limpia también necesita un futuro después de su vida útil, por eso nace Fobelo, una empresa nicaragüense que transforma residuos fotovoltaicos en oportunidades económicas mediante la economía circular. ¿Cómo lo hacemos? Trabajamos con empresas del sector solar para recolectar, diagnosticar y reacondicionar paneles. Los equipos recuperables tendrán una segunda vida mientras que de los restantes aprovecharemos materiales para reincorporarlos a la industria garantizando su trazabilidad mediante código QR. ¿Y qué nos hace diferentes? No necesitamos comenzar con costosos procesos industriales de extracción química. Nuestro modelo aprovecha alianzas estratégicas e infraestructura existente, permitiéndonos operar con una inversión inicial enfocada en transporte, almacenamiento seguro, personal técnico y gestión especializada. ¿Y cómo generamos rentabilidad? Con una inversión inicial de 12.789 dólares, ingresos de 2.654 dólares y egresos de 2.313 dólares, la inversión se recupera en 3 años. Así construimos un negocio con ingresos diversificados mientras reducimos residuos, generamos oportunidades de empleo, contribuimos con el cuido del medio ambiente y facilitamos alternativas solares para hogares y productores agrícolas. Comenzamos en Nicaragua, pero nuestra visión es Latinoamérica. Porque el verdadero progreso no consiste solamente en producir energía limpia, sino en aprovechar responsablemente su valor hasta el final. Somos Fovelu, donde el sol termina y el valor comienza.",
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 4.84,
+   "text": "¿De qué sirve producir energía limpia si al final no sabemos qué hacer con sus residuos?"
+  },
+  {
+   "start": 4.84,
+   "end": 9.32,
+   "text": "Las celdas solares representan una alternativa energética sostenible,"
+  },
+  {
+   "start": 9.32,
+   "end": 15.6,
+   "text": "pero cuando dejan de funcionar surge una doble matica. Las empresas enfrentan costos de gestión"
+  },
+  {
+   "start": 15.6,
+   "end": 21.28,
+   "text": "y el planeta pierde materiales valiosos como aluminio, cobre y vidrio. La energía limpia"
+  },
+  {
+   "start": 21.28,
+   "end": 26.16,
+   "text": "también necesita un futuro después de su vida útil, por eso nace Fobelo,"
+  },
+  {
+   "start": 26.28,
+   "end": 31.44,
+   "text": "una empresa nicaragüense que transforma residuos fotovoltaicos en oportunidades"
+  },
+  {
+   "start": 31.44,
+   "end": 37.6,
+   "text": "económicas mediante la economía circular. ¿Cómo lo hacemos? Trabajamos con empresas del sector solar"
+  },
+  {
+   "start": 37.6,
+   "end": 43.32,
+   "text": "para recolectar, diagnosticar y reacondicionar paneles. Los equipos recuperables tendrán"
+  },
+  {
+   "start": 43.32,
+   "end": 48.76,
+   "text": "una segunda vida mientras que de los restantes aprovecharemos materiales para reincorporarlos"
+  },
+  {
+   "start": 48.76,
+   "end": 54.24,
+   "text": "a la industria garantizando su trazabilidad mediante código QR. ¿Y qué nos hace"
+  },
+  {
+   "start": 54.24,
+   "end": 60.6,
+   "text": "diferentes? No necesitamos comenzar con costosos procesos industriales de extracción química. Nuestro"
+  },
+  {
+   "start": 60.6,
+   "end": 66.28,
+   "text": "modelo aprovecha alianzas estratégicas e infraestructura existente, permitiéndonos operar"
+  },
+  {
+   "start": 66.28,
+   "end": 72.32,
+   "text": "con una inversión inicial enfocada en transporte, almacenamiento seguro, personal técnico y gestión"
+  },
+  {
+   "start": 72.32,
+   "end": 80.44,
+   "text": "especializada. ¿Y cómo generamos rentabilidad? Con una inversión inicial de 12.789 dólares,"
+  },
+  {
+   "start": 80.48,
+   "end": 88.48,
+   "text": "ingresos de 2.654 dólares y egresos de 2.313 dólares, la inversión se recupera en 3 años."
+  },
+  {
+   "start": 88.48,
+   "end": 94.4,
+   "text": "Así construimos un negocio con ingresos diversificados mientras reducimos residuos,"
+  },
+  {
+   "start": 94.4,
+   "end": 99.76,
+   "text": "generamos oportunidades de empleo, contribuimos con el cuido del medio ambiente y facilitamos"
+  },
+  {
+   "start": 99.76,
+   "end": 105.36,
+   "text": "alternativas solares para hogares y productores agrícolas. Comenzamos en Nicaragua,"
+  },
+  {
+   "start": 105.36,
+   "end": 111.88,
+   "text": "pero nuestra visión es Latinoamérica. Porque el verdadero progreso no consiste solamente en producir"
+  },
+  {
+   "start": 111.88,
+   "end": 119.28,
+   "text": "energía limpia, sino en aprovechar responsablemente su valor hasta el final. Somos Fovelu, donde el sol"
+  },
+  {
+   "start": 119.28,
+   "end": 121.16,
+   "text": "termina y el valor comienza."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 121.7
+}

@@ -1,0 +1,112 @@
+{
+ "video_id": "D2q2oPtau34",
+ "url": "https://www.youtube.com/watch?v=D2q2oPtau34",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ALPHA TEAM",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ALPHA TEAM",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:46:22+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hola, somos Team Alpha y nuestro desafío es Alu de Estebarro. La empresa Kamuaterra se encargará de crear dispositivos con sensores enterrados en el subfuelo de áreas más vulnerables adentradas. Los sensores se encargarán de captar y transmitir información acerca de las características del suelo, como lo son humedad, temperatura, precipitación, presión y densidad. Esta variable van a ser alteradas cuando haya acumulación de agua o suelos inestables. Una vez que los sensores tomen información, esta información va a tener el servidor. El servidor en el servidor se va a desplegar de que información ya sea en aplicaciones web o aplicaciones móviles. Así mismo, en este mismo servidor simplemente hará lo que es ciencia de datos, que es el estudio de la información. Siendo así un tema autonucionable, que el tiempo real va a estar notificando a las autoridades, que sea bomberos o rojas, también alertando a los hospitales por una posible emergencia. Este mismo servidor también notificará a los habitantes que estén cerca de la área afectada. Cada vez la ha sido un punto de partida a evacuar. Los dispositivos traen comunicación vía internet inalámbrica, teniendo como fuente de energía sostenible, energía solar y la energía eólica. Teniendo en cuenta el conjunto de datos, los administradores en conjunto Covencina Pref podrán vendrán una alerta más eficaz, dándole una solución a esta problemática y evitando más daños, accidentes y en caso extremo, la muerte.",
+ "segments": [
+  {
+   "start": 0.46,
+   "end": 4.66,
+   "text": "Hola, somos Team Alpha y nuestro desafío es Alu de Estebarro."
+  },
+  {
+   "start": 4.66,
+   "end": 13.66,
+   "text": "La empresa Kamuaterra se encargará de crear dispositivos con sensores enterrados en el subfuelo de áreas más vulnerables adentradas."
+  },
+  {
+   "start": 14.66,
+   "end": 20.16,
+   "text": "Los sensores se encargarán de captar y transmitir información acerca de las características del suelo,"
+  },
+  {
+   "start": 20.16,
+   "end": 25.16,
+   "text": "como lo son humedad, temperatura, precipitación, presión y densidad."
+  },
+  {
+   "start": 26.16,
+   "end": 31.16,
+   "text": "Esta variable van a ser alteradas cuando haya acumulación de agua o suelos inestables."
+  },
+  {
+   "start": 33.16,
+   "end": 37.16,
+   "text": "Una vez que los sensores tomen información, esta información va a tener el servidor."
+  },
+  {
+   "start": 38.16,
+   "end": 45.16,
+   "text": "El servidor en el servidor se va a desplegar de que información ya sea en aplicaciones web o aplicaciones móviles."
+  },
+  {
+   "start": 46.16,
+   "end": 52.16,
+   "text": "Así mismo, en este mismo servidor simplemente hará lo que es ciencia de datos, que es el estudio de la información."
+  },
+  {
+   "start": 52.16,
+   "end": 59.16,
+   "text": "Siendo así un tema autonucionable, que el tiempo real va a estar notificando a las autoridades,"
+  },
+  {
+   "start": 59.16,
+   "end": 69.16,
+   "text": "que sea bomberos o rojas, también alertando a los hospitales por una posible emergencia."
+  },
+  {
+   "start": 70.16,
+   "end": 77.16,
+   "text": "Este mismo servidor también notificará a los habitantes que estén cerca de la área afectada."
+  },
+  {
+   "start": 77.16,
+   "end": 81.16,
+   "text": "Cada vez la ha sido un punto de partida a evacuar."
+  },
+  {
+   "start": 81.16,
+   "end": 86.16,
+   "text": "Los dispositivos traen comunicación vía internet inalámbrica,"
+  },
+  {
+   "start": 86.16,
+   "end": 92.16,
+   "text": "teniendo como fuente de energía sostenible, energía solar y la energía eólica."
+  },
+  {
+   "start": 93.16,
+   "end": 97.16,
+   "text": "Teniendo en cuenta el conjunto de datos, los administradores en conjunto Covencina Pref"
+  },
+  {
+   "start": 97.16,
+   "end": 102.16,
+   "text": "podrán vendrán una alerta más eficaz, dándole una solución a esta problemática"
+  },
+  {
+   "start": 102.16,
+   "end": 106.16,
+   "text": "y evitando más daños, accidentes y en caso extremo, la muerte."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.9
+}

@@ -1,0 +1,107 @@
+{
+ "video_id": "1-bH_RpJOG4",
+ "url": "https://youtu.be/1-bH_RpJOG4?si=d-R_BiAzD6d_9X94",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "COPILOT FORCE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "COPILOT FORCE",
+   "challenge": "04 - AGUACATE"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:47:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada año toneladas de cáscaras y semillas de aguacate terminan en la basura. Esto no solo ocupa espacio en nuestros perdederos, sino que también significa que estamos desperticiando recursos valiosos que podrían tener una segunda vida. Es tiempo del cambio. Nuestra propuesta es transformar estos residuos en empaques sostenibles y biodegradables. Con la fibra de la cáscara y las semillas del aguacate, creamos empaques resistentes y ecológicos, que pueden reemplazar los plásticos tradicionales. Menos residuo, más amor por el planeta. Nuestra propuesta no sólo es amigable con el medio ambiente, también es económicamente viable, con un costo de producción mínimo inicial de 4.000 dólares, siendo competitivo frente a los empaques plásticos, generando empleos en la recolección y procesamiento de residuos de aguacate. Juntos, reducimos la huella de carbono y promovemos un ciclo de vida de producto más limpio. Restaurantes de comida rápida de Nicaragua y Latinoamérica. Unance a nuestra misión de sostenibilidad. Al implementar nuestros empaques, no solo reducirán el impacto ambiental, sino que también atraerán a consumidores conscientes y comprometidos con el medio ambiente. La naturaleza en cada empaque.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.29,
+   "text": "Cada año toneladas de cáscaras y semillas de aguacate terminan en la basura."
+  },
+  {
+   "start": 11.29,
+   "end": 17.41,
+   "text": "Esto no solo ocupa espacio en nuestros perdederos, sino que también significa que estamos desperticiando"
+  },
+  {
+   "start": 17.41,
+   "end": 22.49,
+   "text": "recursos valiosos que podrían tener una segunda vida. Es tiempo del cambio."
+  },
+  {
+   "start": 22.49,
+   "end": 28.37,
+   "text": "Nuestra propuesta es transformar estos residuos en empaques sostenibles y biodegradables."
+  },
+  {
+   "start": 28.37,
+   "end": 33.93,
+   "text": "Con la fibra de la cáscara y las semillas del aguacate, creamos empaques resistentes"
+  },
+  {
+   "start": 33.93,
+   "end": 38.37,
+   "text": "y ecológicos, que pueden reemplazar los plásticos tradicionales."
+  },
+  {
+   "start": 38.37,
+   "end": 44.33,
+   "text": "Menos residuo, más amor por el planeta. Nuestra propuesta no sólo es amigable"
+  },
+  {
+   "start": 44.33,
+   "end": 50.05,
+   "text": "con el medio ambiente, también es económicamente viable, con un costo de producción mínimo inicial"
+  },
+  {
+   "start": 50.05,
+   "end": 55.65,
+   "text": "de 4.000 dólares, siendo competitivo frente a los empaques plásticos, generando empleos"
+  },
+  {
+   "start": 55.65,
+   "end": 58.73,
+   "text": "en la recolección y procesamiento de residuos de aguacate."
+  },
+  {
+   "start": 59.69,
+   "end": 65.29,
+   "text": "Juntos, reducimos la huella de carbono y promovemos un ciclo de vida de producto más limpio."
+  },
+  {
+   "start": 65.29,
+   "end": 70.77,
+   "text": "Restaurantes de comida rápida de Nicaragua y Latinoamérica."
+  },
+  {
+   "start": 70.77,
+   "end": 75.57,
+   "text": "Unance a nuestra misión de sostenibilidad. Al implementar nuestros empaques, no solo"
+  },
+  {
+   "start": 75.57,
+   "end": 80.93,
+   "text": "reducirán el impacto ambiental, sino que también atraerán a consumidores conscientes"
+  },
+  {
+   "start": 80.93,
+   "end": 82.85,
+   "text": "y comprometidos con el medio ambiente."
+  },
+  {
+   "start": 82.85,
+   "end": 89.51,
+   "text": "La naturaleza en cada empaque."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.4
+}

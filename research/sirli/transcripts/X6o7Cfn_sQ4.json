@@ -1,0 +1,102 @@
+{
+ "video_id": "X6o7Cfn_sQ4",
+ "url": "https://youtu.be/X6o7Cfn_sQ4",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS DEL FUTURO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS DEL FUTURO",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:43:36+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Cuántas veces has esperado el autobús sin saber si está a dos minutos o si aún no viene? Mientras tanto, en muchos hogares hay celulares que ya nadie usa pero que todavía funcionan. Somos el equipo número seis de Huracán, Nueva Guinea y Caragua. Les presentamos EcoRuta, la propuesta que convierte el celular en resuso en aliados del transporte público. La idea es sencilla, colocar teléfono recuperado dentro de cada ruta o autobús. La alimentamos mediante el sistema eléctrico del vehículo y a través de conexión móvil enviamos la señal satelital precisa a una plataforma. También aprovechamos el acelerómetro y giroscópio del celular para registrar la vallida de buses para la recolección de pasajeros y cambio bruscos de movimiento y aportar información sobre los intenerarios y recorridos. Desde la aplicación EcoRuta, los pasajeros podrán consultar dónde está el autobús y cuál es su posición. Los transportistas podrán revisar sus rutas y tomar mejores decisiones. ¿Cómo hacerlo posible? Condonaciones de celulares funcionales en resuso, alianzas con los transportistas y puntos de acopio. La publicidad en la aplicación ayudará a financiar su funcionamiento. EcoRuta, resolve dos problemas, menos tecnología desperdiciada y menos incertidumbre para quienes dependen del transporte público porque un celular que ya no usamos tiene mucho camino por recorrer. EcoRuta, segunda vida para la tecnología, información útil para la comunidad.",
+ "segments": [
+  {
+   "start": 6.77,
+   "end": 18.69,
+   "text": "¿Cuántas veces has esperado el autobús sin saber si está a dos minutos o si aún no viene?"
+  },
+  {
+   "start": 18.69,
+   "end": 24.69,
+   "text": "Mientras tanto, en muchos hogares hay celulares que ya nadie usa pero que todavía funcionan."
+  },
+  {
+   "start": 24.69,
+   "end": 28.69,
+   "text": "Somos el equipo número seis de Huracán, Nueva Guinea y Caragua."
+  },
+  {
+   "start": 28.69,
+   "end": 34.69,
+   "text": "Les presentamos EcoRuta, la propuesta que convierte el celular en resuso en aliados del transporte público."
+  },
+  {
+   "start": 34.69,
+   "end": 41.69,
+   "text": "La idea es sencilla, colocar teléfono recuperado dentro de cada ruta o autobús."
+  },
+  {
+   "start": 41.69,
+   "end": 50.69,
+   "text": "La alimentamos mediante el sistema eléctrico del vehículo y a través de conexión móvil enviamos la señal satelital precisa a una plataforma."
+  },
+  {
+   "start": 50.69,
+   "end": 58.69,
+   "text": "También aprovechamos el acelerómetro y giroscópio del celular para registrar la vallida de buses para la recolección de pasajeros y cambio bruscos de movimiento"
+  },
+  {
+   "start": 58.69,
+   "end": 62.69,
+   "text": "y aportar información sobre los intenerarios y recorridos."
+  },
+  {
+   "start": 62.69,
+   "end": 68.69,
+   "text": "Desde la aplicación EcoRuta, los pasajeros podrán consultar dónde está el autobús y cuál es su posición."
+  },
+  {
+   "start": 68.69,
+   "end": 71.69,
+   "text": "Los transportistas podrán revisar sus rutas y tomar mejores decisiones."
+  },
+  {
+   "start": 71.69,
+   "end": 79.69,
+   "text": "¿Cómo hacerlo posible? Condonaciones de celulares funcionales en resuso, alianzas con los transportistas y puntos de acopio."
+  },
+  {
+   "start": 79.69,
+   "end": 83.69,
+   "text": "La publicidad en la aplicación ayudará a financiar su funcionamiento."
+  },
+  {
+   "start": 83.69,
+   "end": 92.69,
+   "text": "EcoRuta, resolve dos problemas, menos tecnología desperdiciada y menos incertidumbre para quienes dependen del transporte público"
+  },
+  {
+   "start": 92.69,
+   "end": 97.69,
+   "text": "porque un celular que ya no usamos tiene mucho camino por recorrer."
+  },
+  {
+   "start": 97.69,
+   "end": 103.69,
+   "text": "EcoRuta, segunda vida para la tecnología, información útil para la comunidad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 109.9
+}

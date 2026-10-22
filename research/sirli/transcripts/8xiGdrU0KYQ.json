@@ -1,0 +1,102 @@
+{
+ "video_id": "8xiGdrU0KYQ",
+ "url": "https://youtu.be/8xiGdrU0KYQ?si=DonjjV0Ya1N_mG1i",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ECONOMIA HIDRÍCA 505",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ECONOMIA HIDRÍCA 505",
+   "challenge": "03 - AGUA SEGURA"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:25:13+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "nosotros somos el grupo de economía hídrica 505, el desafío que hemos escogido es agua segura, el desafío consiste en proponer dispositivos o compuestos domésticos debajo de su cuerpo. Un molino con movimiento perfecto. De este proyecto se traerá agua de pozos artesanos, para esto se utilizará el principio de movimiento perfecto. Las élites de un molino se mueven por desproporcionalidad de peso, no por efecto del viento. Este molino al entrar en movimiento y obtener su potencia convierte de dicha fuerza, hay un par de fuerzas de giro actuando sobre las palas del rotor. Esta energía es transferida por una chumacera a un émbolo que tiene sujeto una bomba de succión, que succiona. El primer filtro se puede describir como una combinación de dos tecnologías. La primera realiza una limpieza física de partículas suspendida en el agua. El filtro es desplegable y permite la limpieza cada vez que lo amerir. El segundo filtro está dirigido para potabilizar el agua, este consiste en un tanque de fibra transparente en la parte superior que lo atraviesa el sol para eliminar los microorganismos existentes gracias a la temperatura y los rayos ultravioletas. Para luego posteriormente pasar a una filtración de carbón activado. El agua es filtrada, se almacena en una pila para ser distribuida por la red de alcantarillado comunitario, utilizando el principio de gravedad.",
+ "segments": [
+  {
+   "start": 4.75,
+   "end": 10.23,
+   "text": "nosotros somos el grupo de economía hídrica 505, el desafío que hemos escogido es agua segura,"
+  },
+  {
+   "start": 10.23,
+   "end": 14.83,
+   "text": "el desafío consiste en proponer dispositivos o compuestos domésticos debajo de su cuerpo."
+  },
+  {
+   "start": 14.83,
+   "end": 20.83,
+   "text": "Un molino con movimiento perfecto. De este proyecto se traerá agua de pozos artesanos,"
+  },
+  {
+   "start": 20.83,
+   "end": 26.79,
+   "text": "para esto se utilizará el principio de movimiento perfecto. Las élites de un molino se mueven por"
+  },
+  {
+   "start": 26.79,
+   "end": 35.11,
+   "text": "desproporcionalidad de peso, no por efecto del viento. Este molino al entrar en movimiento y"
+  },
+  {
+   "start": 35.11,
+   "end": 41.31,
+   "text": "obtener su potencia convierte de dicha fuerza, hay un par de fuerzas de giro actuando sobre las palas"
+  },
+  {
+   "start": 41.31,
+   "end": 49.91,
+   "text": "del rotor. Esta energía es transferida por una chumacera a un émbolo que tiene sujeto una bomba"
+  },
+  {
+   "start": 49.91,
+   "end": 55.39,
+   "text": "de succión, que succiona. El primer filtro se puede describir como una combinación de dos"
+  },
+  {
+   "start": 55.39,
+   "end": 62.15,
+   "text": "tecnologías. La primera realiza una limpieza física de partículas suspendida en el agua."
+  },
+  {
+   "start": 62.15,
+   "end": 68.31,
+   "text": "El filtro es desplegable y permite la limpieza cada vez que lo amerir. El segundo filtro está"
+  },
+  {
+   "start": 68.31,
+   "end": 75.15,
+   "text": "dirigido para potabilizar el agua, este consiste en un tanque de fibra transparente en la parte"
+  },
+  {
+   "start": 75.15,
+   "end": 82.43,
+   "text": "superior que lo atraviesa el sol para eliminar los microorganismos existentes gracias a la temperatura"
+  },
+  {
+   "start": 82.43,
+   "end": 90.11,
+   "text": "y los rayos ultravioletas. Para luego posteriormente pasar a una filtración de carbón activado."
+  },
+  {
+   "start": 90.11,
+   "end": 96.47,
+   "text": "El agua es filtrada, se almacena en una pila para ser distribuida por la red de alcantarillado"
+  },
+  {
+   "start": 96.47,
+   "end": 99.91,
+   "text": "comunitario, utilizando el principio de gravedad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 106.9
+}

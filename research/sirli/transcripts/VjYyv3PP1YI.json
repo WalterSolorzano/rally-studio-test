@@ -1,0 +1,147 @@
+{
+ "video_id": "VjYyv3PP1YI",
+ "url": "https://youtu.be/VjYyv3PP1YI",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ALBA LATINA - MENTES CONSTRUCTIVAS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "ALBA LATINA - MENTES CONSTRUCTIVAS",
+   "challenge": "03 - FUGAS DE AGUA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:09:58+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Según Sepal, en Latinoamérica, cerca del 25 al 50% del agua potable se pierde antes de llegar a los hogares debido a fugas en infraestructura hídrica. Este problema no solo representa enormes pérdidas económicas, sino también un impacto social y ambiental que afecta especialmente a las comunidades más vulnerables. Las causas son múltiples, tuberías obsoletas, falta de mantenimiento, escasa inversión tecnológica y métodos tradicionales para detectar fugas. Para enfrentar esta problemática, presentamos DOPA, un dispositivo autónomo capaz de detectar fugas de agua mediante análisis de vibraciones y resonancia acústicas, que se adere externamente a la tubería sin perforarla e integra sensores MEMS y micrófonos piezos eléctricos de alta sensibilidad. Su microcontrolador analiza los sonidos y con ayuda de algoritmos de inteligencia artificial diferencia entre el flujo normal y las fugas reales. La información se transmite de forma inalámbrica a una red central, facilitando la detección temprana y precisa de fugas en tramos de hasta 100 metros. El modelo propuesto de DOPA está dirigido a ciudades latinoamericanas de 1 millón de habitantes. El mismo necesitará alrededor de 16.700 unidades, cuyo costo unitario es de 175 dólares, estimando un costo total alrededor de 2.930.000 dólares. Este genera alrededor de 300.000 dólares en ahorro de agua en un perímetro de 1.670 kilómetros, a diferencia de la competencia de kits de detección de filtración de agua que oscilan entre los 320 dólares por unidad. Esto convierte a DOPA alrededor de un 45% más accesible que la competencia. Con DOPA, reducimos el desperdicio de agua, los costos de mantenimiento y el daño ambiental, su autonomía energética compatible con energía solar y su inteligencia enbebida, lo convierten en una solución innovadora, sostenible y accesible para cualquier ciudad. DOPA, tecnología, el servicio del agua y de la vida.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.72,
+   "text": "Según Sepal, en Latinoamérica, cerca del 25 al 50% del agua potable se pierde antes de llegar"
+  },
+  {
+   "start": 6.72,
+   "end": 9.92,
+   "text": "a los hogares debido a fugas en infraestructura hídrica."
+  },
+  {
+   "start": 9.92,
+   "end": 14.92,
+   "text": "Este problema no solo representa enormes pérdidas económicas, sino también un impacto social"
+  },
+  {
+   "start": 14.92,
+   "end": 19.28,
+   "text": "y ambiental que afecta especialmente a las comunidades más vulnerables."
+  },
+  {
+   "start": 19.28,
+   "end": 24.68,
+   "text": "Las causas son múltiples, tuberías obsoletas, falta de mantenimiento, escasa inversión"
+  },
+  {
+   "start": 24.68,
+   "end": 28.56,
+   "text": "tecnológica y métodos tradicionales para detectar fugas."
+  },
+  {
+   "start": 28.56,
+   "end": 33.24,
+   "text": "Para enfrentar esta problemática, presentamos DOPA, un dispositivo autónomo capaz de detectar"
+  },
+  {
+   "start": 33.24,
+   "end": 38.08,
+   "text": "fugas de agua mediante análisis de vibraciones y resonancia acústicas, que se adere externamente"
+  },
+  {
+   "start": 38.08,
+   "end": 43.24,
+   "text": "a la tubería sin perforarla e integra sensores MEMS y micrófonos piezos eléctricos de alta"
+  },
+  {
+   "start": 43.24,
+   "end": 44.24,
+   "text": "sensibilidad."
+  },
+  {
+   "start": 44.24,
+   "end": 49.52,
+   "text": "Su microcontrolador analiza los sonidos y con ayuda de algoritmos de inteligencia artificial"
+  },
+  {
+   "start": 49.52,
+   "end": 52.2,
+   "text": "diferencia entre el flujo normal y las fugas reales."
+  },
+  {
+   "start": 52.2,
+   "end": 57.28,
+   "text": "La información se transmite de forma inalámbrica a una red central, facilitando la detección"
+  },
+  {
+   "start": 57.28,
+   "end": 61.6,
+   "text": "temprana y precisa de fugas en tramos de hasta 100 metros."
+  },
+  {
+   "start": 61.6,
+   "end": 66.88,
+   "text": "El modelo propuesto de DOPA está dirigido a ciudades latinoamericanas de 1 millón de habitantes."
+  },
+  {
+   "start": 66.88,
+   "end": 74.4,
+   "text": "El mismo necesitará alrededor de 16.700 unidades, cuyo costo unitario es de 175 dólares, estimando"
+  },
+  {
+   "start": 74.4,
+   "end": 81.68,
+   "text": "un costo total alrededor de 2.930.000 dólares. Este genera alrededor de 300.000 dólares"
+  },
+  {
+   "start": 81.68,
+   "end": 87.16,
+   "text": "en ahorro de agua en un perímetro de 1.670 kilómetros, a diferencia de la competencia"
+  },
+  {
+   "start": 87.16,
+   "end": 92.76,
+   "text": "de kits de detección de filtración de agua que oscilan entre los 320 dólares por unidad."
+  },
+  {
+   "start": 92.76,
+   "end": 98.44,
+   "text": "Esto convierte a DOPA alrededor de un 45% más accesible que la competencia."
+  },
+  {
+   "start": 98.44,
+   "end": 103.4,
+   "text": "Con DOPA, reducimos el desperdicio de agua, los costos de mantenimiento y el daño ambiental,"
+  },
+  {
+   "start": 103.4,
+   "end": 107.8,
+   "text": "su autonomía energética compatible con energía solar y su inteligencia enbebida,"
+  },
+  {
+   "start": 107.8,
+   "end": 112.76,
+   "text": "lo convierten en una solución innovadora, sostenible y accesible para cualquier ciudad."
+  },
+  {
+   "start": 112.76,
+   "end": 116.16,
+   "text": "DOPA, tecnología, el servicio del agua y de la vida."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 116.2
+}

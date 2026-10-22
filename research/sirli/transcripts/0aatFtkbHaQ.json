@@ -1,0 +1,127 @@
+{
+ "video_id": "0aatFtkbHaQ",
+ "url": "https://youtu.be/0aatFtkbHaQ?si=BTFL3ahxRYTZSftF",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ARQUIINGENIO",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ARQUIINGENIO",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:17:04+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En Latinoamérica la acumulación de sedimentos y residuos dificulta la gestión del agua pluvial. En 2025 Manobar Proyecto extraer 13.000 metros cúbicos de sedimentos y desechos de la micropresa a los cauchos. México reportó la extracción de mate 408.000 metros cúbicos de Asollpe de su infraestructura de Sao, mientras que Sao Pauly programó el mantenimiento de 27 reservorios. Estas cifras evidencen la necesidad de fortalecer el monitoreo y el mantenimiento preventivo de la infraestructura propial ante lluvia intensa. Ante este desafío presentamos Reserva Viva Bromelia de Agua, una propuesta que integra naturaleza y tecnología para mejorar los reservorios existentes. El sistema funciona por etapas. Primero el agua de lluvia pasa por un pretentamiento que luego retiene residuos y sedimentos. Luego atraviesa una biosanja vegetada que ayuda a desacelerar la correntía. Después llegan celdas modular impiradas en la bromelia, plantas capaces de almacenar agua entre sus hojas. Aplicando este principio las celdas permiten retener temporalmente parte del agua y regular su paso hacia el reservorio. Finalmente los sensores inteligentes registran el nivel del agua y generan alertas que facilitan la infección y el mantenimiento preventivo. Nuestra innovación consiste en combinar infraestructura verde, retención modular y monitoreo inteligente. Esta propuesta es un modelo replicable que puede adaptarse a las necesidades de distintos climates, ecosistemas y comunidades de Latinoamérica. Proponemos aprovechar los residuos vegetales mediante la trituración de los restos de poda para utilizarlos como cobertura del suelo, en la área verde, ayudando a conservar la humedad y prevenir la erosión. Se plantea ir con porar plantas nativas con flores que proporcionan alimento y refugio a abejas y otros colonizadores, favoreciendo la biodiversidad local y evaluando el aprovechamiento energético de los residuos de poda y de la biomasa vegetal. Con este proyecto buscamos beneficiar a la familia de comunidades expuestas a inventaciones y a los responsables de gestionar los reservorios. Buscamos impulsar una gestión del agua más eficiente, sostenible y participativa, ayudando a la preparación ante la lluvia intensa.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "En Latinoamérica la acumulación de sedimentos y residuos dificulta la gestión del agua pluvial."
+  },
+  {
+   "start": 5.0,
+   "end": 12.0,
+   "text": "En 2025 Manobar Proyecto extraer 13.000 metros cúbicos de sedimentos y desechos de la micropresa a los cauchos."
+  },
+  {
+   "start": 12.0,
+   "end": 18.0,
+   "text": "México reportó la extracción de mate 408.000 metros cúbicos de Asollpe de su infraestructura de Sao,"
+  },
+  {
+   "start": 18.0,
+   "end": 22.0,
+   "text": "mientras que Sao Pauly programó el mantenimiento de 27 reservorios."
+  },
+  {
+   "start": 22.0,
+   "end": 30.0,
+   "text": "Estas cifras evidencen la necesidad de fortalecer el monitoreo y el mantenimiento preventivo de la infraestructura propial ante lluvia intensa."
+  },
+  {
+   "start": 30.0,
+   "end": 34.0,
+   "text": "Ante este desafío presentamos Reserva Viva Bromelia de Agua,"
+  },
+  {
+   "start": 34.0,
+   "end": 39.0,
+   "text": "una propuesta que integra naturaleza y tecnología para mejorar los reservorios existentes."
+  },
+  {
+   "start": 39.0,
+   "end": 46.0,
+   "text": "El sistema funciona por etapas. Primero el agua de lluvia pasa por un pretentamiento que luego retiene residuos y sedimentos."
+  },
+  {
+   "start": 46.0,
+   "end": 50.0,
+   "text": "Luego atraviesa una biosanja vegetada que ayuda a desacelerar la correntía."
+  },
+  {
+   "start": 50.0,
+   "end": 56.0,
+   "text": "Después llegan celdas modular impiradas en la bromelia, plantas capaces de almacenar agua entre sus hojas."
+  },
+  {
+   "start": 56.0,
+   "end": 63.0,
+   "text": "Aplicando este principio las celdas permiten retener temporalmente parte del agua y regular su paso hacia el reservorio."
+  },
+  {
+   "start": 63.0,
+   "end": 70.0,
+   "text": "Finalmente los sensores inteligentes registran el nivel del agua y generan alertas que facilitan la infección y el mantenimiento preventivo."
+  },
+  {
+   "start": 70.0,
+   "end": 76.0,
+   "text": "Nuestra innovación consiste en combinar infraestructura verde, retención modular y monitoreo inteligente."
+  },
+  {
+   "start": 76.0,
+   "end": 83.0,
+   "text": "Esta propuesta es un modelo replicable que puede adaptarse a las necesidades de distintos climates, ecosistemas y comunidades de Latinoamérica."
+  },
+  {
+   "start": 83.0,
+   "end": 90.0,
+   "text": "Proponemos aprovechar los residuos vegetales mediante la trituración de los restos de poda para utilizarlos como cobertura del suelo,"
+  },
+  {
+   "start": 90.0,
+   "end": 94.0,
+   "text": "en la área verde, ayudando a conservar la humedad y prevenir la erosión."
+  },
+  {
+   "start": 94.0,
+   "end": 100.0,
+   "text": "Se plantea ir con porar plantas nativas con flores que proporcionan alimento y refugio a abejas y otros colonizadores,"
+  },
+  {
+   "start": 100.0,
+   "end": 107.0,
+   "text": "favoreciendo la biodiversidad local y evaluando el aprovechamiento energético de los residuos de poda y de la biomasa vegetal."
+  },
+  {
+   "start": 107.0,
+   "end": 113.0,
+   "text": "Con este proyecto buscamos beneficiar a la familia de comunidades expuestas a inventaciones y a los responsables de gestionar los reservorios."
+  },
+  {
+   "start": 113.0,
+   "end": 120.0,
+   "text": "Buscamos impulsar una gestión del agua más eficiente, sostenible y participativa, ayudando a la preparación ante la lluvia intensa."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.1
+}

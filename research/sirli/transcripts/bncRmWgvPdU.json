@@ -1,0 +1,102 @@
+{
+ "video_id": "bncRmWgvPdU",
+ "url": "https://youtu.be/bncRmWgvPdU",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ANÁHUAC",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "ANÁHUAC",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:46:48+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Latinoamérica por su ubicación geográfica ha sufrido a lo largo de las historias catástrofes naturales como los deslaves que son causados en épocas de lluvia o a causa de un sismo. Destruye todo lo que se encuentra a su paso, ocasionando pérdidas humanas, familias incompletas o discapacitadas, daños en infraestructuras, pérdidas de cosecha y sobre todo dolor en las familias. Según las Naciones Unidas, las catástrofes naturales por deslizamiento han afectado alrededor de 152 millones de personas desde el año 2000. Por esta razón, te presentamos SITMA, un servicio con un dispositivo con Arduino, con una apps la cual estará interconectada a un usuario con una interfaz ágil y eficaz para el funcionamiento. Al ingresar a la apps tendrás acceso a la ubicación actual del usuario. Cuando los datos que superan los rangos establecidos, SITMA enviará alerta a los usuarios que se encuentran en la zona de riesgo, mostrando un mapa que indique las zonas de riesgo y segura para que puedan tomar recomendaciones y así salvaguardar sus vidas. Esta emitirá una vibración con colores dependiendo de la gravedad de levendo. Al presionar SITMA enviará un SMS incluyendo la ubicación a las autoridades, familiares, amigos. Para aquellas personas que no cuenten con un smartphone, el servicio contará con una torre económica y en un sitio visible para que sea factible tanto para la sociedad que habita en las comunidades como a su alrededor.",
+ "segments": [
+  {
+   "start": 5.78,
+   "end": 12.18,
+   "text": "Latinoamérica por su ubicación geográfica ha sufrido a lo largo de las historias catástrofes naturales"
+  },
+  {
+   "start": 12.18,
+   "end": 17.38,
+   "text": "como los deslaves que son causados en épocas de lluvia o a causa de un sismo."
+  },
+  {
+   "start": 17.38,
+   "end": 25.68,
+   "text": "Destruye todo lo que se encuentra a su paso, ocasionando pérdidas humanas, familias incompletas o discapacitadas,"
+  },
+  {
+   "start": 25.68,
+   "end": 31.78,
+   "text": "daños en infraestructuras, pérdidas de cosecha y sobre todo dolor en las familias."
+  },
+  {
+   "start": 31.78,
+   "end": 40.98,
+   "text": "Según las Naciones Unidas, las catástrofes naturales por deslizamiento han afectado alrededor de 152 millones de personas"
+  },
+  {
+   "start": 40.98,
+   "end": 42.88,
+   "text": "desde el año 2000."
+  },
+  {
+   "start": 42.88,
+   "end": 48.98,
+   "text": "Por esta razón, te presentamos SITMA, un servicio con un dispositivo con Arduino,"
+  },
+  {
+   "start": 48.98,
+   "end": 58.18,
+   "text": "con una apps la cual estará interconectada a un usuario con una interfaz ágil y eficaz para el funcionamiento."
+  },
+  {
+   "start": 58.28,
+   "end": 62.78,
+   "text": "Al ingresar a la apps tendrás acceso a la ubicación actual del usuario."
+  },
+  {
+   "start": 62.78,
+   "end": 71.38,
+   "text": "Cuando los datos que superan los rangos establecidos, SITMA enviará alerta a los usuarios que se encuentran en la zona de riesgo,"
+  },
+  {
+   "start": 71.38,
+   "end": 80.78,
+   "text": "mostrando un mapa que indique las zonas de riesgo y segura para que puedan tomar recomendaciones y así salvaguardar sus vidas."
+  },
+  {
+   "start": 80.78,
+   "end": 87.58,
+   "text": "Esta emitirá una vibración con colores dependiendo de la gravedad de levendo."
+  },
+  {
+   "start": 87.78,
+   "end": 97.18,
+   "text": "Al presionar SITMA enviará un SMS incluyendo la ubicación a las autoridades, familiares, amigos."
+  },
+  {
+   "start": 97.18,
+   "end": 107.18,
+   "text": "Para aquellas personas que no cuenten con un smartphone, el servicio contará con una torre económica y en un sitio visible para que sea factible"
+  },
+  {
+   "start": 107.18,
+   "end": 111.38,
+   "text": "tanto para la sociedad que habita en las comunidades como a su alrededor."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 121.7
+}

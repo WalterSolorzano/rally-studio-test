@@ -1,0 +1,77 @@
+{
+ "video_id": "fOsvFzYg1GI",
+ "url": "https://youtu.be/fOsvFzYg1GI",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "EFECTO PINOLERO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "EFECTO PINOLERO",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:31:57+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "y si aquello que tiene solvidado se convirtiera en una herramienta para cambiar vidas, paralelamente, miles de teléfonos celulares quedan fuera de uso, aunque muchos de sus componentes electrónicos todavía poseen capacidades que pueden aprovecharse en nuevos desarrollos tecnológicos. En diversos espacios sociales, las personas con discapacidad motora se enfrentan diariamente a barreras físicas como obstáculos, irregularidades del terreno y desniveles que dificultan su desplazamiento, comprometiendo así su autonomía. Somos el Tercopinolero, el Tercopinolero que en el alabar representamos el mar. Sistema inteligente, detección, bonito de hoy, asistencia tecnológica. Sistema no cuesta innovadora, que transforma los componentes de los celulares en desuso en herramientas de asistencia para la movilidad más segura e inclusiva. Cómo funciona? Sistema está diseñado para adaptarse a sillas de ruedas. Sistema integra sensores electrónicos con un micro controlador, encargado de que de adquirir y procesar las señales obtenidas del entorno. Mediante sensores de proximidad, el sistema busca identificar obstáculos a una distancia determinada, mientras que la integración de sensores de movimiento y orientación permitiría complementar el análisis de las condiciones de desplazamiento. A partir de los datos procesados, el sistema generará alertas auditivas y vibratorias para advertir al usuario sobre posibles riesgos. La frecuencia de estas alertas podrá aumentar progresivamente a medida que disminuye la distancia respecto a un obstáculo detectado.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.2,
+   "text": "y si aquello que tiene solvidado se convirtiera en una herramienta para cambiar vidas, paralelamente, miles de teléfonos celulares quedan fuera de uso,"
+  },
+  {
+   "start": 9.2,
+   "end": 17.0,
+   "text": "aunque muchos de sus componentes electrónicos todavía poseen capacidades que pueden aprovecharse en nuevos desarrollos tecnológicos."
+  },
+  {
+   "start": 17.0,
+   "end": 34.44,
+   "text": "En diversos espacios sociales, las personas con discapacidad motora se enfrentan diariamente a barreras físicas como obstáculos, irregularidades del terreno y desniveles que dificultan su desplazamiento, comprometiendo así su autonomía."
+  },
+  {
+   "start": 34.44,
+   "end": 39.44,
+   "text": "Somos el Tercopinolero, el Tercopinolero que en el alabar representamos el mar."
+  },
+  {
+   "start": 39.44,
+   "end": 49.24,
+   "text": "Sistema inteligente, detección, bonito de hoy, asistencia tecnológica."
+  },
+  {
+   "start": 49.24,
+   "end": 59.24,
+   "text": "Sistema no cuesta innovadora, que transforma los componentes de los celulares en desuso en herramientas de asistencia para la movilidad más segura e inclusiva."
+  },
+  {
+   "start": 59.24,
+   "end": 73.24,
+   "text": "Cómo funciona? Sistema está diseñado para adaptarse a sillas de ruedas. Sistema integra sensores electrónicos con un micro controlador, encargado de que de adquirir y procesar las señales obtenidas del entorno."
+  },
+  {
+   "start": 73.24,
+   "end": 89.24,
+   "text": "Mediante sensores de proximidad, el sistema busca identificar obstáculos a una distancia determinada, mientras que la integración de sensores de movimiento y orientación permitiría complementar el análisis de las condiciones de desplazamiento."
+  },
+  {
+   "start": 89.24,
+   "end": 98.24,
+   "text": "A partir de los datos procesados, el sistema generará alertas auditivas y vibratorias para advertir al usuario sobre posibles riesgos."
+  },
+  {
+   "start": 98.24,
+   "end": 107.24,
+   "text": "La frecuencia de estas alertas podrá aumentar progresivamente a medida que disminuye la distancia respecto a un obstáculo detectado."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.7
+}

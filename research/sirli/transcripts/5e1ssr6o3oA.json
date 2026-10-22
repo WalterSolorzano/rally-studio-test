@@ -1,0 +1,62 @@
+{
+ "video_id": "5e1ssr6o3oA",
+ "url": "https://youtube.com/shorts/5e1ssr6o3oA?si=gmuSOC4oWqxwkAkE",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "HEXAFORCE",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "HEXAFORCE",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:27:05+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el equipo X-A4 que es un papel que salvo a cada uno de ustedes. Es un sistema de lepta temprana elaborado con celulares descartados acá en Nicaragua. Es pensado para lepar sobre posibles termotocismos, deslaves, posibles inubaciones e incendios en voques o zonas rurales. Esto es seguir a través de una cámara térmica que ya viene incluida en estos celulares descartados. El día de ese mes, otra vez, de la red 2G, es una agenda integral en estos celulares para lepar a las autoridades locales. ¿Dónde están las fuerzas de la tierra, el agua y el viento al mismo tiempo? Somos de la Universidad Martín Lutero.",
+ "segments": [
+  {
+   "start": 11.79,
+   "end": 15.79,
+   "text": "Somos el equipo X-A4 que es un papel que salvo a cada uno de ustedes."
+  },
+  {
+   "start": 17.79,
+   "end": 22.79,
+   "text": "Es un sistema de lepta temprana elaborado con celulares descartados acá en Nicaragua."
+  },
+  {
+   "start": 22.79,
+   "end": 33.79,
+   "text": "Es pensado para lepar sobre posibles termotocismos, deslaves, posibles inubaciones e incendios en voques o zonas rurales."
+  },
+  {
+   "start": 33.79,
+   "end": 39.79,
+   "text": "Esto es seguir a través de una cámara térmica que ya viene incluida en estos celulares descartados."
+  },
+  {
+   "start": 39.79,
+   "end": 51.79,
+   "text": "El día de ese mes, otra vez, de la red 2G, es una agenda integral en estos celulares para lepar a las autoridades locales."
+  },
+  {
+   "start": 51.79,
+   "end": 57.14,
+   "text": "¿Dónde están las fuerzas de la tierra, el agua y el viento al mismo tiempo?"
+  },
+  {
+   "start": 57.14,
+   "end": 60.14,
+   "text": "Somos de la Universidad Martín Lutero."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 65.3
+}

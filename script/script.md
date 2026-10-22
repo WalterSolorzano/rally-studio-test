@@ -1,0 +1,20 @@
+# Guion Oficial de Produccion Audiovisual -- HIDRO-VIGIA
+**Rally:** NACIONAL | **Duracion:** 120 segundos exactos | **Palabras totales:** 155 (Rango optimo: 240-270)
+**Equipo:** Mentes Pinoleras | **Ciudad Piloto:** Managua (Cuenca Cauce Oriental) | **Desafio:** Redes de sensores comunitarios para prevencion y alerta temprana de inundaciones
+
+> REGLA DE ORO DE LOS CAMPEONES (2014-2026): El Acto I jamas muestra logos ni nombres de proyecto.
+> La atencion del jurado se captura con dolor cuantificado antes de mostrar la solucion.
+
+| Tiempo | Acto | Narracion (Locutor) | Visual / Camara | ID Asset | Texto en Pantalla | Audio / FX |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **0:00 - 0:20** (20s) | **A1: Gancho y Dolor Cuantificado** | En Managua (Cuenca Cauce Oriental), en nicaragua, las inundaciones y anegaciones afectan anualmente a mas de 120,000 personas en zonas urbanas y periurbanas de la cuenca del pacifico (SINAPRED (Sistema Nacional para la Prevencion, Mitigacion y Atencion de Desastres), 2024). Un desafio que impacta directamente la seguridad y el bienestar de nuestras familias nicaraguenses. | Fondo oscuro, tipografia sobria con dato critico (En Nicaragua, las inundaciones y anegaciones afectan anualmente a mas de 120,000 personas en zonas urbanas y periurbanas de la cuenca del Pacifico). Rostro o testimonio de persona afectada en Managua (Cuenca Cauce Oriental). SIN logos ni nombres. | `asset_A1_hook_dolor.png` | EN NICARAGUA, LAS INUNDACIONES Y ANEGACIONES AFECTAN ANUALMENTE A MAS DE 120,000 PERSONAS EN ZONAS URBANAS Y PERIURBANAS DE LA CUENCA DEL PACIFICO<br>Fuente: (SINAPRED (Sistema Nacional para la Prevencion, Mitigacion y Atencion de Desastres), 2024) | Pulso grave, bajo sintetizado tenue (80-90 bpm) |
+| **0:20 - 1:00** (40s) | **A2: Revelacion Tecnica y Prototipo (Caja Negra)** | Nace HIDRO-VIGIA, desarrollado por Mentes Pinoleras. Sistema ciber-fisico de telemetria hiperlocal con sensores de nivel ultrasonicos y red LoRaWAN para alerta temprana comunitaria con 30 minutos de anticipacion. Nuestro mecanismo combina materia prima local con sensores y control de alta eficiencia. | Aparicion rotunda de HIDRO-VIGIA. Modelo 3D explosionado (pernos, conectores IP67, sensores) o plano publicitario 3D de UI web con datos reactivos. | `asset_A2_prototipo_mecanismo.glb` | HIDRO-VIGIA<br>Redes de sensores comunitarios para prevencion y alerta temprana de inundaciones | Entrada de instrumentacion melodica ritmica |
+| **1:00 - 1:35** (35s) | **A3: Prefactibilidad, Costos y Economia Circular** | La puesta en marcha requiere un costo superficial de $4,850 USD, articulable con programas de infraestructura municipal y cooperativas locales. | Matriz sintetica de costos unitarios verificados + diagrama de flujo de valor / economia circular de componentes. | `asset_A3_tabla_costos_circularidad.svg` | COSTO UNITARIO ESTIMADO: $4,850 USD<br>Retorno estimado: 14 meses | Ritmo constante, dinamismo ejecutivo |
+| **1:35 - 2:00** (25s) | **A4: Metricas Auditables, ODS y Cierre** | Alineados con el Plan Nacional de Lucha Contra la Pobreza (Eje 3: Proteccion de la Vida y Resiliencia ante el Cambio Climatico) y los ODS 11, ODS 13, ODS 3. HIDRO-VIGIA: innovacion y talento nicaraguense al servicio de la comunidad. | 3 iconos con metricas auditables proyectadas + logos ODS monocromos coloreados con paleta de marca. Retorno a la comunidad con solucion activa. | `asset_A4_ods_cierre_identidad.mp4` | ODS: ODS 11, ODS 13, ODS 3<br>HIDRO-VIGIA - 2026 | Crescendo final y remate seco al segundo 119 |
+
+## Verificacion de Rubrica
+- **Innovacion (30 pts):** Desplegado en Acto II (caja negra visible, no solucion generica).
+- **Impacto Social (20 pts):** Evidenciado en Acto I y cerrado en Acto IV.
+- **Prefactibilidad (20 pts):** Demostrado con costos reales y economia circular en Acto III.
+- **Viabilidad Tecnica (20 pts):** Diagrama y componentes fisicos/digitales en Acto II.
+- **Calidad (10 pts):** Timing de 120s estricto, audio limpio y visuales coherentes con la paleta de marca.

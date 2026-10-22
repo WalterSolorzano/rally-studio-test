@@ -1,0 +1,118 @@
+version: 1
+actualizado: '2026-10-19'
+proposito: 'Registro unico de herramientas del arsenal. `arsenal.py refresh` actualiza las versiones detectadas
+  en esta maquina. Las licencias marcadas como "verificar" no se instalaron: leer el LICENSE del repo
+  antes de hacerlo.
+
+  '
+video:
+- nombre: ffmpeg
+  rol: Cortar, normalizar audio (loudnorm) y exportar MP4
+  licencia: LGPL-2.1+ (builds con GPL)
+  version: '7.1'
+  estado: requerido
+- nombre: ffprobe
+  rol: Medir duracion y pistas del video (check-duracion)
+  licencia: LGPL-2.1+
+  version: ''
+  estado: requerido
+- nombre: blender
+  rol: Pieza 3D protagonista y props con control manual
+  licencia: GPL-2.0+
+  version: ''
+  estado: opcional
+- nombre: node
+  rol: Playwright para capturar la web demo
+  licencia: MIT
+  version: 24.18.0
+  estado: opcional
+voz:
+- nombre: edge-tts
+  rol: Fallback neural sin GPU (requiere red)
+  licencia: GPL-3.0
+  version: ''
+  estado: fallback
+  notas: Declarar IA en el pautado. No usar si el equipo oculta la sintesis.
+- nombre: kokoro
+  rol: TTS CPU rapido para iterar el guion
+  licencia: Apache-2.0
+  version: ''
+  estado: preferido_cpu
+- nombre: chatterbox-tts
+  rol: TTS con control de emocion si hay GPU >= 4 GB
+  licencia: MIT
+  version: ''
+  estado: preferido_gpu
+  notas: Trae watermark PerTh. Declarar IA. El claim de 65.3% es marketing.
+- nombre: piper-tts
+  rol: TTS CPU offline; requiere modelo .onnx por voz
+  licencia: MIT (motor); voces con licencia propia
+  version: ''
+  estado: fallback_offline
+  notas: Verificar la licencia de cada voz antes de usar.
+- nombre: qwen3-tts
+  rol: Clonacion con 3 s de audio de referencia
+  licencia: verificar
+  version: ''
+  estado: no_integrado
+  notas: 'Calidad del espanol no verificada. API en movimiento: probar antes de prometer.'
+diseno:
+- nombre: impeccable
+  rol: Linter determinista contra el aspecto generico de IA
+  licencia: MIT
+  version: ''
+  estado: instalado
+- nombre: gsap
+  rol: Contadores y transiciones del Acto IV
+  licencia: GSAP Standard License (gratis; no es MIT ni OSI)
+  version: 3.13.0
+  estado: instalado
+  notas: Archivo local en plantillas/gsap.min.js con banner de licencia intacto. Revisar terminos antes de uso comercial.
+- nombre: color-palette
+  rol: Extraer dominantes de una imagen
+  licencia: MIT
+  estado: cubierto
+  notas: Ya lo hace scripts/gen_palette.py con Pillow.
+- nombre: colormind
+  rol: Armonizar paleta desde un color base
+  licencia: verificar
+  estado: cubierto
+  notas: Ya se consume desde scripts/gen_palette.py.
+- nombre: brandkit
+  rol: Brand kit completo con 8 modos visuales
+  licencia: MIT
+  estado: no_instalado
+  notas: Solo si el equipo no tiene disenador. Evitar instalar catalogos enteros.
+- nombre: brand-identity
+  rol: Guia de logo, color y tipografia
+  licencia: verificar
+  estado: no_instalado
+  notas: Leer LICENSE antes de instalar.
+- nombre: logo-creator
+  rol: Logos minimalistas generados
+  licencia: verificar
+  estado: no_instalado
+  notas: Leer LICENSE antes de instalar. Un logo IA se nota si no se ajusta.
+datos:
+- nombre: python-docx
+  rol: Leer plantilla y contar caracteres por campo
+  licencia: MIT
+  version: instalado
+- nombre: openpyxl
+  rol: Generar el presupuesto .xlsx
+  licencia: MIT
+  version: 3.1.5
+- nombre: pillow
+  rol: Extraer paleta del logo
+  licencia: MIT-CMU
+  version: instalado
+- nombre: pyyaml
+  rol: Leer y escribir este registro
+  licencia: MIT
+  version: instalado
+reglas:
+- Base oficial manda sobre cualquier patron de este registro.
+- 'Video > 120 s descalifica: no es orientativo.'
+- 'YouTube privado devuelve 403 al jurado: verificar antes de cargar la URL.'
+- Toda voz sintetica se declara en el pautado.
+- Toda cifra sale de research/claims.json; si no tiene fuente, no va.

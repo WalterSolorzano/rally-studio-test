@@ -1,0 +1,107 @@
+{
+ "video_id": "7dZbl8Mg0T0",
+ "url": "https://youtu.be/7dZbl8Mg0T0",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MICHIGÜISTES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MICHIGÜISTES",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:07:23+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "SPAT, un sistema de prevención ante deslizamiento enfocado en la preservación de la vida humana durante aludes de barro, utilizada para la detección temprana de deslaves de tierra en zonas de peligro. Este consiste en la colocación de una torre que contiene un equipo especializado para recibir información de variables climatológicas a través de sensores con las cuales se determinará el grado de vulnerabilidad de los suelos a los saludos. Su función tendrá alternativo. Número 1, alternar mediante mensajes de voz y SMS enviado simultáneamente a las personas que habitan en el sitio vulnerable. Asimismo, se enviará información demográfica y ideafológica necesaria a las autoridades de prevención de desastre. Número 2, se extenderán vallas de contención y alarmas lumínicas en ambas de tránsito vehicular y peatonal que indican un posible deslizamiento de tierra. El sistema es sustentable monetariamente debido al uso de la versión AppPro a través de una suscripción mensual a un costo de 2.5 dólares, por lo que es posible generar ingresos estimados de 5.000 dólares o más a un plazo médio. Esto considerando que se logre como mínimo la obtención de 2.000 suscripciones en la aplicación. Es amigable con el médio, puesto que usa una fuente de energía renovable para su funcionamiento. El sistema de prevención ante deslizamientos SPAT es tu mejor alternativa ante los saludos de barro.",
+ "segments": [
+  {
+   "start": 7.06,
+   "end": 12.34,
+   "text": "SPAT, un sistema de prevención ante deslizamiento enfocado en la preservación de la vida humana"
+  },
+  {
+   "start": 12.34,
+   "end": 17.78,
+   "text": "durante aludes de barro, utilizada para la detección temprana de deslaves de tierra en zonas de peligro."
+  },
+  {
+   "start": 17.78,
+   "end": 23.02,
+   "text": "Este consiste en la colocación de una torre que contiene un equipo especializado para recibir"
+  },
+  {
+   "start": 23.02,
+   "end": 27.46,
+   "text": "información de variables climatológicas a través de sensores con las cuales se determinará el"
+  },
+  {
+   "start": 27.46,
+   "end": 32.26,
+   "text": "grado de vulnerabilidad de los suelos a los saludos. Su función tendrá alternativo."
+  },
+  {
+   "start": 32.26,
+   "end": 38.62,
+   "text": "Número 1, alternar mediante mensajes de voz y SMS enviado simultáneamente a las personas que"
+  },
+  {
+   "start": 38.62,
+   "end": 42.86,
+   "text": "habitan en el sitio vulnerable. Asimismo, se enviará información demográfica y"
+  },
+  {
+   "start": 42.86,
+   "end": 46.34,
+   "text": "ideafológica necesaria a las autoridades de prevención de desastre."
+  },
+  {
+   "start": 46.34,
+   "end": 50.74,
+   "text": "Número 2, se extenderán vallas de contención y alarmas lumínicas en"
+  },
+  {
+   "start": 50.74,
+   "end": 55.18,
+   "text": "ambas de tránsito vehicular y peatonal que indican un posible deslizamiento de tierra."
+  },
+  {
+   "start": 55.18,
+   "end": 61.78,
+   "text": "El sistema es sustentable monetariamente debido al uso de la versión AppPro a través de una"
+  },
+  {
+   "start": 61.78,
+   "end": 68.06,
+   "text": "suscripción mensual a un costo de 2.5 dólares, por lo que es posible generar ingresos estimados de 5.000"
+  },
+  {
+   "start": 68.06,
+   "end": 74.1,
+   "text": "dólares o más a un plazo médio. Esto considerando que se logre como mínimo la obtención de 2.000"
+  },
+  {
+   "start": 74.1,
+   "end": 79.66,
+   "text": "suscripciones en la aplicación. Es amigable con el médio, puesto que usa una fuente de energía"
+  },
+  {
+   "start": 79.66,
+   "end": 85.26,
+   "text": "renovable para su funcionamiento. El sistema de prevención ante deslizamientos SPAT es tu mejor"
+  },
+  {
+   "start": 85.26,
+   "end": 87.18,
+   "text": "alternativa ante los saludos de barro."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 87.4
+}

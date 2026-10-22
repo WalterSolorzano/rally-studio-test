@@ -1,0 +1,87 @@
+{
+ "video_id": "vIPobuo1YAs",
+ "url": "https://youtu.be/vIPobuo1YAs?si=nGy8KohiM8PheM6p",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MENTES BRILLANTES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MENTES BRILLANTES",
+   "challenge": "02 - RECICLADO TEXTIL"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:28:03+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada segundo el mundo desecha el equivalente a un camión de ropa usada y sabe a dónde va gran parte de esa ropa a los desiertos y vertederos de América Latina. La moda rápida, ropa barata, producida en masa y diseñada para durar poco, está alimentando una crisis ambiental silenciosa. En países como Chile y Guatemala, toneladas de ropa usada llega cada año de Europa, hace Estados Unidos, pero la mayoría no se reutiliza, termina incinerada ilegalmente o abandonada, contaminando el aire, el suelo y el agua. Pero, y si te dijera que esos residuos textiles pueden transformarse en algo más, nuestra propuesta convierte en la contaminación en la oportunidad. Reciclamos textiles desechos para crear productos útiles, duraderos y común propósito social. Con cada prenda reciclada, evitamos que más residuos lleguen a nuestro ecosistema, reducimos emisiones, promovemos la economía circular y empoderamos a mujeres y jóvenes en situaciones de buenes habilidades. La moda no tiene por qué ser desechable, tú puedes ser el camión, apoya, comparte, transforma, porque cada hilo cuenta.",
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 7.36,
+   "text": "Cada segundo el mundo desecha el equivalente a un camión de ropa usada y sabe a dónde va"
+  },
+  {
+   "start": 7.36,
+   "end": 14.62,
+   "text": "gran parte de esa ropa a los desiertos y vertederos de América Latina. La moda rápida, ropa barata,"
+  },
+  {
+   "start": 14.62,
+   "end": 20.46,
+   "text": "producida en masa y diseñada para durar poco, está alimentando una crisis ambiental silenciosa."
+  },
+  {
+   "start": 20.46,
+   "end": 27.22,
+   "text": "En países como Chile y Guatemala, toneladas de ropa usada llega cada año de Europa,"
+  },
+  {
+   "start": 27.22,
+   "end": 34.62,
+   "text": "hace Estados Unidos, pero la mayoría no se reutiliza, termina incinerada ilegalmente o abandonada,"
+  },
+  {
+   "start": 34.62,
+   "end": 40.78,
+   "text": "contaminando el aire, el suelo y el agua. Pero, y si te dijera que esos residuos textiles pueden"
+  },
+  {
+   "start": 40.78,
+   "end": 45.98,
+   "text": "transformarse en algo más, nuestra propuesta convierte en la contaminación en la oportunidad."
+  },
+  {
+   "start": 45.98,
+   "end": 51.62,
+   "text": "Reciclamos textiles desechos para crear productos útiles, duraderos y común"
+  },
+  {
+   "start": 51.62,
+   "end": 57.66,
+   "text": "propósito social. Con cada prenda reciclada, evitamos que más residuos lleguen a nuestro"
+  },
+  {
+   "start": 57.66,
+   "end": 63.86,
+   "text": "ecosistema, reducimos emisiones, promovemos la economía circular y empoderamos a mujeres y"
+  },
+  {
+   "start": 63.86,
+   "end": 68.66,
+   "text": "jóvenes en situaciones de buenes habilidades. La moda no tiene por qué ser desechable,"
+  },
+  {
+   "start": 68.66,
+   "end": 74.66,
+   "text": "tú puedes ser el camión, apoya, comparte, transforma, porque cada hilo cuenta."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 78.1
+}

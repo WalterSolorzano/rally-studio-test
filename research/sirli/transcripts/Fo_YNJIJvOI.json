@@ -1,0 +1,97 @@
+{
+ "video_id": "Fo_YNJIJvOI",
+ "url": "https://youtu.be/Fo_YNJIJvOI",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SOÑADORES SIN LIMITES.",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "SOÑADORES SIN LIMITES.",
+   "challenge": "01 - INCLUSIÓN LABORAL DE PERSONAS DEL ESPECTRO AUTISTA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:10:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el equipo soñadores sin límites, CD URACAN Recintos Blufi. El desafío que seleccionamos es la inclusión laboral de personas del espectro autista. América Latina carece de sistemas educativos, sociales y laborales, que permitan atender a personas en el marco de su neurodiversidad. Para dar solución al desafío, proponemos que las familias estén más informadas y concientizadas, rompiendo barreras y estereotipos, aplicando instrumentos y metodologías para atender a sus parientes con autismo, que los sistemas educativos creen espacios con condiciones adecuadas para una educación inclusiva en todas sus estapas, con docentes capacitados y metodologías apropiadas a personas autistas. Con instrumento para el monitoreo de poblaciones con autismo, desde la educación inicial hasta la inserción laboral, las empresas privadas cambiando sus estrategias de reclutamiento y creando igualdad de condiciones para el acceso laboral de personas con autismo. La articulación demostrará la eficiencia del sistema educativo con el mercado laboral.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Somos el equipo soñadores sin límites, CD URACAN Recintos Blufi."
+  },
+  {
+   "start": 5.0,
+   "end": 10.5,
+   "text": "El desafío que seleccionamos es la inclusión laboral de personas del espectro autista."
+  },
+  {
+   "start": 10.5,
+   "end": 15.5,
+   "text": "América Latina carece de sistemas educativos, sociales y laborales,"
+  },
+  {
+   "start": 15.5,
+   "end": 20.0,
+   "text": "que permitan atender a personas en el marco de su neurodiversidad."
+  },
+  {
+   "start": 20.0,
+   "end": 26.5,
+   "text": "Para dar solución al desafío, proponemos que las familias estén más informadas y concientizadas,"
+  },
+  {
+   "start": 26.5,
+   "end": 31.0,
+   "text": "rompiendo barreras y estereotipos, aplicando instrumentos y metodologías"
+  },
+  {
+   "start": 31.0,
+   "end": 36.5,
+   "text": "para atender a sus parientes con autismo, que los sistemas educativos creen espacios"
+  },
+  {
+   "start": 36.5,
+   "end": 42.0,
+   "text": "con condiciones adecuadas para una educación inclusiva en todas sus estapas,"
+  },
+  {
+   "start": 42.0,
+   "end": 47.0,
+   "text": "con docentes capacitados y metodologías apropiadas a personas autistas."
+  },
+  {
+   "start": 47.0,
+   "end": 51.0,
+   "text": "Con instrumento para el monitoreo de poblaciones con autismo,"
+  },
+  {
+   "start": 51.0,
+   "end": 54.5,
+   "text": "desde la educación inicial hasta la inserción laboral,"
+  },
+  {
+   "start": 54.5,
+   "end": 58.5,
+   "text": "las empresas privadas cambiando sus estrategias de reclutamiento"
+  },
+  {
+   "start": 58.5,
+   "end": 63.5,
+   "text": "y creando igualdad de condiciones para el acceso laboral de personas con autismo."
+  },
+  {
+   "start": 63.5,
+   "end": 69.5,
+   "text": "La articulación demostrará la eficiencia del sistema educativo con el mercado laboral."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 69.5
+}

@@ -1,0 +1,157 @@
+{
+ "video_id": "s2ysRxn8Zzg",
+ "url": "https://youtu.be/s2ysRxn8Zzg",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MOSAICO",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "MOSAICO",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:51:01+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Y si un celular en desuso pudiera convertirse en una herramienta para proteger finca, cuidar el ganado, monitorear el agua y provenir riesgos, según Global E-Waste, monitor 2024, en 2022 en el año 602 millones de toneladas de residuos electrónicos, de los cuales sólo el 22,3% fue documentado como recogido y reciclado adecuadamente. Por eso proponemos CENTRIC, una solución que utiliza los sensores celulares antiguos para crear estaciones de monitoreo rural accesibles para pequeños productores, ganaderos, familias rurales. Así, aprovechamos la tecnología existente para proteger recursos, reducir costo y construir y disminuir los residuos electrónicos contaminantes. Contamos con cuatro funcionalidades, monitoreo de nivel de agua en pozo, pilas y tanques mediante el acelerómetro y axial. Conectados a un flotador de detección pedimental de sacudidas de terreno mediante el acelerómetro, seguridad pedimetral para identificar vibraciones y movimientos sospechosos en corrales, portones y bodegas mediante el acelerómetro y la cámara que monitorea la temperatura mediante un sensor eterno para proteger el ganado en las cosechas y los productos almacenados. Pero en nuestra innovación, no solo está en los sensores, sino también cómo transformamos, protegemos y adaptamos el celular para utilizarlo en el campo. Diseñamos una caja de madera que permite camuflar el dispositivo, integrarlo en su entorno, con un encapsulado de protección IP67, alimentación mediante un panel solar de 5 voltios y un alto voz exterior de 3.5 milímetros para activar alertas sonoras. ¿Y cómo lo controla el productor? Desde una aplicación instalada en su propio teléfono personal, diferente al celular reutilizado que funciona como un sensor, en ella puede registrar cada dispositivo asociado a su ubicación GPS y el número telefónico de su chip. Cuando se detecta una condición crítica, teléfono, sensor puede llamar al número registrado. Además se reutilizarán routers en desuso sin necesidad de un proveedor de internet. Centric es económicamente viable para reutilizar celulares y materiales de bajo costo. Prolongamos la vida útil del celular y contribuimos a reducir los residuos electrónicos. Queremos transformar celulares olvidados en aliados de los pequeños productores, proteger sus recursos y contribuir a un futuro más sostenible para Nicaragua.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.4,
+   "text": "Y si un celular en desuso pudiera convertirse en una herramienta para proteger finca, cuidar el ganado,"
+  },
+  {
+   "start": 5.4,
+   "end": 10.14,
+   "text": "monitorear el agua y provenir riesgos, según Global E-Waste, monitor 2024, en 2022"
+  },
+  {
+   "start": 10.14,
+   "end": 15.2,
+   "text": "en el año 602 millones de toneladas de residuos electrónicos, de los cuales sólo el 22,3%"
+  },
+  {
+   "start": 15.2,
+   "end": 19.34,
+   "text": "fue documentado como recogido y reciclado adecuadamente. Por eso proponemos CENTRIC,"
+  },
+  {
+   "start": 19.34,
+   "end": 23.86,
+   "text": "una solución que utiliza los sensores celulares antiguos para crear estaciones de monitoreo"
+  },
+  {
+   "start": 23.86,
+   "end": 28.86,
+   "text": "rural accesibles para pequeños productores, ganaderos, familias rurales. Así, aprovechamos la"
+  },
+  {
+   "start": 28.86,
+   "end": 33.96,
+   "text": "tecnología existente para proteger recursos, reducir costo y construir y disminuir los residuos"
+  },
+  {
+   "start": 33.96,
+   "end": 38.08,
+   "text": "electrónicos contaminantes. Contamos con cuatro funcionalidades, monitoreo de nivel de agua"
+  },
+  {
+   "start": 38.08,
+   "end": 42.28,
+   "text": "en pozo, pilas y tanques mediante el acelerómetro y axial. Conectados a un flotador de detección"
+  },
+  {
+   "start": 42.28,
+   "end": 46.32,
+   "text": "pedimental de sacudidas de terreno mediante el acelerómetro, seguridad pedimetral para"
+  },
+  {
+   "start": 46.32,
+   "end": 50.8,
+   "text": "identificar vibraciones y movimientos sospechosos en corrales, portones y bodegas mediante"
+  },
+  {
+   "start": 50.8,
+   "end": 54.84,
+   "text": "el acelerómetro y la cámara que monitorea la temperatura mediante un sensor eterno"
+  },
+  {
+   "start": 54.84,
+   "end": 58.6,
+   "text": "para proteger el ganado en las cosechas y los productos almacenados. Pero en nuestra innovación,"
+  },
+  {
+   "start": 58.62,
+   "end": 63.34,
+   "text": "no solo está en los sensores, sino también cómo transformamos, protegemos y adaptamos"
+  },
+  {
+   "start": 63.34,
+   "end": 69.34,
+   "text": "el celular para utilizarlo en el campo. Diseñamos una caja de madera que permite camuflar el dispositivo,"
+  },
+  {
+   "start": 69.34,
+   "end": 75.3,
+   "text": "integrarlo en su entorno, con un encapsulado de protección IP67, alimentación mediante"
+  },
+  {
+   "start": 75.3,
+   "end": 82.62,
+   "text": "un panel solar de 5 voltios y un alto voz exterior de 3.5 milímetros para activar alertas sonoras."
+  },
+  {
+   "start": 82.62,
+   "end": 86.74,
+   "text": "¿Y cómo lo controla el productor? Desde una aplicación instalada en su propio teléfono"
+  },
+  {
+   "start": 86.74,
+   "end": 91.52,
+   "text": "personal, diferente al celular reutilizado que funciona como un sensor, en ella puede registrar"
+  },
+  {
+   "start": 91.52,
+   "end": 96.68,
+   "text": "cada dispositivo asociado a su ubicación GPS y el número telefónico de su chip. Cuando se"
+  },
+  {
+   "start": 96.68,
+   "end": 101.76,
+   "text": "detecta una condición crítica, teléfono, sensor puede llamar al número registrado. Además se"
+  },
+  {
+   "start": 101.76,
+   "end": 106.64,
+   "text": "reutilizarán routers en desuso sin necesidad de un proveedor de internet. Centric es"
+  },
+  {
+   "start": 106.64,
+   "end": 110.88,
+   "text": "económicamente viable para reutilizar celulares y materiales de bajo costo."
+  },
+  {
+   "start": 110.88,
+   "end": 116.08,
+   "text": "Prolongamos la vida útil del celular y contribuimos a reducir los residuos electrónicos."
+  },
+  {
+   "start": 116.1,
+   "end": 119.78,
+   "text": "Queremos transformar celulares olvidados en aliados de los pequeños productores,"
+  },
+  {
+   "start": 119.78,
+   "end": 123.54,
+   "text": "proteger sus recursos y contribuir a un futuro más sostenible para Nicaragua."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 123.6
+}

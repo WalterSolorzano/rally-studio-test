@@ -1,0 +1,157 @@
+{
+ "video_id": "2WUEFKvZip4",
+ "url": "https://youtu.be/2WUEFKvZip4?si=5Z5p8XNWEWNFHLUv",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVACCIÓN",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INNOVACCIÓN",
+   "challenge": "04 - AGUACATE"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:56:04+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El aguacate es un producto con demanda global, el aumento en su consumo es creciente. América Latina es la principal fuente de abastecimiento. Para el año 2020, existe una producción aproximada de 6.5 millones de toneladas de aguacate que al no ser tratados se convierten en contaminantes ambientales e incluso gasmetano. Esto significa un desaprovechamiento de la materia prima que puede ser utilizado para generar oportunidades comerciales. Sin una estrategia adecuada para mitigar estos impactos, el crecimiento del consumo de aguacate podría generar consecuencias ambientales irreversibles, tanto en las regiones productoras como a nivel global. Por ello, Medicab ofrece una solución innovadora, integral y circular. Los flobonoides de la semilla se utilizarán para elaborar un cuento anti-reumático, mientras que los fenómenos por su acción bactericida y fungicida permitirán la producción de antisépticos. Además, la cáscara se empleará para diseñar etiquetas y empaques. Los residuos secundarios se compostarán y se distribuirán a los productores que suministran las materias primas. Al implementar sistemas de aprovechamiento y reciclaje, se reduce el impacto ambiental y compostaje los residuos del aguacate enriquece el suelo, mejorando su calidad y fertilidad. Además, la valorización de estos residuos genera nuevas oportunidades económicas, comenta empleos y fortalece la economía local. Medicab of integra la innovación en todos sus procesos desde la transformación de la materia prima, incorporando la economía circular con beneficios sociales, ambientales y económicos. Los empaques de Medicab o incluirán un código QR que dirigirá a la web con información detallada de cada producto y enlaces para compra en línea. Medicab son productos sostenibles con bajo costos de producción y una inversión inicial de 19.770 Córdobas, que espera generar utilidades de 6.990 en el primer mes, permitiendo recuperar la inversión en cuatro meses. Medicab o alivio que se siente, movimiento que se disfruta.",
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 8.83,
+   "text": "El aguacate es un producto con demanda global, el aumento en su consumo es creciente."
+  },
+  {
+   "start": 8.83,
+   "end": 11.75,
+   "text": "América Latina es la principal fuente de abastecimiento."
+  },
+  {
+   "start": 11.75,
+   "end": 17.51,
+   "text": "Para el año 2020, existe una producción aproximada de 6.5 millones de toneladas de aguacate"
+  },
+  {
+   "start": 17.51,
+   "end": 22.63,
+   "text": "que al no ser tratados se convierten en contaminantes ambientales e incluso gasmetano."
+  },
+  {
+   "start": 22.63,
+   "end": 26.59,
+   "text": "Esto significa un desaprovechamiento de la materia prima que puede ser utilizado"
+  },
+  {
+   "start": 26.59,
+   "end": 28.87,
+   "text": "para generar oportunidades comerciales."
+  },
+  {
+   "start": 28.87,
+   "end": 33.59,
+   "text": "Sin una estrategia adecuada para mitigar estos impactos, el crecimiento del consumo de aguacate"
+  },
+  {
+   "start": 33.59,
+   "end": 39.67,
+   "text": "podría generar consecuencias ambientales irreversibles, tanto en las regiones productoras como a nivel global."
+  },
+  {
+   "start": 39.67,
+   "end": 43.91,
+   "text": "Por ello, Medicab ofrece una solución innovadora, integral y circular."
+  },
+  {
+   "start": 43.91,
+   "end": 48.19,
+   "text": "Los flobonoides de la semilla se utilizarán para elaborar un cuento anti-reumático,"
+  },
+  {
+   "start": 48.19,
+   "end": 53.55,
+   "text": "mientras que los fenómenos por su acción bactericida y fungicida permitirán la producción de antisépticos."
+  },
+  {
+   "start": 53.55,
+   "end": 57.39,
+   "text": "Además, la cáscara se empleará para diseñar etiquetas y empaques."
+  },
+  {
+   "start": 57.47,
+   "end": 63.67,
+   "text": "Los residuos secundarios se compostarán y se distribuirán a los productores que suministran las materias primas."
+  },
+  {
+   "start": 63.67,
+   "end": 68.07,
+   "text": "Al implementar sistemas de aprovechamiento y reciclaje, se reduce el impacto ambiental"
+  },
+  {
+   "start": 68.07,
+   "end": 73.55,
+   "text": "y compostaje los residuos del aguacate enriquece el suelo, mejorando su calidad y fertilidad."
+  },
+  {
+   "start": 73.55,
+   "end": 78.31,
+   "text": "Además, la valorización de estos residuos genera nuevas oportunidades económicas,"
+  },
+  {
+   "start": 78.31,
+   "end": 81.19,
+   "text": "comenta empleos y fortalece la economía local."
+  },
+  {
+   "start": 81.19,
+   "end": 85.67,
+   "text": "Medicab of integra la innovación en todos sus procesos desde la transformación de la materia prima,"
+  },
+  {
+   "start": 85.75,
+   "end": 90.15,
+   "text": "incorporando la economía circular con beneficios sociales, ambientales y económicos."
+  },
+  {
+   "start": 90.15,
+   "end": 94.31,
+   "text": "Los empaques de Medicab o incluirán un código QR que dirigirá a la web"
+  },
+  {
+   "start": 94.31,
+   "end": 98.27,
+   "text": "con información detallada de cada producto y enlaces para compra en línea."
+  },
+  {
+   "start": 98.27,
+   "end": 101.35,
+   "text": "Medicab son productos sostenibles con bajo costos de producción"
+  },
+  {
+   "start": 101.35,
+   "end": 104.91,
+   "text": "y una inversión inicial de 19.770 Córdobas,"
+  },
+  {
+   "start": 104.91,
+   "end": 108.59,
+   "text": "que espera generar utilidades de 6.990 en el primer mes,"
+  },
+  {
+   "start": 108.59,
+   "end": 111.19,
+   "text": "permitiendo recuperar la inversión en cuatro meses."
+  },
+  {
+   "start": 111.19,
+   "end": 115.07,
+   "text": "Medicab o alivio que se siente, movimiento que se disfruta."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 118.3
+}

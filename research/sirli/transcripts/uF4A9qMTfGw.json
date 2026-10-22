@@ -1,0 +1,102 @@
+{
+ "video_id": "uF4A9qMTfGw",
+ "url": "https://youtu.be/uF4A9qMTfGw",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "OPREME",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "OPREME",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:58:33+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hola, todos somos Opreme y nuestra solución innovadora es QtHEL. Nicaragua, debido a su posición geográfica, está expuesta a amenazas de múltiples fenómenos que pueden derivar en desastres naturales. Esto requiere la coordinación institucional que garantice respuestas ágiles y efectivas para que la ayuda llegue donde más se necesita. QtHEL es una propuesta innovadora basada en una plataforma web de coordinación y gestión pods emergencia que permite registrar información, sobre inundaciones, terremotos, huracanes, etc. desde teléfonos analógicos, móviles o computadoras, sin hardware costoso, incorpora análisis geospatial e inteligencia artificial con validación humana, complementando los mecanismos oficiales con un enfoque práctico e inclusivo. QtHEL utiliza herramientas digitales accesibles, hace uso de la información en tiempo real de ineter, enlaces satelitales y de monitoreo sísmico, lo que da veracidad y solidez a la información disponible, haciendo de ella una herramienta útil para la coordinación de la ayuda en casos de desastres naturales u otras incidencias. Al requerir el uso de medios tecnológicos, al alcance de todos, la factibilidad de QtHEL es altamente justificable, desde el punto de vista económico y social. Esto es QtHEL, la ayuda que te alcanza.",
+ "segments": [
+  {
+   "start": 0.27,
+   "end": 5.55,
+   "text": "Hola, todos somos Opreme y nuestra solución innovadora es QtHEL."
+  },
+  {
+   "start": 5.55,
+   "end": 15.17,
+   "text": "Nicaragua, debido a su posición geográfica, está expuesta a amenazas de múltiples fenómenos"
+  },
+  {
+   "start": 15.17,
+   "end": 22.51,
+   "text": "que pueden derivar en desastres naturales. Esto requiere la coordinación institucional"
+  },
+  {
+   "start": 22.51,
+   "end": 29.97,
+   "text": "que garantice respuestas ágiles y efectivas para que la ayuda llegue donde más se necesita."
+  },
+  {
+   "start": 29.97,
+   "end": 36.97,
+   "text": "QtHEL es una propuesta innovadora basada en una plataforma web de coordinación y"
+  },
+  {
+   "start": 36.97,
+   "end": 43.05,
+   "text": "gestión pods emergencia que permite registrar información, sobre inundaciones,"
+  },
+  {
+   "start": 43.05,
+   "end": 50.65,
+   "text": "terremotos, huracanes, etc. desde teléfonos analógicos, móviles o computadoras,"
+  },
+  {
+   "start": 50.65,
+   "end": 58.45,
+   "text": "sin hardware costoso, incorpora análisis geospatial e inteligencia artificial con"
+  },
+  {
+   "start": 58.45,
+   "end": 65.73,
+   "text": "validación humana, complementando los mecanismos oficiales con un enfoque práctico e inclusivo."
+  },
+  {
+   "start": 65.73,
+   "end": 73.61,
+   "text": "QtHEL utiliza herramientas digitales accesibles, hace uso de la información en tiempo real de"
+  },
+  {
+   "start": 73.61,
+   "end": 80.81,
+   "text": "ineter, enlaces satelitales y de monitoreo sísmico, lo que da veracidad y solidez"
+  },
+  {
+   "start": 80.81,
+   "end": 87.09,
+   "text": "a la información disponible, haciendo de ella una herramienta útil para la coordinación"
+  },
+  {
+   "start": 87.09,
+   "end": 94.13,
+   "text": "de la ayuda en casos de desastres naturales u otras incidencias. Al requerir el uso de"
+  },
+  {
+   "start": 94.13,
+   "end": 101.69,
+   "text": "medios tecnológicos, al alcance de todos, la factibilidad de QtHEL es altamente justificable,"
+  },
+  {
+   "start": 101.69,
+   "end": 109.29,
+   "text": "desde el punto de vista económico y social. Esto es QtHEL, la ayuda que te alcanza."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 110.0
+}

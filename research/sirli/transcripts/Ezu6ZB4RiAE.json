@@ -1,0 +1,152 @@
+{
+ "video_id": "Ezu6ZB4RiAE",
+ "url": "https://youtu.be/Ezu6ZB4RiAE",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SYSTEMX",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "SYSTEMX",
+   "challenge": "03 - FUGAS DE AGUA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:39:14+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Había que se pierde más del 56% del agua abastecida al llegar a las ciudades. Esto significa que de cada 100 litros más de la mitad se desperdice generando una pérdida económica anual de aproximadamente 90.000 dólares. Este sistema completo de monitoreo de fugas tiene un costo de 599 dólares por dispositivo, un gasto que se recupera rápidamente al evitar la pérdida de miles de dólares en agua no contabilizada. WaterWare consiste en un sistema autónomo de monitoreo de presión e intubería. Utilizando sensores de presión, placas Arduino, comunicación por radio frecuencia, autos sustentados por paneles solares, empelor agregado, detecta fugas en tiempo real sin necesidad de excavaciones con un sistema escalable que puede cubrir varios municipios o toda la ciudad. Esto permite que las autoridades y empresas de agua reciben información precisa y oportuna, evitando pérdida y reduciendo costos de mantenimiento. A diferencia de las inspecciones tradicionales o sistemas costosos, este es un sistema modular, no invasivo y autosostenible, usando energía solar y transmisión de datos a la nube de innovación radica en la combinación de sensores de presión, EPS, comunicación RF y monitoreo remoto, que permite detectar fugas antes de que sean visibles y tomar decisiones rápidas y eficientes. El ode negocio se basa en las alianzas con entidades públicas y privadas, que cuenten con abastecimiento hídrico, se pueden implementar progresivamente por sectores y expandirse a toda la ciudad o región. Además, se proyecta ofrecerlo como servicio de suscripción para monitoreo y mantenimiento con soporte técnico y actualizaciones, asegurando sostenibilidad económica y potencial de crecimiento local e internacional. Es social, económico y ambiental. Reduce el desplodicio de agua, protege un recurso vital, diminuye costo de operación y mejora la calidad del servicio. Waterworks combina conocimiento técnico, creatividad, compromiso con la sostenibilidad para transformarle el manejo de agua. Con nuestro sistema, cada gota cuenta y cada inversión se traduce en agua que llega a la gente y a la vida de nuestras comunidades.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Había que se pierde más del 56% del agua abastecida al llegar a las ciudades."
+  },
+  {
+   "start": 5.0,
+   "end": 12.0,
+   "text": "Esto significa que de cada 100 litros más de la mitad se desperdice generando una pérdida económica anual de aproximadamente 90.000 dólares."
+  },
+  {
+   "start": 12.0,
+   "end": 18.0,
+   "text": "Este sistema completo de monitoreo de fugas tiene un costo de 599 dólares por dispositivo,"
+  },
+  {
+   "start": 18.0,
+   "end": 23.0,
+   "text": "un gasto que se recupera rápidamente al evitar la pérdida de miles de dólares en agua no contabilizada."
+  },
+  {
+   "start": 23.0,
+   "end": 27.0,
+   "text": "WaterWare consiste en un sistema autónomo de monitoreo de presión e intubería."
+  },
+  {
+   "start": 27.0,
+   "end": 31.0,
+   "text": "Utilizando sensores de presión, placas Arduino, comunicación por radio frecuencia,"
+  },
+  {
+   "start": 31.0,
+   "end": 36.0,
+   "text": "autos sustentados por paneles solares, empelor agregado, detecta fugas en tiempo real sin necesidad de excavaciones"
+  },
+  {
+   "start": 36.0,
+   "end": 40.0,
+   "text": "con un sistema escalable que puede cubrir varios municipios o toda la ciudad."
+  },
+  {
+   "start": 40.0,
+   "end": 45.0,
+   "text": "Esto permite que las autoridades y empresas de agua reciben información precisa y oportuna,"
+  },
+  {
+   "start": 45.0,
+   "end": 48.0,
+   "text": "evitando pérdida y reduciendo costos de mantenimiento."
+  },
+  {
+   "start": 48.0,
+   "end": 54.0,
+   "text": "A diferencia de las inspecciones tradicionales o sistemas costosos, este es un sistema modular,"
+  },
+  {
+   "start": 54.0,
+   "end": 60.0,
+   "text": "no invasivo y autosostenible, usando energía solar y transmisión de datos a la nube de innovación"
+  },
+  {
+   "start": 60.0,
+   "end": 66.0,
+   "text": "radica en la combinación de sensores de presión, EPS, comunicación RF y monitoreo remoto,"
+  },
+  {
+   "start": 66.0,
+   "end": 71.0,
+   "text": "que permite detectar fugas antes de que sean visibles y tomar decisiones rápidas y eficientes."
+  },
+  {
+   "start": 71.0,
+   "end": 75.0,
+   "text": "El ode negocio se basa en las alianzas con entidades públicas y privadas,"
+  },
+  {
+   "start": 75.0,
+   "end": 80.0,
+   "text": "que cuenten con abastecimiento hídrico, se pueden implementar progresivamente por sectores"
+  },
+  {
+   "start": 80.0,
+   "end": 82.0,
+   "text": "y expandirse a toda la ciudad o región."
+  },
+  {
+   "start": 82.0,
+   "end": 87.0,
+   "text": "Además, se proyecta ofrecerlo como servicio de suscripción para monitoreo y mantenimiento"
+  },
+  {
+   "start": 87.0,
+   "end": 91.0,
+   "text": "con soporte técnico y actualizaciones, asegurando sostenibilidad económica"
+  },
+  {
+   "start": 91.0,
+   "end": 94.0,
+   "text": "y potencial de crecimiento local e internacional."
+  },
+  {
+   "start": 94.0,
+   "end": 99.0,
+   "text": "Es social, económico y ambiental. Reduce el desplodicio de agua, protege un recurso vital,"
+  },
+  {
+   "start": 99.0,
+   "end": 102.0,
+   "text": "diminuye costo de operación y mejora la calidad del servicio."
+  },
+  {
+   "start": 102.0,
+   "end": 106.0,
+   "text": "Waterworks combina conocimiento técnico, creatividad, compromiso con la sostenibilidad"
+  },
+  {
+   "start": 106.0,
+   "end": 110.0,
+   "text": "para transformarle el manejo de agua. Con nuestro sistema, cada gota cuenta"
+  },
+  {
+   "start": 110.0,
+   "end": 114.0,
+   "text": "y cada inversión se traduce en agua que llega a la gente y a la vida de nuestras comunidades."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.8
+}

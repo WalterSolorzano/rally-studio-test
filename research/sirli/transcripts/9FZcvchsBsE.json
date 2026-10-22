@@ -1,0 +1,137 @@
+{
+ "video_id": "9FZcvchsBsE",
+ "url": "https://youtu.be/9FZcvchsBsE?si=X1x135kX7-dGYV97",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS INGENIOSOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS INGENIOSOS",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:44:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Los colinizadores como la AVEJA, mariposas, colibrí y murciélago es un problema mundial que afecta la producción de los alimentos, la biodiversidad y el equilibrio del ecosistema. Sus principales causas son el uso de los agroquímicos, la perdida de la hábitat y la enfermedad en el cambio climático. La propuesta, colinizando Latinoamérica, busca instalar colmenas ecológicas de AVEJA sin aguijón en la escuela, hogares rurales, con participación de docentes, estudiantes, familias e instituciones europeuarias. Su objetivo es rescatar los conocimientos ancestrales, promover la conservación de la AVEJA, aumentar la producción agrícola y mejorar los alimentos de los ingresos familiares. Además, contará como una compasitación de la aplicación BILLIFE para apoyar y desarrollar la sustinibilidad del programa. Nuestra plataforma se centra en la seguridad y bienestar de las AVEJA. Primero, nuestra plataforma nos permite seleccionar nuestro país de procedencia. En este caso, seleccionamos Nicaragua. Luego de eso, la plataforma nos permite ver información sobre las AVEJA que hayan en nuestro país. Luego, está la opción de fotografiar una AVEJA o unido, así sacando características de este mismo. Luego, está la opción de API rescate, que este nos permite registrar situaciones de riesgo y organizar la información para seguimiento. Luego, está la opción de API alerta, que explora condiciones de tiempo y recomendaciones previas, como lo es el cambio climático. Luego, está la opción de API, que es un chat de IA para que el usuario pueda hacer preguntas de todo tipo. Luego, está la opción de API reto y más el hábitat, que aquí nos permite la plataforma hacer un plan para que nuestro jardín esté apto para polinizadores. También está el apartado de comunidad para que los usuarios interactúen entre sí y los prototipos de colmenas. No están todos los tipos de colmenas que nos proporciona la plataforma.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.64,
+   "text": "Los colinizadores como la AVEJA, mariposas, colibrí y murciélago es un problema mundial"
+  },
+  {
+   "start": 6.64,
+   "end": 10.44,
+   "text": "que afecta la producción de los alimentos, la biodiversidad y el equilibrio del ecosistema."
+  },
+  {
+   "start": 10.44,
+   "end": 14.04,
+   "text": "Sus principales causas son el uso de los agroquímicos, la perdida de la hábitat y la enfermedad"
+  },
+  {
+   "start": 14.04,
+   "end": 18.6,
+   "text": "en el cambio climático. La propuesta, colinizando Latinoamérica, busca instalar colmenas ecológicas"
+  },
+  {
+   "start": 18.6,
+   "end": 22.68,
+   "text": "de AVEJA sin aguijón en la escuela, hogares rurales, con participación de docentes,"
+  },
+  {
+   "start": 22.68,
+   "end": 26.72,
+   "text": "estudiantes, familias e instituciones europeuarias. Su objetivo es rescatar los conocimientos"
+  },
+  {
+   "start": 26.72,
+   "end": 30.56,
+   "text": "ancestrales, promover la conservación de la AVEJA, aumentar la producción agrícola"
+  },
+  {
+   "start": 30.56,
+   "end": 34.8,
+   "text": "y mejorar los alimentos de los ingresos familiares. Además, contará como una compasitación de"
+  },
+  {
+   "start": 34.8,
+   "end": 38.72,
+   "text": "la aplicación BILLIFE para apoyar y desarrollar la sustinibilidad del programa."
+  },
+  {
+   "start": 38.72,
+   "end": 43.5,
+   "text": "Nuestra plataforma se centra en la seguridad y bienestar de las AVEJA. Primero, nuestra"
+  },
+  {
+   "start": 43.5,
+   "end": 48.24,
+   "text": "plataforma nos permite seleccionar nuestro país de procedencia. En este caso, seleccionamos"
+  },
+  {
+   "start": 48.24,
+   "end": 54.52,
+   "text": "Nicaragua. Luego de eso, la plataforma nos permite ver información sobre las AVEJA"
+  },
+  {
+   "start": 54.52,
+   "end": 61.6,
+   "text": "que hayan en nuestro país. Luego, está la opción de fotografiar una AVEJA o unido, así"
+  },
+  {
+   "start": 61.6,
+   "end": 66.76,
+   "text": "sacando características de este mismo. Luego, está la opción de API rescate, que este nos"
+  },
+  {
+   "start": 66.76,
+   "end": 73.96,
+   "text": "permite registrar situaciones de riesgo y organizar la información para seguimiento."
+  },
+  {
+   "start": 73.96,
+   "end": 78.28,
+   "text": "Luego, está la opción de API alerta, que explora condiciones de tiempo y recomendaciones"
+  },
+  {
+   "start": 78.28,
+   "end": 84.08,
+   "text": "previas, como lo es el cambio climático. Luego, está la opción de API, que es"
+  },
+  {
+   "start": 84.08,
+   "end": 89.72,
+   "text": "un chat de IA para que el usuario pueda hacer preguntas de todo tipo. Luego, está la opción"
+  },
+  {
+   "start": 89.72,
+   "end": 97.76,
+   "text": "de API reto y más el hábitat, que aquí nos permite la plataforma hacer un plan para que"
+  },
+  {
+   "start": 97.76,
+   "end": 102.48,
+   "text": "nuestro jardín esté apto para polinizadores. También está el apartado de comunidad para"
+  },
+  {
+   "start": 102.48,
+   "end": 106.96,
+   "text": "que los usuarios interactúen entre sí y los prototipos de colmenas. No están todos"
+  },
+  {
+   "start": 106.96,
+   "end": 110.76,
+   "text": "los tipos de colmenas que nos proporciona la plataforma."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 117.1
+}

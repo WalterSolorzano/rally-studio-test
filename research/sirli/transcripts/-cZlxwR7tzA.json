@@ -1,0 +1,172 @@
+{
+ "video_id": "-cZlxwR7tzA",
+ "url": "https://youtu.be/-cZlxwR7tzA",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MIDNIGTH SOLUTION'S",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MIDNIGTH SOLUTION'S",
+   "challenge": "05 - EVACUACIÓN"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:02:24+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En momentos de crisis, la velocidad y claridad son esenciales. Sin embargo, las señales de evacuación actuales no siempre son eficientes. Son simplemente señales visuales, limitadas a flecha y letreros estáticos, que no logran guiar a las personas de forma efectiva durante un desastre. Además, estos sistemas ignoran a quienes más necesitan asistencia, personas con discapacidades visuales o auditivas. Ellos, al igual que todos, merecen tener una guía clara y accesible. Por eso, nace Milu, un sistema revolucionario que transforma las señales de evacuación en una experiencia sensorial completa. Con Milu, las señales ya no son solo visuales, ahora también son táctiles y sonoras, para garantizar que toda la población, sin importar sus capacidades, pueda percibirlas de forma clara. Este sistema asegura que en cualquier situación de emergencia, todos puedan reaccionar a tiempo y de manera adecuada. Pero ¿cómo logramos integrar esta innovación en infraestructuras ya construidas? Con la ayuda de Milu IA, un inteligencia artificial que hemos desarrollado, podemos escanear los planos de cualquier edificio y generar un mapa de evacuación personalizado, adoptado específicamente a cada espacio. Además, hemos desarrollado una aplicación móvil que te permite encontrar rutas de evacuación segura en toda la ciudad, ya sea que esté en casa o en cualquier espacio público. La app te llevará a los centros de ayuda más cercanos, como estaciones de bomberos, cru azules o comisarias. Todas estas tecnologías forman parte del sistema Milu de evacuación, diseñado para transformar la seguridad en situaciones de emergencia, protegiendo a toda la población. Milu revolucionando la forma en que entendemos la seguridad en desastre, porque la seguridad es para todos.",
+ "segments": [
+  {
+   "start": 5.01,
+   "end": 8.77,
+   "text": "En momentos de crisis, la velocidad y claridad son esenciales."
+  },
+  {
+   "start": 8.77,
+   "end": 12.77,
+   "text": "Sin embargo, las señales de evacuación actuales no siempre son eficientes."
+  },
+  {
+   "start": 12.77,
+   "end": 17.45,
+   "text": "Son simplemente señales visuales, limitadas a flecha y letreros estáticos,"
+  },
+  {
+   "start": 17.45,
+   "end": 22.09,
+   "text": "que no logran guiar a las personas de forma efectiva durante un desastre."
+  },
+  {
+   "start": 22.09,
+   "end": 26.53,
+   "text": "Además, estos sistemas ignoran a quienes más necesitan asistencia,"
+  },
+  {
+   "start": 26.53,
+   "end": 29.65,
+   "text": "personas con discapacidades visuales o auditivas."
+  },
+  {
+   "start": 29.65,
+   "end": 34.17,
+   "text": "Ellos, al igual que todos, merecen tener una guía clara y accesible."
+  },
+  {
+   "start": 34.33,
+   "end": 37.53,
+   "text": "Por eso, nace Milu, un sistema revolucionario"
+  },
+  {
+   "start": 37.53,
+   "end": 42.21,
+   "text": "que transforma las señales de evacuación en una experiencia sensorial completa."
+  },
+  {
+   "start": 42.21,
+   "end": 47.77,
+   "text": "Con Milu, las señales ya no son solo visuales, ahora también son táctiles y sonoras,"
+  },
+  {
+   "start": 47.77,
+   "end": 51.93,
+   "text": "para garantizar que toda la población, sin importar sus capacidades,"
+  },
+  {
+   "start": 51.93,
+   "end": 54.61,
+   "text": "pueda percibirlas de forma clara."
+  },
+  {
+   "start": 54.61,
+   "end": 58.29,
+   "text": "Este sistema asegura que en cualquier situación de emergencia,"
+  },
+  {
+   "start": 58.29,
+   "end": 62.17,
+   "text": "todos puedan reaccionar a tiempo y de manera adecuada."
+  },
+  {
+   "start": 62.25,
+   "end": 67.13,
+   "text": "Pero ¿cómo logramos integrar esta innovación en infraestructuras ya construidas?"
+  },
+  {
+   "start": 67.13,
+   "end": 71.89,
+   "text": "Con la ayuda de Milu IA, un inteligencia artificial que hemos desarrollado,"
+  },
+  {
+   "start": 71.89,
+   "end": 74.61,
+   "text": "podemos escanear los planos de cualquier edificio"
+  },
+  {
+   "start": 74.61,
+   "end": 77.97,
+   "text": "y generar un mapa de evacuación personalizado,"
+  },
+  {
+   "start": 77.97,
+   "end": 81.45,
+   "text": "adoptado específicamente a cada espacio."
+  },
+  {
+   "start": 81.45,
+   "end": 84.81,
+   "text": "Además, hemos desarrollado una aplicación móvil"
+  },
+  {
+   "start": 84.81,
+   "end": 89.13,
+   "text": "que te permite encontrar rutas de evacuación segura en toda la ciudad,"
+  },
+  {
+   "start": 89.13,
+   "end": 92.17,
+   "text": "ya sea que esté en casa o en cualquier espacio público."
+  },
+  {
+   "start": 92.17,
+   "end": 95.53,
+   "text": "La app te llevará a los centros de ayuda más cercanos,"
+  },
+  {
+   "start": 95.53,
+   "end": 99.33,
+   "text": "como estaciones de bomberos, cru azules o comisarias."
+  },
+  {
+   "start": 99.33,
+   "end": 103.85,
+   "text": "Todas estas tecnologías forman parte del sistema Milu de evacuación,"
+  },
+  {
+   "start": 103.85,
+   "end": 107.97,
+   "text": "diseñado para transformar la seguridad en situaciones de emergencia,"
+  },
+  {
+   "start": 107.97,
+   "end": 110.17,
+   "text": "protegiendo a toda la población."
+  },
+  {
+   "start": 110.17,
+   "end": 115.01,
+   "text": "Milu revolucionando la forma en que entendemos la seguridad en desastre,"
+  },
+  {
+   "start": 115.01,
+   "end": 117.53,
+   "text": "porque la seguridad es para todos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 117.5
+}

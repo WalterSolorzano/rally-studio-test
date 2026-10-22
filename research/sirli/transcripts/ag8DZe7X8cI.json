@@ -1,0 +1,162 @@
+{
+ "video_id": "ag8DZe7X8cI",
+ "url": "https://youtu.be/ag8DZe7X8cI",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CHEPETRONICA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "CHEPETRONICA",
+   "challenge": "01 - APROVECHAMIENTO TETRA PAK"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:13:53+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que 3 de cada 4 embases de tetrapac consumidos en Latinoamérica nunca llegan a ser reciclados? Cada uno de estos embases están hechos de cartón, aluminio y plástico, materiales que podrían tener una segunda vida. Sin embargo, terminan en el suelo afectando cultivo y librando gases contaminantes cuando se queman. Mientras esto pasa, millones de personas en comunidades rurales de Latinoamérica vienen sin acceso a servicios básicos como agua potable o años dignos. Así que decidimos ponernos manos a la obra. Nuestra propuesta transforma embases tetrapac por consumo en láminas recicladas para la construcción de módulos sanitarios resistentes, impermeables y asequibles. Para tener la materia prima, hemos implementado un programa de responsabilidad social empresarial, complementado con una acta que incentiva el reciclaje de embases tetrapac, conectando empresas y ciudadanos. Una vez recolectados, los embases se limpian, trituran y prensan en caliente, aprovechando las propiedades del tetrapac para crear láminas resistentes y duraderas, que al moldearse y cortarse se ensambran fácilmente en cualquier comunidad. Nuestra propuesta transforma embases tetrapac por consumo en láminas recicladas para la construcción de módulos sanitarios resistentes, impermeables y asequibles. Cada módulo representa una oportunidad para mejorar la salud, la dignidad y la calidad de vida de las familias rurales. El acceso a un baño seguro reduce enfermedades. Pero el impacto no se detiene ahí. Este proyecto impulsa a nueva fuente de empleo local. Y cada pieza fabricada transforma 18 en recursos y contaminación en bienestar. Un embase que antes contaminaba, ahora puede transformar vidas, porque reciclar no solo cuida el planeta, también conserva la dignidad.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 14.34,
+   "text": "¿Sabías que 3 de cada 4 embases de tetrapac consumidos en Latinoamérica nunca llegan a"
+  },
+  {
+   "start": 14.34,
+   "end": 15.34,
+   "text": "ser reciclados?"
+  },
+  {
+   "start": 15.34,
+   "end": 19.64,
+   "text": "Cada uno de estos embases están hechos de cartón, aluminio y plástico, materiales"
+  },
+  {
+   "start": 19.64,
+   "end": 21.5,
+   "text": "que podrían tener una segunda vida."
+  },
+  {
+   "start": 21.5,
+   "end": 26.14,
+   "text": "Sin embargo, terminan en el suelo afectando cultivo y librando gases contaminantes cuando"
+  },
+  {
+   "start": 26.14,
+   "end": 27.14,
+   "text": "se queman."
+  },
+  {
+   "start": 27.14,
+   "end": 30.78,
+   "text": "Mientras esto pasa, millones de personas en comunidades rurales de Latinoamérica"
+  },
+  {
+   "start": 30.78,
+   "end": 34.62,
+   "text": "vienen sin acceso a servicios básicos como agua potable o años dignos."
+  },
+  {
+   "start": 34.62,
+   "end": 37.3,
+   "text": "Así que decidimos ponernos manos a la obra."
+  },
+  {
+   "start": 37.3,
+   "end": 42.1,
+   "text": "Nuestra propuesta transforma embases tetrapac por consumo en láminas recicladas para la"
+  },
+  {
+   "start": 42.1,
+   "end": 47.54,
+   "text": "construcción de módulos sanitarios resistentes, impermeables y asequibles."
+  },
+  {
+   "start": 47.54,
+   "end": 52.86,
+   "text": "Para tener la materia prima, hemos implementado un programa de responsabilidad social empresarial,"
+  },
+  {
+   "start": 52.86,
+   "end": 56.5,
+   "text": "complementado con una acta que incentiva el reciclaje de embases tetrapac, conectando"
+  },
+  {
+   "start": 56.5,
+   "end": 58.82,
+   "text": "empresas y ciudadanos."
+  },
+  {
+   "start": 58.82,
+   "end": 63.42,
+   "text": "Una vez recolectados, los embases se limpian, trituran y prensan en caliente, aprovechando"
+  },
+  {
+   "start": 63.42,
+   "end": 68.14,
+   "text": "las propiedades del tetrapac para crear láminas resistentes y duraderas, que al moldearse y"
+  },
+  {
+   "start": 68.14,
+   "end": 71.98,
+   "text": "cortarse se ensambran fácilmente en cualquier comunidad."
+  },
+  {
+   "start": 71.98,
+   "end": 76.86,
+   "text": "Nuestra propuesta transforma embases tetrapac por consumo en láminas recicladas para la"
+  },
+  {
+   "start": 76.86,
+   "end": 81.78,
+   "text": "construcción de módulos sanitarios resistentes, impermeables y asequibles."
+  },
+  {
+   "start": 81.78,
+   "end": 86.22,
+   "text": "Cada módulo representa una oportunidad para mejorar la salud, la dignidad y la calidad"
+  },
+  {
+   "start": 86.22,
+   "end": 88.1,
+   "text": "de vida de las familias rurales."
+  },
+  {
+   "start": 88.1,
+   "end": 90.9,
+   "text": "El acceso a un baño seguro reduce enfermedades."
+  },
+  {
+   "start": 90.9,
+   "end": 93.02,
+   "text": "Pero el impacto no se detiene ahí."
+  },
+  {
+   "start": 93.1,
+   "end": 95.62,
+   "text": "Este proyecto impulsa a nueva fuente de empleo local."
+  },
+  {
+   "start": 95.62,
+   "end": 100.5,
+   "text": "Y cada pieza fabricada transforma 18 en recursos y contaminación en bienestar."
+  },
+  {
+   "start": 100.5,
+   "end": 105.7,
+   "text": "Un embase que antes contaminaba, ahora puede transformar vidas, porque reciclar no"
+  },
+  {
+   "start": 105.7,
+   "end": 109.1,
+   "text": "solo cuida el planeta, también conserva la dignidad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 116.1
+}

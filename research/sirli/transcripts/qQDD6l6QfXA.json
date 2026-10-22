@@ -1,0 +1,102 @@
+{
+ "video_id": "qQDD6l6QfXA",
+ "url": "https://youtu.be/qQDD6l6QfXA",
+ "year": 2018,
+ "collection": "internacional",
+ "country": "ARGENTINA",
+ "team": "PATAGONIA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2018,
+   "collection": "internacional",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "PATAGONIA",
+   "challenge": "06 - BANDEJITAS BIODEGRADABLES PARA ALIMENTOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:11:05+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "¿Te preguntaste alguna vez el daño medioambiental que produce una sola bandeja de plástico? ¿Hacia dónde va? Una de las principales preocupaciones actuales es la contaminación ambiental y la repercusión que esto tendrá en el futuro de todos. Cada año acaban en el océano 8 millones de toneladas de plástico, equivalente a más de 340 ballenas. Un material que puede tardar siglos o más en desaparecer. ¿Es posible realizar nuestras actividades diarias sin contaminar el medio ambiente? Basado en esta importante problemática, desarrollamos una solución diseñando bandejas a base de dos materias primas. Algas marinas y carozo de cerezas obtenidas en el valle inferior del río Chubut. Ya que actualmente se producen más de mil toneladas anuales, de las cuales un 12% es descartado como desecho. La obtención de las mismas consiste en dos procesos principales. Por un lado, la extracción del uvio plástico a partir del desecado, ebullición y filtrado de la salga. Y por otro lado, la molienda de los carozos, para finalmente ser mezclados en calor y moldeados. Obteniendo así una bandeja orgánica que reduce el impacto ambiental y los tiempos de biodegradación. Ayudando también a la eliminación de galga agar agar, plaga de nuestras costas. Asimismo, se generará una producción local con empleo genuino.",
+ "segments": [
+  {
+   "start": 2.19,
+   "end": 7.19,
+   "text": "¿Te preguntaste alguna vez el daño medioambiental que produce una sola bandeja de plástico?"
+  },
+  {
+   "start": 7.19,
+   "end": 11.72,
+   "text": "¿Hacia dónde va?"
+  },
+  {
+   "start": 11.72,
+   "end": 18.72,
+   "text": "Una de las principales preocupaciones actuales es la contaminación ambiental y la repercusión que esto tendrá en el futuro de todos."
+  },
+  {
+   "start": 19.72,
+   "end": 26.72,
+   "text": "Cada año acaban en el océano 8 millones de toneladas de plástico, equivalente a más de 340 ballenas."
+  },
+  {
+   "start": 26.72,
+   "end": 29.72,
+   "text": "Un material que puede tardar siglos o más en desaparecer."
+  },
+  {
+   "start": 30.72,
+   "end": 41.16,
+   "text": "¿Es posible realizar nuestras actividades diarias sin contaminar el medio ambiente?"
+  },
+  {
+   "start": 41.16,
+   "end": 50.56,
+   "text": "Basado en esta importante problemática, desarrollamos una solución diseñando bandejas a base de dos materias primas."
+  },
+  {
+   "start": 50.56,
+   "end": 55.56,
+   "text": "Algas marinas y carozo de cerezas obtenidas en el valle inferior del río Chubut."
+  },
+  {
+   "start": 55.56,
+   "end": 62.56,
+   "text": "Ya que actualmente se producen más de mil toneladas anuales, de las cuales un 12% es descartado como desecho."
+  },
+  {
+   "start": 62.56,
+   "end": 73.82,
+   "text": "La obtención de las mismas consiste en dos procesos principales."
+  },
+  {
+   "start": 74.82,
+   "end": 79.82,
+   "text": "Por un lado, la extracción del uvio plástico a partir del desecado, ebullición y filtrado de la salga."
+  },
+  {
+   "start": 80.82,
+   "end": 102.69,
+   "text": "Y por otro lado, la molienda de los carozos, para finalmente ser mezclados en calor y moldeados."
+  },
+  {
+   "start": 104.69,
+   "end": 109.69,
+   "text": "Obteniendo así una bandeja orgánica que reduce el impacto ambiental y los tiempos de biodegradación."
+  },
+  {
+   "start": 110.69,
+   "end": 114.69,
+   "text": "Ayudando también a la eliminación de galga agar agar, plaga de nuestras costas."
+  },
+  {
+   "start": 114.69,
+   "end": 119.69,
+   "text": "Asimismo, se generará una producción local con empleo genuino."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 124.7
+}

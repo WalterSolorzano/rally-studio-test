@@ -1,0 +1,77 @@
+{
+ "video_id": "3y8XaliSK1c",
+ "url": "https://youtu.be/3y8XaliSK1c",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "GUACALITOS TEAM",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "GUACALITOS TEAM",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:37:43+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que Nicaragua pierde hasta 300 mil toneladas de producción agrícola al año debido a su irregularidad en la lluvia? Nuestro proyecto de sistema de riego por captación de agua de lluvia utiliza sensores que monitorean la humedad del suelo de los cultivos claves como frijol, arroz y maíz y se comunica inalámbricamente con válvulas automatizadas para que estas se activen cuando la humedad esté por debajo del nivel óptimo y se cierren automáticamente cuando alcance el nivel deseado al terminar de suministrar la cantidad de agua exacta que necesiten con el objetivo de minimizar el desperdicio en el contexto de los desafíos ambientales actuales dentro del que se encuentra la irregularidad lluviosa La inversión inicial de nuestro proyecto es de 895.99 dólares, la cual se estará recuperando en un período de 18 meses de acuerdo a la producción esperada de cada cultivo la cual oscilaría entre los 15 y 50 quintales por manzana Nuestra solución es económica, fácil de implementar y sostenible a largo plazo Además, aseguramos que las comunidades rurales puedan ser autosuficientes y resilientes frente a los fenómenos climáticos extremos Guacali, Agua Justa, Cultivo Óptimo",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.5,
+   "text": "¿Sabías que Nicaragua pierde hasta 300 mil toneladas de producción agrícola al año debido a su irregularidad en la lluvia?"
+  },
+  {
+   "start": 9.0,
+   "end": 20.0,
+   "text": "Nuestro proyecto de sistema de riego por captación de agua de lluvia utiliza sensores que monitorean la humedad del suelo de los cultivos claves como frijol, arroz y maíz"
+  },
+  {
+   "start": 20.0,
+   "end": 28.0,
+   "text": "y se comunica inalámbricamente con válvulas automatizadas para que estas se activen cuando la humedad esté por debajo del nivel óptimo"
+  },
+  {
+   "start": 28.0,
+   "end": 36.0,
+   "text": "y se cierren automáticamente cuando alcance el nivel deseado al terminar de suministrar la cantidad de agua exacta que necesiten"
+  },
+  {
+   "start": 36.0,
+   "end": 44.0,
+   "text": "con el objetivo de minimizar el desperdicio en el contexto de los desafíos ambientales actuales dentro del que se encuentra la irregularidad lluviosa"
+  },
+  {
+   "start": 44.0,
+   "end": 56.0,
+   "text": "La inversión inicial de nuestro proyecto es de 895.99 dólares, la cual se estará recuperando en un período de 18 meses de acuerdo a la producción esperada de cada cultivo"
+  },
+  {
+   "start": 56.0,
+   "end": 60.0,
+   "text": "la cual oscilaría entre los 15 y 50 quintales por manzana"
+  },
+  {
+   "start": 60.0,
+   "end": 66.0,
+   "text": "Nuestra solución es económica, fácil de implementar y sostenible a largo plazo"
+  },
+  {
+   "start": 66.0,
+   "end": 74.0,
+   "text": "Además, aseguramos que las comunidades rurales puedan ser autosuficientes y resilientes frente a los fenómenos climáticos extremos"
+  },
+  {
+   "start": 74.0,
+   "end": 78.0,
+   "text": "Guacali, Agua Justa, Cultivo Óptimo"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 80.5
+}

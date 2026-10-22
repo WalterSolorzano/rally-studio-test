@@ -1,0 +1,72 @@
+{
+ "video_id": "u9nQFaeITmY",
+ "url": "https://youtu.be/u9nQFaeITmY",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "FIVE - REX UML ST22",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "FIVE - REX UML ST22",
+   "challenge": "06 - LAS MORDEDURAS DE SERPIENTE A LA VISTA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:47:47+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Los animales venenosos representan una gran cantidad de muertes y lesiones en todo el mundo dependiendo de la zona geográfica. La mordedura de serpientes se ha convertido en un problema grave de salud pública, especialmente en las zonas rurales por no tener asistencia médica inmediata. No basta con las medidas preventivas ya existentes, como el tipo de calzado y el no frecuentar las áreas donde se conoce que habiten. Descripción de la solución Con nuestra propuesta innovadora pretendemos retenecer el vínculo existente entre el ser humano y los animales como lo es este tipo de reptil, comúnmente conocidas en mi caraba como culeras. La solución tiene como prioridad el procedimiento inofensivo para estos animales. No nombramos proyecto Hunter X5, un dispositivo capaz de atraer y controlar la conducta de la serpiente. El mecanismo se desarrolla en apertuación, captura y posteriormente en arrodicación en un terrario adecuado a su especie y tamaño, que cuente con una determinada luz y temperatura estable. Nuestro dispositivo de Hunter X5 estaba elaborado en base a materiales reciclados como son caja elaborada de colines, cilindro de aluminio, tubo PVC sanitario y ules.",
+ "segments": [
+  {
+   "start": 8.02,
+   "end": 16.02,
+   "text": "Los animales venenosos representan una gran cantidad de muertes y lesiones en todo el mundo dependiendo de la zona geográfica."
+  },
+  {
+   "start": 16.02,
+   "end": 25.02,
+   "text": "La mordedura de serpientes se ha convertido en un problema grave de salud pública, especialmente en las zonas rurales por no tener asistencia médica inmediata."
+  },
+  {
+   "start": 25.02,
+   "end": 34.02,
+   "text": "No basta con las medidas preventivas ya existentes, como el tipo de calzado y el no frecuentar las áreas donde se conoce que habiten."
+  },
+  {
+   "start": 34.02,
+   "end": 36.02,
+   "text": "Descripción de la solución"
+  },
+  {
+   "start": 36.02,
+   "end": 49.02,
+   "text": "Con nuestra propuesta innovadora pretendemos retenecer el vínculo existente entre el ser humano y los animales como lo es este tipo de reptil, comúnmente conocidas en mi caraba como culeras."
+  },
+  {
+   "start": 49.02,
+   "end": 55.02,
+   "text": "La solución tiene como prioridad el procedimiento inofensivo para estos animales."
+  },
+  {
+   "start": 55.02,
+   "end": 64.02,
+   "text": "No nombramos proyecto Hunter X5, un dispositivo capaz de atraer y controlar la conducta de la serpiente."
+  },
+  {
+   "start": 64.02,
+   "end": 78.02,
+   "text": "El mecanismo se desarrolla en apertuación, captura y posteriormente en arrodicación en un terrario adecuado a su especie y tamaño, que cuente con una determinada luz y temperatura estable."
+  },
+  {
+   "start": 78.02,
+   "end": 94.02,
+   "text": "Nuestro dispositivo de Hunter X5 estaba elaborado en base a materiales reciclados como son caja elaborada de colines, cilindro de aluminio, tubo PVC sanitario y ules."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.5
+}

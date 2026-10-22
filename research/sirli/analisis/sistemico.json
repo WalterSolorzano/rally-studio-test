@@ -1,0 +1,1575 @@
+{
+ "generado": "2026-10-22",
+ "filas": 5117,
+ "core": {
+  "n": 4181,
+  "tasa": 0.4106673044726142
+ },
+ "hipotesis": [
+  {
+   "id": "H01",
+   "family": "A. Evento",
+   "statement": "Las sedes pequeñas dan más primeros lugares por equipo",
+   "test": "cuartil inferior de `sede_size` vs resto (sede 2021–2026)",
+   "n1": 1300,
+   "k1": 707,
+   "n0": 2881,
+   "k0": 1010,
+   "r1": 0.5438461538461539,
+   "r0": 0.35057271780631727,
+   "diff": 0.1932734360398366,
+   "p": 9.547258388011812e-32,
+   "v": 0.18184860491430696,
+   "odds": 2.208600337268128,
+   "ci1": [
+    0.5166809745516956,
+    0.5707529591408634
+   ],
+   "ci0": [
+    0.3333585356805288,
+    0.36818486968356473
+   ],
+   "status": "a favor",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 1.8139790937222444e-30
+  },
+  {
+   "id": "H02",
+   "family": "A. Evento",
+   "statement": "Los desafíos poco concurridos elevan la probabilidad de primer lugar",
+   "test": "cuartil inferior de `challenge_size` vs resto (sede 2021–2026)",
+   "n1": 1088,
+   "k1": 438,
+   "n0": 3093,
+   "k0": 1279,
+   "r1": 0.4025735294117647,
+   "r0": 0.4135143873262205,
+   "diff": -0.01094085791445576,
+   "p": 0.5517640382263497,
+   "v": 0.00975776346669346,
+   "odds": 0.9557129969326998,
+   "ci1": [
+    0.373824477010668,
+    0.43200816391453584
+   ],
+   "ci0": [
+    0.3962764892232223,
+    0.43096685444666377
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.7583303150075452
+  },
+  {
+   "id": "H03",
+   "family": "A. Evento",
+   "statement": "Los desafíos masivos son una trampa: bajan la probabilidad de ganar",
+   "test": "cuartil superior de `challenge_size` vs resto",
+   "n1": 1207,
+   "k1": 488,
+   "n0": 2974,
+   "k0": 1229,
+   "r1": 0.40430820215410107,
+   "r0": 0.4132481506388702,
+   "diff": -0.008939948484769145,
+   "p": 0.6186378885587869,
+   "v": 0.00823481096356559,
+   "odds": 0.9636836262280017,
+   "ci1": [
+    0.3769674951474849,
+    0.4322561060237996
+   ],
+   "ci0": [
+    0.395673371877809,
+    0.4310467599116051
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↓",
+   "artefacto": false,
+   "q": 0.7583303150075452
+  },
+  {
+   "id": "H04",
+   "family": "A. Evento",
+   "statement": "Compartir desafío con varios equipos de la misma sede resta probabilidad",
+   "test": "≥3 premiados del mismo desafío en la sede vs resto",
+   "n1": 338,
+   "k1": 112,
+   "n0": 3843,
+   "k0": 1605,
+   "r1": 0.33136094674556216,
+   "r0": 0.4176424668227947,
+   "diff": -0.08628152007723255,
+   "p": 0.0024159719758906116,
+   "v": 0.04780857848315728,
+   "odds": 0.6910263832602762,
+   "ci1": [
+    0.2833213234049167,
+    0.38319088575862575
+   ],
+   "ci0": [
+    0.40213970010903893,
+    0.4333097241667097
+   ],
+   "status": "artefacto aritmético",
+   "note": "",
+   "expected": "↓",
+   "artefacto": true,
+   "q": 0.013115276440549035
+  },
+  {
+   "id": "H05",
+   "family": "A. Evento",
+   "statement": "La categoría Innovación convierte mejor que Impacto Social",
+   "test": "categoría Innovación vs Impacto Social",
+   "n1": 2073,
+   "k1": 858,
+   "n0": 2108,
+   "k0": 859,
+   "r1": 0.41389290882778584,
+   "r0": 0.4074952561669829,
+   "diff": 0.006397652660802944,
+   "p": 0.6972842981306759,
+   "v": 0.006502047124912741,
+   "odds": 1.0267868178617112,
+   "ci1": [
+    0.39286861439210713,
+    0.43523575331701425
+   ],
+   "ci0": [
+    0.38670568571868646,
+    0.42862137290161906
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "?",
+   "artefacto": false,
+   "q": 0.8061587385634191
+  },
+  {
+   "id": "H06",
+   "family": "A. Evento",
+   "statement": "La colección sede es más fácil que nacional o internacional",
+   "test": "sede vs nacional+internacional (2021+)",
+   "n1": 4181,
+   "k1": 1717,
+   "n0": 356,
+   "k0": 131,
+   "r1": 0.4106673044726142,
+   "r0": 0.36797752808988765,
+   "diff": 0.04268977638272653,
+   "p": 0.1291318343120526,
+   "v": 0.023363751485040336,
+   "odds": 1.1968530038663627,
+   "ci1": [
+    0.395843744357437,
+    0.4256548758053906
+   ],
+   "ci0": [
+    0.3195386043363165,
+    0.4192353450903201
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.2886476296387058
+  },
+  {
+   "id": "H07",
+   "family": "A. Evento",
+   "statement": "Nicaragua compite en internacional sin desventaja",
+   "test": "equipos nicaragüenses vs resto en internacional 2021+",
+   "n1": 8,
+   "k1": 5,
+   "n0": 31,
+   "k0": 7,
+   "r1": 0.625,
+   "r0": 0.22580645161290322,
+   "diff": null,
+   "p": null,
+   "status": "no concluyente",
+   "note": "",
+   "expected": "=",
+   "artefacto": false,
+   "q": NaN
+  },
+  {
+   "id": "H08",
+   "family": "A. Evento",
+   "statement": "Haber ganado antes aumenta la probabilidad de volver a ganar",
+   "test": "equipos con premios en años anteriores vs debutantes",
+   "n1": 315,
+   "k1": 123,
+   "n0": 3866,
+   "k0": 1594,
+   "r1": 0.3904761904761905,
+   "r0": 0.4123124676668391,
+   "diff": -0.021836277190648623,
+   "p": 0.48519163435023904,
+   "v": 0.011715458798903223,
+   "odds": 0.9131116687578419,
+   "ci1": [
+    0.33822933162978014,
+    0.4453622699680038
+   ],
+   "ci0": [
+    0.39688983697915264,
+    0.4279091935548103
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.7374912842123633
+  },
+  {
+   "id": "H09",
+   "family": "A. Evento",
+   "statement": "Jugar de local en Nicaragua da ventaja",
+   "test": "equipos nicaragüenses vs extranjeros en sedes de Nicaragua (2021+)",
+   "n1": 1118,
+   "k1": 476,
+   "n0": 3063,
+   "k0": 1241,
+   "r1": 0.4257602862254025,
+   "r0": 0.4051583414952661,
+   "diff": 0.020601944730136434,
+   "p": 0.2448358123306723,
+   "v": 0.018535193258243304,
+   "odds": 1.0885503349976529,
+   "ci1": [
+    0.3970786600393796,
+    0.4549503608134752
+   ],
+   "ci0": [
+    0.38790178969383454,
+    0.42265249520956577
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.48967162466134456
+  },
+  {
+   "id": "H10",
+   "family": "A. Evento",
+   "statement": "La probabilidad de primer lugar cae de forma monótona con el tamaño del desafío",
+   "test": "Spearman entre `challenge_size` y `won`",
+   "n1": 1207,
+   "k1": 488,
+   "n0": 1523,
+   "k0": 613,
+   "r1": 0.40430820215410107,
+   "r0": 0.4024950755088641,
+   "diff": 0.0018131266452369732,
+   "p": 0.7000852203313903,
+   "v": 0.0059590679892912455,
+   "rho": 0.0059590679892912455,
+   "terciles": [
+    [
+     0.0,
+     1523,
+     0.4024950755088641
+    ],
+    [
+     1.0,
+     1451,
+     0.42453480358373535
+    ],
+    [
+     2.0,
+     1207,
+     0.40430820215410107
+    ]
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↓",
+   "artefacto": false,
+   "q": 0.8061587385634191
+  },
+  {
+   "id": "H11",
+   "family": "A. Evento",
+   "statement": "La probabilidad de primer lugar cae con el tamaño de la delegación",
+   "test": "Spearman entre `sede_size` y `won`",
+   "n1": 2124,
+   "k1": 709,
+   "n0": 2057,
+   "k0": 1008,
+   "r1": 0.333804143126177,
+   "r0": 0.490034030140982,
+   "diff": -0.156229887014805,
+   "p": 1.5160934596380198e-36,
+   "v": 0.19347719250652642,
+   "rho": -0.19347719250652642,
+   "terciles": [
+    [
+     0.0,
+     2057,
+     0.490034030140982
+    ],
+    [
+     1.0,
+     2124,
+     0.333804143126177
+    ]
+   ],
+   "status": "artefacto aritmético",
+   "note": "",
+   "expected": "↓",
+   "artefacto": true,
+   "q": 5.761155146624475e-35
+  },
+  {
+   "id": "H12",
+   "family": "A. Evento",
+   "statement": "Los premios están concentrados en pocos equipos reincidentes",
+   "test": "índice de Gini de primeros lugares por equipo (sede 2021+)",
+   "n1": 3879,
+   "k1": 1717,
+   "n0": 0,
+   "k0": 0,
+   "r1": 0.5932465226869306,
+   "r0": 0.054746651135701825,
+   "diff": null,
+   "p": null,
+   "status": "descriptiva",
+   "note": "Gini y cuota del 1% de equipos con más títulos",
+   "expected": "↑",
+   "q": NaN
+  },
+  {
+   "id": "H13",
+   "family": "A. Evento",
+   "statement": "Dentro de cada desafío los tres puestos se reparten por igual",
+   "test": "chi-cuadrado de uniformidad 1.º/2.º/3.º",
+   "n1": 337,
+   "k1": 111,
+   "n0": 0,
+   "k0": 0,
+   "r1": null,
+   "r0": null,
+   "diff": null,
+   "p": 0.5590019184576389,
+   "status": "sin evidencia",
+   "note": "Si no es uniforme, hay un mecanismo de orden (o un sesgo de registro)",
+   "expected": "=",
+   "q": 0.7583303150075452
+  },
+  {
+   "id": "H14",
+   "family": "B. Video",
+   "statement": "Pasarse de 120 s mejora el resultado",
+   "test": "duración > 120 s vs ≤ 120 s (sede 2021+)",
+   "n1": 634,
+   "k1": 267,
+   "n0": 3527,
+   "k0": 1438,
+   "r1": 0.42113564668769715,
+   "r0": 0.4077119364899348,
+   "diff": 0.01342371019776234,
+   "p": 0.5559232936373825,
+   "v": 0.009809425056593666,
+   "odds": 1.0568777404281604,
+   "ci1": [
+    0.38329002126456546,
+    0.4599312424473028
+   ],
+   "ci0": [
+    0.3916028891914285,
+    0.42402180493248814
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.7583303150075452
+  },
+  {
+   "id": "H15",
+   "family": "B. Video",
+   "statement": "Los videos muy cortos (<60 s) pierden por falta de sustento",
+   "test": "<60 s vs resto",
+   "n1": 57,
+   "k1": 20,
+   "n0": 4104,
+   "k0": 1685,
+   "r1": 0.3508771929824561,
+   "r0": 0.4105750487329435,
+   "diff": -0.05969785575048736,
+   "p": 0.4385920781797171,
+   "v": 0.014109884646449359,
+   "odds": 0.7760044911380223,
+   "ci1": [
+    0.24000246078174028,
+    0.48058345411859105
+   ],
+   "ci0": [
+    0.3956145687619302,
+    0.42570278680504214
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↓",
+   "artefacto": false,
+   "q": 0.6944374571178855
+  },
+  {
+   "id": "H42",
+   "family": "B. Video",
+   "statement": "Quedarse muy por debajo del límite (≤110 s) cuesta",
+   "test": "≤110 s vs resto (sede 2021+)",
+   "n1": 1290,
+   "k1": 475,
+   "n0": 2871,
+   "k0": 1230,
+   "r1": 0.3682170542635659,
+   "r0": 0.4284221525600836,
+   "diff": -0.06020509829651771,
+   "p": 0.00029662696903828866,
+   "v": 0.056619802260774836,
+   "odds": 0.7775699536136466,
+   "ci1": [
+    0.3423238474108234,
+    0.3948928257893582
+   ],
+   "ci0": [
+    0.4104282061053367,
+    0.44660739543876227
+   ],
+   "status": "a favor",
+   "note": "",
+   "expected": "↓",
+   "artefacto": false,
+   "q": 0.00304542485366912
+  },
+  {
+   "id": "H16",
+   "family": "B. Video",
+   "statement": "La duración tiene relación monótona con ganar",
+   "test": "Spearman `duration_s` ↔ `won`",
+   "n1": 1208,
+   "k1": 531,
+   "n0": 1290,
+   "k0": 475,
+   "r1": 0.43956953642384106,
+   "r0": 0.3682170542635659,
+   "diff": 0.07135248216027518,
+   "p": 0.000935795480196263,
+   "v": 0.0540888648380215,
+   "rho": 0.0540888648380215,
+   "terciles": [
+    [
+     0.0,
+     1290,
+     0.3682170542635659
+    ],
+    [
+     1.0,
+     1242,
+     0.44041867954911434
+    ],
+    [
+     2.0,
+     1208,
+     0.43956953642384106
+    ]
+   ],
+   "status": "señal débil",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.0059267047079096654
+  },
+  {
+   "id": "H17",
+   "family": "B. Video",
+   "statement": "Acercarse al límite de 120 s es una ventaja",
+   "test": "Spearman `duration_ratio` ↔ `won`",
+   "n1": 1208,
+   "k1": 531,
+   "n0": 1290,
+   "k0": 475,
+   "r1": 0.43956953642384106,
+   "r0": 0.3682170542635659,
+   "diff": 0.07135248216027518,
+   "p": 0.000935795480196263,
+   "v": 0.0540888648380215,
+   "rho": 0.0540888648380215,
+   "terciles": [
+    [
+     0.0,
+     1290,
+     0.3682170542635659
+    ],
+    [
+     1.0,
+     1242,
+     0.44041867954911434
+    ],
+    [
+     2.0,
+     1208,
+     0.43956953642384106
+    ]
+   ],
+   "status": "señal débil",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.0059267047079096654
+  },
+  {
+   "id": "H18",
+   "family": "B. Video",
+   "statement": "Los títulos largos (más informativos) convierten mejor",
+   "test": "Spearman `title_words` ↔ `won`",
+   "n1": 1105,
+   "k1": 495,
+   "n0": 1657,
+   "k0": 643,
+   "r1": 0.4479638009049774,
+   "r0": 0.38805069402534703,
+   "diff": 0.05991310687963036,
+   "p": 0.0003205710372283284,
+   "v": 0.05575257384519623,
+   "rho": 0.05575257384519623,
+   "terciles": [
+    [
+     0.0,
+     1657,
+     0.38805069402534703
+    ],
+    [
+     1.0,
+     1399,
+     0.405289492494639
+    ],
+    [
+     2.0,
+     1105,
+     0.4479638009049774
+    ]
+   ],
+   "status": "señal débil",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.00304542485366912
+  },
+  {
+   "id": "H19",
+   "family": "B. Video",
+   "statement": "La longitud del título tiene relación con ganar",
+   "test": "Spearman `title_len` ↔ `won`",
+   "n1": 1358,
+   "k1": 590,
+   "n0": 1413,
+   "k0": 552,
+   "r1": 0.43446244477172313,
+   "r0": 0.39065817409766457,
+   "diff": 0.043804270674058565,
+   "p": 0.005711336314543628,
+   "v": 0.042840650138463846,
+   "rho": 0.042840650138463846,
+   "terciles": [
+    [
+     0.0,
+     1413,
+     0.39065817409766457
+    ],
+    [
+     1.0,
+     1390,
+     0.4050359712230216
+    ],
+    [
+     2.0,
+     1358,
+     0.43446244477172313
+    ]
+   ],
+   "status": "señal débil",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.021012450385842773
+  },
+  {
+   "id": "H20",
+   "family": "B. Video",
+   "statement": "Los títulos «editados» (con separadores) convierten mejor",
+   "test": "título con #, |, –, — o ' - ' vs título plano",
+   "n1": 1793,
+   "k1": 775,
+   "n0": 2368,
+   "k0": 930,
+   "r1": 0.43223647518126046,
+   "r0": 0.3927364864864865,
+   "diff": 0.039499988694773946,
+   "p": 0.011282024308741487,
+   "v": 0.039774212732749045,
+   "odds": 1.1771447282252783,
+   "ci1": [
+    0.4094750851714238,
+    0.45528761845253496
+   ],
+   "ci0": [
+    0.3732553823301504,
+    0.4125650535707969
+   ],
+   "status": "señal débil",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.032978224902475116
+  },
+  {
+   "id": "H21",
+   "family": "B. Video",
+   "statement": "Escribir el título en mayúsculas no ayuda",
+   "test": "título todo en mayúsculas vs mixto",
+   "n1": 1031,
+   "k1": 401,
+   "n0": 3130,
+   "k0": 1304,
+   "r1": 0.3889427740058196,
+   "r0": 0.41661341853035144,
+   "diff": -0.02767064452453183,
+   "p": 0.12591797367515475,
+   "v": 0.02429094460928897,
+   "odds": 0.8913063589443958,
+   "ci1": [
+    0.3596490075192882,
+    0.4190610868565081
+   ],
+   "ci0": [
+    0.3994544761540348,
+    0.4339767987387357
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↓",
+   "artefacto": false,
+   "q": 0.2886476296387058
+  },
+  {
+   "id": "H22",
+   "family": "B. Video",
+   "statement": "Un número en el título (dato, año, cifra) ayuda",
+   "test": "título con dígito vs sin dígito",
+   "n1": 2528,
+   "k1": 1072,
+   "n0": 1633,
+   "k0": 633,
+   "r1": 0.4240506329113924,
+   "r0": 0.387630128597673,
+   "diff": 0.036420504313719404,
+   "p": 0.02142701395248488,
+   "v": 0.036161897381975804,
+   "odds": 1.1631338645556655,
+   "ci1": [
+    0.4049151688082359,
+    0.4434165751681644
+   ],
+   "ci0": [
+    0.3642893170792996,
+    0.4114983950609587
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.05815903787103039
+  },
+  {
+   "id": "H23",
+   "family": "B. Video",
+   "statement": "Tener subtítulos se asocia a mejor resultado",
+   "test": "videos con pistas de subtítulos vs sin ellas",
+   "n1": 3616,
+   "k1": 1494,
+   "n0": 545,
+   "k0": 211,
+   "r1": 0.4131637168141593,
+   "r0": 0.3871559633027523,
+   "diff": 0.026007753511406995,
+   "p": 0.2695136660525257,
+   "v": 0.01784181079812016,
+   "odds": 1.1144721737071794,
+   "ci1": [
+    0.3972146297104492,
+    0.4292971159968767
+   ],
+   "ci0": [
+    0.3471860087279235,
+    0.42870561464756424
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.5120759654997988
+  },
+  {
+   "id": "H24",
+   "family": "C. Descripción",
+   "statement": "Una descripción rica (>80 caracteres) se asocia a ganar",
+   "test": ">80 caracteres vs resto",
+   "n1": 1192,
+   "k1": 529,
+   "n0": 2989,
+   "k0": 1188,
+   "r1": 0.4437919463087248,
+   "r0": 0.39745734359317497,
+   "diff": 0.046334602715549844,
+   "p": 0.006635510648160875,
+   "v": 0.04252076109487865,
+   "odds": 1.2095934203777343,
+   "ci1": [
+    0.41581226211802186,
+    0.4721327633769935
+   ],
+   "ci0": [
+    0.38005558858812116,
+    0.41512234531923975
+   ],
+   "status": "señal débil",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.021012450385842773
+  },
+  {
+   "id": "H25",
+   "family": "C. Descripción",
+   "statement": "Dejar la descripción casi vacía cuesta votos",
+   "test": "≤20 caracteres vs resto",
+   "n1": 2191,
+   "k1": 854,
+   "n0": 1990,
+   "k0": 863,
+   "r1": 0.38977635782747605,
+   "r0": 0.43366834170854274,
+   "diff": -0.04389198388106669,
+   "p": 0.0043762127682105785,
+   "v": 0.044558179500522786,
+   "odds": 0.8341412217213786,
+   "ci1": [
+    0.36956477144422073,
+    0.41037378995355855
+   ],
+   "ci0": [
+    0.41204247591932125,
+    0.4555498142606007
+   ],
+   "status": "señal débil (negativa)",
+   "note": "",
+   "expected": "↓",
+   "artefacto": false,
+   "q": 0.01847734279911133
+  },
+  {
+   "id": "H26",
+   "family": "C. Descripción",
+   "statement": "Poner una URL (web, repo, video) ayuda",
+   "test": "descripción con URL vs sin URL",
+   "n1": 89,
+   "k1": 38,
+   "n0": 4092,
+   "k0": 1679,
+   "r1": 0.42696629213483145,
+   "r0": 0.4103128054740958,
+   "diff": 0.016653486660735628,
+   "p": 0.83597861567209,
+   "v": 0.004886101563149273,
+   "odds": 1.0708288079972905,
+   "ci1": [
+    0.3293258447348048,
+    0.5306507174959193
+   ],
+   "ci0": [
+    0.3953322545636799,
+    0.4254615964485272
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.9076339255868405
+  },
+  {
+   "id": "H27",
+   "family": "C. Descripción",
+   "statement": "Usar la descripción solo para créditos no ayuda",
+   "test": "descripción con créditos/música vs resto",
+   "n1": 70,
+   "k1": 29,
+   "n0": 4111,
+   "k0": 1688,
+   "r1": 0.4142857142857143,
+   "r0": 0.41060569204573094,
+   "diff": 0.0036800222399833715,
+   "p": 1.0,
+   "v": 0.0009597711746562529,
+   "odds": 1.015301699225523,
+   "ci1": [
+    0.3062999792481417,
+    0.5311899993005356
+   ],
+   "ci0": [
+    0.39565767324291007,
+    0.42572062720005227
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↓",
+   "artefacto": false,
+   "q": 1.0
+  },
+  {
+   "id": "H28",
+   "family": "C. Descripción",
+   "statement": "Una descripción que explica la solución convierte mejor",
+   "test": "descripción con marcadores de solución vs resto",
+   "n1": 1192,
+   "k1": 529,
+   "n0": 2989,
+   "k0": 1188,
+   "r1": 0.4437919463087248,
+   "r0": 0.39745734359317497,
+   "diff": 0.046334602715549844,
+   "p": 0.006635510648160875,
+   "v": 0.04252076109487865,
+   "odds": 1.2095934203777343,
+   "ci1": [
+    0.41581226211802186,
+    0.4721327633769935
+   ],
+   "ci0": [
+    0.38005558858812116,
+    0.41512234531923975
+   ],
+   "status": "señal débil",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.021012450385842773
+  },
+  {
+   "id": "H29",
+   "family": "C. Descripción",
+   "statement": "Nombrar el desafío en el título del video ayuda",
+   "test": "título con ≥2 palabras del enunciado del desafío vs resto",
+   "n1": 716,
+   "k1": 277,
+   "n0": 3465,
+   "k0": 1440,
+   "r1": 0.38687150837988826,
+   "r0": 0.4155844155844156,
+   "diff": -0.02871290720452735,
+   "p": 0.16758174530855474,
+   "v": 0.02198769979037098,
+   "odds": 0.8873149202733486,
+   "ci1": [
+    0.3518908779907278,
+    0.42305961111687596
+   ],
+   "ci0": [
+    0.39927723905956963,
+    0.43207856571398934
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.35378368454028225
+  },
+  {
+   "id": "H30",
+   "family": "C. Descripción",
+   "statement": "Repetir el nombre del proyecto en la descripción ayuda",
+   "test": "nombre del proyecto presente en descripción vs no",
+   "n1": 227,
+   "k1": 115,
+   "n0": 3954,
+   "k0": 1602,
+   "r1": 0.5066079295154186,
+   "r0": 0.40515933232169954,
+   "diff": 0.10144859719371901,
+   "p": 0.003156632063257347,
+   "v": 0.04672742056263628,
+   "odds": 1.5074906367041196,
+   "ci1": [
+    0.4420021169487617,
+    0.570993807529322
+   ],
+   "ci0": [
+    0.38995644030464816,
+    0.42054633474324654
+   ],
+   "status": "a favor",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.0149940023004724
+  },
+  {
+   "id": "H31",
+   "family": "D. Texto",
+   "statement": "Mencionar la solución en el guion se asocia a ganar",
+   "test": "presencia de `t_solucion` en la transcripción vs ausencia",
+   "n1": 62,
+   "k1": 28,
+   "n0": 26,
+   "k0": 14,
+   "r1": 0.45161290322580644,
+   "r0": 0.5384615384615384,
+   "diff": -0.086848635235732,
+   "p": 0.6098405446971908,
+   "v": 0.07933082228811272,
+   "odds": 0.7058823529411764,
+   "ci1": [
+    0.3341951476826002,
+    0.5746770546940129
+   ],
+   "ci0": [
+    0.35457636204430115,
+    0.712444173047651
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.7583303150075452
+  },
+  {
+   "id": "H32",
+   "family": "D. Texto",
+   "statement": "Mencionar el problema se asocia a ganar",
+   "test": "presencia de `t_problema` en la transcripción vs ausencia",
+   "n1": 31,
+   "k1": 16,
+   "n0": 57,
+   "k0": 26,
+   "r1": 0.5161290322580645,
+   "r0": 0.45614035087719296,
+   "diff": 0.059988681380871545,
+   "p": 0.7529264642698822,
+   "v": 0.057369891624405686,
+   "odds": 1.2717948717948717,
+   "ci1": [
+    0.3484011828697317,
+    0.6803001396872116
+   ],
+   "ci0": [
+    0.33372399504811395,
+    0.5840953916872776
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.841506048301633
+  },
+  {
+   "id": "H33",
+   "family": "D. Texto",
+   "statement": "Mencionar el impacto social se asocia a ganar",
+   "test": "presencia de `t_impacto` en la transcripción vs ausencia",
+   "n1": 55,
+   "k1": 27,
+   "n0": 33,
+   "k0": 15,
+   "r1": 0.4909090909090909,
+   "r0": 0.45454545454545453,
+   "diff": 0.036363636363636376,
+   "p": 0.9122426025526754,
+   "v": 0.035245368842512066,
+   "odds": 1.157142857142857,
+   "ci1": [
+    0.3637656048710159,
+    0.6192396159251554
+   ],
+   "ci0": [
+    0.298426891258915,
+    0.6201434205625044
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.9629227471389351
+  },
+  {
+   "id": "H34",
+   "family": "D. Texto",
+   "statement": "Abrir con una pregunta se asocia a ganar",
+   "test": "presencia de `t_hook_pregunta` en la transcripción vs ausencia",
+   "n1": 33,
+   "k1": 13,
+   "n0": 55,
+   "k0": 29,
+   "r1": 0.3939393939393939,
+   "r0": 0.5272727272727272,
+   "diff": -0.1333333333333333,
+   "p": 0.32124991888379617,
+   "v": 0.12923301908921092,
+   "odds": 0.5827586206896552,
+   "ci1": [
+    0.24682882231508205,
+    0.5631685719348962
+   ],
+   "ci0": [
+    0.39791319071629383,
+    0.6530711468951919
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.5813093770278217
+  },
+  {
+   "id": "H35",
+   "family": "D. Texto",
+   "statement": "Presentar al equipo se asocia a ganar",
+   "test": "presencia de `t_equipo` en la transcripción vs ausencia",
+   "n1": 39,
+   "k1": 21,
+   "n0": 49,
+   "k0": 21,
+   "r1": 0.5384615384615384,
+   "r0": 0.42857142857142855,
+   "diff": 0.10989010989010989,
+   "p": 0.4176930703277105,
+   "v": 0.10929124924699356,
+   "odds": 1.5555555555555556,
+   "ci1": [
+    0.38569186821738816,
+    0.6843335276595165
+   ],
+   "ci0": [
+    0.3002310889895705,
+    0.5672975248298444
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.6913935941554419
+  },
+  {
+   "id": "H36",
+   "family": "D. Texto",
+   "statement": "Cerrar con una frase de cierre se asocia a ganar",
+   "test": "presencia de `t_cierre` en la transcripción vs ausencia",
+   "n1": 10,
+   "k1": 7,
+   "n0": 78,
+   "k0": 35,
+   "r1": 0.7,
+   "r0": 0.44871794871794873,
+   "diff": null,
+   "p": null,
+   "status": "no concluyente",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": NaN
+  },
+  {
+   "id": "H37",
+   "family": "D. Texto",
+   "statement": "Mostrar demo del producto se asocia a ganar",
+   "test": "presencia de `t_demo` en la transcripción vs ausencia",
+   "n1": 10,
+   "k1": 6,
+   "n0": 78,
+   "k0": 36,
+   "r1": 0.6,
+   "r0": 0.46153846153846156,
+   "diff": null,
+   "p": null,
+   "status": "no concluyente",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": NaN
+  },
+  {
+   "id": "H38",
+   "family": "D. Texto",
+   "statement": "Usar cifras se asocia a ganar",
+   "test": "presencia de `t_cifras` en la transcripción vs ausencia",
+   "n1": 25,
+   "k1": 12,
+   "n0": 63,
+   "k0": 30,
+   "r1": 0.48,
+   "r0": 0.47619047619047616,
+   "diff": 0.003809523809523818,
+   "p": 1.0,
+   "v": 0.0034395958024505554,
+   "odds": 1.0153846153846156,
+   "ci1": [
+    0.30031003928960015,
+    0.665017820468527
+   ],
+   "ci0": [
+    0.35781921387369653,
+    0.5972985570952808
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 1.0
+  },
+  {
+   "id": "H39",
+   "family": "D. Texto",
+   "statement": "El ritmo de habla tiene relación con ganar",
+   "test": "Spearman palabras/minuto ↔ won",
+   "n1": 29,
+   "k1": 17,
+   "n0": 30,
+   "k0": 14,
+   "r1": 0.5862068965517241,
+   "r0": 0.4666666666666667,
+   "diff": 0.11954022988505741,
+   "p": 0.12703062671503396,
+   "v": 0.16390461072151927,
+   "rho": 0.16390461072151927,
+   "terciles": [
+    [
+     0.0,
+     30,
+     0.4666666666666667
+    ],
+    [
+     1.0,
+     29,
+     0.3793103448275862
+    ],
+    [
+     2.0,
+     29,
+     0.5862068965517241
+    ]
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.2886476296387058
+  },
+  {
+   "id": "H40",
+   "family": "D. Texto",
+   "statement": "Un guion más denso (más palabras) convierte mejor",
+   "test": "Spearman `text_words` ↔ won",
+   "n1": 29,
+   "k1": 16,
+   "n0": 30,
+   "k0": 13,
+   "r1": 0.5517241379310345,
+   "r0": 0.43333333333333335,
+   "diff": 0.11839080459770113,
+   "p": 0.4184750701467148,
+   "v": 0.08733084131480576,
+   "rho": 0.08733084131480576,
+   "terciles": [
+    [
+     0.0,
+     30,
+     0.43333333333333335
+    ],
+    [
+     1.0,
+     29,
+     0.4482758620689655
+    ],
+    [
+     2.0,
+     29,
+     0.5517241379310345
+    ]
+   ],
+   "status": "sin evidencia",
+   "note": "",
+   "expected": "↑",
+   "artefacto": false,
+   "q": 0.6913935941554419
+  },
+  {
+   "id": "H41",
+   "family": "E. Registro",
+   "statement": "Los primeros lugares borran su video más seguido",
+   "test": "videos caídos entre internacionales (4 casos verificados)",
+   "n1": 19,
+   "k1": 2,
+   "n0": 39,
+   "k0": 2,
+   "r1": 0.10526315789473684,
+   "r0": 0.05128205128205128,
+   "diff": null,
+   "p": 0.5907299596954769,
+   "status": "sin evidencia",
+   "note": "Sesgo de supervivencia del archivo",
+   "expected": "↑",
+   "q": 0.7583303150075452
+  }
+ ],
+ "asociaciones": [
+  {
+   "variable": "views",
+   "kind": "numérica",
+   "v": 0.34946843728860394,
+   "p": 4.422727459586903e-108,
+   "n": 3747,
+   "dof": NaN,
+   "rho": 0.34946843728860394,
+   "q": 8.845454919173806e-107
+  },
+  {
+   "variable": "sede_size",
+   "kind": "numérica",
+   "v": 0.19347719250652642,
+   "p": 1.5160934596380198e-36,
+   "n": 4181,
+   "dof": NaN,
+   "rho": -0.19347719250652642,
+   "q": 1.5160934596380198e-35
+  },
+  {
+   "variable": "likes",
+   "kind": "numérica",
+   "v": 0.15801247135403104,
+   "p": 4.863438384122204e-19,
+   "n": 3146,
+   "dof": NaN,
+   "rho": 0.15801247135403104,
+   "q": 3.2422922560814697e-18
+  },
+  {
+   "variable": "country",
+   "kind": "categórica",
+   "v": 0.0869791482027111,
+   "p": 0.0015772989190073685,
+   "n": 4181,
+   "dof": 12.0,
+   "rho": NaN,
+   "q": 0.003943247297518421
+  },
+  {
+   "variable": "challenge_size_sede",
+   "kind": "numérica",
+   "v": 0.08289911031386929,
+   "p": 7.96370628046832e-08,
+   "n": 4181,
+   "dof": NaN,
+   "rho": -0.08289911031386929,
+   "q": 3.9818531402341606e-07
+  },
+  {
+   "variable": "duration_ratio",
+   "kind": "numérica",
+   "v": 0.0540888648380215,
+   "p": 0.000935795480196263,
+   "n": 3740,
+   "dof": NaN,
+   "rho": 0.0540888648380215,
+   "q": 0.0026737013719893227
+  },
+  {
+   "variable": "duration_s",
+   "kind": "numérica",
+   "v": 0.0540888648380215,
+   "p": 0.000935795480196263,
+   "n": 3740,
+   "dof": NaN,
+   "rho": 0.0540888648380215,
+   "q": 0.0026737013719893227
+  },
+  {
+   "variable": "desc_len",
+   "kind": "numérica",
+   "v": 0.05134552487389971,
+   "p": 0.0008962064084788407,
+   "n": 4181,
+   "dof": NaN,
+   "rho": 0.05134552487389971,
+   "q": 0.0026737013719893227
+  },
+  {
+   "variable": "year",
+   "kind": "categórica",
+   "v": 0.050334880082719205,
+   "p": 0.060074590920193044,
+   "n": 4181,
+   "dof": 5.0,
+   "rho": NaN,
+   "q": 0.09242244756952776
+  },
+  {
+   "variable": "desc_bucket",
+   "kind": "categórica",
+   "v": 0.04781736404005655,
+   "p": 0.008396596070466422,
+   "n": 4181,
+   "dof": 2.0,
+   "rho": NaN,
+   "q": 0.016793192140932844
+  },
+  {
+   "variable": "country_prior_rate",
+   "kind": "numérica",
+   "v": 0.04572483409034361,
+   "p": 0.003103860121980687,
+   "n": 4181,
+   "dof": NaN,
+   "rho": 0.04572483409034361,
+   "q": 0.006897466937734859
+  },
+  {
+   "variable": "challenge_theme",
+   "kind": "categórica",
+   "v": 0.04037767490311656,
+   "p": 0.5565520427982791,
+   "n": 4181,
+   "dof": 8.0,
+   "rho": NaN,
+   "q": 0.7369318108751477
+  },
+  {
+   "variable": "title_len",
+   "kind": "numérica",
+   "v": 0.03963510479416155,
+   "p": 0.01037503766639353,
+   "n": 4181,
+   "dof": NaN,
+   "rho": 0.03963510479416155,
+   "q": 0.018863704847988237
+  },
+  {
+   "variable": "title_bucket",
+   "kind": "categórica",
+   "v": 0.036997009684915795,
+   "p": 0.05718681432745874,
+   "n": 4181,
+   "dof": 2.0,
+   "rho": NaN,
+   "q": 0.09242244756952776
+  },
+  {
+   "variable": "wpm",
+   "kind": "numérica",
+   "v": 0.029008206126338292,
+   "p": 0.6097447200621742,
+   "n": 312,
+   "dof": NaN,
+   "rho": -0.029008206126338292,
+   "q": 0.7369318108751477
+  },
+  {
+   "variable": "text_words",
+   "kind": "numérica",
+   "v": 0.024542002820638467,
+   "p": 0.6658698662859415,
+   "n": 312,
+   "dof": NaN,
+   "rho": -0.024542002820638467,
+   "q": 0.7369318108751477
+  },
+  {
+   "variable": "team_prior_awards",
+   "kind": "numérica",
+   "v": 0.011070681666304488,
+   "p": 0.47421034150500574,
+   "n": 4181,
+   "dof": NaN,
+   "rho": -0.011070681666304488,
+   "q": 0.6774433450071511
+  },
+  {
+   "variable": "category",
+   "kind": "categórica",
+   "v": 0.006502047124912741,
+   "p": 0.6972842981306759,
+   "n": 4181,
+   "dof": 1.0,
+   "rho": NaN,
+   "q": 0.7369318108751477
+  },
+  {
+   "variable": "challenge_size",
+   "kind": "numérica",
+   "v": 0.0059590679892912455,
+   "p": 0.7000852203313903,
+   "n": 4181,
+   "dof": NaN,
+   "rho": 0.0059590679892912455,
+   "q": 0.7369318108751477
+  },
+  {
+   "variable": "over_limit",
+   "kind": "categórica",
+   "v": 0.0054049236329830955,
+   "p": 0.7746325091083561,
+   "n": 3740,
+   "dof": 1.0,
+   "rho": NaN,
+   "q": 0.7746325091083561
+  }
+ ],
+ "pares": [
+  {
+   "a": "challenge_size",
+   "b": "year",
+   "v": 0.33220725150709185,
+   "signed": 0.33220725150709185,
+   "p": 2.8231055802570653e-108,
+   "n": 4181,
+   "tipo": "spearman"
+  },
+  {
+   "a": "challenge_size",
+   "b": "sede_size",
+   "v": 0.043822157613014494,
+   "signed": 0.043822157613014494,
+   "p": 0.004595732788449332,
+   "n": 4181,
+   "tipo": "spearman"
+  },
+  {
+   "a": "sede_size",
+   "b": "country",
+   "v": 0.20968726591725587,
+   "signed": null,
+   "p": 4.963070381864237e-154,
+   "n": 4181,
+   "tipo": "cramer"
+  },
+  {
+   "a": "challenge_size_sede",
+   "b": "challenge_size",
+   "v": 0.22000401127721195,
+   "signed": 0.22000401127721195,
+   "p": 5.318436377264754e-47,
+   "n": 4181,
+   "tipo": "spearman"
+  },
+  {
+   "a": "duration_s",
+   "b": "year",
+   "v": 0.08362197233356031,
+   "signed": -0.08362197233356031,
+   "p": 3.035836419406707e-07,
+   "n": 3740,
+   "tipo": "spearman"
+  },
+  {
+   "a": "desc_len",
+   "b": "year",
+   "v": 0.01677063226066496,
+   "signed": -0.01677063226066496,
+   "p": 0.2782974028767663,
+   "n": 4181,
+   "tipo": "spearman"
+  },
+  {
+   "a": "title_len",
+   "b": "year",
+   "v": 0.08522848915304829,
+   "signed": 0.08522848915304829,
+   "p": 3.4030165693207996e-08,
+   "n": 4181,
+   "tipo": "spearman"
+  },
+  {
+   "a": "team_prior_awards",
+   "b": "year",
+   "v": 0.07737787782187971,
+   "signed": 0.07737787782187971,
+   "p": 5.462284710564699e-07,
+   "n": 4181,
+   "tipo": "spearman"
+  },
+  {
+   "a": "country_prior_rate",
+   "b": "country",
+   "v": 0.9523577553197364,
+   "signed": null,
+   "p": 0.0,
+   "n": 4181,
+   "tipo": "cramer"
+  }
+ ],
+ "curiosidades": [
+  [
+   "Tamaño del experimento",
+   "4.181 ediciones de sede entre 2021 y 2026, 4.181 videos distintos."
+  ],
+  [
+   "Un desafío puede ser una multitud o un pasillo vacío",
+   "El 5% más pequeño de las ediciones se juega con ≤37 equipos premiados en el desafío; el 5% más grande, con ≥139. La mediana es 102. Y da igual: convierte lo mismo."
+  ],
+  [
+   "Descripción mediana",
+   "15 caracteres. Un titular de periódico tiene ~60."
+  ],
+  [
+   "Silencio documental",
+   "52,4% de las fichas no explican nada del proyecto."
+  ],
+  [
+   "Testimonio",
+   "0% de las 426 transcripciones analizadas incluye voz de un usuario o beneficiario."
+  ],
+  [
+   "Duración",
+   "17,0% de los videos de sede 2021+ supera los 120 s; mediana 117 s. Los que ganan duran un segundo más que los que no: 117 contra 116."
+  ],
+  [
+   "Vistas",
+   "Mediana 61 vistas. El rally no se ve: se juzga."
+  ],
+  [
+   "Delegación",
+   "Donde la universidad lleva un solo equipo premiado, ese equipo gana el 85,1%. Donde lleva seis, el 33,4%."
+  ],
+  [
+   "El desafío más concurrido",
+   "«OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA» con 169 equipos premiados y 39,6% de primeros lugares."
+  ],
+  [
+   "El desafío más rentable",
+   "«SOSTENIBILIDAD AMBIENTAL ORIENTADA AL APROVECHAMIENTO DE RESIDUOS PLÁSTICOS EN FRANJAS COSTERAS»: 56,2% de primeros con 64 equipos (n≥30)."
+  ],
+  [
+   "País que mejor convierte",
+   "Colombia con 43,2% de primeros en 511 participaciones (sede 2021+)."
+  ]
+ ],
+ "conteo_estados": {
+  "a favor": 3,
+  "en contra": 0,
+  "sin evidencia": 25,
+  "señal débil": 7,
+  "señal débil (negativa)": 1,
+  "artefacto aritmético": 2,
+  "descriptiva": 1,
+  "no concluyente": 3,
+  "sin datos": 0,
+  "señal débil total": 8
+ }
+}

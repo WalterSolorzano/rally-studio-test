@@ -1,0 +1,97 @@
+{
+ "video_id": "ce3XsrgESBQ",
+ "url": "https://youtu.be/ce3XsrgESBQ",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "RCOFFEE NIC",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "RCOFFEE NIC",
+   "challenge": "02 - TRANSFORMACIÓN DE RESIDUOS DE UNA CAFETERÍA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:09:01+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Actualmente en Latinoamérica se presenta la problemática del poco aprovechamiento de residos orgánicos e inorgánicos en los establecimientos de cafeterías. Es por eso que RECOFINIC propone como solución innovadora EcoFilter, un filtro ideado para generar un impacto positivo en el sector agrícola, el cual está elaborado a partir del reciclaje de latos de aluminio y residuos de café, impulsando la revalorización de estos materiales. RECOFILTER está conformado por un cilindro aluminio con una maia al interior de este mismo material, la cual está diseñada para almacenar el bagazo del café previamente fermentado que se encargará de liberar múltiples nutrientes que favorecerán los cultivos agrícolas mediante un sistema de riesgo por aspersión, aportando beneficios como la salud y el crecimiento que nutrientes como el nitrógeno y fósforo brindan a las plantas debido a que se encuentran abundantes en el café. Este también funciona como un repelente natural para distintos insectos que representan plagas para los cultivos. La revalorización de estos materiales como el aluminio y el bagazo del café presentan una solución innovadora y factible a través del aprovechamiento de esto. RECOFINIC y EcoFilter revalorizando e innovando",
+ "segments": [
+  {
+   "start": 6.8,
+   "end": 11.54,
+   "text": "Actualmente en Latinoamérica se presenta la problemática del poco aprovechamiento de residos"
+  },
+  {
+   "start": 11.54,
+   "end": 14.82,
+   "text": "orgánicos e inorgánicos en los establecimientos de cafeterías."
+  },
+  {
+   "start": 14.82,
+   "end": 22.06,
+   "text": "Es por eso que RECOFINIC propone como solución innovadora EcoFilter, un filtro ideado para"
+  },
+  {
+   "start": 22.06,
+   "end": 27.7,
+   "text": "generar un impacto positivo en el sector agrícola, el cual está elaborado a partir del reciclaje"
+  },
+  {
+   "start": 27.7,
+   "end": 33.9,
+   "text": "de latos de aluminio y residuos de café, impulsando la revalorización de estos materiales."
+  },
+  {
+   "start": 33.9,
+   "end": 39.26,
+   "text": "RECOFILTER está conformado por un cilindro aluminio con una maia al interior de este mismo material,"
+  },
+  {
+   "start": 39.26,
+   "end": 45.62,
+   "text": "la cual está diseñada para almacenar el bagazo del café previamente fermentado que se encargará"
+  },
+  {
+   "start": 45.62,
+   "end": 50.78,
+   "text": "de liberar múltiples nutrientes que favorecerán los cultivos agrícolas mediante un sistema de"
+  },
+  {
+   "start": 50.78,
+   "end": 56.26,
+   "text": "riesgo por aspersión, aportando beneficios como la salud y el crecimiento que nutrientes como"
+  },
+  {
+   "start": 56.26,
+   "end": 61.5,
+   "text": "el nitrógeno y fósforo brindan a las plantas debido a que se encuentran abundantes en el café."
+  },
+  {
+   "start": 62.5,
+   "end": 67.62,
+   "text": "Este también funciona como un repelente natural para distintos insectos que representan plagas"
+  },
+  {
+   "start": 67.62,
+   "end": 72.72,
+   "text": "para los cultivos. La revalorización de estos materiales como el aluminio y el bagazo del"
+  },
+  {
+   "start": 72.72,
+   "end": 77.3,
+   "text": "café presentan una solución innovadora y factible a través del aprovechamiento de esto."
+  },
+  {
+   "start": 77.3,
+   "end": 81.98,
+   "text": "RECOFINIC y EcoFilter revalorizando e innovando"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 82.8
+}

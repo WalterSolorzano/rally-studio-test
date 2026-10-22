@@ -1,0 +1,92 @@
+{
+ "video_id": "ptgmUiu8DIQ",
+ "url": "https://youtu.be/ptgmUiu8DIQ?si=h8U8QyX5Q_zhPW3_",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CUZUSA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "CUZUSA",
+   "challenge": "06 - REMOCIÓN Y EXTRACCIÓN DE BARRO EN VIVIENDAS ANEGADAS"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:13:07+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Después de una inundación, muchas familias enfrentan una difícil realidad. Sus viviendas quedan cubiertas de barro y lodo, cuya limpieza requiere mucho tiempo y esfuerzo físico. Ante esta problemática, surge Kiawak, una propuesta tecnológica diseñada para facilitar la recuperación de los hogares afectados. Kiawak es una máquina portátil diseñada para extrasar barro como un lado en vivienda inundada. Su estructura compacta busca facilitar el desplazamiento en espacio reducido e integrar distintos mecanismos para simplificar las labores de limpieza. Una bomba especializada impulsa lodo a través de tuberías de descarga. El diseño también contempla la separación parcial del agua para facilitar el manejo del material extraído. La innovación de Kiawak consiste en integrar ablandamiento, la fragmentación y la extracción del barro de un solo equipo portátil. Esta propuesta busca reducir el esfuerzo físico y el tiempo dedicado a la limpieza, beneficiendo potencialmente a su familia, voluntario y brigadas comunitarias. Su diseño también contempla facilitar el acceso a espacio interior reducido, con una inversión estimada de $2.118.33 para fabricar el prototipo. Kiawak busca ofrecer una alternativa reutilizable de mantenimiento accesible y adictable a las necesidades de las comunidades. Nuestro objetivo es desarrollar una solución que facilite la limpieza, después de la inundaciones y contribuye a que las familias recuperen sus hogares en mejores condiciones. Kiawak innovación tecnológica al servicio de las comunidades.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.2,
+   "text": "Después de una inundación, muchas familias enfrentan una difícil realidad."
+  },
+  {
+   "start": 4.2,
+   "end": 10.0,
+   "text": "Sus viviendas quedan cubiertas de barro y lodo, cuya limpieza requiere mucho tiempo y esfuerzo físico."
+  },
+  {
+   "start": 10.0,
+   "end": 18.6,
+   "text": "Ante esta problemática, surge Kiawak, una propuesta tecnológica diseñada para facilitar la recuperación de los hogares afectados."
+  },
+  {
+   "start": 18.6,
+   "end": 23.8,
+   "text": "Kiawak es una máquina portátil diseñada para extrasar barro como un lado en vivienda inundada."
+  },
+  {
+   "start": 23.8,
+   "end": 32.8,
+   "text": "Su estructura compacta busca facilitar el desplazamiento en espacio reducido e integrar distintos mecanismos para simplificar las labores de limpieza."
+  },
+  {
+   "start": 32.8,
+   "end": 37.0,
+   "text": "Una bomba especializada impulsa lodo a través de tuberías de descarga."
+  },
+  {
+   "start": 37.0,
+   "end": 43.8,
+   "text": "El diseño también contempla la separación parcial del agua para facilitar el manejo del material extraído."
+  },
+  {
+   "start": 43.8,
+   "end": 51.4,
+   "text": "La innovación de Kiawak consiste en integrar ablandamiento, la fragmentación y la extracción del barro de un solo equipo portátil."
+  },
+  {
+   "start": 51.4,
+   "end": 61.4,
+   "text": "Esta propuesta busca reducir el esfuerzo físico y el tiempo dedicado a la limpieza, beneficiendo potencialmente a su familia, voluntario y brigadas comunitarias."
+  },
+  {
+   "start": 61.4,
+   "end": 72.4,
+   "text": "Su diseño también contempla facilitar el acceso a espacio interior reducido, con una inversión estimada de $2.118.33 para fabricar el prototipo."
+  },
+  {
+   "start": 72.4,
+   "end": 80.0,
+   "text": "Kiawak busca ofrecer una alternativa reutilizable de mantenimiento accesible y adictable a las necesidades de las comunidades."
+  },
+  {
+   "start": 80.0,
+   "end": 91.0,
+   "text": "Nuestro objetivo es desarrollar una solución que facilite la limpieza, después de la inundaciones y contribuye a que las familias recuperen sus hogares en mejores condiciones."
+  },
+  {
+   "start": 91.0,
+   "end": 95.0,
+   "text": "Kiawak innovación tecnológica al servicio de las comunidades."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 113.1
+}

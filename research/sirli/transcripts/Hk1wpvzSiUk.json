@@ -1,0 +1,72 @@
+{
+ "video_id": "Hk1wpvzSiUk",
+ "url": "https://youtu.be/Hk1wpvzSiUk",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CAVIZOO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "CAVIZOO",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:54:32+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Desde el 2000, América Latina ha sido afectada por más de 66 de la vez de tierra, que causaron casi 3.000 muertes. En 2015, la luz de Guatemala causó 350 muertes, y en 2017, en Colombia, causó 349 muertes y dejó a más de 45.000 personas afectadas. Particularmente son utilizamientos de tierra, que mayormente son destructivos en la fina América. Es por ello que nace el proyecto Seattle, que tiene como iniciativa prevenir la fertilidad humana, económica y danos a la misma estructura en comunidades, tanto rurales como urbanas. Se establecerán sistemas de alerta tempranas mediante sirenas comunitales que estarán ocultadas en punto estatal. Esto será mediante un dispositivo en el cual nos informará la saturación del suelo, los datos de humedad en el suelo y también los cambios climáticos de temperatura y de humedad en el suelo. Esto se informará a través de una aplicación web multi-plataforma y en el caso de las personas que viven en zonas muy alejadas y muy remotas, se tendrá un sistema de alarmas de alerta temprana con sirenas, que estas serán alimentadas por medio de energía renovable, dependiendo de la zona donde estén ubicadas serán paneles solares y energía eólica.",
+ "segments": [
+  {
+   "start": 11.95,
+   "end": 20.59,
+   "text": "Desde el 2000, América Latina ha sido afectada por más de 66 de la vez de tierra, que causaron casi 3.000 muertes."
+  },
+  {
+   "start": 20.59,
+   "end": 34.31,
+   "text": "En 2015, la luz de Guatemala causó 350 muertes, y en 2017, en Colombia, causó 349 muertes y dejó a más de 45.000 personas afectadas."
+  },
+  {
+   "start": 34.31,
+   "end": 42.07,
+   "text": "Particularmente son utilizamientos de tierra, que mayormente son destructivos en la fina América."
+  },
+  {
+   "start": 42.07,
+   "end": 55.99,
+   "text": "Es por ello que nace el proyecto Seattle, que tiene como iniciativa prevenir la fertilidad humana, económica y danos a la misma estructura en comunidades,"
+  },
+  {
+   "start": 55.99,
+   "end": 69.99,
+   "text": "tanto rurales como urbanas. Se establecerán sistemas de alerta tempranas mediante sirenas comunitales que estarán ocultadas en punto estatal."
+  },
+  {
+   "start": 69.99,
+   "end": 84.31,
+   "text": "Esto será mediante un dispositivo en el cual nos informará la saturación del suelo, los datos de humedad en el suelo y también los cambios climáticos de temperatura y de humedad en el suelo."
+  },
+  {
+   "start": 84.31,
+   "end": 93.91,
+   "text": "Esto se informará a través de una aplicación web multi-plataforma y en el caso de las personas que viven en zonas muy alejadas y muy remotas,"
+  },
+  {
+   "start": 93.91,
+   "end": 103.99,
+   "text": "se tendrá un sistema de alarmas de alerta temprana con sirenas, que estas serán alimentadas por medio de energía renovable,"
+  },
+  {
+   "start": 103.99,
+   "end": 111.19,
+   "text": "dependiendo de la zona donde estén ubicadas serán paneles solares y energía eólica."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.6
+}

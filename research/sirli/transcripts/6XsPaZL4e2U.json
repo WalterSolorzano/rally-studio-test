@@ -1,0 +1,242 @@
+{
+ "video_id": "6XsPaZL4e2U",
+ "url": "https://www.youtube.com/watch?v=6XsPaZL4e2U",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS MENTALISTAS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LOS MENTALISTAS",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:44:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cuando ocurre un desastre natural, cada segundo cuenta. Un terremoto, un huracán o una inundación pueden destruir mucho más que edificios. También pueden dejar comunidades enteras y comunicadas. Las redes celulares colapsan, internet deja de funcionar y los equipos de rescate pierden información vital. En medio del caos, comunicarse puede marcar la diferencia entre la vida y la muerte. Pero, ¿y si la solución estuviera en el bolsillo de cada persona? Presentamos una propuesta innovadora. Un sistema de comunicación de emergencia autónomo y de bajo costo, diseñado para funcionar incluso cuando las redes tradicionales fallan. ¿Cómo funciona? Mediante tecnología Bluetooth y pequeños módulos Lora, los dispositivos pueden transmitir mensajes de emergencia de un nodo a otro, creando una red alternativa que no depende de internet ni de la señal celular convencional. Pero nuestra propuesta va más allá de conectar personas. Incorpor a inteligencia para mejorar la respuesta ante las emergencias. El sistema analiza los mensajes recibidos, clasifica las solicitudes según su urgencia, identifica dispositivos que dejan de reportar y ayuda a localizar las zonas que necesitan atención prioritaria. De esta manera, los equipos de rescate pueden disponer de información más organizada para planificar sus acciones. ¿Y qué hace diferente a esta solución? Su accesibilidad y viabilidad económica. Con un presupuesto piloto de 13.800 dólares, proponemos implementar módulos de bajo costo, aprovechar dispositivos convencionales y capacitar a líderes comunitarios para fortalecer la preparación local. Además, una mejor planificación de los rescates puede contribuir a optimizar los recorridos, reducir desplazamientos innecesarios y aprovechar mejor los recursos disponibles. Porque cuando ocurre una emergencia, la tecnología debe estar al servicio de las personas. Nuestra visión es clara. Mantener conectadas a las comunidades, facilitar decisiones oportunas y contribuir a salvar vidas cuando los sistemas tradicionales dejan de funcionar. Conectividad resiliente, inteligencia para actuar, rescates más eficientes. Conectamos personas cuando más importa.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Cuando ocurre un desastre natural, cada segundo cuenta."
+  },
+  {
+   "start": 4.0,
+   "end": 10.0,
+   "text": "Un terremoto, un huracán o una inundación pueden destruir mucho más que edificios."
+  },
+  {
+   "start": 10.0,
+   "end": 14.0,
+   "text": "También pueden dejar comunidades enteras y comunicadas."
+  },
+  {
+   "start": 14.0,
+   "end": 18.0,
+   "text": "Las redes celulares colapsan, internet deja de funcionar"
+  },
+  {
+   "start": 18.0,
+   "end": 21.0,
+   "text": "y los equipos de rescate pierden información vital."
+  },
+  {
+   "start": 21.0,
+   "end": 27.0,
+   "text": "En medio del caos, comunicarse puede marcar la diferencia entre la vida y la muerte."
+  },
+  {
+   "start": 27.0,
+   "end": 31.0,
+   "text": "Pero, ¿y si la solución estuviera en el bolsillo de cada persona?"
+  },
+  {
+   "start": 31.0,
+   "end": 34.0,
+   "text": "Presentamos una propuesta innovadora."
+  },
+  {
+   "start": 34.0,
+   "end": 38.0,
+   "text": "Un sistema de comunicación de emergencia autónomo y de bajo costo,"
+  },
+  {
+   "start": 38.0,
+   "end": 42.0,
+   "text": "diseñado para funcionar incluso cuando las redes tradicionales fallan."
+  },
+  {
+   "start": 42.0,
+   "end": 44.0,
+   "text": "¿Cómo funciona?"
+  },
+  {
+   "start": 44.0,
+   "end": 47.0,
+   "text": "Mediante tecnología Bluetooth y pequeños módulos Lora,"
+  },
+  {
+   "start": 47.0,
+   "end": 52.0,
+   "text": "los dispositivos pueden transmitir mensajes de emergencia de un nodo a otro,"
+  },
+  {
+   "start": 52.0,
+   "end": 57.0,
+   "text": "creando una red alternativa que no depende de internet ni de la señal celular convencional."
+  },
+  {
+   "start": 57.0,
+   "end": 61.0,
+   "text": "Pero nuestra propuesta va más allá de conectar personas."
+  },
+  {
+   "start": 61.0,
+   "end": 65.0,
+   "text": "Incorpor a inteligencia para mejorar la respuesta ante las emergencias."
+  },
+  {
+   "start": 65.0,
+   "end": 68.0,
+   "text": "El sistema analiza los mensajes recibidos,"
+  },
+  {
+   "start": 68.0,
+   "end": 71.0,
+   "text": "clasifica las solicitudes según su urgencia,"
+  },
+  {
+   "start": 71.0,
+   "end": 74.0,
+   "text": "identifica dispositivos que dejan de reportar"
+  },
+  {
+   "start": 74.0,
+   "end": 78.0,
+   "text": "y ayuda a localizar las zonas que necesitan atención prioritaria."
+  },
+  {
+   "start": 78.0,
+   "end": 81.0,
+   "text": "De esta manera, los equipos de rescate pueden disponer de información"
+  },
+  {
+   "start": 81.0,
+   "end": 84.0,
+   "text": "más organizada para planificar sus acciones."
+  },
+  {
+   "start": 84.0,
+   "end": 87.0,
+   "text": "¿Y qué hace diferente a esta solución?"
+  },
+  {
+   "start": 87.0,
+   "end": 90.0,
+   "text": "Su accesibilidad y viabilidad económica."
+  },
+  {
+   "start": 90.0,
+   "end": 93.0,
+   "text": "Con un presupuesto piloto de 13.800 dólares,"
+  },
+  {
+   "start": 93.0,
+   "end": 96.0,
+   "text": "proponemos implementar módulos de bajo costo,"
+  },
+  {
+   "start": 96.0,
+   "end": 98.0,
+   "text": "aprovechar dispositivos convencionales"
+  },
+  {
+   "start": 98.0,
+   "end": 103.0,
+   "text": "y capacitar a líderes comunitarios para fortalecer la preparación local."
+  },
+  {
+   "start": 103.0,
+   "end": 106.0,
+   "text": "Además, una mejor planificación de los rescates"
+  },
+  {
+   "start": 106.0,
+   "end": 109.0,
+   "text": "puede contribuir a optimizar los recorridos,"
+  },
+  {
+   "start": 109.0,
+   "end": 111.0,
+   "text": "reducir desplazamientos innecesarios"
+  },
+  {
+   "start": 111.0,
+   "end": 114.0,
+   "text": "y aprovechar mejor los recursos disponibles."
+  },
+  {
+   "start": 114.0,
+   "end": 116.0,
+   "text": "Porque cuando ocurre una emergencia,"
+  },
+  {
+   "start": 116.0,
+   "end": 120.0,
+   "text": "la tecnología debe estar al servicio de las personas."
+  },
+  {
+   "start": 120.0,
+   "end": 122.0,
+   "text": "Nuestra visión es clara."
+  },
+  {
+   "start": 122.0,
+   "end": 124.0,
+   "text": "Mantener conectadas a las comunidades,"
+  },
+  {
+   "start": 124.0,
+   "end": 126.0,
+   "text": "facilitar decisiones oportunas"
+  },
+  {
+   "start": 126.0,
+   "end": 128.0,
+   "text": "y contribuir a salvar vidas"
+  },
+  {
+   "start": 128.0,
+   "end": 131.0,
+   "text": "cuando los sistemas tradicionales dejan de funcionar."
+  },
+  {
+   "start": 131.0,
+   "end": 133.0,
+   "text": "Conectividad resiliente,"
+  },
+  {
+   "start": 133.0,
+   "end": 135.0,
+   "text": "inteligencia para actuar,"
+  },
+  {
+   "start": 135.0,
+   "end": 137.0,
+   "text": "rescates más eficientes."
+  },
+  {
+   "start": 137.0,
+   "end": 140.0,
+   "text": "Conectamos personas cuando más importa."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 141.2
+}

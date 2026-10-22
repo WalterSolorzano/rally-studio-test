@@ -1,0 +1,252 @@
+{
+ "video_id": "GWDPeQz63r0",
+ "url": "https://youtu.be/GWDPeQz63r0",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "+CTRL",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "+CTRL",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T18:57:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada panel solar representa una promesa de energía limpia. Pero ¿qué sucede cuando termina su vida útil? En el año 2050, según la agencia internacional de energía renovable, Irene, la basura solar superará los 200 millones de toneladas. En Latinoamérica, su costoso reciclaje amenaza a condesatar una crisis de contaminación tóxica, mientras miles de familias carecen de un hogar. La oportunidad, transformar estos desechos en la transición energética en viviendas dignas para quienes más lo necesitan. Por eso, desde más control, presentamos Solaris, un eco hábitat comunitario que transforma los paneles solares desechados en una segunda oportunidad para construir viviendas más confortables, aprovechar el agua, producir alimentos y generar beneficios para la comunidad. Solaris reutiliza celtas solares que superan prueba de integridad y seguridad como una segunda piel exterior desmontable para las viviendas. Esa cubierta, separada de las paredes por una cámara de aire, reduce la entrada de calor durante el día, mientras que los bloques de tierra comprimida almacenan el calor y lo liberan lentamente durante la noche. Así, las viviendas se mantienen más frescas durante las horas de mayor temperatura. Y más templadas cuando llega el frío nocturno, mejorando el confort térmico de las familias. Pero una comunidad sostenible necesita más que viviendas. Por eso, Solaris integra un destilado solar que aproveche el calor del sol para evaporar y condensar el agua, separando impurezos. También, incorpora un vivero comunitario con paneles seleccionados como cubierta, donde las familias pueden cultivar alimentos frescos y plantes para su consumo y comercialización, fortaleciendo la economía local. Para optimizar sus recursos, módulos termoeléctricos aprovechan la diferencia de temperatura para generar electricidad destinadas a sensores de humedad del suelo. Estos se conectan a un microcontrolador que supervisa las condiciones del vivero y permite controlar el riesgo según las necesidades de los cultivos. Con 121.192 dólares, Solaris transformará 30 viviendas, sostenido por ingresos propios y apoyo externo. El proyecto garantiza su futuro y consolida un poderoso tritio impacto. Porque innovar no es solamente crear nuevas tecnologías, sino encontrar nuevas formas de conectar los recursos que ya tenemos para transformar vidas. Lo que ayer fue el final de un panel, hoy puede ser el comienzo de un hogar.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.8,
+   "text": "Cada panel solar representa una promesa de energía limpia."
+  },
+  {
+   "start": 2.8,
+   "end": 5.04,
+   "text": "Pero ¿qué sucede cuando termina su vida útil?"
+  },
+  {
+   "start": 5.04,
+   "end": 8.32,
+   "text": "En el año 2050, según la agencia internacional de energía renovable,"
+  },
+  {
+   "start": 8.32,
+   "end": 11.84,
+   "text": "Irene, la basura solar superará los 200 millones de toneladas."
+  },
+  {
+   "start": 11.84,
+   "end": 16.52,
+   "text": "En Latinoamérica, su costoso reciclaje amenaza a condesatar una crisis de contaminación tóxica,"
+  },
+  {
+   "start": 16.52,
+   "end": 18.64,
+   "text": "mientras miles de familias carecen de un hogar."
+  },
+  {
+   "start": 18.64,
+   "end": 21.92,
+   "text": "La oportunidad, transformar estos desechos en la transición energética"
+  },
+  {
+   "start": 21.92,
+   "end": 24.48,
+   "text": "en viviendas dignas para quienes más lo necesitan."
+  },
+  {
+   "start": 24.48,
+   "end": 27.16,
+   "text": "Por eso, desde más control, presentamos Solaris,"
+  },
+  {
+   "start": 27.24,
+   "end": 30.04,
+   "text": "un eco hábitat comunitario que transforma los paneles solares"
+  },
+  {
+   "start": 30.04,
+   "end": 34.12,
+   "text": "desechados en una segunda oportunidad para construir viviendas más confortables,"
+  },
+  {
+   "start": 34.12,
+   "end": 38.2,
+   "text": "aprovechar el agua, producir alimentos y generar beneficios para la comunidad."
+  },
+  {
+   "start": 38.2,
+   "end": 42.12,
+   "text": "Solaris reutiliza celtas solares que superan prueba de integridad y seguridad"
+  },
+  {
+   "start": 42.12,
+   "end": 45.24,
+   "text": "como una segunda piel exterior desmontable para las viviendas."
+  },
+  {
+   "start": 45.24,
+   "end": 48.28,
+   "text": "Esa cubierta, separada de las paredes por una cámara de aire,"
+  },
+  {
+   "start": 48.28,
+   "end": 50.36,
+   "text": "reduce la entrada de calor durante el día,"
+  },
+  {
+   "start": 50.36,
+   "end": 52.96,
+   "text": "mientras que los bloques de tierra comprimida almacenan el calor"
+  },
+  {
+   "start": 52.96,
+   "end": 54.8,
+   "text": "y lo liberan lentamente durante la noche."
+  },
+  {
+   "start": 54.88,
+   "end": 56.72,
+   "text": "Así, las viviendas se mantienen más frescas"
+  },
+  {
+   "start": 56.72,
+   "end": 61.02,
+   "text": "durante las horas de mayor temperatura."
+  },
+  {
+   "start": 61.02,
+   "end": 63.22,
+   "text": "Y más templadas cuando llega el frío nocturno,"
+  },
+  {
+   "start": 63.22,
+   "end": 65.54,
+   "text": "mejorando el confort térmico de las familias."
+  },
+  {
+   "start": 65.54,
+   "end": 68.22,
+   "text": "Pero una comunidad sostenible necesita más que viviendas."
+  },
+  {
+   "start": 68.22,
+   "end": 71.58,
+   "text": "Por eso, Solaris integra un destilado solar que aproveche el calor del sol"
+  },
+  {
+   "start": 71.58,
+   "end": 74.46,
+   "text": "para evaporar y condensar el agua, separando impurezos."
+  },
+  {
+   "start": 74.46,
+   "end": 76.22,
+   "text": "También, incorpora un vivero comunitario"
+  },
+  {
+   "start": 76.22,
+   "end": 78.02,
+   "text": "con paneles seleccionados como cubierta,"
+  },
+  {
+   "start": 78.02,
+   "end": 80.14,
+   "text": "donde las familias pueden cultivar alimentos frescos"
+  },
+  {
+   "start": 80.14,
+   "end": 82.34,
+   "text": "y plantes para su consumo y comercialización,"
+  },
+  {
+   "start": 82.34,
+   "end": 84.06,
+   "text": "fortaleciendo la economía local."
+  },
+  {
+   "start": 84.06,
+   "end": 85.34,
+   "text": "Para optimizar sus recursos,"
+  },
+  {
+   "start": 85.42,
+   "end": 88.06,
+   "text": "módulos termoeléctricos aprovechan la diferencia de temperatura"
+  },
+  {
+   "start": 88.06,
+   "end": 91.62,
+   "text": "para generar electricidad destinadas a sensores de humedad del suelo."
+  },
+  {
+   "start": 91.62,
+   "end": 93.54,
+   "text": "Estos se conectan a un microcontrolador"
+  },
+  {
+   "start": 93.54,
+   "end": 95.3,
+   "text": "que supervisa las condiciones del vivero"
+  },
+  {
+   "start": 95.3,
+   "end": 98.46,
+   "text": "y permite controlar el riesgo según las necesidades de los cultivos."
+  },
+  {
+   "start": 98.46,
+   "end": 102.78,
+   "text": "Con 121.192 dólares, Solaris transformará 30 viviendas,"
+  },
+  {
+   "start": 102.78,
+   "end": 105.1,
+   "text": "sostenido por ingresos propios y apoyo externo."
+  },
+  {
+   "start": 105.1,
+   "end": 106.54,
+   "text": "El proyecto garantiza su futuro"
+  },
+  {
+   "start": 106.54,
+   "end": 108.42,
+   "text": "y consolida un poderoso tritio impacto."
+  },
+  {
+   "start": 108.42,
+   "end": 111.14,
+   "text": "Porque innovar no es solamente crear nuevas tecnologías,"
+  },
+  {
+   "start": 111.14,
+   "end": 113.42,
+   "text": "sino encontrar nuevas formas de conectar los recursos"
+  },
+  {
+   "start": 113.42,
+   "end": 115.18,
+   "text": "que ya tenemos para transformar vidas."
+  },
+  {
+   "start": 115.74,
+   "end": 117.38,
+   "text": "Lo que ayer fue el final de un panel,"
+  },
+  {
+   "start": 117.38,
+   "end": 119.26,
+   "text": "hoy puede ser el comienzo de un hogar."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.4
+}

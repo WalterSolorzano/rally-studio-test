@@ -1,0 +1,177 @@
+{
+ "video_id": "2NALgGC36A8",
+ "url": "https://youtu.be/2NALgGC36A8",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TEAM-SPARK",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "TEAM-SPARK",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:20:57+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos The Spark. Soy Erickson. Soy Van. Luis. Soy Julio. Eral. Soy Stefanie. Entre el 2000 y 2022 49 millones de personas han sido afectadas en Latinoamérica por inundaciones. 28 mil millones de dólares perdidos al año, simplemente porque las ciudades son planchas de concreto y reaccionan a ciega ante esta emergencia. Nadie sabe cuándo se va a rebalzar el drenaje hasta que el agua entra a tu casa. ¿Quieres ver una solución? Somos HydroSync. Es un sistema de prevención de alerta temprana que evita que los causes se rebalcen a causa de sedimentos y basuras para que las zonas más vulnerables no se inunden. Sobre el canal instalamos un sensor ultrasonico autónomo de bajo costo que mide la altura del agua y detecta el lodo acumulado minuto a minuto. El canal cuenta con una franja de filtro vegetal que purifica el agua y evita el paso de sedimentos junto a una trampa para cualquier sedimento que no sea atrapado previamente. El reservorio libera el agua de manera controlada al sistema de drenaje. Si el canal se encuentra en un punto crítico de desborde, envíe una alerta por mensaje para limpiar o evacuar a tiempo el área que será afectada. HydroSync transforma el riesgo de ir y con prevención real alineándose directamente contra objetivos de desarrollo sostenible. El ODS-3 protegiendo la salud al erradicar foco de infección por agua estancada. El ODS-9 modernizando la infraestructura con telemetría solar y biofiltro de Betiber. Y el ODS-11 creando comunidades resilientes mediante alertas tempranas por SMS. Financiaramente, el modelo es altamente rentable y escalable, con apenas 7 puntos activos. Alcanzamos el punto de equilibrio, logrando una tasa interna de retorno proyectada del 80.95% y un periodo de recuperación de la inversión estimada tan solo a 6.5 meses. Pero nuestro mayor valor está en el retorno social de la inversión. Por cada dólar invertido proyectamos 7.55 dólares de beneficio social neto ajustado en el primer año y 12.61 dólares a 5 años mediante ahorros potenciales endragados, daños viales y protección a las comunidades. Y esto es... HydroSync. Anticipamos riesgos, protegemos el futuro.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Somos The Spark."
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": "Soy Erickson. Soy Van."
+  },
+  {
+   "start": 4.0,
+   "end": 5.0,
+   "text": "Luis. Soy Julio."
+  },
+  {
+   "start": 5.0,
+   "end": 7.0,
+   "text": "Eral. Soy Stefanie."
+  },
+  {
+   "start": 7.0,
+   "end": 13.0,
+   "text": "Entre el 2000 y 2022 49 millones de personas han sido afectadas en Latinoamérica por inundaciones."
+  },
+  {
+   "start": 13.0,
+   "end": 19.0,
+   "text": "28 mil millones de dólares perdidos al año, simplemente porque las ciudades son planchas de concreto"
+  },
+  {
+   "start": 19.0,
+   "end": 22.0,
+   "text": "y reaccionan a ciega ante esta emergencia."
+  },
+  {
+   "start": 22.0,
+   "end": 27.0,
+   "text": "Nadie sabe cuándo se va a rebalzar el drenaje hasta que el agua entra a tu casa."
+  },
+  {
+   "start": 27.0,
+   "end": 29.0,
+   "text": "¿Quieres ver una solución?"
+  },
+  {
+   "start": 29.0,
+   "end": 35.0,
+   "text": "Somos HydroSync. Es un sistema de prevención de alerta temprana que evita que los causes se rebalcen"
+  },
+  {
+   "start": 35.0,
+   "end": 41.0,
+   "text": "a causa de sedimentos y basuras para que las zonas más vulnerables no se inunden."
+  },
+  {
+   "start": 41.0,
+   "end": 48.0,
+   "text": "Sobre el canal instalamos un sensor ultrasonico autónomo de bajo costo que mide la altura del agua"
+  },
+  {
+   "start": 48.0,
+   "end": 51.0,
+   "text": "y detecta el lodo acumulado minuto a minuto."
+  },
+  {
+   "start": 51.0,
+   "end": 57.0,
+   "text": "El canal cuenta con una franja de filtro vegetal que purifica el agua y evita el paso de sedimentos"
+  },
+  {
+   "start": 57.0,
+   "end": 62.0,
+   "text": "junto a una trampa para cualquier sedimento que no sea atrapado previamente."
+  },
+  {
+   "start": 62.0,
+   "end": 66.0,
+   "text": "El reservorio libera el agua de manera controlada al sistema de drenaje."
+  },
+  {
+   "start": 66.0,
+   "end": 74.0,
+   "text": "Si el canal se encuentra en un punto crítico de desborde, envíe una alerta por mensaje para limpiar o evacuar a tiempo el área que será afectada."
+  },
+  {
+   "start": 74.0,
+   "end": 80.0,
+   "text": "HydroSync transforma el riesgo de ir y con prevención real alineándose directamente contra objetivos de desarrollo sostenible."
+  },
+  {
+   "start": 80.0,
+   "end": 84.0,
+   "text": "El ODS-3 protegiendo la salud al erradicar foco de infección por agua estancada."
+  },
+  {
+   "start": 84.0,
+   "end": 89.0,
+   "text": "El ODS-9 modernizando la infraestructura con telemetría solar y biofiltro de Betiber."
+  },
+  {
+   "start": 89.0,
+   "end": 93.0,
+   "text": "Y el ODS-11 creando comunidades resilientes mediante alertas tempranas por SMS."
+  },
+  {
+   "start": 93.0,
+   "end": 97.0,
+   "text": "Financiaramente, el modelo es altamente rentable y escalable, con apenas 7 puntos activos."
+  },
+  {
+   "start": 97.0,
+   "end": 102.0,
+   "text": "Alcanzamos el punto de equilibrio, logrando una tasa interna de retorno proyectada del 80.95%"
+  },
+  {
+   "start": 102.0,
+   "end": 106.0,
+   "text": "y un periodo de recuperación de la inversión estimada tan solo a 6.5 meses."
+  },
+  {
+   "start": 106.0,
+   "end": 109.0,
+   "text": "Pero nuestro mayor valor está en el retorno social de la inversión."
+  },
+  {
+   "start": 109.0,
+   "end": 114.0,
+   "text": "Por cada dólar invertido proyectamos 7.55 dólares de beneficio social neto ajustado en el primer año"
+  },
+  {
+   "start": 114.0,
+   "end": 119.0,
+   "text": "y 12.61 dólares a 5 años mediante ahorros potenciales endragados, daños viales y protección a las comunidades."
+  },
+  {
+   "start": 120.0,
+   "end": 121.0,
+   "text": "Y esto es..."
+  },
+  {
+   "start": 121.0,
+   "end": 122.0,
+   "text": "HydroSync."
+  },
+  {
+   "start": 122.0,
+   "end": 125.0,
+   "text": "Anticipamos riesgos, protegemos el futuro."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 125.5
+}

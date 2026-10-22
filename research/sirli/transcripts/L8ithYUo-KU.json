@@ -1,0 +1,52 @@
+{
+ "video_id": "L8ithYUo-KU",
+ "url": "https://youtu.be/L8ithYUo-KU?si=kEX2JrBBnkuh0z2D",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "IMPULSO CREATIVO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "IMPULSO CREATIVO",
+   "challenge": "07 - SALUD MÓVIL PARA MUJERES EN ZONAS RURALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:19:42+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El desafío consiste en desarrollar soluciones de bajo costo para la atención de la salud femenina en áreas rurales que prevean una comunicación fácil y oportuna con personal capacitado. En esta aplicación encontrarás un panel donde refleja soluciones prácticas para contrarrestar diferentes sintomología, tips para cuidado y tratamientos preventivos. En esta encontrarás las enfermedades más comunes y a la vez actualizando hacia nuevas epidemiologías.",
+ "segments": [
+  {
+   "start": 0.3,
+   "end": 11.75,
+   "text": "El desafío consiste en desarrollar soluciones de bajo costo para la atención de la salud"
+  },
+  {
+   "start": 11.75,
+   "end": 17.47,
+   "text": "femenina en áreas rurales que prevean una comunicación fácil y oportuna con personal"
+  },
+  {
+   "start": 17.47,
+   "end": 24.23,
+   "text": "capacitado. En esta aplicación encontrarás un panel donde refleja soluciones prácticas"
+  },
+  {
+   "start": 24.23,
+   "end": 30.27,
+   "text": "para contrarrestar diferentes sintomología, tips para cuidado y tratamientos preventivos."
+  },
+  {
+   "start": 30.27,
+   "end": 36.27,
+   "text": "En esta encontrarás las enfermedades más comunes y a la vez actualizando hacia nuevas epidemiologías."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 40.7
+}

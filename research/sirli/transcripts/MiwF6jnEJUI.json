@@ -1,0 +1,122 @@
+{
+ "video_id": "MiwF6jnEJUI",
+ "url": "https://youtu.be/MiwF6jnEJUI",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "FURIAVOLCÁNICA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "FURIAVOLCÁNICA",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:22:57+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imagina un mundo sin avesas mariposas mariquitas y otros vectores polinizantes. Estos serios de minutos tienen una gran importancia en nuestro sistema en Nicaragua, ya que más del 70% de los alimentos consumimos a diario se basan en la polinización para la reproducción de muchos planes. Ante esta realidad surge una pregunta, ¿Cómo podemos hacer para fomentar y crear estrategias para protegerlos, incluso en espacios reducidos? Por eso creamos Miskita, un sistema hidropónico para polinizadores, una propuesta que busca transformar espacios pequeños en áreas verdes que proporcionen recursos florales para polinizadores y que beneficien el crecimiento de producción de hortaliza. Su diseño permite cultivar sin suelo mediante agua y nutrientes. Además, aprovechamos mejor el recurso de la recirculación del agua. Integramos hidroponía y sensores IOT para monitorear la calidad del agua y sus trato de nutrientes para las plantas, facilitando el desarrollo del sistema, el cual también tiene como uno de sus principales objetivos promover un uso más eficiente del agua. Así combinamos tecnología y conservación ambiental en una solución adaptable a espacios rurales donde cualquier persona pueda optar por su implementación. Nuestro objetivo es fomentar la biodiversidad, educar y crear espacios más amigables con la naturaleza, porque cada espacio cuenta y cada acción importa. Miskita, porque sin polinizadores no hay futuro sostenible.",
+ "segments": [
+  {
+   "start": 1.04,
+   "end": 12.16,
+   "text": "Imagina un mundo sin avesas mariposas mariquitas y otros vectores polinizantes."
+  },
+  {
+   "start": 12.16,
+   "end": 16.48,
+   "text": "Estos serios de minutos tienen una gran importancia en nuestro sistema en Nicaragua, ya que más"
+  },
+  {
+   "start": 16.48,
+   "end": 21.04,
+   "text": "del 70% de los alimentos consumimos a diario se basan en la polinización para la reproducción"
+  },
+  {
+   "start": 21.04,
+   "end": 22.04,
+   "text": "de muchos planes."
+  },
+  {
+   "start": 22.04,
+   "end": 27.88,
+   "text": "Ante esta realidad surge una pregunta, ¿Cómo podemos hacer para fomentar y crear estrategias"
+  },
+  {
+   "start": 27.88,
+   "end": 32.8,
+   "text": "para protegerlos, incluso en espacios reducidos?"
+  },
+  {
+   "start": 32.8,
+   "end": 37.48,
+   "text": "Por eso creamos Miskita, un sistema hidropónico para polinizadores, una propuesta que busca"
+  },
+  {
+   "start": 37.48,
+   "end": 43.48,
+   "text": "transformar espacios pequeños en áreas verdes que proporcionen recursos florales para polinizadores"
+  },
+  {
+   "start": 43.48,
+   "end": 46.92,
+   "text": "y que beneficien el crecimiento de producción de hortaliza."
+  },
+  {
+   "start": 46.92,
+   "end": 50.8,
+   "text": "Su diseño permite cultivar sin suelo mediante agua y nutrientes."
+  },
+  {
+   "start": 50.8,
+   "end": 56.44,
+   "text": "Además, aprovechamos mejor el recurso de la recirculación del agua."
+  },
+  {
+   "start": 56.44,
+   "end": 61.08,
+   "text": "Integramos hidroponía y sensores IOT para monitorear la calidad del agua y sus trato"
+  },
+  {
+   "start": 61.08,
+   "end": 65.6,
+   "text": "de nutrientes para las plantas, facilitando el desarrollo del sistema, el cual también"
+  },
+  {
+   "start": 65.6,
+   "end": 71.08,
+   "text": "tiene como uno de sus principales objetivos promover un uso más eficiente del agua."
+  },
+  {
+   "start": 71.08,
+   "end": 76.96,
+   "text": "Así combinamos tecnología y conservación ambiental en una solución adaptable a espacios rurales"
+  },
+  {
+   "start": 76.96,
+   "end": 81.84,
+   "text": "donde cualquier persona pueda optar por su implementación."
+  },
+  {
+   "start": 81.84,
+   "end": 86.12,
+   "text": "Nuestro objetivo es fomentar la biodiversidad, educar y crear espacios más amigables"
+  },
+  {
+   "start": 86.12,
+   "end": 90.32,
+   "text": "con la naturaleza, porque cada espacio cuenta y cada acción importa."
+  },
+  {
+   "start": 90.32,
+   "end": 93.44,
+   "text": "Miskita, porque sin polinizadores no hay futuro sostenible."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 96.0
+}

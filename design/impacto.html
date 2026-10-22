@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rally Design · Impacto y Plan País</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="kit.css">
+<link rel="stylesheet" href="impacto.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+</head><body>
+<aside class="sidebar">
+  <div class="logo"><span class="r">RALLY</span><span class="s">STUDIO</span></div>
+  <a href="index.html" title="Carrusel de equipo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg><span class="tip">Carrusel de equipo</span></a>
+  <a href="kit.html" title="Kit de prensa"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M8 4v5"/></svg><span class="tip">Kit de prensa</span></a>
+  <a href="thumb.html" title="Thumbnail"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="5" width="20" height="14" rx="2"/><polygon points="10,9 16,12 10,15"/></svg><span class="tip">Thumbnail de YouTube</span></a>
+  <a class="active" href="impacto.html" title="Impacto y Plan País"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.6"/></svg><span class="tip">Impacto y Plan País</span></a>
+  <div class="spacer"></div>
+  <div class="foot">Rally Studio</div>
+</aside>
+<main>
+
+<header class="top">
+  <div>
+    <div class="page-logo"><span class="r">RALLY</span><span class="s">STUDIO</span></div>
+    <p class="cmd">// RALLY DESIGN · IMPACTO Y PLAN PAÍS</p>
+    <h1>Impacto y Plan País</h1>
+    <p>Clips de alineación ODS y Plan Nacional de Lucha contra la Pobreza y para el Desarrollo Humano 2022–2026, animados y grabables. <a href="index.html">← Carrusel de equipo</a> · <a href="kit.html">Kit de prensa</a> · <a href="thumb.html">Thumbnail →</a></p>
+  </div>
+</header>
+
+<section>
+  <div class="layout">
+    <div class="preview-col">
+      <div class="preview-frame">
+        <div class="thumb-stage">
+          <div class="lamina-canvas" id="laminaImp"></div>
+        </div>
+        <div class="btn-row">
+          <button class="sec" id="verAnim">Ver animación</button>
+          <span class="status" id="statusRepro"></span>
+        </div>
+      </div>
+    </div>
+    <div class="ctrl-col">
+      <details class="ctrl" open>
+        <summary>Preset y láminas</summary>
+        <div class="body">
+          <div class="field"><label>Tipo de lámina</label>
+            <select id="laminaSel" class="oculto">
+              <option value="mosaico">Mosaico ODS</option>
+              <option value="ficha">Ficha por ODS</option>
+              <option value="plan">Plan País</option>
+            </select>
+            <div id="laminaTapiz" class="lamina-tapiz"></div>
+          </div>
+          <div class="field" id="fichaOdsWrap"><label>ODS de la ficha</label><select id="fichaOds"></select></div>
+        </div>
+      </details>
+
+      <details class="ctrl" open>
+        <summary>ODS del proyecto</summary>
+        <div class="body">
+          <div class="chip-row" id="chipsOds"></div>
+          <p class="note">Los ODS del brief van marcados solos; los demás se activan a mano. El estado se guarda con la identidad del equipo.</p>
+        </div>
+      </details>
+
+      <details class="ctrl">
+        <summary>Plan País</summary>
+        <div class="body">
+          <div class="grid g2 field">
+            <div><label>Modo</label>
+              <select id="planModo">
+                <option value="">Auto (según certamen)</option>
+                <option value="nacional">Nacional · PNDH 2022–2026</option>
+                <option value="latam">Latam · Agenda sostenible</option>
+              </select>
+            </div>
+            <div><label>Municipio / ciudad ancla</label><input type="text" id="planMuni" placeholder="Ej. Matagalpa"></div>
+            <div><label>Eje del plan (opcional)</label><input type="text" id="planEje" placeholder="Ej. Criando Futures: familias en movimiento"></div>
+          </div>
+          <div class="field"><label>Cifra (a mano, nada autogenerado)</label><input type="text" id="planCifra" placeholder="Ej. 240 familias"></div>
+          <div class="field"><label>Texto de apoyo</label><textarea id="planTexto" rows="3"></textarea></div>
+        </div>
+      </details>
+
+      <details class="ctrl">
+        <summary>Animación</summary>
+        <div class="body" id="animBody"></div>
+      </details>
+
+      <details class="ctrl">
+        <summary>Narración</summary>
+        <div class="body">
+          <div id="narBody"></div>
+          <p class="status" id="statusIA"></p>
+        </div>
+      </details>
+
+      <details class="ctrl">
+        <summary>Exportar</summary>
+        <div class="body">
+          <div class="field"><label>Nombre del clip (sin extensión)</label><input type="text" id="archivo" placeholder="clip_odsmosaico"></div>
+          <div class="btn-row">
+            <button id="exportPng">PNG de la lámina</button>
+            <button id="grabar">Grabar clip</button>
+          </div>
+          <label class="check" id="micWrap"><input type="checkbox" id="chkMico"> Incluir micrófono en la grabación</label>
+          <p class="status" id="statusExport"></p>
+        </div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<script src="shared.js"></script>
+<script src="contenido.js"></script>
+<script src="ods_data.js"></script>
+<script src="fonts.js"></script>
+<script src="config.js"></script>
+<script src="ia.js"></script>
+<script src="impacto.js"></script>
+</body></html>

@@ -1,0 +1,97 @@
+{
+ "video_id": "TOeCqtUVOaE",
+ "url": "https://youtu.be/TOeCqtUVOaE",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "IMAGINADORES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "IMAGINADORES",
+   "challenge": "03 - AGUA SEGURA"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:28:45+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Para nadie es un secreto que el agua segura representa una problemática no solo a nivel latinoamericano, sino que a nivel mundial. En base a esto se han creado diversas alternativas de purificación de agua. Pero, ¿quién garantiza de que las implementemos de la manera correcta? Más bien, preguntémonos. ¿Cómo nos aseguramos de que después de realizar algún proceso de filtración, estamos consumiendo agua segura? Esto no significa que no existan herramientas para medir la inocuidad del agua. No obstante, seamos honestos. A menudo, estas son demasiado caras o contaminan mucho. ¿Se imaginan un dispositivo que, aparte de decirles si el agua es apta para usar, les viene métodos de filtración naturales y asequibles? Ahora, dejemos de imaginarlo. Y centrémonos en AquaWare, un aparato tecnológico que, por medio de su sistema innovador, implemente un test de almohadías de fibra de vidrio capaz de determinar si el agua que quieres usar es segura o no. Enviando los datos via Bluetooth a través de tu dispositivo móvil de la mano de una aplicación y reflejando los resultados obtenidos del análisis en conjunto con opciones naturales, fáciles y asequibles de filtración de agua. Lo mejor de todo es que es un dispositivo reutilizable, con una larga vida útil, una sola inversión para una buena acción.",
+ "segments": [
+  {
+   "start": 2.16,
+   "end": 9.58,
+   "text": "Para nadie es un secreto que el agua segura representa una problemática no solo a nivel latinoamericano, sino que a nivel mundial."
+  },
+  {
+   "start": 9.58,
+   "end": 14.16,
+   "text": "En base a esto se han creado diversas alternativas de purificación de agua."
+  },
+  {
+   "start": 14.16,
+   "end": 17.9,
+   "text": "Pero, ¿quién garantiza de que las implementemos de la manera correcta?"
+  },
+  {
+   "start": 17.9,
+   "end": 20.16,
+   "text": "Más bien, preguntémonos."
+  },
+  {
+   "start": 20.16,
+   "end": 27.16,
+   "text": "¿Cómo nos aseguramos de que después de realizar algún proceso de filtración, estamos consumiendo agua segura?"
+  },
+  {
+   "start": 27.16,
+   "end": 31.46,
+   "text": "Esto no significa que no existan herramientas para medir la inocuidad del agua."
+  },
+  {
+   "start": 31.46,
+   "end": 37.46,
+   "text": "No obstante, seamos honestos. A menudo, estas son demasiado caras o contaminan mucho."
+  },
+  {
+   "start": 37.46,
+   "end": 45.96,
+   "text": "¿Se imaginan un dispositivo que, aparte de decirles si el agua es apta para usar, les viene métodos de filtración naturales y asequibles?"
+  },
+  {
+   "start": 45.96,
+   "end": 47.46,
+   "text": "Ahora, dejemos de imaginarlo."
+  },
+  {
+   "start": 47.46,
+   "end": 53.46,
+   "text": "Y centrémonos en AquaWare, un aparato tecnológico que, por medio de su sistema innovador,"
+  },
+  {
+   "start": 53.46,
+   "end": 60.46,
+   "text": "implemente un test de almohadías de fibra de vidrio capaz de determinar si el agua que quieres usar es segura o no."
+  },
+  {
+   "start": 60.46,
+   "end": 66.46,
+   "text": "Enviando los datos via Bluetooth a través de tu dispositivo móvil de la mano de una aplicación"
+  },
+  {
+   "start": 66.46,
+   "end": 76.46,
+   "text": "y reflejando los resultados obtenidos del análisis en conjunto con opciones naturales, fáciles y asequibles de filtración de agua."
+  },
+  {
+   "start": 76.46,
+   "end": 84.46,
+   "text": "Lo mejor de todo es que es un dispositivo reutilizable, con una larga vida útil, una sola inversión para una buena acción."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 91.3
+}

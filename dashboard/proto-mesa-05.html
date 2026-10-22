@@ -1,0 +1,1176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PASO 03 · Retos uno a uno — Prototipo v5</title>
+<link rel="icon" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700;800&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+﻿/* ══════════════════════════════════════════════════════════════════════════
+   PROTOTIPO v5 · Carrusel 1 a 1 dentro de la hoja real del PASO 03.
+   Clases nuevas con prefijo .cr- (no toca ninguna clase existente del app).
+   Solo tokens de style.css + dos hex de estado ya usados por el app
+   (#B91C1C / #DC2626 rojo descarte) y los colores oficiales de ODS.
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.cr { display: flex; flex-direction: column; gap: 14px; }
+
+/* ── barra del carrusel ───────────────────────────────────────────────── */
+.cr-bar {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  padding-bottom: 10px; border-bottom: 1px solid var(--border-light);
+}
+.cr-nav { display: inline-flex; align-items: center; gap: 6px; }
+.cr-arrow {
+  width: 30px; height: 30px; display: grid; place-items: center; cursor: pointer;
+  border: 1px solid var(--border-light); background: #fff; border-radius: var(--radius-sm);
+  color: var(--text-title); font-size: 15px; line-height: 1;
+}
+.cr-arrow:hover:not(:disabled) { border-color: var(--color-primary); color: var(--color-primary); }
+.cr-arrow:disabled { opacity: .35; cursor: not-allowed; }
+.cr-count { font-family: var(--font-mono); font-size: 11.5px; font-weight: 800; color: var(--text-title); }
+.cr-count b { color: var(--color-primary); }
+.cr-count span { color: var(--text-muted); font-weight: 700; }
+.cr-keys { font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); }
+.cr-map { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+.cr-pip {
+  width: 27px; height: 24px; cursor: pointer; background: #fff;
+  border: 1px solid var(--border-light); border-radius: 5px;
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--text-muted);
+}
+.cr-pip:hover { border-color: var(--color-primary); color: var(--color-primary); }
+.cr-pip.is-current { background: #0D1B35; border-color: #0D1B35; color: #fff; }
+.cr-pip.is-out { background: #FEF2F2; border-color: #FCA5A5; color: #B91C1C; }
+.cr-pip.is-out.is-current { background: #B91C1C; border-color: #B91C1C; color: #fff; }
+.cr-pip.is-reserva { border-style: dashed; }
+.cr-pip.is-crowned { border: 2px solid var(--color-primary); color: var(--color-primary); }
+
+/* ── pista deslizante ─────────────────────────────────────────────────── */
+.cr-viewport { overflow: hidden; }
+.cr-track { display: flex; width: 100%; transition: transform 260ms cubic-bezier(.22,.61,.36,1); }
+.cr-slide { flex: 0 0 100%; min-width: 0; padding-right: 1px; }
+
+/* ── cabecera del reto ────────────────────────────────────────────────── */
+.cr-head { display: flex; flex-direction: column; gap: 8px; }
+.cr-head-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.cr-id {
+  background: #0D1B35; color: #fff; font-family: var(--font-mono);
+  font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px;
+}
+.cr-cat { font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: .04em; }
+.cr-state {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 800;
+  padding: 3px 8px; border-radius: 4px; border: 1px solid var(--border-light); color: var(--text-muted);
+}
+.cr-state.is-out { background: #FEF2F2; border-color: #FCA5A5; color: #B91C1C; }
+.cr-state.is-reserva { border-style: dashed; color: #B45309; }
+.cr-state.is-crowned { border-color: var(--color-primary); color: var(--color-primary); }
+.cr-head-actions { margin-left: auto; display: flex; align-items: center; gap: 6px; }
+.cr-ods {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 22px; height: 22px; border-radius: 50%;
+  font-family: var(--font-mono); font-size: 11px; font-weight: 800; color: #0F172A;
+  border: 1px solid rgba(15, 23, 42, .08);
+}
+.cr-ods.is-white { color: #FFFFFF; }
+.cr-slide.is-out .cr-title { color: #B91C1C; }
+.cr-slide.is-out .cr-id { background: #B91C1C; }
+.cr-slide.is-out .cr-head-row .cr-ods { opacity: .5; }
+.cr-title {
+  font-size: 21px; font-weight: 900; color: var(--text-title);
+  letter-spacing: -.02em; line-height: 1.22; margin: 2px 0 0;
+}
+.cr-metrics {
+  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  padding: 9px 0; border-top: 1px solid var(--border-light); border-bottom: 1px solid var(--border-light);
+}
+.cr-metric { display: inline-flex; align-items: center; gap: 7px; }
+.cr-metric-k { font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: .04em; }
+.cr-metric-v { font-family: var(--font-mono); font-size: 12px; font-weight: 800; color: var(--text-title); }
+.cr-meter { width: 110px; height: 6px; border-radius: 3px; background: var(--bg-muted); overflow: hidden; }
+.cr-meter > span { display: block; height: 100%; background: var(--color-primary); border-radius: 3px; }
+.cr-reason { flex: 1 1 320px; min-width: 0; font-size: 12.5px; color: var(--text-body); }
+.cr-reason b { font-family: var(--font-mono); font-size: 11.5px; font-weight: 800; color: var(--text-title); }
+
+/* ── cuerpo: comité + asesor ──────────────────────────────────────────── */
+.cr-body { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
+.cr-panel { border: 1px solid var(--border-light); border-radius: var(--radius-sm); background: #fff; padding: 12px 14px; min-width: 0; }
+.cr-panel.is-src { border: 1.5px dashed #93B4F7; background: #FBFDFF; }
+.cr-panel-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+.cr-eyebrow {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 800;
+  letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted);
+}
+.cr-tag {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700;
+  padding: 2px 7px; border-radius: 4px; border: 1px solid var(--border-light);
+  color: var(--text-muted); background: #fff;
+}
+.cr-tag.is-asesor { border-color: #93B4F7; color: var(--color-primary); }
+.cr-tag.is-lock { border-style: dashed; }
+.cr-quote { font-size: 13.5px; line-height: 1.6; color: var(--text-body); }
+.cr-src-note { font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); margin-top: 9px; }
+.cr-pending {
+  border: 1px dashed var(--border-strong); border-radius: 6px; background: var(--bg-subtle);
+  padding: 9px 11px; font-size: 12.5px; line-height: 1.5; color: var(--text-muted);
+}
+.cr-pt-list { display: flex; flex-direction: column; gap: 7px; }
+.cr-pt { display: grid; grid-template-columns: minmax(0, 1fr) 74px; gap: 10px; align-items: center; }
+.cr-pt-k { font-size: 12.5px; color: var(--text-body); }
+.cr-pt-val { font-family: var(--font-mono); font-size: 11.5px; font-weight: 800; color: var(--text-title); text-align: right; white-space: nowrap; }
+.cr-pt-val.is-neg { color: #B91C1C; }
+.cr-pt-track { height: 5px; border-radius: 3px; background: var(--bg-muted); overflow: hidden; margin-top: 5px; }
+.cr-pt-track > span { display: block; height: 100%; background: var(--color-primary); }
+.cr-pt-track.is-neg > span { background: #DC2626; }
+.cr-split { display: flex; flex-direction: column; gap: 10px; margin-top: 12px; padding-top: 11px; border-top: 1px solid var(--border-light); }
+
+/* ── redacciones del equipo ───────────────────────────────────────────── */
+.cr-note-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px; }
+.cr-note {
+  display: flex; gap: 10px; align-items: flex-start; min-width: 0;
+  padding: 10px 12px; border: 1px solid var(--border-light); border-radius: var(--radius-sm);
+  background: var(--bg-subtle);
+}
+.cr-note.is-out { border-color: #FCA5A5; background: #FEF7F7; }
+.cr-note.is-out .cr-note-hand { color: #B91C1C; }
+.cr-avatar {
+  flex: 0 0 22px; width: 22px; height: 22px; border-radius: 4px; display: grid; place-items: center;
+  font-family: var(--font-mono); font-size: 11px; font-weight: 800; background: #E2E8F0; color: #0F172A;
+}
+.cr-avatar.is-you { background: var(--color-primary); color: #fff; }
+.cr-note-body { flex: 1; min-width: 0; }
+.cr-note-hand { font-family: 'Caveat', var(--font-ui); font-size: 18px; line-height: 1.32; color: var(--text-main); }
+.cr-note-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 5px; font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); }
+.cr-dots { display: inline-flex; gap: 3px; }
+.cr-dot { width: 11px; height: 11px; padding: 0; border-radius: 50%; border: 1.5px solid #93B4F7; background: #fff; cursor: pointer; }
+.cr-dot.on { background: var(--color-primary); border-color: var(--color-primary); }
+.cr-fusion { font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--color-primary); border: 1px solid #BFDBFE; border-radius: 4px; padding: 1px 6px; background: #fff; }
+.cr-compose { display: flex; align-items: center; gap: 8px; margin-top: 12px; }
+.cr-compose input {
+  flex: 1; min-width: 0; font-family: 'Caveat', var(--font-ui); font-size: 17px; color: var(--text-title);
+  padding: 8px 12px; border: 1px solid var(--border-light); border-radius: var(--radius-sm); background: #fff;
+}
+.cr-compose input::placeholder { font-family: var(--font-ui); font-size: 12.5px; color: var(--text-muted); }
+.cr-compose button { font-family: var(--font-ui); }
+
+/* ── quién aprueba ────────────────────────────────────────────────────── */
+.cr-voters { display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap: 0 18px; }
+.cr-voter {
+  display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 10px; align-items: start;
+  padding: 9px 0; border-bottom: 1px solid var(--border-light);
+}
+.cr-voter:last-child { border-bottom: 0; }
+.cr-voter-who { font-size: 12.5px; font-weight: 700; color: var(--text-title); }
+.cr-voter-says { font-size: 12.5px; color: var(--text-body); line-height: 1.5; margin-top: 2px; }
+.cr-stance { font-family: var(--font-mono); font-size: 11px; font-weight: 800; white-space: nowrap; padding-top: 2px; }
+.cr-stance.is-yes { color: var(--color-primary); }
+.cr-stance.is-no { color: #B91C1C; }
+.cr-stance.is-wait { color: var(--text-muted); }
+.cr-tally {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 10px; padding-top: 10px;
+  border-top: 1px solid var(--border-light); font-family: var(--font-mono); font-size: 11.5px; font-weight: 800; color: var(--text-title);
+}
+.cr-tally em { font-style: normal; color: #B91C1C; }
+.cr-actions { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.cr-actions button { font-family: var(--font-ui); }
+.cr-consequence {
+  margin-top: 10px; font-size: 12.5px; line-height: 1.55; color: var(--text-body);
+  border-left: 2px solid var(--border-light); padding-left: 10px;
+}
+.cr-consequence b { font-family: var(--font-mono); font-size: 11.5px; font-weight: 800; color: var(--text-title); }
+
+/* ── leyenda ──────────────────────────────────────────────────────────── */
+.cr-legend {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  padding-top: 12px; border-top: 1px solid var(--border-light);
+}
+.cr-legend-item { display: inline-flex; align-items: center; gap: 6px; font-size: 11.5px; color: var(--text-muted); }
+.cr-legend-key { font-family: var(--font-mono); font-size: 11px; font-weight: 800; color: var(--text-title); }
+.cr-legend-swatch { width: 11px; height: 11px; border-radius: 3px; border: 1px solid var(--border-strong); }
+.cr-legend-swatch.is-team { background: var(--bg-subtle); }
+.cr-legend-swatch.is-asesor { background: #FBFDFF; border: 1.5px dashed #93B4F7; }
+.cr-legend-swatch.is-src { background: #FBFDFF; border: 1.5px dashed #93B4F7; }
+.cr-legend-swatch.is-out { background: #FEF2F2; border-color: #FCA5A5; }
+
+.cr-cta { display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: wrap; margin-top: 20px; }
+.cr-cta button { font-family: var(--font-ui); }
+
+/* chips heredados del catálogo real (clases usadas por el markup del nav) */
+.deliberation-nav-list .mz-chip {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700;
+  padding: 1px 6px; border-radius: 4px; border: 1px solid var(--border-light);
+  color: var(--text-muted); background: #fff;
+}
+.deliberation-nav-list .mz-chip.is-keep { border-color: #BFDBFE; color: var(--color-primary); background: #fff; }
+.deliberation-nav-list .mz-chip.is-out { border-color: #FCA5A5; color: #B91C1C; background: #FEF2F2; }
+.deliberation-nav-item.active .mz-chip { background: transparent; color: #BFDBFE; border-color: rgba(191, 219, 254, .45); }
+
+@media (max-width: 1160px) {
+  .cr-body { grid-template-columns: minmax(0, 1fr); }
+  .cr-note-grid { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* ── v5.1 · equipo real 6–10 y mayoría del 50% ───────────────── */
+.cr-bar { flex-wrap: wrap; }
+.cr-team { display: inline-flex; align-items: center; gap: 6px; margin-left: auto; }
+.cr-team-k { font-family: var(--font-mono); font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted); }
+.cr-team-btn { width: 22px; height: 22px; border: 1px solid var(--border-light); background: #fff; border-radius: 6px; color: var(--text-body); font-size: 13px; font-weight: 800; line-height: 1; cursor: pointer; }
+.cr-team-btn:hover { border-color: var(--color-primary); color: var(--color-primary); }
+.cr-team-btn:disabled { opacity: .35; cursor: not-allowed; }
+.cr-team-n { font-family: var(--font-mono); font-size: 13px; font-weight: 800; color: var(--text-title); min-width: 18px; text-align: center; }
+.cr-rule { font-size: 11.5px; color: var(--text-muted); }
+.cr-rule b { color: var(--text-main); font-weight: 700; }
+.cr-verdict { display: flex; align-items: center; gap: 8px; font-size: 12.5px; font-weight: 800; padding: 8px 12px; border-radius: 8px; border: 1px solid var(--border-light); background: var(--bg-subtle); color: var(--text-main); margin-bottom: 10px; }
+.cr-verdict b { font-family: var(--font-mono); font-size: 12.5px; }
+.cr-verdict.is-approved { border-color: #BFDBFE; background: #F0F6FF; color: #0B4FBF; }
+.cr-verdict.is-out { border-color: #FCA5A5; background: #FEF2F2; color: #B91C1C; }
+.cr-verdict.is-reserva { border-style: dashed; border-color: var(--border-strong); color: var(--text-body); }
+.cr-verdict small { font-weight: 600; color: inherit; opacity: .8; }
+.cr-bars { display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px; }
+.cr-bar-row { display: grid; grid-template-columns: 82px minmax(0, 1fr) 52px; align-items: center; gap: 10px; }
+.cr-bar-k { font-size: 11px; color: var(--text-muted); text-align: right; }
+.cr-bar-track { position: relative; height: 8px; border-radius: 4px; background: var(--bg-muted); overflow: hidden; }
+.cr-bar-fill { position: absolute; inset: 0 auto 0 0; border-radius: 4px; background: var(--color-primary); }
+.cr-bar-fill.is-no { background: #DC2626; }
+.cr-bar-mark { position: absolute; top: -2px; bottom: -2px; width: 2px; background: var(--text-title); opacity: .55; }
+.cr-bar-n { font-family: var(--font-mono); font-size: 11.5px; font-weight: 800; color: var(--text-title); text-align: right; }
+
+/* Constancia: queda escrito quién lo tira y quién lo salva, con hora. Una línea, en voz baja. */
+.cr-record {
+  margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--border-light);
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px;
+  font-size: 11.5px; color: var(--text-muted);
+}
+.cr-rec { display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: 2px 9px; }
+.cr-rec-tag {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700;
+  color: var(--text-muted); letter-spacing: .02em;
+}
+.cr-rec-k {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700;
+  color: var(--text-muted); white-space: nowrap;
+}
+.cr-rec-k b { font-weight: 900; color: var(--text-body); margin-left: 1px; }
+.cr-rec.is-no .cr-rec-k b { color: #B91C1C; }
+.cr-rec.is-yes .cr-rec-k b { color: var(--color-primary); }
+.cr-rec-n { display: inline-flex; flex-wrap: wrap; gap: 2px 9px; }
+.cr-rec-name { display: inline-flex; align-items: baseline; gap: 3px; font-size: 11.5px; font-weight: 600; color: var(--text-body); }
+.cr-rec-at { font-family: var(--font-mono); font-size: 11px; font-weight: 600; color: var(--text-muted); }
+.cr-rec.is-res .cr-rec-name, .cr-rec.is-wait .cr-rec-name { color: var(--text-muted); font-weight: 500; }
+.cr-rec-log { flex-basis: 100%; font-size: 11.5px; color: var(--text-muted); border-left: 2px solid var(--border-strong); padding-left: 8px; margin-top: 2px; }
+.cr-rec-log b { color: var(--text-body); font-weight: 700; }
+.cr-voter-at { font-family: var(--font-mono); font-size: 11px; font-weight: 600; color: var(--text-muted); }
+/* el veredicto, las barras y la constancia ocupan las dos columnas de votantes */
+.cr-voters > .cr-verdict,
+.cr-voters > .cr-bars,
+.cr-voters > .cr-record,
+.cr-voters > .cr-renew { grid-column: 1 / -1; }
+.deliberation-sheet { min-width: 0; }
+
+/* ── ranking plegado (para que la mesa entre en pantalla) ── */
+.rk-fold { border: 1px solid var(--border-light); border-radius: 8px; background: #fff; margin: 0 0 14px; }
+.rk-fold > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 10px; padding: 10px 14px; }
+.rk-fold > summary::-webkit-details-marker { display: none; }
+.rk-fold > summary:focus-visible { outline: 2px solid var(--color-primary); outline-offset: -2px; }
+.rk-fold-k { font-size: 12px; font-weight: 800; color: var(--text-title); }
+.rk-fold-n { font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); }
+.rk-fold-h { font-size: 11.5px; color: var(--text-muted); }
+.rk-fold-go { margin-left: auto; font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--color-primary); }
+.rk-fold[open] > summary { border-bottom: 1px solid var(--border-light); }
+.rk-fold[open] .rk-fold-go { visibility: hidden; }
+.cr-slide { min-width: 0; }
+.cr-voter.is-you { cursor: pointer; background: var(--bg-subtle); border-radius: 6px; }
+.cr-voter.is-you:hover { background: var(--bg-secondary); }
+.cr-voter.is-you .cr-voter-who::after { content: "\00B7  toca para cambiar tu voto"; font-weight: 600; color: var(--text-muted); font-size: 11px; }
+.cr-renew {
+  display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap;
+  margin-top: 12px; padding: 10px 12px; border: 1px solid var(--border-light); border-radius: 8px;
+  background: var(--bg-subtle); font-size: 12px; color: var(--text-body);
+}
+.cr-renew b { color: var(--text-title); }
+.cr-renew-btn {
+  flex: 0 0 auto; font-family: var(--font-ui); font-size: 12px; font-weight: 800; cursor: pointer;
+  color: var(--color-primary); background: #fff; border: 1px solid var(--border-light);
+  border-radius: 8px; padding: 6px 13px; transition: border-color 120ms ease-out, background 120ms ease-out;
+}
+.cr-renew-btn:hover { border-color: var(--color-primary); background: var(--bg-secondary); }
+.cr-toast {
+  position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%); z-index: 300;
+  background: var(--color-navy); color: #fff; font-size: 12px; font-weight: 600;
+  padding: 9px 16px; border-radius: 8px; box-shadow: 0 12px 36px rgba(13, 27, 53, .08);
+}
+
+
+</style>
+</head>
+<body class="sidebar-collapsed panel-collapsed">
+
+<!-- ══════════ TOPBAR REAL (mismas clases y assets que app.js → renderTopbar) ══════════ -->
+<header id="topbar">
+  <div class="topbar-left">
+    <button class="btn-toggle-sidebar" title="Colapsar/Expandir menú lateral">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+    <div class="brand-group" title="Ir al inicio de Rally Studio">
+      <img src="assets/rally_studio_logo.svg" alt="Rally Studio" style="height:20px; display:block;">
+      <span class="brand-text-navy">RALLY</span>
+      <span class="brand-text-blue">STUDIO</span>
+    </div>
+    <div class="topbar-emblems-group" title="Rally Nacional Innova">
+      <img src="assets/logo_rally_nacional.png" class="topbar-emblem-img" alt="Rally Nacional Innova">
+      <span class="topbar-emblem-divider"></span>
+      <img src="assets/logo_uni_official.png" class="topbar-uni-img" alt="Universidad Nacional de Ingeniería (UNI)">
+    </div>
+    <span class="project-title-crumb" title="Test Team">/ Test Team</span>
+    <span class="challenge-title-crumb">Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso</span>
+  </div>
+
+  <div class="topbar-actions">
+    <button class="btn-toggle-panel" title="Abrir Asistente IA Dual-Mode &amp; Prompts de Razonamiento" style="border-color:var(--border-light); color:var(--color-primary); background:var(--bg-subtle);">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l1.9 5.6 5.6 1.9-5.6 1.9L12 17l-1.9-5.6L4.5 9.5l5.6-1.9z"/></svg>
+      <span class="panel-toggle-label">IA Copilot</span>
+    </button>
+    <button class="btn-toggle-panel" title="Alternar Panel de Auditoría">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l7 3v6c0 4-3 7-7 9-4-2-7-5-7-9V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
+      <span class="panel-toggle-label">Auditoría</span>
+      <span class="panel-toggle-badge">75%</span>
+    </button>
+
+    <div class="deadline-pill nacional" title="Cierre de retos del comité">
+      <span class="deadline-pill-dot"></span>
+      <span class="deadline-pill-label">T-6</span>
+      <span class="deadline-pill-time">Horas</span>
+    </div>
+
+    <div class="collaborator-avatar-badge" title="Tu avatar asignado automáticamente para editar en simultáneo sin pisarse">
+      <span class="collaborator-avatar-icon">EB</span>
+      <span class="collaborator-name-label">Estación Beta</span>
+    </div>
+
+    <div class="telemetry-chip" title="Métricas de hardware y estado del motor en tiempo real">
+      <span class="telemetry-pulse"></span>
+      <span>CPU <strong>--%</strong></span>
+      <span>RAM <strong>--%</strong></span>
+    </div>
+
+    <div class="dropdown-wrapper">
+      <button class="btn-icon-discreet" title="Opciones de proyecto">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="5" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="12" cy="19" r="1.6"/></svg>
+      </button>
+    </div>
+
+    <a href="graph.html" target="_blank" class="btn-pill-ghost btn-graph-link" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;" title="Explorar Grafo de Conocimiento">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="6" cy="6" r="2.2"/><circle cx="18" cy="7" r="2.2"/><circle cx="12" cy="18" r="2.2"/><path d="M8.2 6.4h7.6M7.4 8.1l3.4 7.6M16.7 9.1l-3.6 6.7"/></svg>
+      <span class="graph-btn-label">Grafo</span>
+    </a>
+
+    <div class="timer-pill-navy" title="Clic para calibrar o ajustar cronómetro">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+      <span>15:14:49</span>
+      <span style="font-size:9.5px; opacity:0.75; font-weight:700; margin-left:4px;">EN CURSO</span>
+    </div>
+  </div>
+</header>
+
+<aside id="sidebar"></aside>
+
+<div id="main" style="overflow-y:auto;">
+<div class="content-wrapper">
+<div class="wizard-canvas" style="max-width:min(1760px, 98vw); padding-bottom:60px;">
+
+  <!-- ── CABECERA DE PASO (real) ─────────────────────────────────── -->
+  <div class="stepper-header" style="justify-content:space-between; margin-bottom:18px;">
+    <div style="display:flex; align-items:center; gap:14px;">
+      <span class="stepper-pill"><span class="pill-dim">PASO</span> <strong class="pill-num">03</strong> <span class="pill-dim">DE 11</span> <span class="pill-dot">·</span> <span class="pill-label">RETOS DEL COMITÉ</span></span>
+    </div>
+    <div style="display:flex; align-items:center; gap:8px;">
+      <button class="btn-minimal-back" title="Volver a identidad de equipo">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M11 6l-6 6 6 6M5 12h14"/></svg>
+        <span>Editar equipo</span>
+      </button>
+      <a href="docs/Matriz_Seleccion_Desafios_2026.docx" download class="btn-pill-light" style="font-size:11.5px; padding:6px 14px; text-decoration:none;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 4v11M8 11l4 4 4-4M5 19h14"/></svg>
+        Matriz Word (.docx)
+      </a>
+    </div>
+  </div>
+
+  <!-- ── BANNER DE RETO SELECCIONADO (real) ──────────────────────── -->
+  <div style="background:#F0F6FF; border:1.5px solid #BFDBFE; border-radius:14px; padding:16px 20px; margin-bottom:22px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <span style="background:#0866F5; color:#ffffff; font-family:var(--font-mono); font-size:12px; font-weight:800; padding:4px 10px; border-radius:8px;">RETO SELECCIONADO #01</span>
+      <div>
+        <div style="font-size:14px; font-weight:800; color:#0D1B35;">Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso</div>
+        <div style="font-size:12px; color:#5C7193;">Impacto Social · Viabilidad estimada: 92%</div>
+      </div>
+    </div>
+    <div style="display:flex; gap:8px;">
+      <button class="btn-pill-light" style="font-size:12px; font-weight:700;">Cambiar de Reto</button>
+      <button class="btn-select-card filled" style="padding:8px 18px; font-size:12px; font-weight:800;">Continuar a Taller de Solución →</button>
+    </div>
+  </div>
+
+  <!-- ── CABECERA DE FASE (real) ─────────────────────────────────── -->
+  <div class="phase-header" style="margin-bottom:14px;">
+    <h1 class="phase-title" style="font-size:28px; font-weight:900; color:#0D1B35; margin-bottom:6px; letter-spacing:-0.02em;">
+      Retos Oficiales &amp; <span class="phase-title-accent" style="color:#0866F5;">Espacio de Deliberación</span>
+    </h1>
+    <p class="phase-subtitle" style="font-size:13.5px; color:#5C7193; line-height:1.45;">Los 9 retos pasan uno a uno: lo que pide el comité, lo que propone la IA, lo que redacta el equipo y cómo vota la mesa. Se aprueba con la mitad del equipo; se descarta con la mitad a descarte.</p>
+  </div>
+
+  <!-- ── RANKING IA (real: renderChallengeRanking) — plegado para no tapar la mesa ── -->
+  <details class="rk-fold">
+  <summary>
+    <span class="rk-fold-k">Ranking de retos</span>
+    <span class="rk-fold-n">9 evaluados</span>
+    <span class="rk-fold-h">el pronóstico del motor, por si quieren comparar antes de votar</span>
+    <span class="rk-fold-go">ver ▾</span>
+  </summary>
+  <section class="ranking-panel" style="border:0; border-radius:0; margin:0; box-shadow:none;">
+    <div class="ranking-head">
+      <div>
+        <h2 class="ranking-title">Ranking de retos <span class="ranking-title-mono">· 9 evaluados</span></h2>
+        <p class="ranking-sub">Ordenados por pronóstico de victoria, según el análisis de 8 años de ganadores (2019–2026): rivalidad de sedes, cobertura ODS, factibilidad 24/28 h, anclaje territorial y precedente ganador.</p>
+      </div>
+      <div class="ranking-cta is-chosen">
+        <span style="font-size:12px; font-weight:800; color:#0F172A;">Ya decidieron: Reto #01</span>
+        <span style="font-size:11px; color:var(--text-muted); display:block; margin-top:4px;">Puedes compararlo con el resto o cambiar abajo.</span>
+      </div>
+    </div>
+    <div class="ranking-rows">
+      <div class="rank-row is-chosen" role="button" tabindex="0">
+        <span class="rank-pos">01</span>
+        <div class="rank-main"><div class="rank-title">Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso</div><div class="rank-reason">Aprovecha desechos locales (+18 pts en matriz)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:100%"></span></div><span class="rank-num">100</span></div>
+        <button class="btn-secondary rank-pick rank-pick-sel">✔ Elegido</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">02</span>
+        <div class="rank-main"><div class="rank-title">Protección y fomento tecnológico de polinizadores en entornos agropecuarios y urbanos</div><div class="rank-reason">Prototipable en 24/28h: colmenas con sensor + vivienda impresa</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:100%"></span></div><span class="rank-num">100</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">03</span>
+        <div class="rank-main"><div class="rank-title">Sistemas modulares de refugio y energía de emergencia post-desastre climático</div><div class="rank-reason">Poca rivalidad de sedes: baja (3 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:89%"></span></div><span class="rank-num">89</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">04</span>
+        <div class="rank-main"><div class="rank-title">Revalorización y transformación de residuos de poda y biomasa vegetal urbana</div><div class="rank-reason">Poca rivalidad de sedes: media (4 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:88%"></span></div><span class="rank-num">88</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">05</span>
+        <div class="rank-main"><div class="rank-title">Redes de sensores comunitarios para prevención y alerta temprana de inundaciones</div><div class="rank-reason">Nodos ultrasónicos + LoRaWAN son probados en la ventana</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:84.5%"></span></div><span class="rank-num">84.5</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">06</span>
+        <div class="rank-main"><div class="rank-title">Recolección y conversión de aceite vegetal doméstico usado en biocombustibles o jabón</div><div class="rank-reason">Poca rivalidad de sedes: baja (3 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:82%"></span></div><span class="rank-num">82</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">07</span>
+        <div class="rank-main"><div class="rank-title">Reservorios pluviales y captación comunitaria de agua con microfiltración</div><div class="rank-reason">Cubre 3 ODS (+10.5)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:78%"></span></div><span class="rank-num">78</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">08</span>
+        <div class="rank-main"><div class="rank-title">Gestión y valorización de residuos plásticos en playas y ecosistemas costeros</div><div class="rank-reason">Poca rivalidad de sedes: media (5 sedes)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:78%"></span></div><span class="rank-num">78</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+      <div class="rank-row" role="button" tabindex="0">
+        <span class="rank-pos">09</span>
+        <div class="rank-main"><div class="rank-title">Reducción de desperdicio de alimentos y logística de redistribución en mercados</div><div class="rank-reason">Cubre 3 ODS (+10.5)</div></div>
+        <div class="rank-score"><div class="rank-bar"><span style="width:77%"></span></div><span class="rank-num">77</span></div>
+        <button class="btn-secondary rank-pick">Elegir</button>
+      </div>
+    </div>
+  </section>
+  </details>
+
+  <!-- ── DELIBERACIÓN (real) → catálogo | MESA (nuevo) | ángulo ganador (real) ── -->
+  <div class="deliberation-container">
+
+    <aside class="deliberation-nav">
+      <div class="deliberation-nav-header">
+        <span>CATÁLOGO DE RETOS</span>
+        <span style="font-family:var(--font-mono); font-size:11px; color:#64748B;">9 ACTIVOS</span>
+      </div>
+      <div class="deliberation-nav-list" id="mz-nav">
+    </aside>
+    <section class="deliberation-sheet" id="cr-sheet" style="padding:20px 22px 24px;">
+
+      <div class="cr" id="cr">
+
+        <!-- ── barra del carrusel: uno a uno ───────────────────────── -->
+        <div class="cr-bar">
+          <div class="cr-nav">
+            <button class="cr-arrow" id="cr-prev" title="Reto anterior" aria-label="Reto anterior">←</button>
+            <span class="cr-count">RETO <b id="cr-now">#01</b> <span>/ 09</span></span>
+            <button class="cr-arrow" id="cr-next" title="Reto siguiente" aria-label="Reto siguiente">→</button>
+          </div>
+          <span class="cr-rule">Sin quórum: todos pueden votar. <b>Mitad a favor</b> entra; <b>mitad a descarte</b> el sistema lo mueve al embudo — y se puede renovar.</span>
+          <div class="cr-team">
+            <span class="cr-team-k">en la mesa</span>
+            <button class="cr-team-btn" id="cr-team-less" title="Un integrante menos" aria-label="Un integrante menos">−</button>
+            <span class="cr-team-n" id="cr-team-n">8</span>
+            <button class="cr-team-btn" id="cr-team-more" title="Un integrante más" aria-label="Un integrante más">+</button>
+            <span class="cr-team-k" id="cr-team-need">4 votos para aprobar</span>
+          </div>
+          <div class="cr-map" id="cr-map"></div>
+        </div>
+
+        <!-- ── pista: un slide por reto ────────────────────────────── -->
+        <div class="cr-viewport">
+          <div class="cr-track" id="cr-track"></div>
+        </div>
+
+        <!-- ── leyenda ─────────────────────────────────────────────── -->
+        <div class="cr-legend">
+          <span class="cr-eyebrow">Cómo se lee</span>
+          <span class="cr-legend-item"><span class="cr-legend-swatch is-src"></span> lo que pide el comité · fuente bloqueada</span>
+          <span class="cr-legend-item"><span class="cr-legend-swatch is-asesor"></span> la IA propone, no vota</span>
+          <span class="cr-legend-item"><span class="cr-dot on"></span> tus votos en la redacción</span>
+          <span class="cr-legend-item"><span class="cr-legend-swatch is-out"></span> 50% a descarte: el sistema lo mueve, se renueva</span>
+          <span class="cr-legend-item"><span class="cr-legend-key">+18</span> puntos reales del motor de pronóstico</span>
+        </div>
+      </div>
+
+      <!-- ── CTA real de cierre (mismo texto que el app) ──────────── -->
+      <div class="cr-cta">
+        <button class="btn-select-card filled" id="cr-cta-primary" style="padding:10px 22px; font-size:13px; font-weight:800;">Elegir Reto #01 e Ir a Solución →</button>
+        <button class="btn-select-card outline" id="cr-cta-next" style="padding:9px 18px; font-size:12.5px; font-weight:700;">Reto #02 →</button>
+      </div>
+    </section>
+
+  </div>
+
+</div>
+</div>
+</div>
+
+<aside id="panel"></aside>
+
+﻿<script>
+/* Prototipo v5: la hoja del PASO 03 se convierte en un carrusel 1 a 1.
+   Datos reales donde existen (título, categoría, viabilidad, pronóstico y su
+   desglose de puntos, ODS, descripción transcrita, precedente). Notas, votos y
+   quién aprueba son de EJEMPLO para teaching del prototipo. */
+(function () {
+  const RETOS = [
+    {
+      id: '01', cat: 'Impacto Social', via: '92%', score: 100, rank: 1,
+      title: 'Segunda vida y reconversión de motores eléctricos de electrodomésticos en desuso',
+      reason: 'Aprovecha desechos locales (+18 pts en matriz)',
+      ods: [['12', '#BF8B2E', 'ODS 12 · Producción y consumo responsables'], ['9', '#FD6925', 'ODS 9 · Industria, innovación e infraestructura'], ['8', '#A21942', 'ODS 8 · Trabajo decente y crecimiento económico', 'is-white']],
+      demanda: 'Aprovechar motores de lavadoras y ventiladores desechados para reducir chatarra y generar tracción o generación eléctrica a bajo costo en comunidades rurales.',
+      desc: 'Aprovechamiento y refabricación de motores de lavadoras, microondas o licuadoras para generar soluciones agroindustriales o comunitarias de bajo costo.',
+      src: 'research/challenges.json · transcripción del comité',
+      pts: [['Competencia histórica en «motores»', -8], ['Recursos y residuos locales de Nicaragua', 18], ['Anclaje territorial nicaragüense', 10], ['Prototipable en la ventana 24/28 h', 14], ['Cobertura de 3 ODS', 10.5], ['Precedente ganador: Avocado 2026', 8]],
+      tesis: 'Kit de reconversión con variador de frecuencia universal reciclado, acople impreso en PETG y banco de molienda de forraje agropecuario accionado por rotor recuperado.',
+      fact: 'Anclaje directo en cooperativas lecheras y avícolas de Chontales, Matagalpa y Boaco, sustituyendo motores diésel caros por motores de lavadora reacondicionados para picadoras de pasto y bombas de agua.',
+      prec: 'Avocado 2026 · 1er Lugar Social Nacional',
+      notes: [
+        { a: 'EB', t: '12:41', txt: 'Idea base para fusionar', v: 0, fusion: '#03' },
+        { a: 'MR', t: '12:52', txt: 'Hay talleres de motores en cada mercado; el prototipo se arma con lo que ya existe en el barrio.', v: 2 },
+        { a: 'JC', t: '13:04', txt: 'Si el jurado pide 3D bonito nos hundimos; mostremos el motor girando y moliendo de verdad.', v: 1 },
+        { a: 'LP', t: '13:15', txt: 'Conseguir dos lavadoras viejas hoy y medir torque real antes de casarnos con este reto.', v: 3 }
+      ],
+      voters: [
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'yes', say: 'Es el que más puntos trae de la matriz y tiene precedente ganador.' },
+        { a: 'MR', n: 'María R.', s: 'yes', say: 'Se prototipa con desechos de cualquier mercado; no hay que comprar insumos.' },
+        { a: 'JC', n: 'Jorge C.', s: 'wait', say: 'Espera: quiere ver primero si se fusiona con el reto de polinizadores.' },
+        { a: 'LP', n: 'Luisa P.', s: 'yes', say: 'Anclaje clarísimo en cooperativas de Chontales y Matagalpa.' }
+      ]
+    },
+    {
+      id: '02', cat: 'Innovación', via: '84%', score: 84.5, rank: 5,
+      title: 'Redes de sensores comunitarios para prevención y alerta temprana de inundaciones',
+      reason: 'Nodos ultrasónicos + LoRaWAN son probados en la ventana',
+      ods: [['11', '#FD9D24', 'ODS 11 · Ciudades y comunidades sostenibles'], ['13', '#3F7E44', 'ODS 13 · Acción por el clima', 'is-white'], ['3', '#4C9F38', 'ODS 3 · Salud y bienestar']],
+      demanda: '',
+      desc: 'Desarrollo de instrumentación hiperlocal y telemetría comunitaria para monitoreo de riadas y cauces urbanos en tiempo real.',
+      src: 'research/challenges.json · transcripción del comité',
+      pts: [['Competencia histórica en «inundación»', -16], ['Recursos y residuos locales de Nicaragua', 18], ['Prototipable en la ventana 24/28 h', 14], ['Cobertura de 3 ODS', 10.5], ['Precedente ganador: Techriders 2024', 8]],
+      prec: 'Techriders 2024 · 1er Lugar Latam · Steel Innovators 2026',
+      notes: [
+        { a: 'MR', t: '12:47', txt: 'La alerta sirve aunque el sensor sea feo: el valor está en avisar antes de que crezca el cauce.', v: 2 },
+        { a: 'LP', t: '13:02', txt: 'Un nodo por barrio, radio LoRa y una sirena. Nada más; si crece, se replica.', v: 1 }
+      ],
+      voters: [
+        { a: 'MR', n: 'María R.', s: 'yes', say: 'Empatía inmediata con el jurado: la gente ya vive la inundación.' },
+        { a: 'LP', n: 'Luisa P.', s: 'yes', say: 'Prototipable en la ventana con módulos que ya existen.' },
+        { a: 'JC', n: 'Jorge C.', s: 'wait', say: 'Le preocupa el alcance: una red no se demuestra con un solo nodo.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'wait', say: 'Sin decisión hasta ver si el reto de motores cae.' }
+      ]
+    },
+    {
+      id: '03', cat: 'Innovación', via: '95%', score: 100, rank: 2,
+      title: 'Protección y fomento tecnológico de polinizadores en entornos agropecuarios y urbanos',
+      reason: 'Prototipable en 24/28h: colmenas con sensor + vivienda impresa',
+      ods: [['15', '#56C02B', 'ODS 15 · Vida de ecosistemas terrestres'], ['2', '#DDA63A', 'ODS 2 · Hambre cero'], ['13', '#3F7E44', 'ODS 13 · Acción por el clima', 'is-white']],
+      demanda: '',
+      desc: 'Monitoreo acústico, térmico o ambiental de colmenas de abejas nativas (meliponas) o espacios polinizadores frente al cambio climático.',
+      src: 'research/challenges.json · transcripción del comité',
+      pts: [['Competencia histórica en «polinizadores»', -7], ['Recursos y residuos locales de Nicaragua', 18], ['Anclaje territorial nicaragüense', 10], ['Prototipable en la ventana 24/28 h', 14], ['Cobertura de 3 ODS', 10.5], ['Precedente ganador: Ignis Code 2026', 8]],
+      prec: 'Ignis Code 2026 · 1er Lugar Innovación Nacional',
+      notes: [
+        { a: 'EB', t: '12:41', txt: 'Idea base para fusionar con el reto de motores', v: 1, fusion: '#01' },
+        { a: 'JC', t: '13:08', txt: 'Sensor de temperatura y micrófono al lado de la colmena: con eso ya se oye si la reina se movió.', v: 2 }
+      ],
+      voters: [
+        { a: 'JC', n: 'Jorge C.', s: 'yes', say: 'Es el más prototipable de todos y el que menos competencia tiene.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'yes', say: 'Empata en puntos con motores; si hay fusión, gana el equipo.' },
+        { a: 'MR', n: 'María R.', s: 'wait', say: 'Quiere ver el costo del sensor antes de aprobar.' },
+        { a: 'LP', n: 'Luisa P.', s: 'yes', say: 'Biodiversidad y seguridad alimentaria: al jurado le entra solo.' }
+      ]
+    },
+    {
+      id: '04', cat: 'Innovación', via: '88%', score: 88, rank: 4,
+      title: 'Revalorización y transformación de residuos de poda y biomasa vegetal urbana',
+      reason: 'Poca rivalidad de sedes: media (4 sedes)',
+      ods: [], demanda: '', desc: '', src: '',
+      pts: [],
+      notes: [
+        { a: 'LP', t: '12:58', txt: 'La poda del parque se quema o se bota; con una prensa sale briqueta y ya es producto.', v: 1 }
+      ],
+      voters: [
+        { a: 'LP', n: 'Luisa P.', s: 'yes', say: 'Insumo gratis y permanente en toda ciudad.' },
+        { a: 'MR', n: 'María R.', s: 'wait', say: 'Falta ver la prensa: es la que decide si es viable.' },
+        { a: 'JC', n: 'Jorge C.', s: 'wait', say: 'Sin transcribir la demanda del comité no se puede decidir.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'wait', say: 'Pendiente de transcripción.' }
+      ]
+    },
+    {
+      id: '05', cat: 'Innovación', via: '86%', score: 78, rank: 7,
+      title: 'Reservorios pluviales y captación comunitaria de agua con microfiltración',
+      reason: 'Cubre 3 ODS (+10.5)',
+      ods: [], demanda: '', desc: '', src: '',
+      pts: [],
+      notes: [
+        { a: 'MR', t: '13:11', txt: 'Se puede medir el filtro con agua turbia real del cauce; así el jurado ve la diferencia.', v: 2 }
+      ],
+      voters: [
+        { a: 'MR', n: 'María R.', s: 'yes', say: 'El filtro se demuestra con agua sucia y sale limpia.' },
+        { a: 'LP', n: 'Luisa P.', s: 'wait', say: 'El reservorio implica obra; hay que acotarlo a una maqueta.' },
+        { a: 'JC', n: 'Jorge C.', s: 'reserva', say: 'Pide reserva: sirve como refuerzo de la propuesta de agua.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'wait', say: 'Sin transcripción oficial.' }
+      ]
+    },
+    {
+      id: '06', cat: 'Impacto Social', via: '78%', score: 78, rank: 8,
+      title: 'Gestión y valorización de residuos plásticos en playas y ecosistemas costeros',
+      reason: 'Poca rivalidad de sedes: media (5 sedes)',
+      ods: [], demanda: '', desc: '', src: '',
+      pts: [],
+      notes: [
+        { a: 'JC', t: '13:19', txt: 'Ya hay 5 sedes en esto: entrar de frente es pelear. Solo tendría sentido combinado con otro reto.', v: 0 }
+      ],
+      voters: [
+        { a: 'JC', n: 'Jorge C.', s: 'no', say: 'Alta concurrencia de sedes: 5 compitiendo por el mismo tema.' },
+        { a: 'MR', n: 'María R.', s: 'no', say: 'Acompaña el descarte de Jorge.' },
+        { a: 'LP', n: 'Luisa P.', s: 'wait', say: 'No descarta del todo: 10 minutos de recuperación por si cae.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'wait', say: 'Sin decisión.' }
+      ]
+    },
+    {
+      id: '07', cat: 'Impacto Social', via: '82%', score: 82, rank: 6,
+      title: 'Recolección y conversión de aceite vegetal doméstico usado en biocombustibles o jabón',
+      reason: 'Poca rivalidad de sedes: baja (3 sedes)',
+      ods: [], demanda: '', desc: '', src: '',
+      pts: [],
+      notes: [
+        { a: 'LP', t: '13:24', txt: 'El aceite se junta en las cocinas de las familias; el jabón se puede mostrar y regalar.', v: 1 }
+      ],
+      voters: [
+        { a: 'LP', n: 'Luisa P.', s: 'yes', say: 'Resultado tangible y barato: jabón de aceite usado.' },
+        { a: 'MR', n: 'María R.', s: 'wait', say: 'Poca rivalidad, pero poca carga tecnológica.' },
+        { a: 'JC', n: 'Jorge C.', s: 'wait', say: 'Pendiente.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'wait', say: 'Pendiente.' }
+      ]
+    },
+    {
+      id: '08', cat: 'Impacto Social', via: '85%', score: 77, rank: 9,
+      title: 'Reducción de desperdicio de alimentos y logística de redistribución en mercados',
+      reason: 'Cubre 3 ODS (+10.5)',
+      ods: [], demanda: '', desc: '', src: '',
+      pts: [],
+      notes: [
+        { a: 'MR', t: '13:29', txt: 'En el mercado el problema no es el alimento, es moverlo el mismo día antes de que se dañe.', v: 1 }
+      ],
+      voters: [
+        { a: 'MR', n: 'María R.', s: 'yes', say: 'Impacto social enorme.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'wait', say: 'Es logística: difícil de mostrar en 28 h.' },
+        { a: 'JC', n: 'Jorge C.', s: 'wait', say: 'Pendiente.' },
+        { a: 'LP', n: 'Luisa P.', s: 'wait', say: 'Pendiente.' }
+      ]
+    },
+    {
+      id: '09', cat: 'Innovación', via: '89%', score: 89, rank: 3,
+      title: 'Sistemas modulares de refugio y energía de emergencia post-desastre climático',
+      reason: 'Poca rivalidad de sedes: baja (3 sedes)',
+      ods: [], demanda: '', desc: '', src: '',
+      pts: [],
+      notes: [
+        { a: 'JC', t: '13:33', txt: 'Es el mejor pronóstico después de los dos motores: poca rivalidad y se arma con paneles.', v: 2 },
+        { a: 'LP', t: '13:36', txt: 'Un refugio completo no cabe en la mesa; mostrar el módulo de energía y el techo plegable sí.', v: 1 }
+      ],
+      voters: [
+        { a: 'JC', n: 'Jorge C.', s: 'yes', say: 'Tercer mejor pronóstico y solo 3 sedes compitiendo.' },
+        { a: 'LP', n: 'Luisa P.', s: 'yes', say: 'Hay forma de mostrarlo sin construirlo entero.' },
+        { a: 'MR', n: 'María R.', s: 'wait', say: 'El refugio suena caro en presupuesto superficial.' },
+        { a: 'EB', n: 'Estación Beta (tú)', s: 'wait', say: 'Pendiente de transcripción oficial.' }
+      ]
+    }
+  ];
+
+  /* Quiénes están en la mesa: 6 a 10 según el evento. Los nombres son de
+     ejemplo; lo que importa es la regla: ≥50% del equipo aprueba o descarta. */
+  const ROSTER = [
+    { a: 'EB', n: 'Estación Beta (tú)' }, { a: 'MR', n: 'María R.' }, { a: 'JC', n: 'Jorge C.' },
+    { a: 'LP', n: 'Luisa P.' }, { a: 'DA', n: 'Daniel A.' }, { a: 'RS', n: 'Rosa S.' },
+    { a: 'KM', n: 'Karla M.' }, { a: 'NT', n: 'Néstor T.' }, { a: 'GL', n: 'Gabriela L.' }, { a: 'PV', n: 'Pablo V.' }
+  ];
+
+  /* Votos de EJEMPLO por reto (iniciales), con la hora en que cada uno votó:
+     es la constancia de quién lo tiró y quién lo está salvando. */
+  const RAW = {
+    '01': { yes: 'EB MR LP DA RS', no: '', res: 'JC KM' },
+    '02': { yes: 'MR LP DA', no: '', res: 'JC EB KM' },
+    '03': { yes: 'JC EB MR LP DA', no: '', res: 'KM RS' },
+    '04': { yes: 'LP', no: '', res: 'MR JC DA' },
+    '05': { yes: 'MR DA', no: 'RS', res: 'LP JC KM' },
+    '06': { yes: '', no: 'JC MR DA KM NT', res: 'LP' },
+    '07': { yes: 'LP DA', no: '', res: 'MR JC' },
+    '08': { yes: 'MR DA RS', no: '', res: 'EB JC LP' },
+    '09': { yes: 'JC LP DA RS', no: '', res: 'MR' }
+  };
+
+  const hhmm = (m) => String(Math.floor(m / 60)).padStart(2, '0') + ':' + String(m % 60).padStart(2, '0');
+  const nowHHMM = () => { const d = new Date(); return hhmm(d.getHours() * 60 + d.getMinutes()); };
+
+  const VOTES = {};
+  Object.keys(RAW).forEach((id, ri) => {
+    const g = RAW[id], v = { yes: [], no: [], reserva: [], at: {} };
+    let k = 0;
+    ['yes', 'no', 'res'].forEach(kind => {
+      const bucket = kind === 'res' ? 'reserva' : kind;
+      (g[kind] || '').split(' ').filter(Boolean).forEach(a => {
+        v[bucket].push(a);
+        v.at[a] = hhmm(12 * 60 + 6 + ri * 7 + (k++) * 2); /* 12:06 + 2 min por voto */
+      });
+    });
+    VOTES[id] = v;
+  });
+
+  /* Constancia de renovaciones: quién lo devolvió a la mesa y a qué hora. */
+  const RENEWS = {};
+
+  const state = { i: 0, team: 8, crowned: '01' };
+
+  const inList = (arr, a) => (arr || []).indexOf(a) >= 0;
+
+  function stanceOf(r, a) {
+    const v = VOTES[r.id] || {};
+    if (inList(v.yes, a)) return 'yes';
+    if (inList(v.no, a)) return 'no';
+    if (inList(v.reserva, a)) return 'reserva';
+    return 'wait';
+  }
+
+  function tally(r) {
+    const members = ROSTER.slice(0, state.team);
+    let yes = 0, no = 0, res = 0;
+    members.forEach(m => {
+      const s = stanceOf(r, m.a);
+      if (s === 'yes') yes++; else if (s === 'no') no++; else if (s === 'reserva') res++;
+    });
+    const need = Math.ceil(members.length / 2); /* ≥50% del equipo */
+    return {
+      members, yes, no, res, need, total: members.length, wait: members.length - yes - no - res,
+      approved: yes >= need, discarded: no >= need, inReserva: !(yes >= need) && !(no >= need) && res >= need
+    };
+  }
+
+  function cycleVote(r, a) {
+    const v = VOTES[r.id] || (VOTES[r.id] = { yes: [], no: [], reserva: [] });
+    const cur = stanceOf(r, a);
+    ['yes', 'no', 'reserva'].forEach(k => { v[k] = (v[k] || []).filter(x => x !== a); });
+    if (cur === 'yes') v.no.push(a);
+    else if (cur === 'no') v.reserva.push(a);
+    else if (cur === 'wait') v.yes.push(a);
+    v.at[a] = nowHHMM();
+  }
+
+  const sayOf = (r, a) => {
+    const v = (r.voters || []).find(x => x.a === a);
+    if (v && v.say) return v.say;
+    return a === 'EB' ? 'Toca tu fila para cambiar el voto y ver cómo se mueve la mayoría.' : '';
+  };
+
+  const esc = (s) => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const announce = (msg) => {
+    document.querySelectorAll('.cr-toast').forEach(t => t.remove());
+    const el = document.createElement('div');
+    el.className = 'cr-toast';
+    el.textContent = msg;
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), 3200);
+  };
+
+  const ctaReal = (r) => 'Elegir Reto #' + r.id + ' e Ir a Solución →';
+
+  function odsHTML(r) {
+    if (!r.ods.length) {
+      return '<span class="cr-tag is-lock" title="El comité no ha sido transcrito para este reto">ODS por transcribir</span>';
+    }
+    return r.ods.map(o => '<span class="cr-ods' + (o[3] ? ' is-white' : '') + '" data-ods="' + o[0] + '" title="' + esc(o[2]) + '" style="background:' + o[1] + '">' + o[0] + '</span>').join('');
+  }
+
+  function ptsHTML(r) {
+    if (!r.pts.length) {
+      return '<div class="cr-pending">El desglose del motor de pronóstico aún no está transcrito para este reto. Mientras llega la transcripción del comité, se decide con lo que hay: pronóstico, viabilidad y rivalidad de sedes.</div>';
+    }
+    return '<div class="cr-pt-list">' + r.pts.map(p => {
+      const neg = p[1] < 0;
+      const w = Math.min(100, Math.abs(p[1]) / 18 * 100);
+      return '<div class="cr-pt"><div><div class="cr-pt-k">' + esc(p[0]) + '</div>' +
+        '<div class="cr-pt-track' + (neg ? ' is-neg' : '') + '"><span style="width:' + w.toFixed(1) + '%"></span></div></div>' +
+        '<div class="cr-pt-val' + (neg ? ' is-neg' : '') + '">' + (neg ? '' : '+') + p[1] + ' pts</div></div>';
+    }).join('') + '</div>';
+  }
+
+  function notesHTML(r) {
+    if (!r.notes.length) return '<div class="cr-pending">Nadie ha redactado todavía sobre este reto. La primera redacción se escribe abajo.</div>';
+    return '<div class="cr-note-grid" data-notes>' + r.notes.map((n, k) => {
+      return '<article class="cr-note" data-note="' + k + '">' +
+        '<span class="cr-avatar' + (n.a === 'EB' ? ' is-you' : '') + '">' + n.a + '</span>' +
+        '<div class="cr-note-body">' +
+        '<p class="cr-note-hand">' + esc(n.txt) + '</p>' +
+        '<div class="cr-note-meta"><span>#' + r.id + ' · ' + n.t + '</span>' +
+        '<span class="cr-dots" data-dots="' + k + '">' + [1, 2, 3].map(d => '<button class="cr-dot' + (d <= n.v ? ' on' : '') + '" data-v="' + d + '" aria-label="voto ' + d + '"></button>').join('') + '</span>' +
+        '<span data-votes-label>' + n.v + '/3 votos</span>' +
+        (n.fusion ? '<span class="cr-fusion">fusionada → ' + n.fusion + '</span>' : '') +
+        '</div></div></article>';
+    }).join('') + '</div>';
+  }
+
+  function votersHTML(r) {
+    const t = tally(r);
+    const verdict = t.discarded
+      ? '<div class="cr-verdict is-out">DESCARTADO · <b>' + t.no + ' de ' + t.total + '</b> a descarte <small>el sistema lo movió al embudo</small></div>'
+      : (t.approved
+        ? '<div class="cr-verdict is-approved">APROBADO · <b>' + t.yes + ' de ' + t.total + '</b> a favor <small>(necesitaba ' + t.need + ')</small></div>'
+        : (t.inReserva
+          ? '<div class="cr-verdict is-reserva">EN RESERVA · <b>' + t.res + ' de ' + t.total + '</b> piden reserva <small>se retoma si cae otro reto</small></div>'
+          : '<div class="cr-verdict">EN DEBATE · <b>' + t.yes + ' de ' + t.total + '</b> a favor <small>faltan ' + Math.max(0, t.need - t.yes) + ' para los ' + t.need + '</small></div>'));
+    const bar = (kind, n, label) => '<div class="cr-bar-row"><span class="cr-bar-k">' + label + '</span>' +
+      '<span class="cr-bar-track"><span class="cr-bar-fill ' + kind + '" style="width:' + (n / t.total * 100).toFixed(1) + '%"></span>' +
+      '<span class="cr-bar-mark" style="left:50%" title="mitad del equipo"></span></span>' +
+      '<span class="cr-bar-n">' + n + '/' + t.total + '</span></div>';
+    const atOf = (a) => (VOTES[r.id] && VOTES[r.id].at[a]) ? VOTES[r.id].at[a] : '';
+
+    /* Constancia: quién votó para tirarlo, quién lo está salvando, quién se reserva. */
+    const grp = (kind, label, cls) => {
+      const list = t.members.filter(m => stanceOf(r, m.a) === kind);
+      if (!list.length) return '';
+      return '<div class="cr-rec ' + cls + '"><span class="cr-rec-k">' + label + ' <b>' + list.length + '</b></span>' +
+        '<span class="cr-rec-n">' + list.map(m => '<span class="cr-rec-name">' + esc(m.a) +
+          '<span class="cr-rec-at">' + atOf(m.a) + '</span></span>').join('') + '</span></div>';
+    };
+    const pend = t.members.filter(m => stanceOf(r, m.a) === 'wait');
+    const log = (RENEWS[r.id] || []).map(x => '<div class="cr-rec-log">renovado por <b>' + esc(x.by) + '</b> · ' + x.at +
+      ' — se borraron los votos de descarte de ' + esc(x.removed) + '</div>').join('');
+    const record = '<div class="cr-record"><span class="cr-rec-tag">constancia</span>' +
+      grp('no', 'lo tiran', 'is-no') + grp('yes', 'lo salvan', 'is-yes') + grp('reserva', 'en reserva', 'is-res') +
+      (pend.length ? '<div class="cr-rec is-wait"><span class="cr-rec-k">sin decidir <b>' + pend.length + '</b></span>' +
+        '<span class="cr-rec-n">' + pend.map(m => '<span class="cr-rec-name">' + esc(m.a) + '</span>').join('') + '</span></div>' : '') +
+      log + '</div>';
+
+    const rows = t.members.map(m => {
+      const s = stanceOf(r, m.a);
+      const cls = s === 'yes' ? 'is-yes' : s === 'no' ? 'is-no' : (s === 'reserva' ? 'is-reserva' : 'is-wait');
+      const label = s === 'yes' ? 'APRUEBA' : (s === 'no' ? 'DESCARTA' : (s === 'reserva' ? 'RESERVA' : 'SIN DECIDIR'));
+      const say = sayOf(r, m.a);
+      return '<div class="cr-voter' + (m.a === 'EB' ? ' is-you' : '') + '" data-voter="' + m.a + '">' +
+        '<span class="cr-avatar' + (m.a === 'EB' ? ' is-you' : '') + '">' + m.a + '</span>' +
+        '<div><div class="cr-voter-who">' + esc(m.n) + (atOf(m.a) ? ' <span class="cr-voter-at">' + atOf(m.a) + '</span>' : '') + '</div>' + (say ? '<div class="cr-voter-says">' + esc(say) + '</div>' : '') + '</div>' +
+        '<span class="cr-stance ' + cls + '">' + label + '</span></div>';
+    }).join('');
+    const renew = t.discarded
+      ? '<div class="cr-renew"><b>No se borró.</b> Cualquiera de la mesa lo puede renovar cuando quiera; solo vuelve a la mesa sin los votos de descarte.' +
+        '<button type="button" class="cr-renew-btn" data-renew="' + r.id + '">Renovar este reto</button></div>'
+      : '';
+    return verdict + '<div class="cr-bars">' + bar('is-yes', t.yes, 'a favor') + bar('is-no', t.no, 'a descarte') + '</div>' + record + rows + renew;
+  }
+
+  function slideHTML(r) {
+    const t = tally(r);
+    const isOut = t.discarded;
+    const isRes = t.inReserva;
+    const isCrown = state.crowned === r.id;
+    const stateChip = isCrown
+      ? '<span class="cr-state is-crowned">en la cancha · elegido para desarrollar</span>'
+      : (isOut ? '<span class="cr-state is-out">descartado en la mesa · recuperable</span>'
+        : (isRes ? '<span class="cr-state is-reserva">en reserva</span>' : '<span class="cr-state">en el radar</span>'));
+
+    return '<section class="cr-slide' + (isOut ? ' is-out' : '') + '" data-ret="' + r.id + '">' +
+      '<div class="cr-head">' +
+        '<div class="cr-head-row">' +
+          '<span class="cr-id">DESAFÍO #' + r.id + '</span>' +
+          '<span class="cr-cat">' + esc(r.cat) + '</span>' +
+          odsHTML(r) +
+          stateChip +
+          '<span class="cr-head-actions">' +
+            '<button class="btn-pill-light" style="font-size:11.5px; padding:5px 12px;">' +
+              '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 20h4l10-10-4-4L4 16v4z"/><path d="M13.5 6.5l4 4"/></svg> Editar Reto</button>' +
+            '<button class="btn-pill-ghost" style="font-size:11px; padding:5px 10px; color:#DC2626;" title="Quitar del radar">' +
+              '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>' +
+          '</span>' +
+        '</div>' +
+        '<h2 class="cr-title">' + esc(r.title) + '</h2>' +
+        '<div class="cr-metrics">' +
+          '<span class="cr-metric"><span class="cr-metric-k">viabilidad</span><span class="cr-metric-v">' + r.via + '</span></span>' +
+          '<span class="cr-metric"><span class="cr-metric-k">pronóstico</span><span class="cr-meter"><span style="width:' + r.score + '%"></span></span><span class="cr-metric-v">' + r.score + '</span></span>' +
+          '<span class="cr-metric"><span class="cr-metric-k">puesto</span><span class="cr-metric-v">#' + r.rank + ' de 9</span></span>' +
+          '<span class="cr-reason"><b>por qué:</b> ' + esc(r.reason) + '</span>' +
+        '</div>' +
+      '</div>' +
+
+      '<div class="cr-body" style="margin-top:14px;">' +
+        '<div class="cr-panel is-src">' +
+          '<div class="cr-panel-head"><span class="cr-eyebrow">01 · Lo que pide el comité</span><span class="cr-tag is-lock">fuente bloqueada · no editable</span></div>' +
+          (r.desc
+            ? '<p class="cr-quote">' + esc(r.desc) + '</p>' + (r.demanda ? '<p class="cr-quote" style="margin-top:8px; padding-left:10px; border-left:2px solid #BFDBFE;">«' + esc(r.demanda) + '»</p>' : '') +
+              '<div class="cr-src-note">' + esc(r.src) + '</div>'
+            : '<div class="cr-pending">Descripción oficial pendiente de transcribir. Se marca aquí cuando llegue el texto del comité (video o imágenes de la sala). Sin esto no se puede redactar en serio.</div>') +
+        '</div>' +
+        '<div class="cr-panel">' +
+          '<div class="cr-panel-head"><span class="cr-eyebrow">02 · Lo que propone la IA</span><span class="cr-tag is-asesor">propone · no vota</span></div>' +
+          (r.tesis
+            ? '<p class="cr-quote">' + esc(r.tesis) + '</p>'
+            : '<div class="cr-pending">La IA no ha formulado tesis para este reto. Se pide con «pedir ángulo» y entra aquí, sin pisar lo que redacta el equipo.</div>') +
+          (r.fact ? '<p class="cr-quote" style="margin-top:8px;">' + esc(r.fact) + '</p>' : '') +
+          (r.prec ? '<div class="cr-src-note">Precedente: ' + esc(r.prec) + '</div>' : '') +
+          '<div class="cr-split">' + ptsHTML(r) + '</div>' +
+        '</div>' +
+      '</div>' +
+
+      '<div class="cr-panel" style="margin-top:16px;">' +
+        '<div class="cr-panel-head"><span class="cr-eyebrow">03 · Nuestras redacciones (' + r.notes.length + ')</span>' +
+          '<span class="cr-tag">Libre · se escribe con el nombre y la hora</span>' +
+          '<span style="margin-left:auto; font-family:var(--font-mono); font-size:11px; color:var(--text-muted);">guardado automático</span></div>' +
+        notesHTML(r) +
+        '<form class="cr-compose" data-compose onsubmit="return false;">' +
+          '<span class="cr-avatar is-you">EB</span>' +
+          '<input type="text" placeholder="Escribe tu redacción sobre este reto y queda con tu nombre y la hora…">' +
+          '<button class="btn-pill-light" style="font-size:11.5px; padding:6px 13px;" data-add>+ pegar redacción</button>' +
+        '</form>' +
+      '</div>' +
+
+      '<div class="cr-panel" style="margin-top:16px;">' +
+        '<div class="cr-panel-head"><span class="cr-eyebrow">04 · La mesa vota</span><span class="cr-tag">' + t.total + ' en la mesa · mayoría: ' + t.need + ' votos</span></div>' +
+        '<div class="cr-voters">' + votersHTML(r) + '</div>' +
+        '<div class="cr-actions">' +
+          '<button class="btn-select-card filled" style="padding:6px 14px; font-size:12px; font-weight:700;" data-act="crown">Coronar como reto del equipo</button>' +
+          '<button class="btn-pill-light" style="font-size:11.5px; padding:6px 13px;" data-act="listen">Pedir 2 min de escucha</button>' +
+        '</div>' +
+        '<div class="cr-consequence"><b>La regla:</b> sin quórum — vota quien quiera y todos pueden aprobar o descartar. Con <b>≥50% del equipo</b> a favor entra; con <b>≥50% a descarte</b> el sistema lo mueve al embudo en rojo, y <b>se puede renovar</b> cuando quieran. Equipo impar: pasa el voto que cruza la mitad (' + t.need + ' de ' + t.total + '). <b>La IA no vota</b>: solo propone en su columna.</div>' +
+      '</div>' +
+    '</section>';
+  }
+
+  /* El catálogo heredado traía los rótulos corridos respecto a los ids reales
+     del comité. Se reconstruye desde los mismos datos: mismo look, id correcto,
+     orden de pronóstico y el chip sale del conteo vivo. */
+  function renderNav(current) {
+    const nav = document.getElementById('mz-nav');
+    if (!nav) return;
+    const order = RETOS.slice().sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+    nav.innerHTML = order.map(r => {
+      const act = r.id === current;
+      const t = tally(r);
+      const chip = t.discarded ? '<span class="mz-chip is-out">descartado ' + t.no + '/' + t.total + '</span>'
+        : (t.approved ? '<span class="mz-chip is-keep">aprobado ' + t.yes + '/' + t.total + '</span>'
+        : (t.inReserva ? '<span class="mz-chip">reserva ' + t.res + '/' + t.total + '</span>'
+        : '<span class="mz-chip">en debate ' + t.yes + '/' + t.total + '</span>'));
+      const ink = act ? '#FFFFFF' : '#0F172A';
+      return '<button class="deliberation-nav-item' + (act ? ' active' : '') + '" data-ret="' + r.id + '">' +
+        '<div><div style="display:flex; align-items:center; gap:6px; margin-bottom:3px;">' +
+          '<span class="nav-item-num" style="font-family:var(--font-mono); font-size:11px; font-weight:800; padding:1px 5px; border-radius:4px; background:' + (act ? 'rgba(255,255,255,0.22)' : '#E2E8F0') + '; color:' + ink + ';">#' + r.id + '</span>' +
+          '<span class="nav-item-cat" style="font-size:11px; font-weight:700; color:' + (act ? '#94A3B8' : '#5C7193') + ';">' + esc(r.cat) + '</span>' +
+          chip +
+        '</div>' +
+        '<div class="nav-item-title" style="font-size:12px; font-weight:700; color:' + ink + '; line-height:1.3;">' + esc(r.title) + '</div></div>' +
+        '<div style="text-align:right; flex-shrink:0; padding-left:8px;">' +
+          '<div style="font-family:var(--font-mono); font-size:12px; font-weight:800; color:' + ink + ';">' + r.via + '</div>' +
+          '<div style="font-size:11px; color:' + (act ? '#94A3B8' : '#5C7193') + ';">Notas: ' + r.notes.length + '</div>' +
+        '</div></button>';
+    }).join('');
+  }
+
+  const track = document.getElementById('cr-track');
+  const mapEl = document.getElementById('cr-map');
+
+  function render() {
+    track.innerHTML = RETOS.map(slideHTML).join('');
+    mapEl.innerHTML = RETOS.map((r, k) => {
+      const cls = ['cr-pip'];
+      const tt = tally(r);
+      if (tt.discarded) cls.push('is-out');
+      else if (tt.inReserva) cls.push('is-reserva');
+      if (state.crowned === r.id) cls.push('is-crowned');
+      if (k === state.i) cls.push('is-current');
+      return '<button class="' + cls.join(' ') + '" data-goto="' + k + '" title="#' + r.id + ' · ' + esc(r.title) + '">' + r.id + '</button>';
+    }).join('');
+    const r = RETOS[state.i];
+    document.getElementById('cr-now').textContent = '#' + r.id;
+    document.getElementById('cr-cta-primary').textContent = ctaReal(r);
+    const nxt = RETOS[(state.i + 1) % RETOS.length];
+    document.getElementById('cr-cta-next').textContent = 'Reto #' + nxt.id + ' →';
+    renderNav(r.id);
+    const tn = document.getElementById('cr-team-n');
+    if (tn) tn.textContent = String(state.team);
+    const need = Math.ceil(state.team / 2);
+    const needEl = document.getElementById('cr-team-need');
+    if (needEl) needEl.textContent = need + ' votos para aprobar';
+    const less = document.getElementById('cr-team-less');
+    const more = document.getElementById('cr-team-more');
+    if (less) less.disabled = state.team <= 6;
+    if (more) more.disabled = state.team >= 10;
+    slide();
+  }
+
+  function slide() {
+    track.style.transform = 'translateX(-' + (state.i * 100) + '%)';
+    document.getElementById('cr-prev').disabled = state.i === 0;
+    document.getElementById('cr-next').disabled = state.i === RETOS.length - 1;
+  }
+
+  function go(k) {
+    if (k < 0 || k >= RETOS.length) return;
+    state.i = k;
+    render();
+    const sl = track.querySelector('.cr-slide[data-ret="' + RETOS[k].id + '"]');
+    if (sl) sl.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }
+
+  document.getElementById('cr-prev').addEventListener('click', () => go(state.i - 1));
+  document.getElementById('cr-next').addEventListener('click', () => go(state.i + 1));
+  document.getElementById('cr-team-less').addEventListener('click', () => {
+    if (state.team > 6) { state.team--; render(); }
+  });
+  document.getElementById('cr-team-more').addEventListener('click', () => {
+    if (state.team < 10) { state.team++; render(); }
+  });
+  mapEl.addEventListener('click', (e) => {
+    const b = e.target.closest('[data-goto]');
+    if (b) go(Number(b.dataset.goto));
+  });
+  const navRoot = document.getElementById('mz-nav'); if (navRoot) navRoot.addEventListener('click', (e) => {
+    const it = e.target.closest('[data-ret]');
+    if (!it) return;
+    const k = RETOS.findIndex(r => r.id === it.dataset.ret);
+    if (k >= 0) go(k);
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT') return;
+    if (e.key === 'ArrowRight') go(state.i + 1);
+    if (e.key === 'ArrowLeft') go(state.i - 1);
+  });
+
+  track.addEventListener('click', (e) => {
+    const slideEl = e.target.closest('.cr-slide');
+    if (!slideEl) return;
+    const r = RETOS.find(x => x.id === slideEl.dataset.ret);
+
+    const dot = e.target.closest('.cr-dot');
+    if (dot) {
+      const k = Number(dot.closest('[data-dots]').dataset.dots);
+      const n = r.notes[k];
+      const v = Number(dot.dataset.v);
+      n.v = (n.v === v) ? v - 1 : v;
+      const box = dot.closest('[data-dots]');
+      [...box.children].forEach((b, idx) => b.classList.toggle('on', idx < n.v));
+      box.closest('.cr-note-meta').querySelector('[data-votes-label]').textContent = n.v + '/3 votos';
+      return;
+    }
+
+    const renewBtn = e.target.closest('[data-renew]');
+    if (renewBtn) {
+      const ret = RETOS.find(x => x.id === renewBtn.dataset.renew);
+      if (ret && VOTES[ret.id]) {
+        const who = VOTES[ret.id].no.slice();
+        VOTES[ret.id].no = [];
+        (RENEWS[ret.id] = RENEWS[ret.id] || []).push({ by: 'EB', at: nowHHMM(), removed: who.join(', ') });
+      }
+      render();
+      announce('Reto #' + (ret ? ret.id : '') + ' renovado · vuelve a la mesa sin los votos de descarte');
+      return;
+    }
+
+    const voter = e.target.closest('[data-voter]');
+    if (voter) {
+      cycleVote(r, voter.dataset.voter);
+      render();
+      return;
+    }
+
+    const act = e.target.closest('[data-act]');
+    if (act) {
+      const kind = act.dataset.act;
+      if (kind === 'crown') {
+        state.crowned = state.crowned === r.id ? null : r.id;
+        render();
+      } else if (kind === 'listen') {
+        act.textContent = 'Escucha pedida · 2 min';
+        act.disabled = true;
+      }
+      return;
+    }
+  });
+
+  track.addEventListener('submit', (e) => e.preventDefault());
+  track.addEventListener('click', (e) => {
+    const add = e.target.closest('[data-add]');
+    if (!add) return;
+    const form = add.closest('[data-compose]');
+    const input = form.querySelector('input');
+    const txt = input.value.trim();
+    if (!txt) return;
+    const slideEl = form.closest('.cr-slide');
+    const r = RETOS.find(x => x.id === slideEl.dataset.ret);
+    const now = new Date();
+    r.notes.push({
+      a: 'EB', v: 0,
+      t: String(now.getHours()).padStart(2, '0') + ':' + String(now.getMinutes()).padStart(2, '0'),
+      txt: txt
+    });
+    input.value = '';
+    const head = slideEl.querySelector('.cr-eyebrow');
+    if (head && /redacciones/.test(head.textContent)) head.textContent = '03 · Nuestras redacciones (' + r.notes.length + ')';
+    slideEl.querySelector('[data-notes]')
+      ? slideEl.querySelector('[data-notes]').outerHTML = notesHTML(r)
+      : slideEl.querySelector('.cr-pending').outerHTML = notesHTML(r);
+    return;
+  });
+
+  render();
+})();
+</script>
+
+
+</body>
+</html>

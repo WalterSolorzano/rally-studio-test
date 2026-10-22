@@ -1,0 +1,98 @@
+# Claves locales: nunca al repositorio
+scripts/freellmapi.key
+*.key
+.env
+.env.*
+# ...salvo la plantilla sin valores
+!.env.example
+
+# Descargas y artefactos del instalador de IA gratis
+tools/freellmapi/
+*.blockmap
+
+# Registros y temporales
+*.log
+*.err
+narrativa/audio/*.wav
+
+# Salidas generadas localmente
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Recursos subidos por el equipo en el Estudio de Video (datos de usuario, pesados)
+dashboard/assets_uploads/
+
+# Buzón de propuestas del agente y espejo de estado (datos del usuario, efímeros)
+dashboard/data/content/
+.rally-nube.json
+.rally-nube/
+dashboard/data/state.json
+dashboard/data/sections.db
+dashboard/data/sections.db-shm
+dashboard/data/sections.db-wal
+dashboard/data/members.db
+dashboard/data/members.db-shm
+dashboard/data/members.db-wal
+dashboard/data/nube.db
+dashboard/data/content_decisiones/
+dashboard/data/applied/
+dashboard/data/discarded/
+
+# Capturas de pantalla de revisión/QA (no son parte del producto)
+dashboard/shots/
+dash-*.png
+dash2-*.png
+tab-*.png
+tab2-*.png
+tab3-*.png
+mob-*.png
+f390-*.png
+m2-*.png
+m3-*.png
+m4-*.png
+q-*.png
+r2-*.png
+r3-*.png
+fix*.png
+final-*.png
+site-landing.png
+graph.png
+# Auditoría móvil y de foco: capturas y volcados de detección
+audit/
+assessment-b-*.png
+
+# Pruebas de motores de voz: no son la locución entregable
+assets/voice/previews/
+
+# Estado efímero del watcher de estadísticas
+dashboard/data/stats.status.json
+
+# Herramientas de agentes / andamios locales
+.playwright-mcp/
+.superpowers/
+.impeccable/
+node_modules/
+tmp/
+scripts/.cache/
+tools/parse_detect.py
+
+# Reflejos de skills que crea scripts/setup_agente.ps1 (la fuente es skills/)
+.opencode/skills/
+.agents/skills/
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+
+# Cache interno que graphify crea dentro del corpus al reconstruir
+brain/corpus/graphify-out/
+
+# Locks de recursos del orquestador: por maquina, nunca al repo
+locks/
+
+# Configuracion real de la maquina de trabajo (la plantilla es env.example.json)
+env.json
+
+# Basura de Blender y renders de prueba
+blender/tmp/

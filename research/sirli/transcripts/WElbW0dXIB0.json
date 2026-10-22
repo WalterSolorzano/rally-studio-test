@@ -1,0 +1,117 @@
+{
+ "video_id": "WElbW0dXIB0",
+ "url": "https://youtu.be/WElbW0dXIB0?si=spFXbKcnjnr4IqSl",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "PUNTO DE GIRO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "PUNTO DE GIRO",
+   "challenge": "01 - SEGUNDA VIDA DE LOS MOTORES ELÉCTRICOS DOMÉSTICOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:55:49+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En muchas comunidades los pequeños productores necesitan herramientas agrícolas accesibles, mientras que numerosas familias enfrentan dificultades para obtener agua debido a la falta de infraestructura o problemas de abastecimiento. A lo mismo tiempo, muchos aparatos desechados contienen motores que todavía pueden aprovecharse. Nuestra propuesta consiste en reutilizar motores de caminadora, lavadoras y ventiladores para fabricar tres equipos, una pica-pasto y dos sistemas de bombedo de agua mediante estructura adaptada y transmisiones por polea y faja. Buscamos convertir componente en desuso en herramientas útiles para la agricultura y el traslado de agua. La inversión total estimada es de 12.630 Córdoba buscando reducir los costos frente a la compra de equipos comerciales. La pica-pasto facilitaría la preparación de alimento para animales, mientras que las bombas podrían ayudar a trasladar agua hacia depósitos o puntos de almacenamiento, beneficiando a productores y familias con dificultades de abastecimiento. Además, reutilizar motores reduce los residuos electrónicos y promueve la economía circular. Nuestra propuesta se diferencia por combinar innovación, accesibilidad y sostenibilidad en lugar de depender únicamente de maquinaria nueva. Aprovechamos recursos que normalmente se desecharían para desarrollar equipos reparables y adaptables a necesidad de reales. No pretendemos sustituir los sistemas públicos de agua, sino ofrecer alternativas complementarias, porque innovar también significa transformarlo que otros desechan en nuevas oportunidades para las personas y el ambiente.",
+ "segments": [
+  {
+   "start": 0.27,
+   "end": 5.27,
+   "text": "En muchas comunidades los pequeños productores necesitan herramientas agrícolas accesibles,"
+  },
+  {
+   "start": 5.27,
+   "end": 12.07,
+   "text": "mientras que numerosas familias enfrentan dificultades para obtener agua debido a la falta de infraestructura o"
+  },
+  {
+   "start": 12.07,
+   "end": 17.19,
+   "text": "problemas de abastecimiento. A lo mismo tiempo, muchos aparatos desechados contienen motores"
+  },
+  {
+   "start": 17.19,
+   "end": 22.11,
+   "text": "que todavía pueden aprovecharse. Nuestra propuesta consiste en reutilizar motores"
+  },
+  {
+   "start": 22.11,
+   "end": 28.15,
+   "text": "de caminadora, lavadoras y ventiladores para fabricar tres equipos, una pica-pasto y dos"
+  },
+  {
+   "start": 28.15,
+   "end": 33.55,
+   "text": "sistemas de bombedo de agua mediante estructura adaptada y transmisiones por polea y faja."
+  },
+  {
+   "start": 33.55,
+   "end": 40.43,
+   "text": "Buscamos convertir componente en desuso en herramientas útiles para la agricultura y el traslado de agua."
+  },
+  {
+   "start": 40.43,
+   "end": 48.31,
+   "text": "La inversión total estimada es de 12.630 Córdoba buscando reducir los costos frente"
+  },
+  {
+   "start": 48.31,
+   "end": 52.91,
+   "text": "a la compra de equipos comerciales. La pica-pasto facilitaría la preparación de"
+  },
+  {
+   "start": 52.91,
+   "end": 58.55,
+   "text": "alimento para animales, mientras que las bombas podrían ayudar a trasladar agua hacia"
+  },
+  {
+   "start": 58.55,
+   "end": 63.87,
+   "text": "depósitos o puntos de almacenamiento, beneficiando a productores y familias con dificultades de"
+  },
+  {
+   "start": 63.87,
+   "end": 69.19,
+   "text": "abastecimiento. Además, reutilizar motores reduce los residuos electrónicos y promueve"
+  },
+  {
+   "start": 69.19,
+   "end": 74.07,
+   "text": "la economía circular. Nuestra propuesta se diferencia por combinar innovación,"
+  },
+  {
+   "start": 74.07,
+   "end": 79.51,
+   "text": "accesibilidad y sostenibilidad en lugar de depender únicamente de maquinaria nueva."
+  },
+  {
+   "start": 79.55,
+   "end": 85.35,
+   "text": "Aprovechamos recursos que normalmente se desecharían para desarrollar equipos reparables y adaptables"
+  },
+  {
+   "start": 85.35,
+   "end": 89.63,
+   "text": "a necesidad de reales. No pretendemos sustituir los sistemas públicos de agua,"
+  },
+  {
+   "start": 89.63,
+   "end": 95.35,
+   "text": "sino ofrecer alternativas complementarias, porque innovar también significa transformarlo que"
+  },
+  {
+   "start": 95.35,
+   "end": 99.59,
+   "text": "otros desechan en nuevas oportunidades para las personas y el ambiente."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 100.6
+}

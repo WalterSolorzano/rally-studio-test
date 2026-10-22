@@ -1,0 +1,82 @@
+{
+ "video_id": "niSotC81ANc",
+ "url": "https://youtu.be/niSotC81ANc?si=EIVoC1Et9gu0VLOk",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TEAM ÈLITE",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "TEAM ÈLITE",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:20:35+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Mérica Latina vive un bul de energía solar pero enfrentamos una crisis oculta. Miles de toneladas de paneles llegarán al final de su vida útil comercial, convirtiéndose en basura verde peligrosa. Sin embargo, un panel desechado conserva un 80% de capacidad de generación. No es Colombia un modelo de economía circular que recata y reacciona estos modelos solares para darle una segunda vida útil. los transformadores de energía accesibles de bajo costo para iluminar escuelas, rudales, bombas de agua y centros comunitarios en zona vulnerable. Mediante alancia de estratégicas con parque solar aseguramos la recolección de los, además los paneles dañados entra en un proceso de desamplición seguro recuperando aluminio y vidrio y gestión adecuadamente.",
+ "segments": [
+  {
+   "start": 0.18,
+   "end": 13.44,
+   "text": "Mérica Latina vive un bul de energía solar pero enfrentamos una crisis oculta."
+  },
+  {
+   "start": 13.44,
+   "end": 17.34,
+   "text": "Miles de toneladas de paneles llegarán al final de su vida útil comercial,"
+  },
+  {
+   "start": 17.34,
+   "end": 19.58,
+   "text": "convirtiéndose en basura verde peligrosa."
+  },
+  {
+   "start": 19.58,
+   "end": 23.8,
+   "text": "Sin embargo, un panel desechado conserva un 80% de capacidad de generación."
+  },
+  {
+   "start": 23.8,
+   "end": 40.74,
+   "text": "No es Colombia un modelo de economía circular que recata y reacciona estos modelos solares"
+  },
+  {
+   "start": 40.74,
+   "end": 43.32,
+   "text": "para darle una segunda vida útil."
+  },
+  {
+   "start": 43.32,
+   "end": 48.3,
+   "text": "los transformadores de energía accesibles de bajo costo para iluminar escuelas, rudales,"
+  },
+  {
+   "start": 48.3,
+   "end": 52.46,
+   "text": "bombas de agua y centros comunitarios en zona vulnerable."
+  },
+  {
+   "start": 52.46,
+   "end": 58.62,
+   "text": "Mediante alancia de estratégicas con parque solar aseguramos la recolección de los, además"
+  },
+  {
+   "start": 58.62,
+   "end": 64.54,
+   "text": "los paneles dañados entra en un proceso de desamplición seguro recuperando aluminio"
+  },
+  {
+   "start": 64.54,
+   "end": 67.58,
+   "text": "y vidrio y gestión adecuadamente."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 133.8
+}

@@ -1,0 +1,117 @@
+{
+ "video_id": "64sDOBcEmsw",
+ "url": "https://youtu.be/64sDOBcEmsw?si=INe8CE0p5joysVug",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CITRUS DROP",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "CITRUS DROP",
+   "challenge": "06 - REVALORIZACIÓN RESIDUOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:43:18+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En la actualidad en las ciudades existen diferentes tipos de desechos degradables, entre estos se encuentran los desechos cítricos como los son las naranjas, cáscaras y pulpas. Estos desechos pueden ser obtenidos de diferentes sitios, ya sean en la calle, mercados o gares entre otros. La contaminación ambiental con el paso del tiempo ha sido significativa, donde uno de sus causantes es la producción de plásticos, principalmente los plásticos PET o PET, que de los cuales son elaborados los embases plásticos para bebidas consumibles. La propuesta de solución a esta problemática es la creación de citrocap, el cual se basa en una membrana biodegradable, en forma de fera a partir de cáscara y pulpas de cítricos destinada a contener el agua y facilitar el consumo de esta, la cual solo puede consumirse el contenido o bien con la membrana, ya que esta es totalmente comestible. La etapa de procedimiento de elaboración del producto son asidentes. Recolegión y tratamiento de cáscara y pulpas. Moldear bisecado de capa por 24 horas de las cáscaras y pulpas. Preparación de solución de alginato en conjunto que la membrana bioclástica elaborado a base de residuos cítricos, eferización de la citrocap y finalmente el curado y secado. Para la determinación del costo unitario, se estimaron diferentes costos de las diferentes etapas de producción del producto, como en la recolección, acopio, procesamiento de conservación del producto, costos directos e indirectos, obteniendo un costo de 6 Córdoba, lo cual es equivalente a 0.16 dólares. Citrocap es una alternativa ecológica para la reducción de la utilización de plásticos para en base de líquidos, del mismo modo dándole una nueva implementación a los residuos cítricos que normalmente son desechados, además ofreciendo así una forma sostenible y ecológica para almacenar y transportar líquidos.",
+ "segments": [
+  {
+   "start": 1.23,
+   "end": 12.23,
+   "text": "En la actualidad en las ciudades existen diferentes tipos de desechos degradables, entre estos se encuentran los desechos cítricos como los son las naranjas, cáscaras y pulpas."
+  },
+  {
+   "start": 12.23,
+   "end": 18.23,
+   "text": "Estos desechos pueden ser obtenidos de diferentes sitios, ya sean en la calle, mercados o gares entre otros."
+  },
+  {
+   "start": 18.23,
+   "end": 26.23,
+   "text": "La contaminación ambiental con el paso del tiempo ha sido significativa, donde uno de sus causantes es la producción de plásticos,"
+  },
+  {
+   "start": 26.23,
+   "end": 34.23,
+   "text": "principalmente los plásticos PET o PET, que de los cuales son elaborados los embases plásticos para bebidas consumibles."
+  },
+  {
+   "start": 34.23,
+   "end": 42.23,
+   "text": "La propuesta de solución a esta problemática es la creación de citrocap, el cual se basa en una membrana biodegradable,"
+  },
+  {
+   "start": 42.23,
+   "end": 50.23,
+   "text": "en forma de fera a partir de cáscara y pulpas de cítricos destinada a contener el agua y facilitar el consumo de esta,"
+  },
+  {
+   "start": 50.23,
+   "end": 57.23,
+   "text": "la cual solo puede consumirse el contenido o bien con la membrana, ya que esta es totalmente comestible."
+  },
+  {
+   "start": 58.23,
+   "end": 63.23,
+   "text": "La etapa de procedimiento de elaboración del producto son asidentes."
+  },
+  {
+   "start": 63.23,
+   "end": 65.23,
+   "text": "Recolegión y tratamiento de cáscara y pulpas."
+  },
+  {
+   "start": 65.23,
+   "end": 69.23,
+   "text": "Moldear bisecado de capa por 24 horas de las cáscaras y pulpas."
+  },
+  {
+   "start": 69.23,
+   "end": 76.23,
+   "text": "Preparación de solución de alginato en conjunto que la membrana bioclástica elaborado a base de residuos cítricos,"
+  },
+  {
+   "start": 76.23,
+   "end": 80.23,
+   "text": "eferización de la citrocap y finalmente el curado y secado."
+  },
+  {
+   "start": 80.23,
+   "end": 87.23,
+   "text": "Para la determinación del costo unitario, se estimaron diferentes costos de las diferentes etapas de producción del producto,"
+  },
+  {
+   "start": 87.23,
+   "end": 94.23,
+   "text": "como en la recolección, acopio, procesamiento de conservación del producto, costos directos e indirectos,"
+  },
+  {
+   "start": 94.23,
+   "end": 100.23,
+   "text": "obteniendo un costo de 6 Córdoba, lo cual es equivalente a 0.16 dólares."
+  },
+  {
+   "start": 100.23,
+   "end": 108.74,
+   "text": "Citrocap es una alternativa ecológica para la reducción de la utilización de plásticos para en base de líquidos,"
+  },
+  {
+   "start": 108.74,
+   "end": 114.74,
+   "text": "del mismo modo dándole una nueva implementación a los residuos cítricos que normalmente son desechados,"
+  },
+  {
+   "start": 114.74,
+   "end": 121.74,
+   "text": "además ofreciendo así una forma sostenible y ecológica para almacenar y transportar líquidos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 122.6
+}

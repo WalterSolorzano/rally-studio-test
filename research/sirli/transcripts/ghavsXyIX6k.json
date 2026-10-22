@@ -1,0 +1,157 @@
+{
+ "video_id": "ghavsXyIX6k",
+ "url": "https://youtu.be/ghavsXyIX6k",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "DEPRAIS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "DEPRAIS",
+   "challenge": "02 - SIEMPRE EN CONTACTO"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:21:39+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías qué? Latinoamérica es una región que recibe más de 115 millones de turistas internacionales anualmente, concentrando así el 8% del turismo global. En parte, es gracias la gran belleza natural de estas tierras y las diversas actividades que se pueden realizar en ellas. Pero en el turismo de aventura y en el trabajo en regiones inhóspitas lleva que muchas personas queden varadas en inhóspito, sin comunicación alguna, vulnerables a naturaleza y a sus habitantes. Es por eso que de praia se presenta Geoanda, una idea innovadora que combate esta problemática, a través de una placera que se coloca en la parte del antebrazo, utilizando el pulso brackeal para el monitoreo de latidos cardiacos. El producto se compone de un controlador arduino que trabaja junto a un módulo de antena GPS, capaz de enviar señales satelitares y un pulsómetro, con el cual el usuario pueda registrar su ritmo cardíaco y su ubicación, y en casa de alerta presionar un botón que enviará los datos satelitales a través del módulo de antena GPS y de la de frecuencia. Datos que serán recepcionados por un satélite de uso libre, que redicionará la información a una base de datos, donde luego se alertará a las autoridades y familiares del usuario sobre la situación del afectado. Todo esto sin que el usuario tenga acceso a internet diferenciándose así de otros productos en el mercado. Cuenta con un mini panel solar que alimenta su batería y una pantalla OLED que muestra los datos del usuario. Cabe resaltar que los materiales pueden ser reciclados con facilidad, por lo que no representa una carga ambiental grande. El coste de la bracera de Geoanda es de 100 dólares, frente a un coste de fabricación de 77 dólares, representando así una ganancia del 30% legal. El precio resulta accesible en comparación a otros productos similares del mercado cuyo precio ronda a más de 400 dólares. Geoanda generará un cambio en el turismo de aventura, permitiendo abrir nuevas rutas turísticas sin miedo a perderse. Este es el momento. Geoanda explora sin riesgos.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.89,
+   "text": "¿Sabías qué? Latinoamérica es una región que recibe más de 115 millones de turistas"
+  },
+  {
+   "start": 9.89,
+   "end": 16.33,
+   "text": "internacionales anualmente, concentrando así el 8% del turismo global. En parte, es gracias"
+  },
+  {
+   "start": 16.33,
+   "end": 20.57,
+   "text": "la gran belleza natural de estas tierras y las diversas actividades que se pueden realizar"
+  },
+  {
+   "start": 20.57,
+   "end": 24.65,
+   "text": "en ellas. Pero en el turismo de aventura y en el trabajo en regiones inhóspitas lleva"
+  },
+  {
+   "start": 24.65,
+   "end": 29.05,
+   "text": "que muchas personas queden varadas en inhóspito, sin comunicación alguna, vulnerables a"
+  },
+  {
+   "start": 29.05,
+   "end": 34.21,
+   "text": "naturaleza y a sus habitantes. Es por eso que de praia se presenta Geoanda, una idea"
+  },
+  {
+   "start": 34.21,
+   "end": 38.41,
+   "text": "innovadora que combate esta problemática, a través de una placera que se coloca en"
+  },
+  {
+   "start": 38.41,
+   "end": 42.73,
+   "text": "la parte del antebrazo, utilizando el pulso brackeal para el monitoreo de latidos"
+  },
+  {
+   "start": 42.73,
+   "end": 47.05,
+   "text": "cardiacos. El producto se compone de un controlador arduino que trabaja junto a un"
+  },
+  {
+   "start": 47.05,
+   "end": 51.57,
+   "text": "módulo de antena GPS, capaz de enviar señales satelitares y un pulsómetro,"
+  },
+  {
+   "start": 51.57,
+   "end": 55.33,
+   "text": "con el cual el usuario pueda registrar su ritmo cardíaco y su ubicación,"
+  },
+  {
+   "start": 55.65,
+   "end": 59.81,
+   "text": "y en casa de alerta presionar un botón que enviará los datos satelitales a través"
+  },
+  {
+   "start": 59.81,
+   "end": 64.57,
+   "text": "del módulo de antena GPS y de la de frecuencia. Datos que serán recepcionados por un"
+  },
+  {
+   "start": 64.57,
+   "end": 68.53,
+   "text": "satélite de uso libre, que redicionará la información a una base de datos,"
+  },
+  {
+   "start": 68.53,
+   "end": 73.05,
+   "text": "donde luego se alertará a las autoridades y familiares del usuario sobre la"
+  },
+  {
+   "start": 73.05,
+   "end": 77.17,
+   "text": "situación del afectado. Todo esto sin que el usuario tenga acceso a internet"
+  },
+  {
+   "start": 77.17,
+   "end": 81.45,
+   "text": "diferenciándose así de otros productos en el mercado. Cuenta con un mini panel"
+  },
+  {
+   "start": 81.61,
+   "end": 85.61,
+   "text": "solar que alimenta su batería y una pantalla OLED que muestra los datos del"
+  },
+  {
+   "start": 85.61,
+   "end": 89.29,
+   "text": "usuario. Cabe resaltar que los materiales pueden ser reciclados con facilidad,"
+  },
+  {
+   "start": 89.29,
+   "end": 92.73,
+   "text": "por lo que no representa una carga ambiental grande. El coste de la"
+  },
+  {
+   "start": 92.73,
+   "end": 96.69,
+   "text": "bracera de Geoanda es de 100 dólares, frente a un coste de fabricación de"
+  },
+  {
+   "start": 96.69,
+   "end": 102.57,
+   "text": "77 dólares, representando así una ganancia del 30% legal. El precio resulta"
+  },
+  {
+   "start": 102.57,
+   "end": 106.25,
+   "text": "accesible en comparación a otros productos similares del mercado cuyo precio"
+  },
+  {
+   "start": 106.25,
+   "end": 111.45,
+   "text": "ronda a más de 400 dólares. Geoanda generará un cambio en el turismo de"
+  },
+  {
+   "start": 111.45,
+   "end": 115.29,
+   "text": "aventura, permitiendo abrir nuevas rutas turísticas sin miedo a perderse."
+  },
+  {
+   "start": 115.29,
+   "end": 119.25,
+   "text": "Este es el momento. Geoanda explora sin riesgos."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.6
+}

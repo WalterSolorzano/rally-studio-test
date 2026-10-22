@@ -1,0 +1,172 @@
+{
+ "video_id": "DutQO_fUBTQ",
+ "url": "https://youtu.be/DutQO_fUBTQ?si=BZeiREuL4R9RmeYV",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "ES3",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "ES3",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:20:47+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Y sí, ¿pudríamos anticiparnos a una inundación, antes de que se convierta en una emergencia? En muchas comunidades vulnerables las lluvias intensas provocan inundaciones debido a la acumulación de sedimentos, las obstrucciones en los trenajes y la falta de monitoreo oportuno en los reservorios pluviales. El problema no es solamente el exceso de agua, sino la falta de información en tiempo real y de coordinación, para actuar antes de que sea demasiado tarde. A partir de esta problemática desarrollamos una propuesta que nace de una idea para contener agua, a anticipar los riesgos y proteger a las comunidades. Nuestro proceso creativo se centró en integrar tecnología, prevención y colaboración entre ciudadanos en una sola plataforma, transformando datos en información accesible y útil para tomar decisiones, porque prevenir no debería depender de reaccionar cuando el peligro ya está presente. Esta plataforma tanto como app o como web puede realizarse en diferentes aspectos y se desempeña en los principales fuentes hidráulicas de nuestro país. Hoy nos especificamos en managua, en las cuales los sensores detectan el aumento del agua y advierten con una notificación a los usuarios, aunque también estos usuarios pueden detectar las amenazas como un manhole de bordados en los cuales pueden mandar un reporte a las autoridades correspondientes. Todo esto se junta como un análisis de datos en el cual podemos contribuir para prevenir las futuras inundaciones. Además, permite reportar fundaciones y alcantaría ocuidas y acumulación de sedimentos mediante fotografía y ubicación geográfica. Que distingue a este proyecto es un foco integral colaborativo y resiliente. La plataforma está diseñada para mantener funciones esenciales, incluso sin conexión a internet, almacendón información de manera local y sincronizándola cuando se restablece la conectividad. Así, conectamos el monitoreo inteligente con el conocimiento de quienes viven cada día en las zonas vulnerables. Pues estamos conscientes de que anticiparnos al riesgo es salvar vida.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.16,
+   "text": "Y sí, ¿pudríamos anticiparnos a una inundación, antes de que se convierta en una emergencia?"
+  },
+  {
+   "start": 5.16,
+   "end": 9.7,
+   "text": "En muchas comunidades vulnerables las lluvias intensas provocan inundaciones debido a la"
+  },
+  {
+   "start": 9.7,
+   "end": 14.36,
+   "text": "acumulación de sedimentos, las obstrucciones en los trenajes y la falta de monitoreo oportuno"
+  },
+  {
+   "start": 14.36,
+   "end": 16.28,
+   "text": "en los reservorios pluviales."
+  },
+  {
+   "start": 16.28,
+   "end": 21.08,
+   "text": "El problema no es solamente el exceso de agua, sino la falta de información en tiempo"
+  },
+  {
+   "start": 21.08,
+   "end": 26.2,
+   "text": "real y de coordinación, para actuar antes de que sea demasiado tarde."
+  },
+  {
+   "start": 26.2,
+   "end": 32.56,
+   "text": "A partir de esta problemática desarrollamos una propuesta que nace de una idea para contener agua,"
+  },
+  {
+   "start": 32.56,
+   "end": 36.68,
+   "text": "a anticipar los riesgos y proteger a las comunidades."
+  },
+  {
+   "start": 36.68,
+   "end": 42.24,
+   "text": "Nuestro proceso creativo se centró en integrar tecnología, prevención y colaboración entre"
+  },
+  {
+   "start": 42.24,
+   "end": 49.48,
+   "text": "ciudadanos en una sola plataforma, transformando datos en información accesible y útil para"
+  },
+  {
+   "start": 49.48,
+   "end": 54.44,
+   "text": "tomar decisiones, porque prevenir no debería depender de reaccionar cuando el peligro"
+  },
+  {
+   "start": 54.44,
+   "end": 57.82,
+   "text": "ya está presente."
+  },
+  {
+   "start": 57.82,
+   "end": 63.58,
+   "text": "Esta plataforma tanto como app o como web puede realizarse en diferentes aspectos y se desempeña"
+  },
+  {
+   "start": 63.58,
+   "end": 66.66,
+   "text": "en los principales fuentes hidráulicas de nuestro país."
+  },
+  {
+   "start": 66.66,
+   "end": 72.38,
+   "text": "Hoy nos especificamos en managua, en las cuales los sensores detectan el aumento del agua y"
+  },
+  {
+   "start": 72.38,
+   "end": 78.14,
+   "text": "advierten con una notificación a los usuarios, aunque también estos usuarios pueden detectar"
+  },
+  {
+   "start": 78.14,
+   "end": 82.98,
+   "text": "las amenazas como un manhole de bordados en los cuales pueden mandar un reporte a"
+  },
+  {
+   "start": 82.98,
+   "end": 84.9,
+   "text": "las autoridades correspondientes."
+  },
+  {
+   "start": 85.02,
+   "end": 90.5,
+   "text": "Todo esto se junta como un análisis de datos en el cual podemos contribuir para prevenir"
+  },
+  {
+   "start": 90.5,
+   "end": 92.5,
+   "text": "las futuras inundaciones."
+  },
+  {
+   "start": 92.5,
+   "end": 98.42,
+   "text": "Además, permite reportar fundaciones y alcantaría ocuidas y acumulación de sedimentos mediante"
+  },
+  {
+   "start": 98.42,
+   "end": 101.34,
+   "text": "fotografía y ubicación geográfica."
+  },
+  {
+   "start": 101.34,
+   "end": 106.94,
+   "text": "Que distingue a este proyecto es un foco integral colaborativo y resiliente."
+  },
+  {
+   "start": 106.94,
+   "end": 112.22,
+   "text": "La plataforma está diseñada para mantener funciones esenciales, incluso sin conexión"
+  },
+  {
+   "start": 112.22,
+   "end": 117.74,
+   "text": "a internet, almacendón información de manera local y sincronizándola cuando se restablece"
+  },
+  {
+   "start": 117.74,
+   "end": 118.74,
+   "text": "la conectividad."
+  },
+  {
+   "start": 118.74,
+   "end": 124.22,
+   "text": "Así, conectamos el monitoreo inteligente con el conocimiento de quienes viven cada"
+  },
+  {
+   "start": 124.22,
+   "end": 126.5,
+   "text": "día en las zonas vulnerables."
+  },
+  {
+   "start": 126.5,
+   "end": 130.5,
+   "text": "Pues estamos conscientes de que anticiparnos al riesgo es salvar vida."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 131.5
+}

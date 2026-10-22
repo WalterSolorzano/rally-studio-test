@@ -1,0 +1,122 @@
+{
+ "video_id": "xyKg-W6eExM",
+ "url": "https://youtu.be/xyKg-W6eExM",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "AGUERRIDOS PINOLEROS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "AGUERRIDOS PINOLEROS",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:51:31+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Los saludos de barro, también conocido como flujos de lodo o deslizamientos de barro, son un tipo común de deslizamientos de tierra que se desprenden de forma lenta o a grandes velocidades y se desplazan formando canales y avalanchas que ponen en riesgo la vida de todos los seres vivos. Un ejemplo de este tipo de eventos es el ocurrido de Nicaragua, el 30 de octubre de 1998, donde se vivió el peor desastre natural después del terremoto de Managua en 1972. Una avalancha de lodo del volcán Casita mató a más de mil personas. Las fuertes lluvias provocadas por el huracán Mitch, que duraron más de una semana, causaron inundaciones de grandes áreas en la parte central y el noroeste de Nicaragua. Partiendo de este fenómeno que ocurre en cualquier parte del mundo, se hace la propuesta de un producto como lo es el dispositivo llamado alertado. Este dispositivo mixto que comprende un pluviumet se evalúa la probabilidad de un posible deslave y un sensor de movimientos telúrico que ubicará en la caja de mando, donde toda la información que se genere en este dispositivo será enviada a través de una app y gondas de banda corta para que estas puedan llegar en forma de mensaje de texto, en caso de no poseer un celular inteligente. La innovación está en lograr utilizar varios datos para tener mayor precisión en el dispositivo y que produzcan información que genere un tecto en tiempo real y se almacene en una tarjeta. En cuanto a los impactos socioambientales que representa la solución es muy significativo para las poblaciones de comunidades de zonas de riesgo, protegiendo la vida de estos a través de dispositivos llamado alertado, que brinda datos para la alerta temprana de un futuro deslizamiento de tierra.",
+ "segments": [
+  {
+   "start": 1.1,
+   "end": 10.33,
+   "text": "Los saludos de barro, también conocido como flujos de lodo o deslizamientos de barro,"
+  },
+  {
+   "start": 10.33,
+   "end": 14.97,
+   "text": "son un tipo común de deslizamientos de tierra que se desprenden de forma lenta o a grandes"
+  },
+  {
+   "start": 14.97,
+   "end": 20.25,
+   "text": "velocidades y se desplazan formando canales y avalanchas que ponen en riesgo la vida de"
+  },
+  {
+   "start": 20.25,
+   "end": 25.25,
+   "text": "todos los seres vivos. Un ejemplo de este tipo de eventos es el ocurrido de Nicaragua,"
+  },
+  {
+   "start": 25.25,
+   "end": 31.73,
+   "text": "el 30 de octubre de 1998, donde se vivió el peor desastre natural después del terremoto"
+  },
+  {
+   "start": 31.73,
+   "end": 39.13,
+   "text": "de Managua en 1972. Una avalancha de lodo del volcán Casita mató a más de mil personas."
+  },
+  {
+   "start": 40.05,
+   "end": 45.49,
+   "text": "Las fuertes lluvias provocadas por el huracán Mitch, que duraron más de una semana, causaron"
+  },
+  {
+   "start": 45.49,
+   "end": 53.22,
+   "text": "inundaciones de grandes áreas en la parte central y el noroeste de Nicaragua. Partiendo de este fenómeno"
+  },
+  {
+   "start": 53.22,
+   "end": 57.82,
+   "text": "que ocurre en cualquier parte del mundo, se hace la propuesta de un producto como lo es el"
+  },
+  {
+   "start": 57.82,
+   "end": 64.66,
+   "text": "dispositivo llamado alertado. Este dispositivo mixto que comprende un pluviumet se evalúa la"
+  },
+  {
+   "start": 64.66,
+   "end": 70.58,
+   "text": "probabilidad de un posible deslave y un sensor de movimientos telúrico que ubicará en la caja de"
+  },
+  {
+   "start": 70.58,
+   "end": 75.86,
+   "text": "mando, donde toda la información que se genere en este dispositivo será enviada a través de una"
+  },
+  {
+   "start": 75.86,
+   "end": 81.74,
+   "text": "app y gondas de banda corta para que estas puedan llegar en forma de mensaje de texto, en caso de"
+  },
+  {
+   "start": 81.74,
+   "end": 88.06,
+   "text": "no poseer un celular inteligente. La innovación está en lograr utilizar varios datos para tener"
+  },
+  {
+   "start": 88.06,
+   "end": 93.78,
+   "text": "mayor precisión en el dispositivo y que produzcan información que genere un tecto en tiempo real"
+  },
+  {
+   "start": 93.78,
+   "end": 100.3,
+   "text": "y se almacene en una tarjeta. En cuanto a los impactos socioambientales que representa la"
+  },
+  {
+   "start": 100.3,
+   "end": 104.86,
+   "text": "solución es muy significativo para las poblaciones de comunidades de zonas de riesgo,"
+  },
+  {
+   "start": 104.86,
+   "end": 110.22,
+   "text": "protegiendo la vida de estos a través de dispositivos llamado alertado, que brinda"
+  },
+  {
+   "start": 110.22,
+   "end": 114.14,
+   "text": "datos para la alerta temprana de un futuro deslizamiento de tierra."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.1
+}

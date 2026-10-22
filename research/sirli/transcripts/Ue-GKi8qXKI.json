@@ -1,0 +1,162 @@
+{
+ "video_id": "Ue-GKi8qXKI",
+ "url": "https://youtu.be/Ue-GKi8qXKI?si=I_j05RyZ59Oq7cIW",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INGENIO NICARAO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INGENIO NICARAO",
+   "challenge": "05 - EVACUACIÓN"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:54:16+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Latinoamérica enfrenta desafío en situaciones de emergencia, como sismo e incendio. Sin embargo, actualmente existen varias limitaciones en la gestión y prevención de estos desastres, las cuales dificultan la coordinación y asistencia durante la evacuación, especialmente en entornos complejos y de alta densidad. El verdadero reto implica que la evacuación de este tipo de edificaciones sea insegura y eficiente hacia lugares de menor riesgo, en el menor tiempo y de la forma más ordenada posible. El análisis de riesgo y control de amenaza ARCA es un sistema de información para gestión y prevención de desastres o sisiones naturales que facilita la evacuación ante situaciones de emergencia como sismo o incendio con asistencia individual o colectiva. Este mecanismo está basado en tecnología que no solo alerta ante un desastre, sino que guía de manera activa a los usuarios a sesión asegura. Dentro de la función del sistema de información ARCA incluía dispositivos de alerta de temprano inteligente para detectar humo, CO2 y sismo en tiempo real. El sistema de señalización digital dinámica caracteriza rutas de evacuación según la propagación del peligro, tecnología de monitoreo con cámaras que identifican bloqueo y acumulación de personas y una aplicación móvil que envía alerta inmediata a los usuarios mostrando rutas de escape y ofreciendo asistencia mediante boquías con instrucciones claras y adaptadas para facilitar una evacuación segura en situaciones de emergencia. El impacto social y ambiental en la implementación del sistema ARCA es significativo, ya que la propuesta incrementa la seguridad de las comunidades vulnerables y contribuye a la protección del entorno. El coste inicial de implementar el sistema ARCA va desde 13.342.89 dólares dependiendo de factores como la infraestructura, el nivel de automatización y los componentes específicos integrados en una instalación a pequeña escala y superar el valor en instalaciones más amplias y complejas, con una suscripción mensual para servicios de hosting de servidor de 100 dólares. ARCA, Protección Inteligente, Evocación Eficiente, Somos Ingenio Nicaragüe.",
+ "segments": [
+  {
+   "start": 3.38,
+   "end": 8.18,
+   "text": "Latinoamérica enfrenta desafío en situaciones de emergencia, como sismo e incendio."
+  },
+  {
+   "start": 8.18,
+   "end": 12.68,
+   "text": "Sin embargo, actualmente existen varias limitaciones en la gestión y prevención de estos desastres,"
+  },
+  {
+   "start": 12.68,
+   "end": 16.28,
+   "text": "las cuales dificultan la coordinación y asistencia durante la evacuación,"
+  },
+  {
+   "start": 16.28,
+   "end": 19.38,
+   "text": "especialmente en entornos complejos y de alta densidad."
+  },
+  {
+   "start": 19.38,
+   "end": 24.58,
+   "text": "El verdadero reto implica que la evacuación de este tipo de edificaciones sea insegura y eficiente"
+  },
+  {
+   "start": 24.58,
+   "end": 28.98,
+   "text": "hacia lugares de menor riesgo, en el menor tiempo y de la forma más ordenada posible."
+  },
+  {
+   "start": 29.38,
+   "end": 33.48,
+   "text": "El análisis de riesgo y control de amenaza ARCA es un sistema de información para gestión"
+  },
+  {
+   "start": 33.48,
+   "end": 37.68,
+   "text": "y prevención de desastres o sisiones naturales que facilita la evacuación ante situaciones"
+  },
+  {
+   "start": 37.68,
+   "end": 42.38,
+   "text": "de emergencia como sismo o incendio con asistencia individual o colectiva."
+  },
+  {
+   "start": 42.38,
+   "end": 46.38,
+   "text": "Este mecanismo está basado en tecnología que no solo alerta ante un desastre, sino que"
+  },
+  {
+   "start": 46.38,
+   "end": 49.88,
+   "text": "guía de manera activa a los usuarios a sesión asegura."
+  },
+  {
+   "start": 49.88,
+   "end": 54.18,
+   "text": "Dentro de la función del sistema de información ARCA incluía dispositivos de alerta de temprano"
+  },
+  {
+   "start": 54.18,
+   "end": 58.58,
+   "text": "inteligente para detectar humo, CO2 y sismo en tiempo real."
+  },
+  {
+   "start": 58.58,
+   "end": 62.98,
+   "text": "El sistema de señalización digital dinámica caracteriza rutas de evacuación según la propagación"
+  },
+  {
+   "start": 62.98,
+   "end": 68.48,
+   "text": "del peligro, tecnología de monitoreo con cámaras que identifican bloqueo y acumulación de personas"
+  },
+  {
+   "start": 68.48,
+   "end": 72.48,
+   "text": "y una aplicación móvil que envía alerta inmediata a los usuarios mostrando rutas de escape"
+  },
+  {
+   "start": 72.48,
+   "end": 76.78,
+   "text": "y ofreciendo asistencia mediante boquías con instrucciones claras y adaptadas para"
+  },
+  {
+   "start": 76.78,
+   "end": 80.48,
+   "text": "facilitar una evacuación segura en situaciones de emergencia."
+  },
+  {
+   "start": 80.48,
+   "end": 84.98,
+   "text": "El impacto social y ambiental en la implementación del sistema ARCA es significativo,"
+  },
+  {
+   "start": 84.98,
+   "end": 88.78,
+   "text": "ya que la propuesta incrementa la seguridad de las comunidades vulnerables y contribuye"
+  },
+  {
+   "start": 88.78,
+   "end": 90.78,
+   "text": "a la protección del entorno."
+  },
+  {
+   "start": 90.78,
+   "end": 96.82,
+   "text": "El coste inicial de implementar el sistema ARCA va desde 13.342.89 dólares dependiendo"
+  },
+  {
+   "start": 96.82,
+   "end": 100.98,
+   "text": "de factores como la infraestructura, el nivel de automatización y los componentes"
+  },
+  {
+   "start": 100.98,
+   "end": 104.82,
+   "text": "específicos integrados en una instalación a pequeña escala y superar el valor en"
+  },
+  {
+   "start": 104.82,
+   "end": 108.86,
+   "text": "instalaciones más amplias y complejas, con una suscripción mensual para servicios"
+  },
+  {
+   "start": 108.86,
+   "end": 111.38,
+   "text": "de hosting de servidor de 100 dólares."
+  },
+  {
+   "start": 111.38,
+   "end": 116.38,
+   "text": "ARCA, Protección Inteligente, Evocación Eficiente, Somos Ingenio Nicaragüe."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.8
+}

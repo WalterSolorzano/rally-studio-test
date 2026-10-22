@@ -1,0 +1,77 @@
+{
+ "video_id": "5SvmguWEWZw",
+ "url": "https://youtu.be/5SvmguWEWZw",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "JUVENTUD SIN FRONTERA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "JUVENTUD SIN FRONTERA",
+   "challenge": "06 - REMOCIÓN Y EXTRACCIÓN DE BARRO EN VIVIENDAS ANEGADAS"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:36:54+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La vieja genica Aragua se enfrenta a distintos tipos de desastres naturales que pueden afectar tanto a los pobladores y subviviendas, tal es el caso de los desastres de deslaves en zonas altas o crecientes de ríos en zonas bajas. Estos sedimentos muchas veces irrumpen en las viviendas y quedan adheridos a ella. De esta problemática nació el producto un sistema de extracción de sedimentos, Charco Clean elaborado por el grupo Juventud sin Frontera. Está diseñado para personas o comunidades de zonas de difícil acceso. Este sistema tiene por objetivo ser funcional en todo caso y en donde sea, ya que utiliza un motor de sución funcional a base de diesel combustible, con hasta 16 caballos de fuerza y alto revolucionaje. Bueno y eficiente para cubrir altas demandas laborales.",
+ "segments": [
+  {
+   "start": 0.56,
+   "end": 8.3,
+   "text": "La vieja genica Aragua se enfrenta a distintos tipos de desastres naturales que pueden afectar tanto a los pobladores y subviviendas,"
+  },
+  {
+   "start": 8.3,
+   "end": 16.16,
+   "text": "tal es el caso de los desastres de deslaves en zonas altas o crecientes de ríos en zonas bajas."
+  },
+  {
+   "start": 16.16,
+   "end": 22.64,
+   "text": "Estos sedimentos muchas veces irrumpen en las viviendas y quedan adheridos a ella."
+  },
+  {
+   "start": 23.08,
+   "end": 32.08,
+   "text": "De esta problemática nació el producto un sistema de extracción de sedimentos,"
+  },
+  {
+   "start": 32.08,
+   "end": 38.38,
+   "text": "Charco Clean elaborado por el grupo Juventud sin Frontera."
+  },
+  {
+   "start": 38.38,
+   "end": 44.68,
+   "text": "Está diseñado para personas o comunidades de zonas de difícil acceso."
+  },
+  {
+   "start": 44.68,
+   "end": 52.14,
+   "text": "Este sistema tiene por objetivo ser funcional en todo caso y en donde sea,"
+  },
+  {
+   "start": 52.3,
+   "end": 59.34,
+   "text": "ya que utiliza un motor de sución funcional a base de diesel combustible,"
+  },
+  {
+   "start": 59.34,
+   "end": 64.38,
+   "text": "con hasta 16 caballos de fuerza y alto revolucionaje."
+  },
+  {
+   "start": 64.38,
+   "end": 67.98,
+   "text": "Bueno y eficiente para cubrir altas demandas laborales."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 68.0
+}

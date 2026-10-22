@@ -1,0 +1,41 @@
+# Isla de IA de Rally Studio (Render).
+# Un solo servicio para todas las páginas estáticas publicadas.
+#
+# Secrets en el panel de Render (nunca en el repo):
+#   RALLY_AI_URL, RALLY_AI_KEY, RALLY_AI_MODEL, RALLY_AI_KEYS
+# Env vars:
+#   RALLY_ALLOWED_ORIGINS  -> dominios publicados, separados por coma
+#   RALLY_SERVICE_PORT     -> 8080 (lo pone Render)
+#   RALLY_AI_RATE_LIMIT    -> peticiones de IA por IP y ventana
+#   RALLY_AI_RATE_WINDOW   -> segundos de la ventana
+services:
+  - type: web
+    name: rally-ia-isla
+    runtime: docker
+    dockerfilePath: ./deploy/Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /api/ai/status
+    envVars:
+      - key: RALLY_SERVICE_PORT
+        value: "8080"
+      - key: RALLY_ALLOWED_ORIGINS
+        sync: false
+      - key: RALLY_SYNC_TOKEN
+        sync: false
+      - key: RALLY_AI_URL
+        sync: false
+      - key: RALLY_AI_KEY
+        sync: false
+      - key: RALLY_AI_KEYS
+        sync: false
+      - key: RALLY_AI_MODEL
+        sync: false
+      - key: RALLY_VISION_MODEL
+        sync: false
+      - key: RALLY_AI_RATE_LIMIT
+        value: "60"
+      - key: RALLY_AI_RATE_WINDOW
+        value: "3600"
+      - key: RALLY_AI_USER_RATE_LIMIT
+        value: "24"

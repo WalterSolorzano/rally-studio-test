@@ -1,0 +1,222 @@
+{
+ "video_id": "bhxArs36H_k",
+ "url": "https://youtube.com/shorts/bhxArs36H_k?si=mE6Cci_V3apaNrwk",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "JARFF",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "JARFF",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:19:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Cada tercer bocado que comes existe gracias a un polinizador, abejas, mariposas y escarabajos. Pequeños héroes que sostienen la mayor parte de los cultivos del mundo, pero hoy están desapareciendo a un ritmo alarmante. ¿Por qué son tan importantes? Porque sin polinizadores, la mayoría de las plantas no podrían reproducirse. Ellos transportan el polen de flor en flor, permitiendo que se formen frutos y semillas. Pero su supervivencia está en riesgo. La expansión de agricultura extensiva se ha convertido en paisajes de diversos campos de un solo cultivo, donde antes habían flores silvestres todo el año. Ahora solo hay una sola especie por kilómetro. Menos diversidad significa menos alimento y menos refugio. El uso excesivo de pesticida agrava la crisis. Estos químicos creados para eliminar plagas también envenenan a los polinizadores, debilitan las colonias de abejas, desorientan a las mariposas y reducen la población de los escarabajos. Algunos estudios señalan que los neónico-tinoide es un tipo muy común de pesticida, que está vinculado con la pérdida masiva de las colonias de abejas. A esto se suma la pérdida de hábitas naturales. Cada hectárea de bosque o pradera que desaparece, desaparece también el hogar de miles de polinizadores. Sin flores de donde alimentarse, ni lugares donde anidar, sus poblaciones se desplomban. Pero hay una solución. Una de las más efectivas es fomentar los cultivos naturales de especies polinizadoras. Plantar flores, plantas medicinales, hierba aromática y plantas silvestres, que sirvan de alimento y refugio para las abejas, mariposas y escarabajos. Diversificar los cultivos, reducir la pesticida y proteger la hábitat naturales, puede revertir la tendencia. Al igual que podemos realizar cultivos de diferentes especies de polinizadores. Sin polinizadores, no hay un futuro. Actuemos hoy.",
+ "segments": [
+  {
+   "start": 0.02,
+   "end": 4.18,
+   "text": "Cada tercer bocado que comes existe gracias a un polinizador,"
+  },
+  {
+   "start": 4.18,
+   "end": 6.78,
+   "text": "abejas, mariposas y escarabajos."
+  },
+  {
+   "start": 6.78,
+   "end": 11.1,
+   "text": "Pequeños héroes que sostienen la mayor parte de los cultivos del mundo,"
+  },
+  {
+   "start": 11.1,
+   "end": 14.18,
+   "text": "pero hoy están desapareciendo a un ritmo alarmante."
+  },
+  {
+   "start": 14.18,
+   "end": 16.02,
+   "text": "¿Por qué son tan importantes?"
+  },
+  {
+   "start": 16.02,
+   "end": 20.3,
+   "text": "Porque sin polinizadores, la mayoría de las plantas no podrían reproducirse."
+  },
+  {
+   "start": 20.3,
+   "end": 23.02,
+   "text": "Ellos transportan el polen de flor en flor,"
+  },
+  {
+   "start": 23.02,
+   "end": 26.22,
+   "text": "permitiendo que se formen frutos y semillas."
+  },
+  {
+   "start": 26.22,
+   "end": 28.66,
+   "text": "Pero su supervivencia está en riesgo."
+  },
+  {
+   "start": 28.66,
+   "end": 31.3,
+   "text": "La expansión de agricultura extensiva"
+  },
+  {
+   "start": 31.3,
+   "end": 35.02,
+   "text": "se ha convertido en paisajes de diversos campos de un solo cultivo,"
+  },
+  {
+   "start": 35.02,
+   "end": 38.1,
+   "text": "donde antes habían flores silvestres todo el año."
+  },
+  {
+   "start": 38.1,
+   "end": 41.02,
+   "text": "Ahora solo hay una sola especie por kilómetro."
+  },
+  {
+   "start": 41.02,
+   "end": 44.5,
+   "text": "Menos diversidad significa menos alimento y menos refugio."
+  },
+  {
+   "start": 44.5,
+   "end": 47.5,
+   "text": "El uso excesivo de pesticida agrava la crisis."
+  },
+  {
+   "start": 47.5,
+   "end": 50.3,
+   "text": "Estos químicos creados para eliminar plagas"
+  },
+  {
+   "start": 50.3,
+   "end": 52.54,
+   "text": "también envenenan a los polinizadores,"
+  },
+  {
+   "start": 52.54,
+   "end": 54.3,
+   "text": "debilitan las colonias de abejas,"
+  },
+  {
+   "start": 54.3,
+   "end": 58.02,
+   "text": "desorientan a las mariposas y reducen la población de los escarabajos."
+  },
+  {
+   "start": 58.06,
+   "end": 60.86,
+   "text": "Algunos estudios señalan que los neónico-tinoide"
+  },
+  {
+   "start": 60.86,
+   "end": 63.06,
+   "text": "es un tipo muy común de pesticida,"
+  },
+  {
+   "start": 63.06,
+   "end": 67.1,
+   "text": "que está vinculado con la pérdida masiva de las colonias de abejas."
+  },
+  {
+   "start": 67.1,
+   "end": 69.78,
+   "text": "A esto se suma la pérdida de hábitas naturales."
+  },
+  {
+   "start": 69.78,
+   "end": 72.74,
+   "text": "Cada hectárea de bosque o pradera que desaparece,"
+  },
+  {
+   "start": 72.74,
+   "end": 75.58,
+   "text": "desaparece también el hogar de miles de polinizadores."
+  },
+  {
+   "start": 75.58,
+   "end": 78.9,
+   "text": "Sin flores de donde alimentarse, ni lugares donde anidar,"
+  },
+  {
+   "start": 78.9,
+   "end": 80.86,
+   "text": "sus poblaciones se desplomban."
+  },
+  {
+   "start": 80.86,
+   "end": 82.18,
+   "text": "Pero hay una solución."
+  },
+  {
+   "start": 82.18,
+   "end": 85.54,
+   "text": "Una de las más efectivas es fomentar los cultivos naturales"
+  },
+  {
+   "start": 85.54,
+   "end": 87.14,
+   "text": "de especies polinizadoras."
+  },
+  {
+   "start": 87.22,
+   "end": 90.18,
+   "text": "Plantar flores, plantas medicinales, hierba aromática"
+  },
+  {
+   "start": 90.18,
+   "end": 93.98,
+   "text": "y plantas silvestres, que sirvan de alimento y refugio"
+  },
+  {
+   "start": 93.98,
+   "end": 97.06,
+   "text": "para las abejas, mariposas y escarabajos."
+  },
+  {
+   "start": 97.06,
+   "end": 99.94,
+   "text": "Diversificar los cultivos, reducir la pesticida"
+  },
+  {
+   "start": 99.94,
+   "end": 104.5,
+   "text": "y proteger la hábitat naturales, puede revertir la tendencia."
+  },
+  {
+   "start": 104.5,
+   "end": 106.66,
+   "text": "Al igual que podemos realizar cultivos"
+  },
+  {
+   "start": 106.66,
+   "end": 109.34,
+   "text": "de diferentes especies de polinizadores."
+  },
+  {
+   "start": 109.34,
+   "end": 112.3,
+   "text": "Sin polinizadores, no hay un futuro."
+  },
+  {
+   "start": 112.3,
+   "end": 113.5,
+   "text": "Actuemos hoy."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.3
+}

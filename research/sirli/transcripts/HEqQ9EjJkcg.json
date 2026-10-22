@@ -1,0 +1,102 @@
+{
+ "video_id": "HEqQ9EjJkcg",
+ "url": "https://youtu.be/HEqQ9EjJkcg?si=HQvDkfaYPTe9u7ij",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TECHNO-INV",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "TECHNO-INV",
+   "challenge": "07 - CROWDSENSING"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:46:03+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Los smartphones están siendo equipados con sensores que permiten registrar diferentes aspectos de la vida cotidiana, sin embargo estos datos se recopilan de manera aislada y no se aprovechan o suficienten para mejorar la calidad de vida en las ciudades. Esto se debe a preocupaciones sobre la privacidad y la confidencialidad. Mi nombre es Gabriel Barberena y soy el líder del equipo TecnoInf. Hoy quiero hablarles sobre el RI23, un anillo inteligente que tiene el potencial de revolucionar la forma en que vivimos. Este nieve recopila datos de manera segura y confiable. Estos datos se utilizan para mejorar la calidad de vida de las personas de diversas maneras como facilitar transacciones al utilizar tecnología NFC para realizar pagos sin contacto, proteger tu salud al recopilar datos como la frecuencia cardíaca y el tipo de sangre. Mejora tu seguridad y ten un GPS integrado para ayudar a las personas a mantenerse seguras en caso de emergencia. El RI23 está dirigido a un público general que está en constante contacto con la tecnología. Este público está más dispuesto a compartir sus datos para mejorar la calidad de vida en las ciudades. Se invertirán 40 mil dólares y se venderán por un precio de 60 dólares. La empresa plana es recuperar la inversión inicial a año y medio después del lanzamiento.",
+ "segments": [
+  {
+   "start": 0.91,
+   "end": 6.23,
+   "text": "Los smartphones están siendo equipados con sensores que permiten registrar diferentes aspectos de la"
+  },
+  {
+   "start": 6.23,
+   "end": 11.07,
+   "text": "vida cotidiana, sin embargo estos datos se recopilan de manera aislada y no se aprovechan o"
+  },
+  {
+   "start": 11.07,
+   "end": 15.91,
+   "text": "suficienten para mejorar la calidad de vida en las ciudades. Esto se debe a preocupaciones"
+  },
+  {
+   "start": 15.91,
+   "end": 20.43,
+   "text": "sobre la privacidad y la confidencialidad. Mi nombre es Gabriel Barberena y soy el líder"
+  },
+  {
+   "start": 20.43,
+   "end": 27.11,
+   "text": "del equipo TecnoInf. Hoy quiero hablarles sobre el RI23, un anillo inteligente que tiene el"
+  },
+  {
+   "start": 27.11,
+   "end": 32.19,
+   "text": "potencial de revolucionar la forma en que vivimos. Este nieve recopila datos de manera segura y"
+  },
+  {
+   "start": 32.19,
+   "end": 36.99,
+   "text": "confiable. Estos datos se utilizan para mejorar la calidad de vida de las personas de diversas"
+  },
+  {
+   "start": 36.99,
+   "end": 43.63,
+   "text": "maneras como facilitar transacciones al utilizar tecnología NFC para realizar pagos sin contacto,"
+  },
+  {
+   "start": 43.63,
+   "end": 48.43,
+   "text": "proteger tu salud al recopilar datos como la frecuencia cardíaca y el tipo de sangre."
+  },
+  {
+   "start": 48.43,
+   "end": 54.63,
+   "text": "Mejora tu seguridad y ten un GPS integrado para ayudar a las personas a mantenerse seguras"
+  },
+  {
+   "start": 54.63,
+   "end": 60.23,
+   "text": "en caso de emergencia. El RI23 está dirigido a un público general que está en constante"
+  },
+  {
+   "start": 60.23,
+   "end": 65.23,
+   "text": "contacto con la tecnología. Este público está más dispuesto a compartir sus datos para"
+  },
+  {
+   "start": 65.23,
+   "end": 69.67,
+   "text": "mejorar la calidad de vida en las ciudades. Se invertirán 40 mil dólares y se venderán"
+  },
+  {
+   "start": 69.67,
+   "end": 74.19,
+   "text": "por un precio de 60 dólares. La empresa plana es recuperar la inversión inicial"
+  },
+  {
+   "start": 74.19,
+   "end": 77.11,
+   "text": "a año y medio después del lanzamiento."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 90.7
+}

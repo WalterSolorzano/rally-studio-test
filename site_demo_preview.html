@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Telemetría & Monitoreo Territorial | Demostración</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo-area">
+      <div class="brand-logo">
+        <span class="brand-slash">//</span><span class="brand-rally">RALLY</span><span class="brand-studio">STUDIO</span>
+      </div>
+      <div class="brand-divider"></div>
+      <div>
+        <h1 class="nav-title">MONITOR TERRITORIAL</h1>
+        <p class="nav-subtitle">Red de Telemetría Hiperlocal en Tiempo Real</p>
+      </div>
+    </div>
+    <div class="tactical-status-pill">
+      <span class="status-dot"></span>
+      <span class="status-text">red lorawan activa (15 nodos)</span>
+    </div>
+  </header>
+
+  <main class="grid-container">
+    <!-- Fila 1: Indicadores Críticos (Cardless Banner) -->
+    <section class="stat-banner">
+      <div class="stat-col">
+        <span class="stat-label">Nivel de Alerta Cuenca</span>
+        <span class="stat-val alert-ok">MODERADO (1.42 m)</span>
+        <span class="stat-sub">Umbral de evacuación: 2.50 m</span>
+      </div>
+      <div class="stat-col">
+        <span class="stat-label">Tiempo de Respuesta</span>
+        <span class="stat-val">1.2 s</span>
+        <span class="stat-sub">Latencia media nodo-gateway</span>
+      </div>
+      <div class="stat-col">
+        <span class="stat-label">Autonomía Fotovoltaica</span>
+        <span class="stat-val">98.4%</span>
+        <span class="stat-sub">LiFePO4 12V / 15 días sin sol</span>
+      </div>
+      <div class="stat-col">
+        <span class="stat-label">Población Protegida</span>
+        <span class="stat-val">12,450 hab</span>
+        <span class="stat-sub">Sectores 1 al 4 de Managua</span>
+      </div>
+    </section>
+
+    <!-- Fila 2: Visualización Gráfica y Mapa de Nodos -->
+    <section class="panel-left">
+      <h2 class="section-title">Comportamiento Hidrométrico Últimas 12 Horas</h2>
+      <div class="chart-container">
+        <svg class="telemetry-chart" viewBox="0 0 600 220">
+          <line x1="50" y1="20" x2="580" y2="20" stroke="#E2E8F0" stroke-dasharray="4"/>
+          <line x1="50" y1="70" x2="580" y2="70" stroke="#E2E8F0" stroke-dasharray="4"/>
+          <line x1="50" y1="120" x2="580" y2="120" stroke="#E2E8F0" stroke-dasharray="4"/>
+          <line x1="50" y1="170" x2="580" y2="170" stroke="#E2E8F0"/>
+          
+          <!-- Eje Y -->
+          <text x="15" y="25" class="axis-txt">2.5m (Crítico)</text>
+          <text x="15" y="75" class="axis-txt">1.8m (Alerta)</text>
+          <text x="15" y="125" class="axis-txt">1.2m (Normal)</text>
+          <text x="15" y="175" class="axis-txt">0.0m</text>
+
+          <!-- Curva de telemetria -->
+          <polyline fill="none" stroke="#0866F5" stroke-width="2.5"
+            points="50,160 100,155 150,148 200,140 250,115 300,95 350,105 400,120 450,135 500,130 550,122 580,118" />
+          
+          <!-- Puntos sensores -->
+          <circle cx="300" cy="95" r="4.5" fill="#D97706"/>
+          <text x="312" y="92" class="point-txt">Pico 1.62m (14:32h)</text>
+          <circle cx="580" cy="118" r="4.5" fill="#0866F5"/>
+        </svg>
+      </div>
+      <div class="telemetry-footer">
+        <span>Frecuencia de telemetría: <strong>Cada 60 segundos</strong></span>
+        <span>Protocolo: <strong>LoRaWAN EU868 / US915</strong></span>
+      </div>
+    </section>
+
+    <!-- Fila 2 Derecha: Estado de Nodos y Alertas -->
+    <section class="panel-right">
+      <h2 class="section-title">Nodos de Monitoreo Territorial</h2>
+      <div class="node-list">
+        <div class="node-row">
+          <div class="node-info">
+            <span class="node-name">NODO-01 · Puente Río El Chiquito</span>
+            <span class="node-telemetry">Nivel: 1.18m | Bat: 99% | RSSI: -84 dBm</span>
+          </div>
+          <span class="tactical-status-pill">
+            <span class="status-dot"></span>
+            <span class="status-text">estable</span>
+          </span>
+        </div>
+        <div class="node-row">
+          <div class="node-info">
+            <span class="node-name">NODO-02 · Vado Barrio Los Pescadores</span>
+            <span class="node-telemetry">Nivel: 1.42m | Bat: 96% | RSSI: -91 dBm</span>
+          </div>
+          <span class="tactical-status-pill">
+            <span class="status-dot dot-alert"></span>
+            <span class="status-text">alerta 1</span>
+          </span>
+        </div>
+        <div class="node-row">
+          <div class="node-info">
+            <span class="node-name">NODO-03 · Colector Pluvial Central</span>
+            <span class="node-telemetry">Nivel: 0.85m | Bat: 100% | RSSI: -78 dBm</span>
+          </div>
+          <span class="tactical-status-pill">
+            <span class="status-dot"></span>
+            <span class="status-text">estable</span>
+          </span>
+        </div>
+        <div class="node-row">
+          <div class="node-info">
+            <span class="node-name">NODO-04 · Desembocadura Lago Xolotlán</span>
+            <span class="node-telemetry">Nivel: 0.92m | Bat: 94% | RSSI: -88 dBm</span>
+          </div>
+          <span class="tactical-status-pill">
+            <span class="status-dot"></span>
+            <span class="status-text">estable</span>
+          </span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>Prototipo funcional de demostración para video pitch · Rally de Innovación 2026</span>
+    <span>Arquitectura de ingeniería de campo · Transmisión sub-GHz libre de canon</span>
+  </footer>
+</body>
+</html>

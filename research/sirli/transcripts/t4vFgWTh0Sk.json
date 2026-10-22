@@ -1,0 +1,147 @@
+{
+ "video_id": "t4vFgWTh0Sk",
+ "url": "https://youtu.be/t4vFgWTh0Sk",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SINERGIA 360",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "SINERGIA 360",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:02:55+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Después de un desastre, cada minuto cuenta. Y en esos primeros minutos, quienes dirigen la emergencia, suelen tomar decisiones a ciegas. Solo en 2024, América Latina y el Caribe vivieron 56 desastres que afectaron a más de 6 millones de personas. En Río Grande de Sud, las inundaciones golpearon a casi 2 millones y medio. Cuando las comunicaciones caen, las vías se cortan y los reportes llegan tarde, la ayuda llega a los más visibles, no a lo más urgente. Somos Energía 360 y presentamos RedSac 4.0, un sistema que convierte el caos en decisiones, drones cargados con energía solar sobrevuelan la zona mientras sensores y OTH captan datos del terreno. Todo se procesa en el lugar y se comunica por una red mesh propia. Sin internet y sin depender de la infraestructura local, la inteligencia artificial clasifica los daños, construye mapas y un gemelo digital de la zona. Y la optimización matemática calcula a qué comunidades atender primero y por qué ruta llegar. Hoy existen apps, satélites y drones, pero cada uno trabaja por su lado. La apps dependen de internet y de celulares con carga. Justo en lo que falla tras un desastre. Los satélites tardan horas o días y un drone suelto entrega fotos, pero no dice a quién atender primero. RedSac 4.0 integra captura, análisis y decisión en un solo flujo. Su clave es la autonomía operativa. Procesa todo en la estación base, se comunica por su propia red de radio y se alimenta con energía solar, así entre información precisa, en minuto, aunque no hay internet ni electricidad. Y esa cansa de un 27.518 dólares, 30 dólares de un piso y un pelo referente de Luis. Hacimos para decidir bien y atiendo, porque una experiencia de la inteligencia...",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "Después de un desastre, cada minuto cuenta."
+  },
+  {
+   "start": 3.0,
+   "end": 8.2,
+   "text": "Y en esos primeros minutos, quienes dirigen la emergencia, suelen tomar decisiones a ciegas."
+  },
+  {
+   "start": 8.2,
+   "end": 15.8,
+   "text": "Solo en 2024, América Latina y el Caribe vivieron 56 desastres que afectaron a más de 6 millones de personas."
+  },
+  {
+   "start": 15.8,
+   "end": 20.5,
+   "text": "En Río Grande de Sud, las inundaciones golpearon a casi 2 millones y medio."
+  },
+  {
+   "start": 20.5,
+   "end": 25.4,
+   "text": "Cuando las comunicaciones caen, las vías se cortan y los reportes llegan tarde,"
+  },
+  {
+   "start": 25.4,
+   "end": 29.0,
+   "text": "la ayuda llega a los más visibles, no a lo más urgente."
+  },
+  {
+   "start": 29.0,
+   "end": 34.6,
+   "text": "Somos Energía 360 y presentamos RedSac 4.0, un sistema que convierte el caos en decisiones,"
+  },
+  {
+   "start": 34.6,
+   "end": 39.2,
+   "text": "drones cargados con energía solar sobrevuelan la zona mientras sensores y OTH captan datos del terreno."
+  },
+  {
+   "start": 39.2,
+   "end": 42.7,
+   "text": "Todo se procesa en el lugar y se comunica por una red mesh propia."
+  },
+  {
+   "start": 42.7,
+   "end": 48.0,
+   "text": "Sin internet y sin depender de la infraestructura local, la inteligencia artificial clasifica los daños,"
+  },
+  {
+   "start": 48.0,
+   "end": 50.4,
+   "text": "construye mapas y un gemelo digital de la zona."
+  },
+  {
+   "start": 50.4,
+   "end": 55.6,
+   "text": "Y la optimización matemática calcula a qué comunidades atender primero y por qué ruta llegar."
+  },
+  {
+   "start": 55.7,
+   "end": 59.2,
+   "text": "Hoy existen apps, satélites y drones, pero cada uno trabaja por su lado."
+  },
+  {
+   "start": 59.2,
+   "end": 61.6,
+   "text": "La apps dependen de internet y de celulares con carga."
+  },
+  {
+   "start": 61.6,
+   "end": 63.4,
+   "text": "Justo en lo que falla tras un desastre."
+  },
+  {
+   "start": 63.4,
+   "end": 66.8,
+   "text": "Los satélites tardan horas o días y un drone suelto entrega fotos,"
+  },
+  {
+   "start": 66.8,
+   "end": 68.5,
+   "text": "pero no dice a quién atender primero."
+  },
+  {
+   "start": 68.5,
+   "end": 72.9,
+   "text": "RedSac 4.0 integra captura, análisis y decisión en un solo flujo."
+  },
+  {
+   "start": 72.9,
+   "end": 74.8,
+   "text": "Su clave es la autonomía operativa."
+  },
+  {
+   "start": 74.8,
+   "end": 78.7,
+   "text": "Procesa todo en la estación base, se comunica por su propia red de radio"
+  },
+  {
+   "start": 78.7,
+   "end": 82.7,
+   "text": "y se alimenta con energía solar, así entre información precisa, en minuto,"
+  },
+  {
+   "start": 82.7,
+   "end": 84.4,
+   "text": "aunque no hay internet ni electricidad."
+  },
+  {
+   "start": 86.2,
+   "end": 104.49,
+   "text": "Y esa cansa de un 27.518 dólares, 30 dólares de un piso y un pelo referente de Luis."
+  },
+  {
+   "start": 104.49,
+   "end": 113.78,
+   "text": "Hacimos para decidir bien y atiendo, porque una experiencia de la inteligencia..."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.5
+}

@@ -1,0 +1,67 @@
+{
+ "video_id": "Z2xG4pKxA3Y",
+ "url": "https://youtu.be/Z2xG4pKxA3Y",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LAS ALQUIMISTAS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LAS ALQUIMISTAS",
+   "challenge": "05 - NEUMÁTICOS AMIGABLES CON EL MEDIOAMBIENTE"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:03:07+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Neumáticos amigables con el medio ambiente, los neumáticos están hechos de caucha natural y sintético pero es fácil pasar por alto lo mucho que contribuyen a la contaminación de nuestros mares, suelos y aires. El 65% de la contaminación se pretende que sea más resistente. Este proyecto está basado en el reempalazo de la materia prima que utilizaba para la elaboración de neumáticos sustituyendo los por residuos forestales como bambú y madera y agrícolas tales como soya y ceniza de cascarilla. No sólo nos interesa que sea degradable sino que también mejorar la resistencia de la banda de rodadura utilizando sea de araña para que sea resistente a presencia de pinchazo, fricción y altas temperaturas. La resistencia de la banda de rodadura es un elemento importante para la seguridad vial.",
+ "segments": [
+  {
+   "start": 29.97,
+   "end": 36.21,
+   "text": "Neumáticos amigables con el medio ambiente, los neumáticos están hechos de caucha natural y sintético"
+  },
+  {
+   "start": 36.21,
+   "end": 42.61,
+   "text": "pero es fácil pasar por alto lo mucho que contribuyen a la contaminación de nuestros mares, suelos y aires."
+  },
+  {
+   "start": 42.61,
+   "end": 56.04,
+   "text": "El 65% de la contaminación se pretende que sea más resistente."
+  },
+  {
+   "start": 56.04,
+   "end": 63.94,
+   "text": "Este proyecto está basado en el reempalazo de la materia prima que utilizaba para la elaboración de neumáticos"
+  },
+  {
+   "start": 63.94,
+   "end": 72.94,
+   "text": "sustituyendo los por residuos forestales como bambú y madera y agrícolas tales como soya y ceniza de cascarilla."
+  },
+  {
+   "start": 72.94,
+   "end": 81.29,
+   "text": "No sólo nos interesa que sea degradable sino que también mejorar la resistencia de la banda de rodadura"
+  },
+  {
+   "start": 81.29,
+   "end": 89.29,
+   "text": "utilizando sea de araña para que sea resistente a presencia de pinchazo, fricción y altas temperaturas."
+  },
+  {
+   "start": 89.29,
+   "end": 94.29,
+   "text": "La resistencia de la banda de rodadura es un elemento importante para la seguridad vial."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.7
+}

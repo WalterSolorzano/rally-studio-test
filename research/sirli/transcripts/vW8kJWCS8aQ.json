@@ -1,0 +1,72 @@
+{
+ "video_id": "vW8kJWCS8aQ",
+ "url": "https://www.youtube.com/watch?v=vW8kJWCS8aQ",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVATEX",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INNOVATEX",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:57:49+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Nuestro país enfrenta una crisis hídrica agravada por el cambio climático. Como respuesta hemos desarrollado de Water Harvest una técnica innovadora para el almacenamiento y captación de agua. ¡Con las micropresas combacheos! Esta solución, además de ser económica y fácil de implementar, presenta múltiples beneficios ambientales. Al impermeabilizar las micropresas y protegerlas de la aeroporación contribuimos a la conservación de los recursos hídricos y a la reducción de nuestra huella y colores. Asimismo, esta tecnología permite a los agricultores garantizar el suministro de agua para sus cultivos. Mejorando su productividad y adaptación frente a la variabilidad climática.",
+ "segments": [
+  {
+   "start": 1.04,
+   "end": 6.38,
+   "text": "Nuestro país enfrenta una crisis hídrica agravada por el cambio climático."
+  },
+  {
+   "start": 6.38,
+   "end": 13.88,
+   "text": "Como respuesta hemos desarrollado de Water Harvest una técnica innovadora para el almacenamiento y captación de agua."
+  },
+  {
+   "start": 13.88,
+   "end": 17.04,
+   "text": "¡Con las micropresas combacheos!"
+  },
+  {
+   "start": 18.04,
+   "end": 23.38,
+   "text": "Esta solución, además de ser económica y fácil de implementar,"
+  },
+  {
+   "start": 23.38,
+   "end": 26.38,
+   "text": "presenta múltiples beneficios ambientales."
+  },
+  {
+   "start": 26.38,
+   "end": 32.38,
+   "text": "Al impermeabilizar las micropresas y protegerlas de la aeroporación"
+  },
+  {
+   "start": 32.38,
+   "end": 39.38,
+   "text": "contribuimos a la conservación de los recursos hídricos y a la reducción de nuestra huella y colores."
+  },
+  {
+   "start": 39.38,
+   "end": 47.38,
+   "text": "Asimismo, esta tecnología permite a los agricultores garantizar el suministro de agua para sus cultivos."
+  },
+  {
+   "start": 47.38,
+   "end": 52.38,
+   "text": "Mejorando su productividad y adaptación frente a la variabilidad climática."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 54.8
+}

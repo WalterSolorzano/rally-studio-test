@@ -1,0 +1,147 @@
+{
+ "video_id": "s2cx2658lIs",
+ "url": "https://youtu.be/s2cx2658lIs?si=ld5XvkEc0phzx6nP",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TAMAL PISQUE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "TAMAL PISQUE",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:04:09+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La disminución de polinizadores nativos por la pérdida de hábitat y pesticidas pone en riesgo la biodiversidad regional y la producción de alimentos. Para hacer frente a esta problemática en los entornos agrícolas, Nase Bipú, un sistema de conservación y monitoreo para abejas nativas Sina Guijón, con un prototipo inicial orientado a Melipona B. Echei, enfocado en proteger a estos valiosos polinizadores y fortalecer de manera natural el rendimiento de los cultivos. Nuestro panel inteligente integra sensores de temperatura y humedad, una celda de carga para registrar el peso de la colmena, monitoreo de entrada y salida de las abejas, alimentación solar y un microcontrolador que transmite datos en tiempo real a un panel de visualización. Esto permite a los productores consultar las variables internas y recibir alertas ante cambios anormales para tomar decisiones oportunas de manejo, sin perturbar el enjambre. La trazabilidad se realiza mediante un código Q que es reunico para cada colonia que registra su origen, inspecciones, reproducción y eventos clave, creando una historia digital que facilita el seguimiento de su desarrollo y multiplicación. Además, el panel se instala junto a un corredor floral con plantas nativas que garantizan alimento y refugio continuo, asegurando una polinización más eficiente en la finca durante todo el año. La innovación de Baipu está en integrar tecnología, conservación y manejo agrícola en un solo sistema. Así, relacionamos el comportamiento de las abejas con las prácticas del campo, contribuyendo a la protección de las especies nativas, la biodiversidad y la sostenibilidad económica del agricultorio. Baipu no es sólo tecnología, es el puente entre la tecnología, la conservación y el desarrollo agrícola.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "La disminución de polinizadores nativos por la pérdida de hábitat y pesticidas"
+  },
+  {
+   "start": 5.0,
+   "end": 9.0,
+   "text": "pone en riesgo la biodiversidad regional y la producción de alimentos."
+  },
+  {
+   "start": 9.0,
+   "end": 14.0,
+   "text": "Para hacer frente a esta problemática en los entornos agrícolas, Nase Bipú,"
+  },
+  {
+   "start": 14.0,
+   "end": 19.0,
+   "text": "un sistema de conservación y monitoreo para abejas nativas Sina Guijón,"
+  },
+  {
+   "start": 19.0,
+   "end": 23.0,
+   "text": "con un prototipo inicial orientado a Melipona B. Echei,"
+  },
+  {
+   "start": 23.0,
+   "end": 26.0,
+   "text": "enfocado en proteger a estos valiosos polinizadores"
+  },
+  {
+   "start": 26.0,
+   "end": 29.0,
+   "text": "y fortalecer de manera natural el rendimiento de los cultivos."
+  },
+  {
+   "start": 30.0,
+   "end": 34.0,
+   "text": "Nuestro panel inteligente integra sensores de temperatura y humedad,"
+  },
+  {
+   "start": 34.0,
+   "end": 37.0,
+   "text": "una celda de carga para registrar el peso de la colmena,"
+  },
+  {
+   "start": 37.0,
+   "end": 40.0,
+   "text": "monitoreo de entrada y salida de las abejas,"
+  },
+  {
+   "start": 40.0,
+   "end": 46.0,
+   "text": "alimentación solar y un microcontrolador que transmite datos en tiempo real a un panel de visualización."
+  },
+  {
+   "start": 46.0,
+   "end": 51.0,
+   "text": "Esto permite a los productores consultar las variables internas"
+  },
+  {
+   "start": 51.0,
+   "end": 56.0,
+   "text": "y recibir alertas ante cambios anormales para tomar decisiones oportunas de manejo,"
+  },
+  {
+   "start": 56.0,
+   "end": 58.0,
+   "text": "sin perturbar el enjambre."
+  },
+  {
+   "start": 58.0,
+   "end": 65.0,
+   "text": "La trazabilidad se realiza mediante un código Q que es reunico para cada colonia que registra su origen,"
+  },
+  {
+   "start": 65.0,
+   "end": 68.0,
+   "text": "inspecciones, reproducción y eventos clave,"
+  },
+  {
+   "start": 68.0,
+   "end": 74.0,
+   "text": "creando una historia digital que facilita el seguimiento de su desarrollo y multiplicación."
+  },
+  {
+   "start": 74.0,
+   "end": 79.0,
+   "text": "Además, el panel se instala junto a un corredor floral con plantas nativas"
+  },
+  {
+   "start": 79.0,
+   "end": 82.0,
+   "text": "que garantizan alimento y refugio continuo,"
+  },
+  {
+   "start": 82.0,
+   "end": 87.0,
+   "text": "asegurando una polinización más eficiente en la finca durante todo el año."
+  },
+  {
+   "start": 87.0,
+   "end": 94.0,
+   "text": "La innovación de Baipu está en integrar tecnología, conservación y manejo agrícola en un solo sistema."
+  },
+  {
+   "start": 94.0,
+   "end": 100.0,
+   "text": "Así, relacionamos el comportamiento de las abejas con las prácticas del campo,"
+  },
+  {
+   "start": 100.0,
+   "end": 107.0,
+   "text": "contribuyendo a la protección de las especies nativas, la biodiversidad y la sostenibilidad económica del agricultorio."
+  },
+  {
+   "start": 107.0,
+   "end": 114.0,
+   "text": "Baipu no es sólo tecnología, es el puente entre la tecnología, la conservación y el desarrollo agrícola."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 114.7
+}

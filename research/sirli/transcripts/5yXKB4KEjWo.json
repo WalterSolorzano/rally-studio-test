@@ -1,0 +1,72 @@
+{
+ "video_id": "5yXKB4KEjWo",
+ "url": "https://youtu.be/5yXKB4KEjWo",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "EQUIPO 4",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "EQUIPO 4",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:55:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hola, mi nombre es Cristos Fern Martínez, representante del grupo Guarda Barranco. Es un gran honor participar en el rally latinoamericano en el cual decidimos tomar como iniciativa el desafío número 7, que consiste en los aludes de barro. Para eso, fabricamos un alubiómetro que consiste en un sistema de alerta para evitar pérdidas humanas debido a los aludes. Los aludes de barro se provocan en pendientes con más del 30%. Esto debido a las fuertes lluvias que causan una saturación. Como nos vamos a encontrar con diferentes desafíos debido a la estructura del suelo, decidimos utilizar un pulubiómetro casero para identificar los milímetros cúbicos que son necesarios para degradar el suelo debido a la saturación de agua. También anexamos un sistema de alarma el cual ayudará a evitar muerte o pérdidas humanas ya que prevé con anticipación el proceso de un aludo. A continuación, uno de mis compañeros mostrará cuál es el proceso del proyecto, cómo funciona el cual nos complace a autizarlo con el nombre de aludiómetro. Muchas gracias por su atención y esperamos les haya gustado nuestro proyecto innovador ya que ayudará a salvar muchas vidas de personas que viven en zonas de riesgo.",
+ "segments": [
+  {
+   "start": 0.21,
+   "end": 5.21,
+   "text": "Hola, mi nombre es Cristos Fern Martínez, representante del grupo Guarda Barranco."
+  },
+  {
+   "start": 5.21,
+   "end": 16.21,
+   "text": "Es un gran honor participar en el rally latinoamericano en el cual decidimos tomar como iniciativa el desafío número 7, que consiste en los aludes de barro."
+  },
+  {
+   "start": 16.21,
+   "end": 25.21,
+   "text": "Para eso, fabricamos un alubiómetro que consiste en un sistema de alerta para evitar pérdidas humanas debido a los aludes."
+  },
+  {
+   "start": 25.21,
+   "end": 29.21,
+   "text": "Los aludes de barro se provocan en pendientes con más del 30%."
+  },
+  {
+   "start": 29.21,
+   "end": 33.21,
+   "text": "Esto debido a las fuertes lluvias que causan una saturación."
+  },
+  {
+   "start": 33.21,
+   "end": 50.21,
+   "text": "Como nos vamos a encontrar con diferentes desafíos debido a la estructura del suelo, decidimos utilizar un pulubiómetro casero para identificar los milímetros cúbicos que son necesarios para degradar el suelo debido a la saturación de agua."
+  },
+  {
+   "start": 51.21,
+   "end": 64.21,
+   "text": "También anexamos un sistema de alarma el cual ayudará a evitar muerte o pérdidas humanas ya que prevé con anticipación el proceso de un aludo."
+  },
+  {
+   "start": 64.21,
+   "end": 76.21,
+   "text": "A continuación, uno de mis compañeros mostrará cuál es el proceso del proyecto, cómo funciona el cual nos complace a autizarlo con el nombre de aludiómetro."
+  },
+  {
+   "start": 76.21,
+   "end": 105.07,
+   "text": "Muchas gracias por su atención y esperamos les haya gustado nuestro proyecto innovador ya que ayudará a salvar muchas vidas de personas que viven en zonas de riesgo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.3
+}

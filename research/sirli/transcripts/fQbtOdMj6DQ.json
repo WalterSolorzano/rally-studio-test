@@ -1,0 +1,107 @@
+{
+ "video_id": "fQbtOdMj6DQ",
+ "url": "https://youtube.com/shorts/fQbtOdMj6DQ?feature=share",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CACAO CON LECHE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "CACAO CON LECHE",
+   "challenge": "03 - PROTECCIÓN Y FOMENTO DE POLINIZADORES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:27:07+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Sabía que el 75% de la producción de nuestros alimentos depende directamente de polinizadores nativos, tales como aveja, mariposa y colibríes. Sin embargo, el avance urbano, la desforestation y lo agroquímico están acabando con los hábitats, amenazando la biodiversidad y nuestra seguridad alimentaria. Para resolverlo, nosotros, el equipo cacao con leche, creamos corredores vivos, restaurando áreas arícolas hiperurbanas de 7 hectáreas con franjas de flora nativa y refugio de anidación. Pero no solo restauramos, medimos, nos diferenciamos, integrando monitoreo vía acústico, automatizado con una plataforma web de datos abiertos. Es una propuesta ambientalmente limpia y socialmente participativa y económicamente viable, con una propuesta inicial de 8.100 dólares y un costo operativo de 1.740 dólares por año. Financiada por empresas agrícola y fondos internacionales que buscan certificar su sostenibilidad, generamos empleos locales y capacidades técnicas en las comunidades. Utilizamos nodos bioacústicos y ambientales alimentados por energía solar y conectados a red Lora1 y 4G para certificaciones de impacto y reporte ESG de empresas agrícolas. ¿Dónde la naturaleza se conecta la vida florece?",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.48,
+   "text": "Sabía que el 75% de la producción de nuestros alimentos depende directamente de polinizadores nativos,"
+  },
+  {
+   "start": 5.48,
+   "end": 8.02,
+   "text": "tales como aveja, mariposa y colibríes."
+  },
+  {
+   "start": 8.02,
+   "end": 12.6,
+   "text": "Sin embargo, el avance urbano, la desforestation y lo agroquímico están acabando con los hábitats,"
+  },
+  {
+   "start": 12.6,
+   "end": 16.14,
+   "text": "amenazando la biodiversidad y nuestra seguridad alimentaria."
+  },
+  {
+   "start": 16.14,
+   "end": 20.9,
+   "text": "Para resolverlo, nosotros, el equipo cacao con leche, creamos corredores vivos,"
+  },
+  {
+   "start": 20.9,
+   "end": 28.38,
+   "text": "restaurando áreas arícolas hiperurbanas de 7 hectáreas con franjas de flora nativa y refugio de anidación."
+  },
+  {
+   "start": 28.38,
+   "end": 31.98,
+   "text": "Pero no solo restauramos, medimos, nos diferenciamos,"
+  },
+  {
+   "start": 31.98,
+   "end": 38.1,
+   "text": "integrando monitoreo vía acústico, automatizado con una plataforma web de datos abiertos."
+  },
+  {
+   "start": 38.1,
+   "end": 44.38,
+   "text": "Es una propuesta ambientalmente limpia y socialmente participativa y económicamente viable,"
+  },
+  {
+   "start": 44.38,
+   "end": 47.46,
+   "text": "con una propuesta inicial de 8.100 dólares"
+  },
+  {
+   "start": 47.46,
+   "end": 52.22,
+   "text": "y un costo operativo de 1.740 dólares por año."
+  },
+  {
+   "start": 52.22,
+   "end": 58.38,
+   "text": "Financiada por empresas agrícola y fondos internacionales que buscan certificar su sostenibilidad,"
+  },
+  {
+   "start": 58.38,
+   "end": 62.14,
+   "text": "generamos empleos locales y capacidades técnicas en las comunidades."
+  },
+  {
+   "start": 62.14,
+   "end": 69.06,
+   "text": "Utilizamos nodos bioacústicos y ambientales alimentados por energía solar y conectados a red Lora1 y 4G"
+  },
+  {
+   "start": 69.06,
+   "end": 73.7,
+   "text": "para certificaciones de impacto y reporte ESG de empresas agrícolas."
+  },
+  {
+   "start": 73.7,
+   "end": 76.78,
+   "text": "¿Dónde la naturaleza se conecta la vida florece?"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 76.8
+}

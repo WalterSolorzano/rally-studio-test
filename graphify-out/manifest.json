@@ -1,0 +1,98 @@
+{
+  "brain/corpus/claims_datos.md": {
+    "mtime": 1792443682.0802345,
+    "seen": 1792443918.8454936,
+    "ast_hash": "1e36d1bad14864e6be5f58f3c9f26072",
+    "semantic_hash": "1e36d1bad14864e6be5f58f3c9f26072"
+  },
+  "brain/corpus/ganadores_analisis.md": {
+    "mtime": 1792443681.9539266,
+    "seen": 1792443918.8454988,
+    "ast_hash": "e1395094423d8059e8ec94513d0cb20f",
+    "semantic_hash": "e1395094423d8059e8ec94513d0cb20f"
+  },
+  "brain/corpus/ganadores_db.md": {
+    "mtime": 1792443682.0815375,
+    "seen": 1792443918.8455012,
+    "ast_hash": "e07259eae0bc17abf1249351591af16d",
+    "semantic_hash": "e07259eae0bc17abf1249351591af16d"
+  },
+  "brain/corpus/ganadores_latam.md": {
+    "mtime": 1792443681.9539266,
+    "seen": 1792443918.845503,
+    "ast_hash": "64915c0bd0ee43d13e79316616e73ae0",
+    "semantic_hash": "64915c0bd0ee43d13e79316616e73ae0"
+  },
+  "brain/corpus/guion_voz.md": {
+    "mtime": 1792443681.955446,
+    "seen": 1792443918.8455043,
+    "ast_hash": "46cbc9f024914ea045b1fb087ed2ff70",
+    "semantic_hash": "46cbc9f024914ea045b1fb087ed2ff70"
+  },
+  "brain/corpus/investigacion_pitch.md": {
+    "mtime": 1792443681.9567268,
+    "seen": 1792443918.8455052,
+    "ast_hash": "1ff8675f2b370997524ee7fb5b8e3bd9",
+    "semantic_hash": "1ff8675f2b370997524ee7fb5b8e3bd9"
+  },
+  "brain/corpus/pautado_latam_ref.md": {
+    "mtime": 1792443682.0802345,
+    "seen": 1792443918.8455067,
+    "ast_hash": "b27f51b0537cacad9bd041ae52d9bc98",
+    "semantic_hash": "b27f51b0537cacad9bd041ae52d9bc98"
+  },
+  "brain/corpus/pautado_nacional_ref.md": {
+    "mtime": 1792443682.0600908,
+    "seen": 1792443918.8455076,
+    "ast_hash": "693701b275496e4df594f7a3c0b24611",
+    "semantic_hash": "693701b275496e4df594f7a3c0b24611"
+  },
+  "brain/corpus/rally_analisis.txt": {
+    "mtime": 1792443681.9539266,
+    "seen": 1792443918.8455086,
+    "ast_hash": "d75300e956450a538a7e1175100271a7",
+    "semantic_hash": "d75300e956450a538a7e1175100271a7"
+  },
+  "brain/corpus/retos.md": {
+    "mtime": 1792443682.0815375,
+    "seen": 1792443918.8455095,
+    "ast_hash": "d451907fdd04bdfb0430cb80cbf26466",
+    "semantic_hash": "d451907fdd04bdfb0430cb80cbf26466"
+  },
+  "brain/corpus/retos_ranked.md": {
+    "mtime": 1792443682.0825534,
+    "seen": 1792443918.8455107,
+    "ast_hash": "b983c41bbeebb914f4b7181aa62f9884",
+    "semantic_hash": "b983c41bbeebb914f4b7181aa62f9884"
+  },
+  "brain/corpus/retos_reporte.md": {
+    "mtime": 1792443681.9567268,
+    "seen": 1792443918.8455122,
+    "ast_hash": "022d868e3960bed75de162b21a5dc825",
+    "semantic_hash": "022d868e3960bed75de162b21a5dc825"
+  },
+  "brain/corpus/rubrica_latam.md": {
+    "mtime": 1792443681.955446,
+    "seen": 1792443918.845513,
+    "ast_hash": "55d46dda414071c51445fc8df2e03513",
+    "semantic_hash": "55d46dda414071c51445fc8df2e03513"
+  },
+  "brain/corpus/rubricas_matrices.md": {
+    "mtime": 1792443681.955446,
+    "seen": 1792443918.8455143,
+    "ast_hash": "4a4954a287892c2c6d9de25b6be63015",
+    "semantic_hash": "4a4954a287892c2c6d9de25b6be63015"
+  },
+  "brain/corpus/analisis_nicaragua.pdf": {
+    "mtime": 1792443681.957762,
+    "seen": 1792443918.8455153,
+    "ast_hash": "94eb239e71c57650addc64a9d20e3b47",
+    "semantic_hash": "94eb239e71c57650addc64a9d20e3b47"
+  },
+  "brain/corpus/rubrica_oficial.jpeg": {
+    "mtime": 1792443681.957762,
+    "seen": 1792443918.8455162,
+    "ast_hash": "2da6e5b470f26996c86122f7f6730bb4",
+    "semantic_hash": "2da6e5b470f26996c86122f7f6730bb4"
+  }
+}

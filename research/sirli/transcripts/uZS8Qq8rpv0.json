@@ -1,0 +1,212 @@
+{
+ "video_id": "uZS8Qq8rpv0",
+ "url": "https://youtu.be/uZS8Qq8rpv0",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNFORCE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INNFORCE",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:39:55+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En América Latina y el Caribe, casi el 60% de los eventos meteorológicos registrados entre los 2000 y 2022 fueron inundaciones, afectando en promedio a 2 millones de personas al año. A lo largo de la región, incluida en Nicaragua, existen comunidades vulnerables ante lluvias intensas y sistemas de drenaje de deficientes. Un ejemplo es el barrio 5 de Junio en Matagalpa, donde las corrientes cargadas de residuos agravan las inundaciones, afectando viviendas y comercios. ¡TOMOS INFORZ! Para cambiar este escenario, surge Kaudon, una red comunitaria modular e inteligente diseñada para pervenir inundaciones y aprovechar el agua de lluvia. Nuestro sistema comienza con Kaudon Mabar, que capta lluvia de los techos mientras guías y semideros recolecten el agua de las calles. Esta atraviesa trampa de sólidos y sedimentos antes de conducirse por tuberías. Nuestra infraestructura verde integra biosanjas, jardines de lluvia, herendos de infiltración y pavimentos permeables para regular la escorrentía complementados con reboces controlados. El agua recolectada llega a reservorios y al centro hídrico comunitario, donde se coordina su almacenamiento, tratamiento y distribución. Kaudon mantiene cuatro circuitos independientes, agua pluvial, agua recuperada no potable para riego y limpieza bajo controles. Su ministro potable es verificado y agua residual es diseñada mediante Kaudon Sanea. Además, mediante sensores y nuestra plataforma Kaudon Msmart, podemos monitorear lluvias, niveles y capacidad de los reservorios, integrando pronóstico, meteorológico, plando de captación y capacidad disponible. El sistema permitirá estimar cuánta agua podría recuperarse durante una próxima lluvia, generar alertas locales y coordinar mantenimiento preventivo. Esta integración de infraestructura verde, quesión hidráulica, tecnología y participación comunitaria, convierte a Kaudon en una propuesta innovadora, modular y replicable en comunidades vulnerables de toda América Latina. Nuestra primera etapa proyecta beneficiar a 250 hogares. La variación económica a 10 años presenta un RCD de 1.06, una firma de 12.3% y un bante de 47.798 dólares, respaldando su perfil de económica. Asimismo contribuimos a los ODS-6-11-13, promoviendo la gestión sostenible del agua, las comunidades resilientes y la acción climática. Kauda, cada gota recuperada, una comunidad preparada.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.16,
+   "text": "En América Latina y el Caribe, casi el 60% de los eventos meteorológicos registrados"
+  },
+  {
+   "start": 4.16,
+   "end": 9.04,
+   "text": "entre los 2000 y 2022 fueron inundaciones, afectando en promedio a 2 millones de personas al año."
+  },
+  {
+   "start": 9.04,
+   "end": 12.4,
+   "text": "A lo largo de la región, incluida en Nicaragua, existen comunidades vulnerables"
+  },
+  {
+   "start": 12.4,
+   "end": 15.16,
+   "text": "ante lluvias intensas y sistemas de drenaje de deficientes."
+  },
+  {
+   "start": 15.16,
+   "end": 19.2,
+   "text": "Un ejemplo es el barrio 5 de Junio en Matagalpa, donde las corrientes cargadas de residuos"
+  },
+  {
+   "start": 19.2,
+   "end": 21.88,
+   "text": "agravan las inundaciones, afectando viviendas y comercios."
+  },
+  {
+   "start": 21.88,
+   "end": 24.08,
+   "text": "¡TOMOS INFORZ!"
+  },
+  {
+   "start": 24.08,
+   "end": 27.68,
+   "text": "Para cambiar este escenario, surge Kaudon, una red comunitaria modular e inteligente"
+  },
+  {
+   "start": 27.68,
+   "end": 30.6,
+   "text": "diseñada para pervenir inundaciones y aprovechar el agua de lluvia."
+  },
+  {
+   "start": 30.6,
+   "end": 33.8,
+   "text": "Nuestro sistema comienza con Kaudon Mabar, que capta lluvia de los techos"
+  },
+  {
+   "start": 33.8,
+   "end": 36.72,
+   "text": "mientras guías y semideros recolecten el agua de las calles."
+  },
+  {
+   "start": 36.72,
+   "end": 40.48,
+   "text": "Esta atraviesa trampa de sólidos y sedimentos antes de conducirse por tuberías."
+  },
+  {
+   "start": 40.48,
+   "end": 43.52,
+   "text": "Nuestra infraestructura verde integra biosanjas, jardines de lluvia,"
+  },
+  {
+   "start": 43.52,
+   "end": 46.6,
+   "text": "herendos de infiltración y pavimentos permeables para regular la escorrentía"
+  },
+  {
+   "start": 46.6,
+   "end": 48.48,
+   "text": "complementados con reboces controlados."
+  },
+  {
+   "start": 48.48,
+   "end": 51.44,
+   "text": "El agua recolectada llega a reservorios y al centro hídrico comunitario,"
+  },
+  {
+   "start": 51.44,
+   "end": 54.44,
+   "text": "donde se coordina su almacenamiento, tratamiento y distribución."
+  },
+  {
+   "start": 54.44,
+   "end": 56.84,
+   "text": "Kaudon mantiene cuatro circuitos independientes,"
+  },
+  {
+   "start": 56.88,
+   "end": 60.48,
+   "text": "agua pluvial, agua recuperada no potable para riego y limpieza bajo controles."
+  },
+  {
+   "start": 60.48,
+   "end": 64.24,
+   "text": "Su ministro potable es verificado y agua residual es diseñada mediante Kaudon Sanea."
+  },
+  {
+   "start": 64.24,
+   "end": 67.12,
+   "text": "Además, mediante sensores y nuestra plataforma Kaudon Msmart,"
+  },
+  {
+   "start": 67.12,
+   "end": 70.24,
+   "text": "podemos monitorear lluvias, niveles y capacidad de los reservorios,"
+  },
+  {
+   "start": 70.24,
+   "end": 74.04,
+   "text": "integrando pronóstico, meteorológico, plando de captación y capacidad disponible."
+  },
+  {
+   "start": 74.04,
+   "end": 77.92,
+   "text": "El sistema permitirá estimar cuánta agua podría recuperarse durante una próxima lluvia,"
+  },
+  {
+   "start": 77.92,
+   "end": 80.92,
+   "text": "generar alertas locales y coordinar mantenimiento preventivo."
+  },
+  {
+   "start": 80.92,
+   "end": 83.48,
+   "text": "Esta integración de infraestructura verde, quesión hidráulica,"
+  },
+  {
+   "start": 83.48,
+   "end": 85.52,
+   "text": "tecnología y participación comunitaria,"
+  },
+  {
+   "start": 85.52,
+   "end": 87.92,
+   "text": "convierte a Kaudon en una propuesta innovadora,"
+  },
+  {
+   "start": 87.92,
+   "end": 91.28,
+   "text": "modular y replicable en comunidades vulnerables de toda América Latina."
+  },
+  {
+   "start": 91.28,
+   "end": 94.2,
+   "text": "Nuestra primera etapa proyecta beneficiar a 250 hogares."
+  },
+  {
+   "start": 94.2,
+   "end": 97.92,
+   "text": "La variación económica a 10 años presenta un RCD de 1.06,"
+  },
+  {
+   "start": 97.92,
+   "end": 102.8,
+   "text": "una firma de 12.3% y un bante de 47.798 dólares,"
+  },
+  {
+   "start": 102.8,
+   "end": 104.88,
+   "text": "respaldando su perfil de económica."
+  },
+  {
+   "start": 104.88,
+   "end": 107.8,
+   "text": "Asimismo contribuimos a los ODS-6-11-13,"
+  },
+  {
+   "start": 107.8,
+   "end": 109.84,
+   "text": "promoviendo la gestión sostenible del agua,"
+  },
+  {
+   "start": 109.84,
+   "end": 112.36,
+   "text": "las comunidades resilientes y la acción climática."
+  },
+  {
+   "start": 112.36,
+   "end": 115.8,
+   "text": "Kauda, cada gota recuperada, una comunidad preparada."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 116.6
+}

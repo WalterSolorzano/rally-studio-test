@@ -1,0 +1,102 @@
+{
+ "video_id": "uUScL2_EnXI",
+ "url": "https://youtu.be/uUScL2_EnXI?si=FykygBU6jeMlE11v",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LIFE GOES ON",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LIFE GOES ON",
+   "challenge": "08 - TRATAR DE ESTAR MEJOR"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:33:41+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos LifeCoinZone. En este video le presentaremos la creación de una página web que cuenta con mejorar el estado de ánimo disminuiendo casos de depresión y ansiedad con la ayuda de tareas motivacionales. Tomando en cuenta que esta plataforma tiene una interacción en tiempo real y un sistema de monitoreo que da a conocer tu estado de ánimo las 24 horas del día en casos de emergencia alertando a su círculo social más cercano. Esta página contará con un registro detallado del usuario con la creación de un perfil para poder acceder, incluyendo el registro de cuatro personas que el usuario crea necesario llamar en caso de una crisis. También contará con un sistema de asistencia personalizado, con servicio médico, ayuda psicológica, más la opción de capacitación para brindar apoyo a personas que requieran ayuda. Tendrán la oportunidad de expresar su día a día por medio de notas diarias para poder inévitar un patrón de años. También se habilitará un foro que cuenta con contenido de reflexión diariamente para mejorar el bienestar salud mental, incluyendo un sistema de actividades tales como ejercicio terapéutico, un plan nutricional y acceso al libro de forma gratuita. Tiene como capacidad que las personas puedan interactuar y conocer a una red de personas acercado a su vectorio. El funcionamiento del monitoreo consistirá de que el usuario cada dos horas y media dé un reporte de su estado de ánimo. Teniendo como opción 1 estoy bien y como opción 2 estoy desanimado. Y en caso que el usuario reporte un estado de ánimo bajo se activará un sistema de preguntas, con el cual se determinará una crisis de emergencia y así proceder a llamar a su vínculo cercano.",
+ "segments": [
+  {
+   "start": 0.34,
+   "end": 2.34,
+   "text": "Somos LifeCoinZone."
+  },
+  {
+   "start": 2.34,
+   "end": 11.34,
+   "text": "En este video le presentaremos la creación de una página web que cuenta con mejorar el estado de ánimo disminuiendo casos de depresión y ansiedad con la ayuda de tareas motivacionales."
+  },
+  {
+   "start": 11.34,
+   "end": 24.34,
+   "text": "Tomando en cuenta que esta plataforma tiene una interacción en tiempo real y un sistema de monitoreo que da a conocer tu estado de ánimo las 24 horas del día en casos de emergencia alertando a su círculo social más cercano."
+  },
+  {
+   "start": 25.34,
+   "end": 31.34,
+   "text": "Esta página contará con un registro detallado del usuario con la creación de un perfil para poder acceder,"
+  },
+  {
+   "start": 31.34,
+   "end": 37.34,
+   "text": "incluyendo el registro de cuatro personas que el usuario crea necesario llamar en caso de una crisis."
+  },
+  {
+   "start": 37.34,
+   "end": 43.34,
+   "text": "También contará con un sistema de asistencia personalizado, con servicio médico, ayuda psicológica,"
+  },
+  {
+   "start": 43.34,
+   "end": 49.34,
+   "text": "más la opción de capacitación para brindar apoyo a personas que requieran ayuda."
+  },
+  {
+   "start": 49.34,
+   "end": 57.34,
+   "text": "Tendrán la oportunidad de expresar su día a día por medio de notas diarias para poder inévitar un patrón de años."
+  },
+  {
+   "start": 57.34,
+   "end": 64.34,
+   "text": "También se habilitará un foro que cuenta con contenido de reflexión diariamente para mejorar el bienestar salud mental,"
+  },
+  {
+   "start": 64.34,
+   "end": 72.34,
+   "text": "incluyendo un sistema de actividades tales como ejercicio terapéutico, un plan nutricional y acceso al libro de forma gratuita."
+  },
+  {
+   "start": 73.34,
+   "end": 81.34,
+   "text": "Tiene como capacidad que las personas puedan interactuar y conocer a una red de personas acercado a su vectorio."
+  },
+  {
+   "start": 81.34,
+   "end": 87.34,
+   "text": "El funcionamiento del monitoreo consistirá de que el usuario cada dos horas y media dé un reporte de su estado de ánimo."
+  },
+  {
+   "start": 87.34,
+   "end": 91.34,
+   "text": "Teniendo como opción 1 estoy bien y como opción 2 estoy desanimado."
+  },
+  {
+   "start": 91.34,
+   "end": 97.34,
+   "text": "Y en caso que el usuario reporte un estado de ánimo bajo se activará un sistema de preguntas,"
+  },
+  {
+   "start": 97.34,
+   "end": 102.34,
+   "text": "con el cual se determinará una crisis de emergencia y así proceder a llamar a su vínculo cercano."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 103.6
+}

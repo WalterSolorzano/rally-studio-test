@@ -1,0 +1,82 @@
+[
+  {
+    "element": "Unidad de Procesamiento y Telemetria ESP32-S3 + LoRa SX1262",
+    "description": "Modulo microcontrolador dual core con transceptor de largo alcance y bajo consumo",
+    "units": 15,
+    "unit_cost_usd": 12.80,
+    "total": 192.00,
+    "url": "https://spanish.alibaba.com/product-detail/esp32-s3-lora-module-sample.html",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_esp32_lora.png"
+  },
+  {
+    "element": "Arreglo de Sensores Industriales Multivariables",
+    "description": "Sondas ultrasonicas de nivel, humedad de suelo y temperatura ambiente grado industrial",
+    "units": 15,
+    "unit_cost_usd": 48.50,
+    "total": 727.50,
+    "url": "https://spanish.alibaba.com/product-detail/ultrasonic-level-sensor-ip68.html",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_sensores.png"
+  },
+  {
+    "element": "Sistema de Alimentacion Fotovoltaica Autonoma",
+    "description": "Paneles solares monocristalinos 50W + banco de baterias LiFePO4 12V 20Ah",
+    "units": 10,
+    "unit_cost_usd": 115.00,
+    "total": 1150.00,
+    "url": "https://spanish.alibaba.com/product-detail/solar-panel-50w-lifepo4-battery.html",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_solar.png"
+  },
+  {
+    "element": "Carcasas de Proteccion IP67 con Disipacion Termica Pasiva",
+    "description": "Gabinetes de policarbonato con prensaestopas M16, ventilacion con membrana Gore-Tex y soportes galvanizados",
+    "units": 15,
+    "unit_cost_usd": 34.00,
+    "total": 510.00,
+    "url": "https://spanish.alibaba.com/product-detail/ip67-waterproof-junction-box.html",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_carcasas.png"
+  },
+  {
+    "element": "Estacion Base Concentradora Gateway LoRaWAN 8 Canales",
+    "description": "Gateway exterior IP67 con antena de fibra de vidrio 5.8 dBi y conexion celular 4G LTE de respaldo",
+    "units": 2,
+    "unit_cost_usd": 290.00,
+    "total": 580.00,
+    "url": "https://spanish.alibaba.com/product-detail/outdoor-lorawan-gateway-8ch.html",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_gateway.png"
+  },
+  {
+    "element": "Servidor Cloud Demo e Infraestructura de Telemetria",
+    "description": "Instancia VPS en la nube, broker MQTT y panel interactivo para el despliegue del piloto (1 ano)",
+    "units": 1,
+    "unit_cost_usd": 240.00,
+    "total": 240.00,
+    "url": "https://digitalocean.com/pricing",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_cloud.png"
+  },
+  {
+    "element": "Herramental, Cableado Grado Marino y Fijacion Mecanica",
+    "description": "Pernos inox 304, abrazaderas de acero inoxidable para postes y cables apantallados UV",
+    "units": 1,
+    "unit_cost_usd": 380.00,
+    "total": 380.00,
+    "url": "https://ferreteria-local.com.ni",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_herrajes.png"
+  },
+  {
+    "element": "Flete Internacional, Aranceles y Seguro de Importacion (18%)",
+    "description": "Logistica maritima/aerea consolidada y tramite de desaduanaje para Nicaragua",
+    "units": 1,
+    "unit_cost_usd": 670.50,
+    "total": 670.50,
+    "url": "https://dhl.com.ni/cotizacion-flete",
+    "date": "2026-10-18",
+    "screenshot": "screenshot_flete.png"
+  }
+]

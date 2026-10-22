@@ -1,0 +1,97 @@
+{
+ "video_id": "HI9K3zPC0ow",
+ "url": "https://youtu.be/HI9K3zPC0ow",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS CACHORRITOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS CACHORRITOS",
+   "challenge": "01 - INCLUSIÓN LABORAL DE PERSONAS DEL ESPECTRO AUTISTA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:04:25+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Las personas contrastorno-espectroautista, TEA, son en su mayoría excluidas en el ámbito laboral, negándoseles la oportunidad de trabajar en distintas áreas. Las empresas, aunque en busca de inclusividad, no son capaces de aceptar a una persona con esta condición por falta de información. Empleatea ofrece a personas con TEA, una manera más fácil de buscar trabajo, dando a conocer sus habilidades, destrezas y conocimientos, así facilitando la posibilidad de contratación en condiciones equitativas. Consiste en una aplicación web enfocada en la implementación de herramientas que crearán conexiones entre personas con TEA y los líderes de negocios. Su uso es sencillo, líderes de empresas podrán acceder a la aplicación web donde encontrarán una base de datos de personas con TEA que cuentan con las habilidades esenciales que los volverán empleados de gran valor para su empresa. Empleatea integra pequeñas cápsulas informativas para sobrellevar las diferentes dificultades que pueda presentar la persona con TEA. Un ejemplo de esto puede ser, dificultad sensorial con el exceso de iluminación. La inclusión laboral de personas en el espectro autista es un tema que necesita mayor atención. Empleatea contribuirá a la solución de esta problemática. Su beneficio recae sobre aumento de personas con TEA, empleadas en la región, tanto en las entidades públicas como clíbaras. Te invitamos a ser parte de esta iniciativa y crea conexiones con personas que te acompañaran en el camino hacia el éxito. Empleatea",
+ "segments": [
+  {
+   "start": 5.07,
+   "end": 11.31,
+   "text": "Las personas contrastorno-espectroautista, TEA, son en su mayoría excluidas en el ámbito laboral,"
+  },
+  {
+   "start": 11.31,
+   "end": 15.07,
+   "text": "negándoseles la oportunidad de trabajar en distintas áreas."
+  },
+  {
+   "start": 15.07,
+   "end": 24.07,
+   "text": "Las empresas, aunque en busca de inclusividad, no son capaces de aceptar a una persona con esta condición por falta de información."
+  },
+  {
+   "start": 24.07,
+   "end": 33.07,
+   "text": "Empleatea ofrece a personas con TEA, una manera más fácil de buscar trabajo, dando a conocer sus habilidades, destrezas y conocimientos,"
+  },
+  {
+   "start": 33.07,
+   "end": 38.07,
+   "text": "así facilitando la posibilidad de contratación en condiciones equitativas."
+  },
+  {
+   "start": 38.07,
+   "end": 47.07,
+   "text": "Consiste en una aplicación web enfocada en la implementación de herramientas que crearán conexiones entre personas con TEA y los líderes de negocios."
+  },
+  {
+   "start": 47.07,
+   "end": 60.07,
+   "text": "Su uso es sencillo, líderes de empresas podrán acceder a la aplicación web donde encontrarán una base de datos de personas con TEA que cuentan con las habilidades esenciales que los volverán empleados de gran valor para su empresa."
+  },
+  {
+   "start": 60.07,
+   "end": 69.07,
+   "text": "Empleatea integra pequeñas cápsulas informativas para sobrellevar las diferentes dificultades que pueda presentar la persona con TEA."
+  },
+  {
+   "start": 69.07,
+   "end": 75.07,
+   "text": "Un ejemplo de esto puede ser, dificultad sensorial con el exceso de iluminación."
+  },
+  {
+   "start": 75.07,
+   "end": 81.07,
+   "text": "La inclusión laboral de personas en el espectro autista es un tema que necesita mayor atención."
+  },
+  {
+   "start": 81.07,
+   "end": 85.07,
+   "text": "Empleatea contribuirá a la solución de esta problemática."
+  },
+  {
+   "start": 85.07,
+   "end": 93.07,
+   "text": "Su beneficio recae sobre aumento de personas con TEA, empleadas en la región, tanto en las entidades públicas como clíbaras."
+  },
+  {
+   "start": 93.07,
+   "end": 101.07,
+   "text": "Te invitamos a ser parte de esta iniciativa y crea conexiones con personas que te acompañaran en el camino hacia el éxito."
+  },
+  {
+   "start": 101.07,
+   "end": 103.07,
+   "text": "Empleatea"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 110.6
+}

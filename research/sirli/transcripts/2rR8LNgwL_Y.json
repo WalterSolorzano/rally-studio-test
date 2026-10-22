@@ -1,0 +1,112 @@
+{
+ "video_id": "2rR8LNgwL_Y",
+ "url": "https://youtu.be/2rR8LNgwL_Y?si=-i-Do9QNtVXYN2av",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS INVENCIBLES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS INVENCIBLES",
+   "challenge": "07 - CROWDSENSING"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:35:24+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hey, my best friend. Es una aplicación que tendrá como fin de destacar en los usuarios estados de ánimo como la depresión y la ansiedad, con el objetivo de prevenir posible suicidio. Consideramos que nuestra propuesta será de gran impacto social, ya que podrán acceder a ellas personas con algún tipo de discapacidad, porque su uso será a través de audio y escritura. dicha aplicación enviará una notificación a personas de confianza del usuario que podría estar en el libro. Se diferencia del resto porque actualmente no se ha diseñado una aplicación de detectar los estados de ánimo de una persona y tomando en cuenta los posibles octáculos de la técnica de Chrome Sensing, pretendemos que esta aplicación nos dé resultados más acertivo y confiable. La aplicación estará disponible en Play Store y App Store, la cual se podrá descargar gratuitamente. Al descargar la aplicación solicitará agregar al menos tres contactos a los que el usuario considere confiable, a los que enviará una notificación de alerta. En caso de ser necesario, en las políticas de privacidad se deberá inscribir la finalidad de la recogida de los datos personales, periodo de conservación de dichos datos. Condiciones de la ad, producto aquí servicio, brindará al usuario en estado de ánimo de ese día, precios impago gratuita, garantía, confiabilidad de datos, ccd servicio. Descripción de la ad, la ad funcionará con sensores que determinarán la inactividad del usuario, es decir, cuando utilice el teléfono por primera vez en el día, se abrirá automáticamente la aplicación A-My Best Friend, en la cual aparecerá un cuestionario de selección múltiples que recuerdas abiertas.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.84,
+   "text": "Hey, my best friend. Es una aplicación que tendrá como fin de destacar en los usuarios"
+  },
+  {
+   "start": 5.84,
+   "end": 12.56,
+   "text": "estados de ánimo como la depresión y la ansiedad, con el objetivo de prevenir posible suicidio."
+  },
+  {
+   "start": 12.56,
+   "end": 17.88,
+   "text": "Consideramos que nuestra propuesta será de gran impacto social, ya que podrán acceder"
+  },
+  {
+   "start": 17.88,
+   "end": 24.72,
+   "text": "a ellas personas con algún tipo de discapacidad, porque su uso será a través de audio y escritura."
+  },
+  {
+   "start": 24.8,
+   "end": 32.2,
+   "text": "dicha aplicación enviará una notificación a personas de confianza del usuario que podría estar en el libro."
+  },
+  {
+   "start": 32.2,
+   "end": 40.2,
+   "text": "Se diferencia del resto porque actualmente no se ha diseñado una aplicación de detectar los estados de ánimo de una persona"
+  },
+  {
+   "start": 40.2,
+   "end": 47.6,
+   "text": "y tomando en cuenta los posibles octáculos de la técnica de Chrome Sensing, pretendemos que esta aplicación"
+  },
+  {
+   "start": 47.6,
+   "end": 51.0,
+   "text": "nos dé resultados más acertivo y confiable."
+  },
+  {
+   "start": 51.08,
+   "end": 58.56,
+   "text": "La aplicación estará disponible en Play Store y App Store, la cual se podrá descargar gratuitamente."
+  },
+  {
+   "start": 58.56,
+   "end": 65.96,
+   "text": "Al descargar la aplicación solicitará agregar al menos tres contactos a los que el usuario considere confiable,"
+  },
+  {
+   "start": 65.96,
+   "end": 73.04,
+   "text": "a los que enviará una notificación de alerta. En caso de ser necesario, en las políticas de privacidad"
+  },
+  {
+   "start": 73.04,
+   "end": 80.88,
+   "text": "se deberá inscribir la finalidad de la recogida de los datos personales, periodo de conservación de dichos datos."
+  },
+  {
+   "start": 81.08,
+   "end": 88.68,
+   "text": "Condiciones de la ad, producto aquí servicio, brindará al usuario en estado de ánimo de ese día,"
+  },
+  {
+   "start": 88.68,
+   "end": 96.12,
+   "text": "precios impago gratuita, garantía, confiabilidad de datos, ccd servicio."
+  },
+  {
+   "start": 96.12,
+   "end": 102.96,
+   "text": "Descripción de la ad, la ad funcionará con sensores que determinarán la inactividad del usuario,"
+  },
+  {
+   "start": 103.12,
+   "end": 111.24,
+   "text": "es decir, cuando utilice el teléfono por primera vez en el día, se abrirá automáticamente la aplicación"
+  },
+  {
+   "start": 111.24,
+   "end": 119.08,
+   "text": "A-My Best Friend, en la cual aparecerá un cuestionario de selección múltiples que recuerdas abiertas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.4
+}

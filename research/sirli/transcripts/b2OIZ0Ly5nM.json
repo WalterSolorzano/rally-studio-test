@@ -1,0 +1,112 @@
+{
+ "video_id": "b2OIZ0Ly5nM",
+ "url": "https://youtu.be/b2OIZ0Ly5nM",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TRAILBLAZERS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "TRAILBLAZERS",
+   "challenge": "06 - REVALORIZACIÓN RESIDUOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:49:16+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Actualmente el 53% de residuos sólidos orgánicos no son aprovechados, provocando así mayores índices contaminantes para el medio ambiente. Tomando en cuenta esto, BioCitri Plus es un modelo de sistema y proceso de aprovechamiento de residuos cítricos. Busque impactar en el mundo industrial y beneficiar de esta manera en el uso doméstico, a fin de generar un nuevo proceso de producción de materia prima inicial, que en este caso son los cítricos, como por ejemplo, cascara de naranja, limón y mandarina. No obstante nuestra máquina es funcional con otros tipos de residuos orgánicos, como el café, transformando estos en materia prima adecuada para la realización de bioplástico. Este proceso se basa en guardar los residuos en un embudo, que tiene un sensor que abre y cierra cada producción de materia. Esto cae al molino industrial, el cual trabaja base de un tornillo sin fin. Este mueve y traslada la materia procesada a una separadora de materia donde divide líquido y transporta en una banda de 3 km por un cambio de extrusores de aire caliente, que al final cae al envase de la prensadora hecha de acero inoxidable y esta, cada 22 libras de materia, se deshidrata por ficción de impacto y finalmente nuestra materia prima está lista. Esto nos ayudaría a la optimización del tiempo y costo de todo el proceso para la producción de bioplásticos. Hay que recordar que aplicando este nuevo modelo de sistema y proceso que diseñamos BIO-CITRI-PLAS se logra revalorizar los residuos de estos citricos, contribuyendo a cuidar nuestro medio ambiente.",
+ "segments": [
+  {
+   "start": 3.79,
+   "end": 10.15,
+   "text": "Actualmente el 53% de residuos sólidos orgánicos no son aprovechados,"
+  },
+  {
+   "start": 10.15,
+   "end": 14.79,
+   "text": "provocando así mayores índices contaminantes para el medio ambiente."
+  },
+  {
+   "start": 14.79,
+   "end": 23.15,
+   "text": "Tomando en cuenta esto, BioCitri Plus es un modelo de sistema y proceso de aprovechamiento de residuos cítricos."
+  },
+  {
+   "start": 23.15,
+   "end": 28.79,
+   "text": "Busque impactar en el mundo industrial y beneficiar de esta manera en el uso doméstico,"
+  },
+  {
+   "start": 28.79,
+   "end": 33.79,
+   "text": "a fin de generar un nuevo proceso de producción de materia prima inicial,"
+  },
+  {
+   "start": 33.79,
+   "end": 40.79,
+   "text": "que en este caso son los cítricos, como por ejemplo, cascara de naranja, limón y mandarina."
+  },
+  {
+   "start": 40.79,
+   "end": 47.79,
+   "text": "No obstante nuestra máquina es funcional con otros tipos de residuos orgánicos, como el café,"
+  },
+  {
+   "start": 47.79,
+   "end": 53.79,
+   "text": "transformando estos en materia prima adecuada para la realización de bioplástico."
+  },
+  {
+   "start": 53.79,
+   "end": 63.79,
+   "text": "Este proceso se basa en guardar los residuos en un embudo, que tiene un sensor que abre y cierra cada producción de materia."
+  },
+  {
+   "start": 63.79,
+   "end": 69.79,
+   "text": "Esto cae al molino industrial, el cual trabaja base de un tornillo sin fin."
+  },
+  {
+   "start": 69.79,
+   "end": 77.79,
+   "text": "Este mueve y traslada la materia procesada a una separadora de materia donde divide líquido"
+  },
+  {
+   "start": 77.79,
+   "end": 82.79,
+   "text": "y transporta en una banda de 3 km por un cambio de extrusores de aire caliente,"
+  },
+  {
+   "start": 82.79,
+   "end": 89.79,
+   "text": "que al final cae al envase de la prensadora hecha de acero inoxidable y esta, cada 22 libras de materia,"
+  },
+  {
+   "start": 89.79,
+   "end": 96.79,
+   "text": "se deshidrata por ficción de impacto y finalmente nuestra materia prima está lista."
+  },
+  {
+   "start": 96.79,
+   "end": 105.79,
+   "text": "Esto nos ayudaría a la optimización del tiempo y costo de todo el proceso para la producción de bioplásticos."
+  },
+  {
+   "start": 105.79,
+   "end": 112.79,
+   "text": "Hay que recordar que aplicando este nuevo modelo de sistema y proceso que diseñamos BIO-CITRI-PLAS"
+  },
+  {
+   "start": 112.79,
+   "end": 119.79,
+   "text": "se logra revalorizar los residuos de estos citricos, contribuyendo a cuidar nuestro medio ambiente."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.0
+}

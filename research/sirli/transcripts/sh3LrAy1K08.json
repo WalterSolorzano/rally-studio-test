@@ -1,0 +1,162 @@
+{
+ "video_id": "sh3LrAy1K08",
+ "url": "https://youtu.be/sh3LrAy1K08?si=RwzQcUOFf2DKKzZE",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "TEAM FRONTIER",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "TEAM FRONTIER",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:24:24+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El gran dolor del agricultor. En el campo, que es una bomba de riego faia, mitad de la cosecha, es una pesadilla. Un motor quemado cuesta entre 1500 y 3000 dólares, sin contar las perdidas por dejar el cultivo día sin agua. Los sensores de vibración industriales existen, pero cuesta en una fortuna y son inaccesibles para el pequeño y mediano productor. Por eso creamos bomba vigia. Transformamos celulares reciclados o en desuso en centíneas de las industriales inteligentes. Con un soporte magnético y una caja estancada, convertimos los que eran basura electrónica en un módulo que vigila el motor las 24 horas del día. ¿Cómo funciona? Primero, su acelerómetro mide la vibración mecánica y la clasifica bajo la norma industrial hizo 1816. Segundo, su análisis spectral FFT distingues si el problema es un eje desalineado o un rodamiento gastado. Tercero, usamos el micrófono del teléfono para escuchar el ruido, pedregullo y detectar cavitación en la subción antes de que rompa el impulsor. Ópera de forma 100% automática. Si se corta la luz, se reinicia solo. Si detecta una falla crítica a las 3 de la mañana, envíe un mensaje de alerta directo al productor sin que nadie toque la pantalla. Y gracias a Gemini, traduce los datos crudos en un diagnóstico de lenguaje claro que pide se revisar y que tan urgente es. Implementar bomba vigia cuesta apenas 150 dólares por pozo. Con una sola falla que evite en la temporada, el sistema se paga 10 veces de golpe. Compa vigia cuidando el agua, protegiendo el trabajo agrícola y dándole una segunda vida a la tecnología.",
+ "segments": [
+  {
+   "start": 0.18,
+   "end": 2.46,
+   "text": "El gran dolor del agricultor."
+  },
+  {
+   "start": 2.46,
+   "end": 7.74,
+   "text": "En el campo, que es una bomba de riego faia, mitad de la cosecha, es una pesadilla."
+  },
+  {
+   "start": 7.74,
+   "end": 15.3,
+   "text": "Un motor quemado cuesta entre 1500 y 3000 dólares, sin contar las perdidas por dejar el cultivo"
+  },
+  {
+   "start": 15.3,
+   "end": 16.78,
+   "text": "día sin agua."
+  },
+  {
+   "start": 16.78,
+   "end": 22.46,
+   "text": "Los sensores de vibración industriales existen, pero cuesta en una fortuna y son inaccesibles"
+  },
+  {
+   "start": 22.46,
+   "end": 25.5,
+   "text": "para el pequeño y mediano productor."
+  },
+  {
+   "start": 25.5,
+   "end": 27.58,
+   "text": "Por eso creamos bomba vigia."
+  },
+  {
+   "start": 27.58,
+   "end": 33.62,
+   "text": "Transformamos celulares reciclados o en desuso en centíneas de las industriales inteligentes."
+  },
+  {
+   "start": 33.62,
+   "end": 39.26,
+   "text": "Con un soporte magnético y una caja estancada, convertimos los que eran basura electrónica"
+  },
+  {
+   "start": 39.26,
+   "end": 44.42,
+   "text": "en un módulo que vigila el motor las 24 horas del día."
+  },
+  {
+   "start": 44.42,
+   "end": 45.42,
+   "text": "¿Cómo funciona?"
+  },
+  {
+   "start": 45.42,
+   "end": 51.38,
+   "text": "Primero, su acelerómetro mide la vibración mecánica y la clasifica bajo la norma industrial"
+  },
+  {
+   "start": 51.38,
+   "end": 53.78,
+   "text": "hizo 1816."
+  },
+  {
+   "start": 54.38,
+   "end": 61.34,
+   "text": "Segundo, su análisis spectral FFT distingues si el problema es un eje desalineado o un rodamiento"
+  },
+  {
+   "start": 61.34,
+   "end": 62.34,
+   "text": "gastado."
+  },
+  {
+   "start": 62.34,
+   "end": 68.1,
+   "text": "Tercero, usamos el micrófono del teléfono para escuchar el ruido, pedregullo y detectar"
+  },
+  {
+   "start": 68.1,
+   "end": 73.3,
+   "text": "cavitación en la subción antes de que rompa el impulsor."
+  },
+  {
+   "start": 73.3,
+   "end": 76.38,
+   "text": "Ópera de forma 100% automática."
+  },
+  {
+   "start": 76.38,
+   "end": 79.1,
+   "text": "Si se corta la luz, se reinicia solo."
+  },
+  {
+   "start": 79.1,
+   "end": 84.78,
+   "text": "Si detecta una falla crítica a las 3 de la mañana, envíe un mensaje de alerta directo"
+  },
+  {
+   "start": 84.78,
+   "end": 88.18,
+   "text": "al productor sin que nadie toque la pantalla."
+  },
+  {
+   "start": 88.18,
+   "end": 93.54,
+   "text": "Y gracias a Gemini, traduce los datos crudos en un diagnóstico de lenguaje claro que pide"
+  },
+  {
+   "start": 93.54,
+   "end": 96.82,
+   "text": "se revisar y que tan urgente es."
+  },
+  {
+   "start": 96.82,
+   "end": 102.66,
+   "text": "Implementar bomba vigia cuesta apenas 150 dólares por pozo."
+  },
+  {
+   "start": 102.66,
+   "end": 108.98,
+   "text": "Con una sola falla que evite en la temporada, el sistema se paga 10 veces de golpe."
+  },
+  {
+   "start": 108.98,
+   "end": 114.06,
+   "text": "Compa vigia cuidando el agua, protegiendo el trabajo agrícola y dándole una segunda vida"
+  },
+  {
+   "start": 114.06,
+   "end": 115.06,
+   "text": "a la tecnología."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.4
+}

@@ -1,0 +1,162 @@
+{
+ "video_id": "p6G3qiSNVUc",
+ "url": "https://youtu.be/p6G3qiSNVUc?si=_BExw0Fksmw0HmTZ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "THE LAST-MINUTE CREW",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "THE LAST-MINUTE CREW",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:21:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Durante años el sol llevo luz a miles de lugares de Nicaragua. Pero ningún panel dura para siempre y cuando se apaga, se convierte en basura que nadie sabe dónde poner. Esa es la otra cara de energía limpia. Mientras tanto para construir nuestras calles y casas seguimos sacando arena de los ríos que se están sacando. Dos problemas, una pregunta. ¿Y si uno pudiera reserver a otro? Así nace segunda luz, una planta que le da una segunda oportunidad a cada panel por dos caminos. El primero, volver a encender. Revisamos cada panel y guardan el 75% de su energía. Eso se convierta en la luminaria de las calles para las comunidades. Los paneles que ya no funcionan pasan por una prensa que como un trapiche se paran el vidrio. Después nuestros molinos de martillos hechos en talleres nicaragüense lo convierten en granos del tamaño de la arena. Y nada se desperdicia, el agua se reutiliza, el aluminio se recicla y la propia planta funciona como paneles de segunda vida. El resultado. Muy simple, el vidrio de los usos de panel alcanza para casi un metro cuadrado de calle. Lo que llevamos a ustedes ahora creamos... Con poca inversión materiales del país y alianzas con bloqueras y alcaldía, segunda luz puede llegar a cualquier municipio.",
+ "segments": [
+  {
+   "start": 1.87,
+   "end": 5.87,
+   "text": "Durante años el sol llevo luz a miles de lugares de Nicaragua."
+  },
+  {
+   "start": 5.87,
+   "end": 7.87,
+   "text": "Pero ningún panel dura para siempre"
+  },
+  {
+   "start": 7.87,
+   "end": 12.87,
+   "text": "y cuando se apaga, se convierte en basura que nadie sabe dónde poner."
+  },
+  {
+   "start": 12.87,
+   "end": 15.87,
+   "text": "Esa es la otra cara de energía limpia."
+  },
+  {
+   "start": 15.87,
+   "end": 18.87,
+   "text": "Mientras tanto para construir nuestras calles y casas"
+  },
+  {
+   "start": 18.87,
+   "end": 21.87,
+   "text": "seguimos sacando arena de los ríos que se están sacando."
+  },
+  {
+   "start": 22.87,
+   "end": 25.87,
+   "text": "Dos problemas, una pregunta."
+  },
+  {
+   "start": 25.87,
+   "end": 28.87,
+   "text": "¿Y si uno pudiera reserver a otro?"
+  },
+  {
+   "start": 29.87,
+   "end": 31.87,
+   "text": "Así nace segunda luz,"
+  },
+  {
+   "start": 31.87,
+   "end": 37.87,
+   "text": "una planta que le da una segunda oportunidad a cada panel por dos caminos."
+  },
+  {
+   "start": 37.87,
+   "end": 44.81,
+   "text": "El primero, volver a encender."
+  },
+  {
+   "start": 44.81,
+   "end": 48.81,
+   "text": "Revisamos cada panel y guardan el 75% de su energía."
+  },
+  {
+   "start": 48.81,
+   "end": 52.81,
+   "text": "Eso se convierta en la luminaria de las calles para las comunidades."
+  },
+  {
+   "start": 52.81,
+   "end": 56.81,
+   "text": "Los paneles que ya no funcionan pasan por una prensa"
+  },
+  {
+   "start": 56.81,
+   "end": 59.81,
+   "text": "que como un trapiche se paran el vidrio."
+  },
+  {
+   "start": 59.81,
+   "end": 62.81,
+   "text": "Después nuestros molinos de martillos"
+  },
+  {
+   "start": 62.81,
+   "end": 65.81,
+   "text": "hechos en talleres nicaragüense"
+  },
+  {
+   "start": 65.81,
+   "end": 68.81,
+   "text": "lo convierten en granos del tamaño de la arena."
+  },
+  {
+   "start": 68.81,
+   "end": 73.81,
+   "text": "Y nada se desperdicia, el agua se reutiliza, el aluminio se recicla"
+  },
+  {
+   "start": 73.81,
+   "end": 78.81,
+   "text": "y la propia planta funciona como paneles de segunda vida."
+  },
+  {
+   "start": 78.81,
+   "end": 79.81,
+   "text": "El resultado."
+  },
+  {
+   "start": 79.81,
+   "end": 82.81,
+   "text": "Muy simple, el vidrio de los usos de panel"
+  },
+  {
+   "start": 82.81,
+   "end": 86.81,
+   "text": "alcanza para casi un metro cuadrado de calle."
+  },
+  {
+   "start": 86.81,
+   "end": 89.81,
+   "text": "Lo que llevamos a ustedes ahora creamos..."
+  },
+  {
+   "start": 89.81,
+   "end": 96.04,
+   "text": "Con poca inversión materiales del país"
+  },
+  {
+   "start": 96.04,
+   "end": 99.04,
+   "text": "y alianzas con bloqueras y alcaldía,"
+  },
+  {
+   "start": 99.04,
+   "end": 103.04,
+   "text": "segunda luz puede llegar a cualquier municipio."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 107.7
+}

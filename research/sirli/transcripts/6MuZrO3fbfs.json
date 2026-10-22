@@ -1,0 +1,117 @@
+{
+ "video_id": "6MuZrO3fbfs",
+ "url": "https://youtu.be/6MuZrO3fbfs",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SAMISHA",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "SAMISHA",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:18:06+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Si mañana ocurre un desastre, ¿cómo encontraría a tu familia? Desde el año 2000, los desastres han afectado a más de 190 millones de personas en nuestra región. Y tras cada uno, nadie sabe quién está herido, dónde están, ni a quién atender primero. Por eso, creamos Ubix. Esto consiste en kiosco en hospitales, centros de salud, estaciones de policía, alcaldía y zona céntrica. Esto se activa con la alerta oficial y funcionamiento junto con internet satelital y energía de respaldo. La persona se registra con su celular de identidad o conductos provisionales, si es que algún dado caso no la tiene consigo. Y Ubix completa todo y cada uno de sus datos. Si es que la persona tiene algún tipo de discapacidad, Ubix la completa por sí mismo. Luego de esto responde cuatro preguntas en base a su salud. Si hay personas atrapadas, el daño que ha recibido la vivienda y que ayuda necesita. Como esa respuesta, nosotros creamos un triaje prehospitalario. Donde rojo significa que una persona se encuentra en estado crítico, amarillo que se encuentra en un estado moderado y en verde que se encuentra en un estado legal. Asimismo, esto organiza los reportes por sector según la gravedad de sus heridas. El número de afectado y los recursos disponibles en esa zona. ¡Somos a Micha!",
+ "segments": [
+  {
+   "start": 4.05,
+   "end": 8.05,
+   "text": "Si mañana ocurre un desastre, ¿cómo encontraría a tu familia?"
+  },
+  {
+   "start": 8.05,
+   "end": 13.05,
+   "text": "Desde el año 2000, los desastres han afectado a más de 190 millones de personas en nuestra región."
+  },
+  {
+   "start": 13.05,
+   "end": 18.05,
+   "text": "Y tras cada uno, nadie sabe quién está herido, dónde están, ni a quién atender primero."
+  },
+  {
+   "start": 20.05,
+   "end": 23.05,
+   "text": "Por eso, creamos Ubix."
+  },
+  {
+   "start": 23.05,
+   "end": 31.05,
+   "text": "Esto consiste en kiosco en hospitales, centros de salud, estaciones de policía, alcaldía y zona céntrica."
+  },
+  {
+   "start": 31.05,
+   "end": 39.05,
+   "text": "Esto se activa con la alerta oficial y funcionamiento junto con internet satelital y energía de respaldo."
+  },
+  {
+   "start": 40.05,
+   "end": 47.05,
+   "text": "La persona se registra con su celular de identidad o conductos provisionales, si es que algún dado caso no la tiene consigo."
+  },
+  {
+   "start": 47.05,
+   "end": 50.05,
+   "text": "Y Ubix completa todo y cada uno de sus datos."
+  },
+  {
+   "start": 50.05,
+   "end": 57.05,
+   "text": "Si es que la persona tiene algún tipo de discapacidad, Ubix la completa por sí mismo."
+  },
+  {
+   "start": 58.05,
+   "end": 63.05,
+   "text": "Luego de esto responde cuatro preguntas en base a su salud."
+  },
+  {
+   "start": 63.05,
+   "end": 70.05,
+   "text": "Si hay personas atrapadas, el daño que ha recibido la vivienda y que ayuda necesita."
+  },
+  {
+   "start": 70.05,
+   "end": 75.05,
+   "text": "Como esa respuesta, nosotros creamos un triaje prehospitalario."
+  },
+  {
+   "start": 75.05,
+   "end": 80.05,
+   "text": "Donde rojo significa que una persona se encuentra en estado crítico,"
+  },
+  {
+   "start": 80.05,
+   "end": 83.05,
+   "text": "amarillo que se encuentra en un estado moderado"
+  },
+  {
+   "start": 83.05,
+   "end": 87.05,
+   "text": "y en verde que se encuentra en un estado legal."
+  },
+  {
+   "start": 87.05,
+   "end": 93.05,
+   "text": "Asimismo, esto organiza los reportes por sector según la gravedad de sus heridas."
+  },
+  {
+   "start": 93.05,
+   "end": 98.05,
+   "text": "El número de afectado y los recursos disponibles en esa zona."
+  },
+  {
+   "start": 98.05,
+   "end": 101.05,
+   "text": "¡Somos a Micha!"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 108.1
+}

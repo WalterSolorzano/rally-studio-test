@@ -1,0 +1,380 @@
+/* Informe de investigación — hoja de estilo de impresión
+   Tokens: brand/palette.json (primary #1d45b9, secondary #f81110, accent #2aa7ad)
+   Construido para Chrome print-to-pdf sobre HTML de pandoc. */
+
+:root {
+  --primary: #1d45b9;
+  --secondary: #f81110;
+  --accent: #2aa7ad;
+  --bg: #ffffff;
+  --ink: #14161c;
+  --muted: #626a7a;
+  --grid: #e2e5ee;
+  --wash: #f4f6fb;
+  --sans: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --serif: Georgia, "Times New Roman", serif;
+}
+
+@page {
+  size: A4;
+  margin: 19mm 17mm 20mm;
+}
+
+@page :first {
+  margin: 0;
+}
+
+html {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+body {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 10.3pt;
+  line-height: 1.56;
+  color: var(--ink);
+  background: var(--bg);
+  text-align: justify;
+  hyphens: auto;
+}
+
+p {
+  margin: 0 0 8pt;
+  orphans: 3;
+  widows: 3;
+}
+
+strong {
+  color: #0d0f14;
+}
+
+/* ---------------------------------------------------------------- portada */
+.cover {
+  position: relative;
+  box-sizing: border-box;
+  width: 210mm;
+  height: 297mm;
+  padding: 0 22mm 20mm;
+  display: flex;
+  flex-direction: column;
+  page-break-after: always;
+  overflow: hidden;
+}
+
+.cover-band {
+  height: 11mm;
+  margin: 0 -22mm 0;
+  background: var(--primary);
+}
+
+.cover-kicker {
+  margin: 22mm 0 6mm;
+  font-family: var(--sans);
+  font-size: 8.6pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.cover-title {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 37pt;
+  line-height: 1.12;
+  letter-spacing: -0.012em;
+  color: var(--primary);
+  text-align: left;
+  max-width: 160mm;
+  border: 0;
+  padding: 0;
+}
+
+.cover-sub {
+  margin: 8mm 0 0;
+  font-family: var(--sans);
+  font-size: 12.5pt;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: left;
+  max-width: 150mm;
+}
+
+.cover-rule {
+  width: 46mm;
+  height: 3.4pt;
+  margin: 13mm 0 0;
+  background: var(--secondary);
+}
+
+.cover-meta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 7mm 12mm;
+  margin: auto 0 0;
+  padding: 0;
+}
+
+.cover-meta div {
+  border-top: 0.7pt solid var(--grid);
+  padding-top: 2.4mm;
+}
+
+.cover-meta dt {
+  font-family: var(--sans);
+  font-size: 7.4pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 1.2mm;
+}
+
+.cover-meta dd {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: 9.4pt;
+  line-height: 1.4;
+  color: var(--ink);
+  text-align: left;
+}
+
+.cover-foot {
+  margin-top: 10mm;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-top: 0.7pt solid var(--grid);
+  padding-top: 3mm;
+  font-family: var(--sans);
+  font-size: 8pt;
+  color: var(--muted);
+}
+
+/* ---------------------------------------------------------------- índice */
+.toc-page {
+  page-break-after: always;
+  padding-top: 4mm;
+}
+
+.toc-title {
+  font-family: var(--sans);
+  font-size: 21pt;
+  font-weight: 600;
+  color: var(--primary);
+  margin: 0 0 8mm;
+  padding: 0;
+  border: 0;
+}
+
+#TOC ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#TOC > ul > li {
+  border-bottom: 0;
+}
+
+#TOC > ul > li > a {
+  display: none;
+}
+
+#TOC a {
+  display: block;
+  padding: 2.1mm 0;
+  font-family: var(--sans);
+  font-size: 9.4pt;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+#TOC ul ul {
+  display: block;
+  padding-left: 0;
+}
+
+#TOC ul ul > li {
+  border-bottom: 0.6pt solid var(--grid);
+}
+
+#TOC a::after {
+  content: "";
+}
+
+/* ---------------------------------------------------------------- cuerpo */
+.content > h1:first-child,
+.content > h1:first-child + p,
+.content > h1:first-child + p + table,
+.content > hr:first-of-type {
+  display: none;
+}
+
+h1 {
+  font-family: var(--sans);
+  font-size: 18pt;
+  line-height: 1.2;
+  color: var(--primary);
+  margin: 12mm 0 4mm;
+  padding-bottom: 2.5mm;
+  border-bottom: 2pt solid var(--secondary);
+  page-break-after: avoid;
+  text-align: left;
+}
+
+h2 {
+  font-family: var(--sans);
+  font-size: 14.4pt;
+  line-height: 1.25;
+  font-weight: 600;
+  color: var(--primary);
+  margin: 9mm 0 3mm;
+  padding-top: 2.5mm;
+  border-top: 0.7pt solid var(--grid);
+  page-break-after: avoid;
+  text-align: left;
+  letter-spacing: -0.005em;
+}
+
+h3 {
+  font-family: var(--sans);
+  font-size: 10.8pt;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #0f2f7a;
+  margin: 6mm 0 2mm;
+  page-break-after: avoid;
+  text-align: left;
+}
+
+h4 {
+  font-family: var(--sans);
+  font-size: 9.6pt;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 4mm 0 1.5mm;
+  page-break-after: avoid;
+  text-align: left;
+}
+
+hr {
+  display: none;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+/* ---------------------------------------------------------------- tablas */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 3mm 0 5mm;
+  font-family: var(--sans);
+  font-size: 8.2pt;
+  line-height: 1.35;
+  page-break-inside: avoid;
+}
+
+thead th {
+  background: var(--primary);
+  color: #fff;
+  font-weight: 600;
+  text-align: left;
+  padding: 2mm 2.2mm;
+  border: 0;
+}
+
+tbody td {
+  padding: 1.8mm 2.2mm;
+  border-bottom: 0.5pt solid var(--grid);
+  vertical-align: top;
+  text-align: left;
+}
+
+tbody tr:nth-child(even) td {
+  background: #f7f8fc;
+}
+
+tbody tr {
+  page-break-inside: avoid;
+}
+
+/* ---------------------------------------------------------------- figuras */
+figure {
+  margin: 6mm 0 7mm;
+  padding: 0;
+  page-break-inside: avoid;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+figcaption {
+  margin-top: 2.4mm;
+  padding-left: 3mm;
+  border-left: 2.2pt solid var(--accent);
+  font-family: var(--sans);
+  font-size: 7.8pt;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: left;
+  hyphens: none;
+}
+
+/* ---------------------------------------------------------------- citas y código */
+blockquote {
+  margin: 4mm 0 5mm;
+  padding: 3mm 4mm;
+  background: var(--wash);
+  border-left: 3pt solid var(--secondary);
+  font-size: 9.4pt;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+code {
+  font-family: Consolas, "Cascadia Mono", monospace;
+  font-size: 8.4pt;
+  background: #eef1f8;
+  padding: 0.3mm 1mm;
+  border-radius: 1pt;
+}
+
+pre {
+  background: #f4f6fb;
+  padding: 3mm;
+  font-size: 8pt;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+ul,
+ol {
+  margin: 0 0 8pt;
+  padding-left: 5mm;
+}
+
+li {
+  margin-bottom: 1.4mm;
+}
+
+li > p {
+  margin-bottom: 2pt;
+}
+
+h2 + p,
+h3 + p,
+h2 + blockquote,
+h3 + blockquote {
+  margin-top: 0;
+}

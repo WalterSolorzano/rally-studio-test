@@ -1,0 +1,92 @@
+{
+ "video_id": "F4u0IDdDKII",
+ "url": "https://youtu.be/F4u0IDdDKII?si=SLaL-ae1CHid4y3P",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "RALLY BRAINSTORM UA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "RALLY BRAINSTORM UA",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:58:15+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El manejo inadecuado de los desechos contamina los ríos, lagos y océanos. El desaprovechamiento sistemático de materiales que podrían recuperarse generan un impacto ambiental negativo. Este recolector flotante de basura alimentado por energía solar es una solución innovadora porque combina el aprovechamiento de materiales recuperados con el uso de energía renovable para reducir la contaminación ambiental. Esta tecnología incluye un motor recuperado de lavadora, un panel solar, un sistema de control eléctrico, un mecanismo de recolección y recipiente para almacenar los residuos, convirtiéndose en una solución sostenible. El recolector contribuirá al retirar basura de ríos y lagos facilitando su clasificación y reciclaje y se reutilizarán materiales que aún se aprovecha su máxima capacidad, mientras que el tanque almacena agua para utilizarla en el riego cuando su calidad sea la apropiada. Los paneles solares captan la energía mientras que el controlador estabilice el voltaje, la bomba extrae agua, se abre paso a la zona de riego y el riego por goteo nutre los cultivos dándoles así un mejor estilo de vida a las comunidades rurales.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 16.68,
+   "text": "El manejo inadecuado de los desechos contamina los ríos, lagos y océanos. El desaprovechamiento"
+  },
+  {
+   "start": 16.68,
+   "end": 22.32,
+   "text": "sistemático de materiales que podrían recuperarse generan un impacto ambiental negativo."
+  },
+  {
+   "start": 22.32,
+   "end": 28.44,
+   "text": "Este recolector flotante de basura alimentado por energía solar es una solución innovadora"
+  },
+  {
+   "start": 28.44,
+   "end": 34.52,
+   "text": "porque combina el aprovechamiento de materiales recuperados con el uso de energía renovable"
+  },
+  {
+   "start": 34.52,
+   "end": 37.6,
+   "text": "para reducir la contaminación ambiental."
+  },
+  {
+   "start": 37.6,
+   "end": 44.56,
+   "text": "Esta tecnología incluye un motor recuperado de lavadora, un panel solar, un sistema de"
+  },
+  {
+   "start": 44.56,
+   "end": 49.28,
+   "text": "control eléctrico, un mecanismo de recolección y recipiente para almacenar los residuos,"
+  },
+  {
+   "start": 49.28,
+   "end": 55.8,
+   "text": "convirtiéndose en una solución sostenible. El recolector contribuirá al retirar basura de"
+  },
+  {
+   "start": 55.8,
+   "end": 61.12,
+   "text": "ríos y lagos facilitando su clasificación y reciclaje y se reutilizarán materiales que aún"
+  },
+  {
+   "start": 61.12,
+   "end": 66.56,
+   "text": "se aprovecha su máxima capacidad, mientras que el tanque almacena agua para utilizarla en el"
+  },
+  {
+   "start": 66.56,
+   "end": 72.72,
+   "text": "riego cuando su calidad sea la apropiada. Los paneles solares captan la energía mientras que el"
+  },
+  {
+   "start": 72.72,
+   "end": 79.96,
+   "text": "controlador estabilice el voltaje, la bomba extrae agua, se abre paso a la zona de riego y el riego"
+  },
+  {
+   "start": 79.96,
+   "end": 86.84,
+   "text": "por goteo nutre los cultivos dándoles así un mejor estilo de vida a las comunidades rurales."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.2
+}

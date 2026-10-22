@@ -1,0 +1,82 @@
+{
+ "video_id": "q2EyWEbEglQ",
+ "url": "https://youtu.be/q2EyWEbEglQ",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "DATALAB",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "DATALAB",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:29:36+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En el disparate de Potter, sobre la carretera Matagal, Paginotega, la lluvia puede ser una gran aliada para el campo, pero aquí el Tierra no es montañoso. Cuando llueve el agua corre por las pendientes, arrastra tierra y sedimentos y se pierde donde que podamos aprovecharla. Por eso, en Datalap, en la UNIRU, creamos el Acueducto Abiumimético de Alta Montaña, un sistema para cactar, guardar y aprovechar el agua de la lluvia en el riego. Todo empieza con los canales que recogen el agua, que baja por las laderas y una regia que detiene la basura y los residuos. Después, el agua posa por una trampa de sedimentos, ahicefrena, la tierra se asienta y los sedimentos útiles se recuperan para volverlos a usarlos. En Aladera, sembramos barreras de vetiver. Esta planta ayuda a frenar el agua y a mantener el suelo en su lugar. El agua limpia se guarda en un reservorio para usarla cuando los cultivos la necesiten, y desde ahí baja hasta la área de cultivo. El sistema crece en tres niveles. El básico mide el agua de forma manual, el intermedio usa sensores que avisan cuánta agua hay, y el avanzado mide la humedad del suelo. Se monetaría distancia y riga de forma automática, evitando desbordes. El resultado, menos erosión, agua para la época seca y los productores que cuidan y mantienen su propio sistema. Es una solución que se puede empezar con poco a ir mejorándose unos recursos de cada comunidad. Somos Datalab de la UNI-RUS. Gracias.",
+ "segments": [
+  {
+   "start": 0.46,
+   "end": 6.46,
+   "text": "En el disparate de Potter, sobre la carretera Matagal, Paginotega, la lluvia puede ser una gran aliada para el campo,"
+  },
+  {
+   "start": 6.46,
+   "end": 15.46,
+   "text": "pero aquí el Tierra no es montañoso. Cuando llueve el agua corre por las pendientes, arrastra tierra y sedimentos y se pierde donde que podamos aprovecharla."
+  },
+  {
+   "start": 15.46,
+   "end": 24.46,
+   "text": "Por eso, en Datalap, en la UNIRU, creamos el Acueducto Abiumimético de Alta Montaña, un sistema para cactar, guardar y aprovechar el agua de la lluvia en el riego."
+  },
+  {
+   "start": 24.46,
+   "end": 31.46,
+   "text": "Todo empieza con los canales que recogen el agua, que baja por las laderas y una regia que detiene la basura y los residuos."
+  },
+  {
+   "start": 31.46,
+   "end": 39.46,
+   "text": "Después, el agua posa por una trampa de sedimentos, ahicefrena, la tierra se asienta y los sedimentos útiles se recuperan para volverlos a usarlos."
+  },
+  {
+   "start": 39.46,
+   "end": 46.46,
+   "text": "En Aladera, sembramos barreras de vetiver. Esta planta ayuda a frenar el agua y a mantener el suelo en su lugar."
+  },
+  {
+   "start": 46.46,
+   "end": 53.46,
+   "text": "El agua limpia se guarda en un reservorio para usarla cuando los cultivos la necesiten, y desde ahí baja hasta la área de cultivo."
+  },
+  {
+   "start": 53.46,
+   "end": 63.46,
+   "text": "El sistema crece en tres niveles. El básico mide el agua de forma manual, el intermedio usa sensores que avisan cuánta agua hay, y el avanzado mide la humedad del suelo."
+  },
+  {
+   "start": 63.46,
+   "end": 74.46,
+   "text": "Se monetaría distancia y riga de forma automática, evitando desbordes. El resultado, menos erosión, agua para la época seca y los productores que cuidan y mantienen su propio sistema."
+  },
+  {
+   "start": 74.46,
+   "end": 80.46,
+   "text": "Es una solución que se puede empezar con poco a ir mejorándose unos recursos de cada comunidad."
+  },
+  {
+   "start": 80.46,
+   "end": 83.46,
+   "text": "Somos Datalab de la UNI-RUS. Gracias."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 85.0
+}

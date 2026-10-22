@@ -1,0 +1,142 @@
+{
+ "video_id": "j8eqhnDEBJc",
+ "url": "https://youtu.be/j8eqhnDEBJc",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "GOLDEN WARRIORS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "GOLDEN WARRIORS",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:48:33+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabes por qué ocurre un alud de barro? Un alud de barro se produce por un alto grado de saturación del cielo con penientes que oscilan entre el 28 y el 45%. El paso del huracán Llota causó grandes daños y es una de las tragedias más descarradoras del país destruyendo viviendas, cultivos y cobrando con la vida de 11 personas. El uso de sensores ha sido una parte muy importante en la innovación de distintos productos, por ejemplo, sensores de proximidad en vehículos, teléfonos y puertas automatizadas entre otras áreas. En base a este enfoque se propone un sistema de alerta temprana automatizado y autofuncional con paneles solares constituidos sobre un muro de contención que contará con sensores de desplazamiento, adicionando un pluviógrafo siendo procesados por un programa para poder alertar a las autoridades competentes. La ventaja de esta propuesta es proveer una evacuación segura y garantizar la seguridad de los habitantes que se encuentran en zonas vulnerables. Debido a sus características, su versatilidad y su fácil construcción, este sistema se puede llevar a cabo en varios puntos de riesgo sobre el talú.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 13.98,
+   "text": "¿Sabes por qué ocurre un alud de barro?"
+  },
+  {
+   "start": 13.98,
+   "end": 17.98,
+   "text": "Un alud de barro se produce por un alto grado de saturación del cielo"
+  },
+  {
+   "start": 17.98,
+   "end": 22.98,
+   "text": "con penientes que oscilan entre el 28 y el 45%."
+  },
+  {
+   "start": 23.98,
+   "end": 26.98,
+   "text": "El paso del huracán Llota causó grandes daños"
+  },
+  {
+   "start": 26.98,
+   "end": 30.98,
+   "text": "y es una de las tragedias más descarradoras del país"
+  },
+  {
+   "start": 30.98,
+   "end": 35.98,
+   "text": "destruyendo viviendas, cultivos y cobrando con la vida de 11 personas."
+  },
+  {
+   "start": 36.98,
+   "end": 40.98,
+   "text": "El uso de sensores ha sido una parte muy importante"
+  },
+  {
+   "start": 40.98,
+   "end": 43.98,
+   "text": "en la innovación de distintos productos,"
+  },
+  {
+   "start": 43.98,
+   "end": 46.98,
+   "text": "por ejemplo, sensores de proximidad en vehículos,"
+  },
+  {
+   "start": 46.98,
+   "end": 51.98,
+   "text": "teléfonos y puertas automatizadas entre otras áreas."
+  },
+  {
+   "start": 51.98,
+   "end": 55.98,
+   "text": "En base a este enfoque se propone un sistema de alerta"
+  },
+  {
+   "start": 55.98,
+   "end": 58.98,
+   "text": "temprana automatizado y autofuncional"
+  },
+  {
+   "start": 58.98,
+   "end": 61.98,
+   "text": "con paneles solares constituidos"
+  },
+  {
+   "start": 61.98,
+   "end": 64.98,
+   "text": "sobre un muro de contención que contará"
+  },
+  {
+   "start": 64.98,
+   "end": 69.98,
+   "text": "con sensores de desplazamiento, adicionando un pluviógrafo"
+  },
+  {
+   "start": 69.98,
+   "end": 74.98,
+   "text": "siendo procesados por un programa para poder alertar"
+  },
+  {
+   "start": 74.98,
+   "end": 77.98,
+   "text": "a las autoridades competentes."
+  },
+  {
+   "start": 77.98,
+   "end": 84.74,
+   "text": "La ventaja de esta propuesta es proveer una evacuación segura"
+  },
+  {
+   "start": 84.74,
+   "end": 88.74,
+   "text": "y garantizar la seguridad de los habitantes"
+  },
+  {
+   "start": 88.74,
+   "end": 91.74,
+   "text": "que se encuentran en zonas vulnerables."
+  },
+  {
+   "start": 91.74,
+   "end": 98.43,
+   "text": "Debido a sus características, su versatilidad"
+  },
+  {
+   "start": 98.43,
+   "end": 103.43,
+   "text": "y su fácil construcción, este sistema se puede llevar a cabo"
+  },
+  {
+   "start": 103.43,
+   "end": 107.43,
+   "text": "en varios puntos de riesgo sobre el talú."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 113.5
+}

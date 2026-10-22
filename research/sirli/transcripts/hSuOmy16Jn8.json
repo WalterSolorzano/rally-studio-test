@@ -1,0 +1,137 @@
+{
+ "video_id": "hSuOmy16Jn8",
+ "url": "https://youtu.be/hSuOmy16Jn8?si=8gQdOs4jJ5TjmjVg",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NEXUS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NEXUS",
+   "challenge": "07 - REUTILIZACIÓN DE ACEITE DOMÉSTICO"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:50:35+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hola, ¿cómo están? Los amigdones de la sede de UML de Chinandega y somos el equipo Lexus. Y optamos por el desafío de la utilización de aceite de domestica. En Chinandega, un solo litro de aceite vegetal, usado, arrojado, alfregadero, contaminado hasta 40 mil metros de agua y destruido era cantarillado. Nuestra materia prima es este residuo doméstico y gratuito, recolectado en botellas PET mediante puntos de acortes comunitarias. Aquí me está gran idea. En lugar de su sata hostica comercial, calcinamos clara de huevo para obtener el óxido de calcio como catarizador sólido. Tras la reacción de decantación, el diodice limpio queda en la fase superior y la glicerina cruda en la fase inferior. El proceso inicia cristal del aceite para eliminar la impureza. En un laboratorio controlado aplicamos la tecnología de transesterificación a 55 a 60 grados Celsius, haciendo reaccionar el aceite escultrado con el mesano. El diodice se lava y se seca para cumplir normas de calidad. Por su parte, la glicerina se purifica grurosamente y se incorpora en un 5% y 10% de ingredientes complementarios en la formulación de nuestro jabón de limpieza líquido para pisos, rompas y traste. El resultado del diodice es renovable para maquinaria, jabón de limpieza, de alto rendimiento y un proceso seguro confinado en el laboratorio del equipo Nexus y desde la sede UML transformamos residos en productos reales. Muchas gracias.",
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 5.8,
+   "text": "Hola, ¿cómo están? Los amigdones de la sede de UML de Chinandega y somos el equipo Lexus."
+  },
+  {
+   "start": 5.8,
+   "end": 9.4,
+   "text": "Y optamos por el desafío de la utilización de aceite de domestica."
+  },
+  {
+   "start": 9.4,
+   "end": 14.32,
+   "text": "En Chinandega, un solo litro de aceite vegetal, usado, arrojado, alfregadero,"
+  },
+  {
+   "start": 14.32,
+   "end": 19.0,
+   "text": "contaminado hasta 40 mil metros de agua y destruido era cantarillado."
+  },
+  {
+   "start": 19.0,
+   "end": 22.52,
+   "text": "Nuestra materia prima es este residuo doméstico y gratuito,"
+  },
+  {
+   "start": 22.52,
+   "end": 28.3,
+   "text": "recolectado en botellas PET mediante puntos de acortes comunitarias."
+  },
+  {
+   "start": 28.3,
+   "end": 30.7,
+   "text": "Aquí me está gran idea."
+  },
+  {
+   "start": 30.78,
+   "end": 36.46,
+   "text": "En lugar de su sata hostica comercial, calcinamos clara de huevo para obtener el óxido de calcio"
+  },
+  {
+   "start": 36.46,
+   "end": 38.42,
+   "text": "como catarizador sólido."
+  },
+  {
+   "start": 38.42,
+   "end": 44.14,
+   "text": "Tras la reacción de decantación, el diodice limpio queda en la fase superior"
+  },
+  {
+   "start": 44.14,
+   "end": 46.86,
+   "text": "y la glicerina cruda en la fase inferior."
+  },
+  {
+   "start": 46.86,
+   "end": 50.14,
+   "text": "El proceso inicia cristal del aceite para eliminar la impureza."
+  },
+  {
+   "start": 50.14,
+   "end": 54.14,
+   "text": "En un laboratorio controlado aplicamos la tecnología de transesterificación"
+  },
+  {
+   "start": 54.14,
+   "end": 62.68,
+   "text": "a 55 a 60 grados Celsius, haciendo reaccionar el aceite escultrado con el mesano."
+  },
+  {
+   "start": 62.72,
+   "end": 66.72,
+   "text": "El diodice se lava y se seca para cumplir normas de calidad."
+  },
+  {
+   "start": 66.72,
+   "end": 74.72,
+   "text": "Por su parte, la glicerina se purifica grurosamente y se incorpora en un 5% y 10%"
+  },
+  {
+   "start": 74.72,
+   "end": 80.36,
+   "text": "de ingredientes complementarios en la formulación de nuestro jabón de limpieza líquido"
+  },
+  {
+   "start": 80.36,
+   "end": 83.92,
+   "text": "para pisos, rompas y traste."
+  },
+  {
+   "start": 83.92,
+   "end": 88.64,
+   "text": "El resultado del diodice es renovable para maquinaria, jabón de limpieza,"
+  },
+  {
+   "start": 88.68,
+   "end": 94.0,
+   "text": "de alto rendimiento y un proceso seguro confinado en el laboratorio del equipo Nexus"
+  },
+  {
+   "start": 94.0,
+   "end": 98.08,
+   "text": "y desde la sede UML transformamos residos en productos reales."
+  },
+  {
+   "start": 98.08,
+   "end": 99.08,
+   "text": "Muchas gracias."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.6
+}

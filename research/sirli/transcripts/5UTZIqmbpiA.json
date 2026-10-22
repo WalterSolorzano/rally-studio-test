@@ -1,0 +1,82 @@
+{
+ "video_id": "5UTZIqmbpiA",
+ "url": "https://youtu.be/5UTZIqmbpiA",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NACATAMAL VERDE",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NACATAMAL VERDE",
+   "challenge": "05 - HUERTOS VERTICALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:31:05+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que los huertos verticales pueden ahorrar hasta un 90% de agua en comparación con los métodos tradicionales de riego? Este tipo de sistemas representa una alternativa innovadora para enfrentar los desafíos de las ciudades modernas, donde la falta de espacio y el alto consumo de recursos dificultan la producción de alimentos frescos y sostenibles. Frente a esta realidad surge Eco Oasis, un proyecto diseñado para transformar la manera en que cultivamos en entornos urbanos. Se trata de un huerto vertical modular, liviano y económico, que aprovecha al máximo el espacio disponible y reutiliza el agua de forma eficiente y segura para el riego. Su estructura adaptable permite instalarlo tanto en interiores como en azoteas, haciendo posible la producción de alimentos saludables en hogares, escuelas o comunidades con recursos limitados. Eco Oasis se basa en un sistema de recirculación hidropónica cerrado, el cual reduce drásticamente el desperdicio de agua y nutrientes. Además, incorpora paneles solares de bajo voltaje que alimentan las bombas y válvulas, logrando un funcionamiento completamente autónomo, sin necesidad de conexión eléctrica y sin generar emisiones contaminantes. Con esta propuesta, se busca promover una agricultura urbana más eficiente, sostenible y accesible, brindando a las comunidades la oportunidad de producir sus propios alimentos de manera limpia y responsable. Eco Oasis no solo ahorra recursos, sino que también contribuye a un estilo de vida más verde y resiliente, demostrando que es posible cultivar un futuro mejor en armonía con el medio ambiente.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.0,
+   "text": "¿Sabías que los huertos verticales pueden ahorrar hasta un 90% de agua en comparación con los métodos tradicionales de riego?"
+  },
+  {
+   "start": 9.0,
+   "end": 16.0,
+   "text": "Este tipo de sistemas representa una alternativa innovadora para enfrentar los desafíos de las ciudades modernas,"
+  },
+  {
+   "start": 16.0,
+   "end": 24.0,
+   "text": "donde la falta de espacio y el alto consumo de recursos dificultan la producción de alimentos frescos y sostenibles."
+  },
+  {
+   "start": 24.0,
+   "end": 34.0,
+   "text": "Frente a esta realidad surge Eco Oasis, un proyecto diseñado para transformar la manera en que cultivamos en entornos urbanos."
+  },
+  {
+   "start": 34.0,
+   "end": 47.0,
+   "text": "Se trata de un huerto vertical modular, liviano y económico, que aprovecha al máximo el espacio disponible y reutiliza el agua de forma eficiente y segura para el riego."
+  },
+  {
+   "start": 47.0,
+   "end": 61.0,
+   "text": "Su estructura adaptable permite instalarlo tanto en interiores como en azoteas, haciendo posible la producción de alimentos saludables en hogares, escuelas o comunidades con recursos limitados."
+  },
+  {
+   "start": 61.0,
+   "end": 72.0,
+   "text": "Eco Oasis se basa en un sistema de recirculación hidropónica cerrado, el cual reduce drásticamente el desperdicio de agua y nutrientes."
+  },
+  {
+   "start": 72.0,
+   "end": 82.0,
+   "text": "Además, incorpora paneles solares de bajo voltaje que alimentan las bombas y válvulas, logrando un funcionamiento completamente autónomo,"
+  },
+  {
+   "start": 82.0,
+   "end": 88.0,
+   "text": "sin necesidad de conexión eléctrica y sin generar emisiones contaminantes."
+  },
+  {
+   "start": 88.0,
+   "end": 103.0,
+   "text": "Con esta propuesta, se busca promover una agricultura urbana más eficiente, sostenible y accesible, brindando a las comunidades la oportunidad de producir sus propios alimentos de manera limpia y responsable."
+  },
+  {
+   "start": 103.0,
+   "end": 119.0,
+   "text": "Eco Oasis no solo ahorra recursos, sino que también contribuye a un estilo de vida más verde y resiliente, demostrando que es posible cultivar un futuro mejor en armonía con el medio ambiente."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.1
+}

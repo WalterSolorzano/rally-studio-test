@@ -1,0 +1,182 @@
+{
+ "video_id": "ooDlNB_18Qs",
+ "url": "https://youtu.be/ooDlNB_18Qs",
+ "year": 2018,
+ "collection": "internacional",
+ "country": "COLOMBIA",
+ "team": "THE JOINS",
+ "place_label": "TERCER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2018,
+   "collection": "internacional",
+   "place_label": "TERCER LUGAR",
+   "team": "THE JOINS",
+   "challenge": "03 - REDES ELÉCTRICAS EFICIENTES QUE DEN SERVICIO AL MAYOR NÚMERO DE COMUNIDADES RURALES AL MENOR COSTO"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:13:22+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "En la actualidad habitan alrededor de 512 millones de personas en América Latina y el Caribe, de las cuales alrededor de 50 millones no cuentan con servicios de energía eléctrica, lo cual representa el 69% de las comunidades rurales. Cerca del 60% de todos los hogares de comunidades rurales usan velas y querosino para la iluminación de sus hogares y presentan dificultades para aspectos de la vida diaria como la conservación de alimentos, entretenimiento, incluso para algo tan importante como el acceso a la educación a través de un ordenador. Suministrar energía eléctrica mediante los métodos convencionales para las comunidades aisladas puede implicar un costo muy alto para las entidades gubernamentales, ya que estas poblaciones generalmente se encuentran muy aisladas del casco urbano, lo que implica que el costo de la infraestructura de una red eléctrica no sea viable económicamente. Se han tratado de implementar soluciones alternativas a esta problemática sin tener éxito, por lo que las entidades gubernamentales han focalizado esfuerzos en promover iniciativas de proyectos que brinden una solución eficientes. De esta problemática surge NEC, un dispositivo generador de energía eléctrica de bajo costo asequible para comunidades rurales. El principio de funcionamiento de NEC es el efecto CVEC, que aprovecha la diferencia del potencial térmico mediante una matriz de celdas termoeléctricas para la generación de energía eléctrica. El diferencial térmico se obtiene de una etapa de captación de energía solar mediante tubos evacuados para el calentamiento de una placa superior y una placa inferior conectada con la superficie terrestre para la disipación de temperatura. Para contribuir a esta segunda etapa se implementa un sistema de flujo de aire por medio de un extractor de aire atmosférico. El dispositivo fue diseñado con un sistema práctico de manera que el usuario final pueda instalarlo sin dificultad. NET logra generar aproximadamente 1400W de nominales durante el día. Una familia rural en promedio consume 400W, de tal manera que la energía que no es utilizada durante el día es almacenada en una batería para ser suministrada en la noche. NET es una solución de bajo costo a una problemática que afecta a millones de familias en Latinoamérica y el Faroeste.",
+ "segments": [
+  {
+   "start": 5.49,
+   "end": 11.81,
+   "text": "En la actualidad habitan alrededor de 512 millones de personas en América Latina y el Caribe,"
+  },
+  {
+   "start": 11.81,
+   "end": 16.61,
+   "text": "de las cuales alrededor de 50 millones no cuentan con servicios de energía eléctrica,"
+  },
+  {
+   "start": 16.61,
+   "end": 20.61,
+   "text": "lo cual representa el 69% de las comunidades rurales."
+  },
+  {
+   "start": 20.61,
+   "end": 25.81,
+   "text": "Cerca del 60% de todos los hogares de comunidades rurales usan velas y querosino"
+  },
+  {
+   "start": 25.81,
+   "end": 30.61,
+   "text": "para la iluminación de sus hogares y presentan dificultades para aspectos de la vida diaria"
+  },
+  {
+   "start": 30.61,
+   "end": 35.25,
+   "text": "como la conservación de alimentos, entretenimiento, incluso para algo tan importante"
+  },
+  {
+   "start": 35.25,
+   "end": 38.45,
+   "text": "como el acceso a la educación a través de un ordenador."
+  },
+  {
+   "start": 38.45,
+   "end": 43.97,
+   "text": "Suministrar energía eléctrica mediante los métodos convencionales para las comunidades aisladas"
+  },
+  {
+   "start": 43.97,
+   "end": 47.89,
+   "text": "puede implicar un costo muy alto para las entidades gubernamentales,"
+  },
+  {
+   "start": 47.89,
+   "end": 52.45,
+   "text": "ya que estas poblaciones generalmente se encuentran muy aisladas del casco urbano,"
+  },
+  {
+   "start": 52.45,
+   "end": 59.41,
+   "text": "lo que implica que el costo de la infraestructura de una red eléctrica no sea viable económicamente."
+  },
+  {
+   "start": 59.41,
+   "end": 64.61,
+   "text": "Se han tratado de implementar soluciones alternativas a esta problemática sin tener éxito,"
+  },
+  {
+   "start": 64.77,
+   "end": 69.57,
+   "text": "por lo que las entidades gubernamentales han focalizado esfuerzos en promover iniciativas"
+  },
+  {
+   "start": 69.57,
+   "end": 72.21,
+   "text": "de proyectos que brinden una solución eficientes."
+  },
+  {
+   "start": 72.21,
+   "end": 78.05,
+   "text": "De esta problemática surge NEC, un dispositivo generador de energía eléctrica de bajo costo"
+  },
+  {
+   "start": 78.05,
+   "end": 80.05,
+   "text": "asequible para comunidades rurales."
+  },
+  {
+   "start": 80.05,
+   "end": 83.17,
+   "text": "El principio de funcionamiento de NEC es el efecto CVEC,"
+  },
+  {
+   "start": 83.17,
+   "end": 88.45,
+   "text": "que aprovecha la diferencia del potencial térmico mediante una matriz de celdas termoeléctricas"
+  },
+  {
+   "start": 88.45,
+   "end": 90.69,
+   "text": "para la generación de energía eléctrica."
+  },
+  {
+   "start": 90.77,
+   "end": 95.57,
+   "text": "El diferencial térmico se obtiene de una etapa de captación de energía solar mediante"
+  },
+  {
+   "start": 95.57,
+   "end": 100.37,
+   "text": "tubos evacuados para el calentamiento de una placa superior y una placa inferior"
+  },
+  {
+   "start": 100.37,
+   "end": 104.77,
+   "text": "conectada con la superficie terrestre para la disipación de temperatura."
+  },
+  {
+   "start": 104.77,
+   "end": 109.01,
+   "text": "Para contribuir a esta segunda etapa se implementa un sistema de flujo de aire"
+  },
+  {
+   "start": 109.01,
+   "end": 111.89,
+   "text": "por medio de un extractor de aire atmosférico."
+  },
+  {
+   "start": 111.89,
+   "end": 116.29,
+   "text": "El dispositivo fue diseñado con un sistema práctico de manera que el usuario final"
+  },
+  {
+   "start": 116.29,
+   "end": 118.61,
+   "text": "pueda instalarlo sin dificultad."
+  },
+  {
+   "start": 118.69,
+   "end": 123.89,
+   "text": "NET logra generar aproximadamente 1400W de nominales durante el día."
+  },
+  {
+   "start": 123.89,
+   "end": 129.41,
+   "text": "Una familia rural en promedio consume 400W, de tal manera que la energía que no es"
+  },
+  {
+   "start": 129.41,
+   "end": 134.77,
+   "text": "utilizada durante el día es almacenada en una batería para ser suministrada en la noche."
+  },
+  {
+   "start": 134.77,
+   "end": 139.01,
+   "text": "NET es una solución de bajo costo a una problemática que afecta a millones"
+  },
+  {
+   "start": 139.01,
+   "end": 141.81,
+   "text": "de familias en Latinoamérica y el Faroeste."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 142.4
+}

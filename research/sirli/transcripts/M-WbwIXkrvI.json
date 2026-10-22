@@ -1,0 +1,122 @@
+{
+ "video_id": "M-WbwIXkrvI",
+ "url": "https://www.youtube.com/watch?v=M-WbwIXkrvI",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NEXUS",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "NEXUS",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:52:51+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Algunas de estas preguntas que pasa con las hojas secas de los árboles, muchas veces las vemos como basura, y si te dijera que pueden ser algo útil. Bueno, ahora les presentamos EcoCiclo. Este es un sistema avanzado que nos permite reutilizar las hojas secas tanto de Aria-Bert como universidades y cometerla en composta. Y también podemos pasar los nutrientes que se obtengan directamente otra vez al suelo. Es muy sencillo, primero recolectamos las hojas secas, luego recolectamos todo el material que nos corresponde, para después llevarlas a trituración y así acelerar su descomposición, para luego pasarla a la pila de compostaje. Pero el EcoCiclo tiene algo especial, ir con coras sensores de bajo costo para vigilarse la temperatura, la humedad, y así podemos identificar cuando hace falta agua, ayeración, o más tiempo para que el compost avance correctamente. Después de un proceso de emanduración y descomposición, podemos obtener un abono orgánico, que nos ayude a mantener y mejorar los jardines de nuestra Aria-Bert de Urbanas y Universidades. EcoCiclo, las hojas de hoy el abono de mañana. Demosle una segunda oportunidad a la naturaleza.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "Algunas de estas preguntas que pasa con las hojas secas de los árboles,"
+  },
+  {
+   "start": 3.6,
+   "end": 7.8,
+   "text": "muchas veces las vemos como basura, y si te dijera que pueden ser algo útil."
+  },
+  {
+   "start": 7.8,
+   "end": 9.9,
+   "text": "Bueno, ahora les presentamos EcoCiclo."
+  },
+  {
+   "start": 9.9,
+   "end": 16.1,
+   "text": "Este es un sistema avanzado que nos permite reutilizar las hojas secas tanto de Aria-Bert como universidades"
+  },
+  {
+   "start": 16.1,
+   "end": 18.8,
+   "text": "y cometerla en composta."
+  },
+  {
+   "start": 18.8,
+   "end": 25.0,
+   "text": "Y también podemos pasar los nutrientes que se obtengan directamente otra vez al suelo."
+  },
+  {
+   "start": 25.7,
+   "end": 28.9,
+   "text": "Es muy sencillo, primero recolectamos las hojas secas,"
+  },
+  {
+   "start": 28.9,
+   "end": 31.9,
+   "text": "luego recolectamos todo el material que nos corresponde,"
+  },
+  {
+   "start": 31.9,
+   "end": 36.9,
+   "text": "para después llevarlas a trituración y así acelerar su descomposición,"
+  },
+  {
+   "start": 36.9,
+   "end": 41.9,
+   "text": "para luego pasarla a la pila de compostaje."
+  },
+  {
+   "start": 41.9,
+   "end": 44.5,
+   "text": "Pero el EcoCiclo tiene algo especial,"
+  },
+  {
+   "start": 44.5,
+   "end": 50.7,
+   "text": "ir con coras sensores de bajo costo para vigilarse la temperatura, la humedad,"
+  },
+  {
+   "start": 50.7,
+   "end": 55.4,
+   "text": "y así podemos identificar cuando hace falta agua, ayeración,"
+  },
+  {
+   "start": 55.4,
+   "end": 58.9,
+   "text": "o más tiempo para que el compost avance correctamente."
+  },
+  {
+   "start": 58.9,
+   "end": 61.6,
+   "text": "Después de un proceso de emanduración y descomposición,"
+  },
+  {
+   "start": 61.6,
+   "end": 63.6,
+   "text": "podemos obtener un abono orgánico,"
+  },
+  {
+   "start": 63.6,
+   "end": 68.9,
+   "text": "que nos ayude a mantener y mejorar los jardines de nuestra Aria-Bert de Urbanas y Universidades."
+  },
+  {
+   "start": 68.9,
+   "end": 72.6,
+   "text": "EcoCiclo, las hojas de hoy el abono de mañana."
+  },
+  {
+   "start": 72.6,
+   "end": 76.1,
+   "text": "Demosle una segunda oportunidad a la naturaleza."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 78.2
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Equipo · Rally Studio</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=20261019_rev10">
+  <style>
+    .admin-shell { max-width: 980px; margin: 0 auto; padding: 32px 20px 64px; }
+    .admin-head { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-end; justify-content: space-between; margin-bottom: 8px; }
+    .admin-head h1 { margin: 0; font-size: 26px; line-height: 1.2; }
+    .admin-head a { color: var(--accent, #1f6f5c); font-weight: 700; text-decoration: none; }
+    .admin-lead { margin: 0 0 24px; color: var(--muted, #5c625f); line-height: 1.55; max-width: 70ch; }
+    .admin-panel { border: 1px solid var(--line, #d9d4c8); background: var(--surface, #fff); border-radius: 12px; padding: 20px; margin-bottom: 20px; }
+    .admin-panel h2 { margin: 0 0 12px; font-size: 15px; letter-spacing: .02em; }
+    .admin-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+    button.primary, button.ghost {
+      min-height: 42px; padding: 0 16px; border-radius: 8px; font: inherit; font-weight: 800; cursor: pointer;
+    }
+    button.primary { border: 1px solid var(--accent, #1f6f5c); background: var(--accent, #1f6f5c); color: #fff; }
+    button.ghost { border: 1px solid var(--line, #d9d4c8); background: transparent; color: inherit; }
+    button.danger { border: 1px solid var(--danger, #a3341f); background: transparent; color: var(--danger, #a3341f); min-height: 34px; padding: 0 12px; border-radius: 6px; font: inherit; font-weight: 700; cursor: pointer; }
+    button:disabled { opacity: .55; cursor: wait; }
+    #members-list { display: grid; gap: 8px; }
+    .member-row { display: grid; grid-template-columns: minmax(140px, 1fr) 100px minmax(150px, 1fr) auto; gap: 12px; align-items: center; padding: 12px 14px; border: 1px solid var(--line, #d9d4c8); border-radius: 8px; }
+    .member-row.is-revoked { opacity: .55; }
+    .member-name { font-weight: 800; }
+    .member-role { font: 700 10.5px/1 'JetBrains Mono', monospace; letter-spacing: .08em; text-transform: uppercase; color: var(--muted, #5c625f); }
+    .member-seen { font-size: 13px; color: var(--muted, #5c625f); }
+    #invite-url { display: block; margin-top: 12px; padding: 12px 14px; border: 1px dashed var(--line, #d9d4c8); border-radius: 8px; font: 12.5px/1.5 'JetBrains Mono', monospace; word-break: break-all; min-height: 22px; }
+    #admin-status { min-height: 22px; margin: 0 0 16px; color: var(--danger, #a3341f); font-weight: 600; }
+    @media (max-width: 720px) {
+      .member-row { grid-template-columns: 1fr auto; }
+      .member-seen { grid-column: 1 / -1; }
+    }
+  </style>
+</head>
+<body>
+  <main class="admin-shell">
+    <header class="admin-head">
+      <div>
+        <h1>Equipo</h1>
+        <p class="admin-lead">Invita por enlace personal, revisa quién entró y retira el acceso cuando haga falta. Cada enlace sirve una sola vez.</p>
+      </div>
+      <a href="/">Volver al trabajo</a>
+    </header>
+
+    <p id="admin-status" role="status" aria-live="polite"></p>
+
+    <section class="admin-panel" aria-labelledby="session-title">
+      <h2 id="session-title">Sesión de operador</h2>
+      <p class="admin-lead" style="margin-bottom:12px">Pega el token que imprimió <code>crear_proyecto.py</code>. Solo hace falta la primera vez en este navegador.</p>
+      <div class="admin-actions">
+        <input id="admin-token" type="password" autocomplete="off" placeholder="Token de operador" aria-label="Token de operador" style="min-height:42px;flex:1 1 260px;padding:0 12px;border:1px solid var(--line,#d9d4c8);border-radius:8px;font:inherit">
+        <button id="save-token" class="primary" type="button">Usar sesión</button>
+      </div>
+      <p id="session-state" class="admin-lead" style="margin:12px 0 0"></p>
+    </section>
+
+    <section class="admin-panel" aria-labelledby="invite-title">
+      <h2 id="invite-title">Invitar a una persona</h2>
+      <div class="admin-actions">
+        <button id="create-invite" class="primary" type="button">Crear enlace</button>
+        <button id="copy-invite" class="ghost" type="button" hidden>Copiar enlace</button>
+      </div>
+      <output id="invite-url" aria-live="polite"></output>
+    </section>
+
+    <section class="admin-panel" aria-labelledby="members-title">
+      <h2 id="members-title">Miembros del proyecto</h2>
+      <div id="members-list"></div>
+    </section>
+  </main>
+  <script src="admin.js?v=20261019_rev12" defer></script>
+</body>
+</html>

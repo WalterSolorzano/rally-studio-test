@@ -1,0 +1,212 @@
+{
+ "video_id": "pyu5EwVjnZ8",
+ "url": "https://youtu.be/pyu5EwVjnZ8",
+ "year": 2017,
+ "collection": "internacional",
+ "country": "ARGENTINA",
+ "team": "SMART ATTACK",
+ "place_label": "PRIMER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2017,
+   "collection": "internacional",
+   "place_label": "PRIMER LUGAR",
+   "team": "SMART ATTACK",
+   "challenge": "02 - CONSTRUIR UN PROYECTO DE CALLE INTELIGENTE"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:17:59+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "Una de las principales causas de pérdidas materiales durante tormentas o grandes lluvias en los grandes centros urbanos latinoamericanos es la falta de infraestructura adecuada en los sistemas pluvieres de desagüe, de la falta de limpieza o mantenimiento de los mismos. El 50% de las inundaciones se deben al mal funcionamiento de estos sistemas. Hoy en día la limpieza de ellos se realiza a mano en una actividad insalubre y poco eficiente. Pensando en la solución de esta gran problemática desarrollamos el siguiente concepto. Cleanergy. Un sistema eco-migable que aprovecha el agua de las precipitaciones para generar energía hidroeléctrica autosostenible. Mediante una turbina capaz de funcionar con poco caudal convertimos la energía hidráulica en energía eléctrica. La energía se almacena en una batería que retroalimenta al sistema y también puede utilizarse para otras tareas como crear un centro de carga de salvares comunitario e inclusivo o como backup de energía para el sistema de señales de tránsito o de iluminación que tienen en caso un corte de luz. El sistema cuenta con una compuerta que permanece cerrada y que se abre únicamente cuando los sensores detectan la presencia de precipitaciones evitando así que la entrada quede obstruida o tapada. Además para ayudar a la recolección de residuos que normalmente entra en la alcantarilla en un segundo nivel el sistema cuenta con un filtro para evitar el ingreso de agentes externos que podrían dañar la turbina. Este filtro cuenta con la posibilidad de barrer automáticamente los residuos que se depositaron sobre él y acumularlos en un recipiente. El cual tendrá integrado un sensor capaz de determinar el nivel de basura que se acumuló y notificar a la central en tiempo real cuando esté próximo a llenarse. Para su limpieza podrá ser extraído al nivel del suelo para que un empleado público pueda recolectar los desechos. En resumen el proyecto ofrece soluciones A. La generación de energía limpias, la recolección de residuos y el correcto funcionamiento del sistema pluvial, mejorando así la calidad de vida de las personas y evitando los daños materiales que generan las inundaciones. Por otra parte se plantea que el dispositivo recolecta información y cree una base de datos relevantes como cantidad de precipitaciones por sector de la ciudad estado del sistema energía generada y otros. Al mismo tiempo buscamos crear impacto en la sociedad concientizando sobre una gran problemática dentro de los centros urbanos y el medio ambiente. Cleanergy.",
+ "segments": [
+  {
+   "start": 8.27,
+   "end": 12.55,
+   "text": "Una de las principales causas de pérdidas materiales durante tormentas o grandes lluvias"
+  },
+  {
+   "start": 12.55,
+   "end": 16.75,
+   "text": "en los grandes centros urbanos latinoamericanos es la falta de infraestructura adecuada en"
+  },
+  {
+   "start": 16.75,
+   "end": 20.79,
+   "text": "los sistemas pluvieres de desagüe, de la falta de limpieza o mantenimiento de los"
+  },
+  {
+   "start": 20.79,
+   "end": 26.15,
+   "text": "mismos. El 50% de las inundaciones se deben al mal funcionamiento de estos sistemas."
+  },
+  {
+   "start": 26.15,
+   "end": 29.97,
+   "text": "Hoy en día la limpieza de ellos se realiza a mano en una actividad insalubre y poco"
+  },
+  {
+   "start": 29.97,
+   "end": 34.01,
+   "text": "eficiente."
+  },
+  {
+   "start": 34.01,
+   "end": 37.47,
+   "text": "Pensando en la solución de esta gran problemática desarrollamos el siguiente"
+  },
+  {
+   "start": 37.47,
+   "end": 38.47,
+   "text": "concepto."
+  },
+  {
+   "start": 38.47,
+   "end": 44.11,
+   "text": "Cleanergy. Un sistema eco-migable que aprovecha el agua de las precipitaciones para generar"
+  },
+  {
+   "start": 44.11,
+   "end": 48.71,
+   "text": "energía hidroeléctrica autosostenible. Mediante una turbina capaz de funcionar"
+  },
+  {
+   "start": 48.71,
+   "end": 53.71,
+   "text": "con poco caudal convertimos la energía hidráulica en energía eléctrica. La energía"
+  },
+  {
+   "start": 53.71,
+   "end": 57.51,
+   "text": "se almacena en una batería que retroalimenta al sistema y también puede utilizarse"
+  },
+  {
+   "start": 57.51,
+   "end": 62.05,
+   "text": "para otras tareas como crear un centro de carga de salvares comunitario e inclusivo"
+  },
+  {
+   "start": 62.05,
+   "end": 66.55,
+   "text": "o como backup de energía para el sistema de señales de tránsito o de iluminación"
+  },
+  {
+   "start": 66.55,
+   "end": 68.47,
+   "text": "que tienen en caso un corte de luz."
+  },
+  {
+   "start": 68.47,
+   "end": 72.79,
+   "text": "El sistema cuenta con una compuerta que permanece cerrada y que se abre únicamente"
+  },
+  {
+   "start": 72.79,
+   "end": 76.95,
+   "text": "cuando los sensores detectan la presencia de precipitaciones evitando así que la"
+  },
+  {
+   "start": 76.95,
+   "end": 79.11,
+   "text": "entrada quede obstruida o tapada."
+  },
+  {
+   "start": 79.11,
+   "end": 83.33,
+   "text": "Además para ayudar a la recolección de residuos que normalmente entra en la alcantarilla"
+  },
+  {
+   "start": 83.33,
+   "end": 86.87,
+   "text": "en un segundo nivel el sistema cuenta con un filtro para evitar el ingreso de"
+  },
+  {
+   "start": 86.87,
+   "end": 91.11,
+   "text": "agentes externos que podrían dañar la turbina. Este filtro cuenta con la"
+  },
+  {
+   "start": 91.11,
+   "end": 94.99,
+   "text": "posibilidad de barrer automáticamente los residuos que se depositaron sobre"
+  },
+  {
+   "start": 94.99,
+   "end": 98.83,
+   "text": "él y acumularlos en un recipiente. El cual tendrá integrado un sensor"
+  },
+  {
+   "start": 98.83,
+   "end": 102.35,
+   "text": "capaz de determinar el nivel de basura que se acumuló y notificar a la"
+  },
+  {
+   "start": 102.35,
+   "end": 106.23,
+   "text": "central en tiempo real cuando esté próximo a llenarse. Para su limpieza"
+  },
+  {
+   "start": 106.23,
+   "end": 109.31,
+   "text": "podrá ser extraído al nivel del suelo para que un empleado público"
+  },
+  {
+   "start": 109.31,
+   "end": 111.55,
+   "text": "pueda recolectar los desechos."
+  },
+  {
+   "start": 111.55,
+   "end": 115.39,
+   "text": "En resumen el proyecto ofrece soluciones A. La generación de energía"
+  },
+  {
+   "start": 115.39,
+   "end": 118.59,
+   "text": "limpias, la recolección de residuos y el correcto funcionamiento del"
+  },
+  {
+   "start": 118.59,
+   "end": 122.43,
+   "text": "sistema pluvial, mejorando así la calidad de vida de las personas y"
+  },
+  {
+   "start": 122.43,
+   "end": 126.15,
+   "text": "evitando los daños materiales que generan las inundaciones. Por otra"
+  },
+  {
+   "start": 126.15,
+   "end": 129.91,
+   "text": "parte se plantea que el dispositivo recolecta información y cree una base"
+  },
+  {
+   "start": 129.91,
+   "end": 133.23,
+   "text": "de datos relevantes como cantidad de precipitaciones por sector de la"
+  },
+  {
+   "start": 133.23,
+   "end": 137.27,
+   "text": "ciudad estado del sistema energía generada y otros. Al mismo tiempo"
+  },
+  {
+   "start": 137.27,
+   "end": 141.19,
+   "text": "buscamos crear impacto en la sociedad concientizando sobre una gran"
+  },
+  {
+   "start": 141.19,
+   "end": 146.4,
+   "text": "problemática dentro de los centros urbanos y el medio ambiente."
+  },
+  {
+   "start": 146.4,
+   "end": 149.4,
+   "text": "Cleanergy."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 148.0
+}

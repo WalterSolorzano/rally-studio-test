@@ -1,0 +1,127 @@
+{
+ "video_id": "Ax8b-_yFu3k",
+ "url": "https://youtu.be/Ax8b-_yFu3k?si=z_mrBt5S3PSCzpQW",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "VIGORÓN TEAM",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "VIGORÓN TEAM",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:07:27+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Sabías que una sola falla no detectada en una esculpa de café o un motor agrícola puede tener la producción de todo un ciclo y costar 10.000 dólares en reparaciones en Matagalpa, Inotega y Esteli, la maquinaria es la base operativa del sector productivo de las cooperativas, pero la falta de herramientas accesibles hace que los fallos mecánicos no tomen por sorpresa. Para solucionarlo, creamos Millicensor, un sistema inteligente que convierte smartphones en desuso, en sensores de vibración de bajo costo. Instalado en una carcasa protectora impermeabilizada, nuestro software utiliza el acelerómetro del celular y modelos de machine learning para aprender el patrón normal del equipo y enviará alertas inmediatas a la nube ante cualquier anomalía. A diferencia de los sistemas industriales de monitoreo que se esperan los 1200 dólares, Millicensor ofrece un modelo de equipamiento y servicio accesible el plan básico a 27 dólares por su oficción mensual. Para evitar fallos recurrentes y paradas críticas, el sistema genera un ahorro operativo constante. La inversión se paga de forma progresiva, logrando el punto de equilibrio y la recuperación total del capital en exactamente dos años y cuatro meses, garantizando sostenibilidad financiera para el productor a largo plazo. El detenimiento de una máquina con faía en la cosecha destruye el esfuerzo de meses como Millicensor detecta el fallo a tiempo y sigue produciendo sin sorpresas. Llevemos la tecnología al campo de forma real y accesible.",
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 6.0,
+   "text": "Sabías que una sola falla no detectada en una esculpa de café o un motor agrícola puede"
+  },
+  {
+   "start": 6.0,
+   "end": 11.42,
+   "text": "tener la producción de todo un ciclo y costar 10.000 dólares en reparaciones en Matagalpa,"
+  },
+  {
+   "start": 11.42,
+   "end": 16.58,
+   "text": "Inotega y Esteli, la maquinaria es la base operativa del sector productivo de las cooperativas,"
+  },
+  {
+   "start": 16.58,
+   "end": 20.58,
+   "text": "pero la falta de herramientas accesibles hace que los fallos mecánicos no tomen por"
+  },
+  {
+   "start": 20.58,
+   "end": 21.58,
+   "text": "sorpresa."
+  },
+  {
+   "start": 21.58,
+   "end": 25.96,
+   "text": "Para solucionarlo, creamos Millicensor, un sistema inteligente que convierte smartphones"
+  },
+  {
+   "start": 25.96,
+   "end": 29.16,
+   "text": "en desuso, en sensores de vibración de bajo costo."
+  },
+  {
+   "start": 29.16,
+   "end": 33.88,
+   "text": "Instalado en una carcasa protectora impermeabilizada, nuestro software utiliza el acelerómetro del"
+  },
+  {
+   "start": 33.88,
+   "end": 38.8,
+   "text": "celular y modelos de machine learning para aprender el patrón normal del equipo y enviará"
+  },
+  {
+   "start": 38.8,
+   "end": 41.76,
+   "text": "alertas inmediatas a la nube ante cualquier anomalía."
+  },
+  {
+   "start": 41.76,
+   "end": 46.4,
+   "text": "A diferencia de los sistemas industriales de monitoreo que se esperan los 1200 dólares,"
+  },
+  {
+   "start": 46.4,
+   "end": 50.76,
+   "text": "Millicensor ofrece un modelo de equipamiento y servicio accesible el plan básico a 27"
+  },
+  {
+   "start": 50.76,
+   "end": 52.48,
+   "text": "dólares por su oficción mensual."
+  },
+  {
+   "start": 52.48,
+   "end": 57.52,
+   "text": "Para evitar fallos recurrentes y paradas críticas, el sistema genera un ahorro operativo constante."
+  },
+  {
+   "start": 57.52,
+   "end": 61.24,
+   "text": "La inversión se paga de forma progresiva, logrando el punto de equilibrio y la recuperación"
+  },
+  {
+   "start": 61.24,
+   "end": 66.24,
+   "text": "total del capital en exactamente dos años y cuatro meses, garantizando sostenibilidad"
+  },
+  {
+   "start": 66.24,
+   "end": 68.88,
+   "text": "financiera para el productor a largo plazo."
+  },
+  {
+   "start": 68.88,
+   "end": 73.28,
+   "text": "El detenimiento de una máquina con faía en la cosecha destruye el esfuerzo de meses"
+  },
+  {
+   "start": 73.28,
+   "end": 78.12,
+   "text": "como Millicensor detecta el fallo a tiempo y sigue produciendo sin sorpresas."
+  },
+  {
+   "start": 78.12,
+   "end": 81.2,
+   "text": "Llevemos la tecnología al campo de forma real y accesible."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 86.7
+}

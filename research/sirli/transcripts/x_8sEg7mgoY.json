@@ -1,0 +1,142 @@
+{
+ "video_id": "x_8sEg7mgoY",
+ "url": "https://www.youtube.com/watch?v=x_8sEg7mgoY",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS ILUSIONISTAS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS ILUSIONISTAS",
+   "challenge": "07 - PARQUÍMETRO DESATENDIDO"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:59:19+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Cansado de perder el tiempo buscando estacionamiento? Muchos conductores enfrentan diariamente el problema de encontrar estacionamiento, lo que no solo genera frustración, sino que también contribuye al tráfico y a las emisiones contaminantes en nuestra ciudad. Pero, ¿y si te dejará que hay una solución innovadora que transformará por completo la forma en la que estacionamos? Depresentamos Part Finder, un sistema automatizado que simplifica y hace más suficiente la búsqueda de espacio de estacionamientos. La verdadera innovación de Part Finder radica en su total automatización, que no solo reduce errores, sino que también optimiza el uso de espacio disponible. Esta propuesta es económicamente viable y socialmente aceptable, satisfaciendo las necesidades actuales de las ciudades modernas. Part Finder utiliza inteligencia artificial, reconocimiento de placas y facial, además de una aplicación móvil para gestionarlo estacionamiento de manera rápida y eficaz. Los conductores pueden seleccionar un espacio disponible a través de la aplicación, escanear un código QR y proceder a pagar o renovar su tiempo de estacionamiento. Si el tiempo asignado expira, se emite automáticamente una multa, eliminando la necesidad de interacción humana. El estacionamiento tal como lo conocemos está cambiando y con innovaciones como Part Finder, estamos construyendo ciudades más organizadas y preparadas para el futuro. Tu espacio sin complicaciones.",
+ "segments": [
+  {
+   "start": 9.97,
+   "end": 13.97,
+   "text": "¿Cansado de perder el tiempo buscando estacionamiento?"
+  },
+  {
+   "start": 14.97,
+   "end": 19.97,
+   "text": "Muchos conductores enfrentan diariamente el problema de encontrar estacionamiento,"
+  },
+  {
+   "start": 19.97,
+   "end": 23.97,
+   "text": "lo que no solo genera frustración, sino que también contribuye al tráfico"
+  },
+  {
+   "start": 23.97,
+   "end": 26.97,
+   "text": "y a las emisiones contaminantes en nuestra ciudad."
+  },
+  {
+   "start": 26.97,
+   "end": 29.97,
+   "text": "Pero, ¿y si te dejará que hay una solución innovadora"
+  },
+  {
+   "start": 29.97,
+   "end": 33.97,
+   "text": "que transformará por completo la forma en la que estacionamos?"
+  },
+  {
+   "start": 34.97,
+   "end": 38.97,
+   "text": "Depresentamos Part Finder, un sistema automatizado que simplifica"
+  },
+  {
+   "start": 38.97,
+   "end": 42.97,
+   "text": "y hace más suficiente la búsqueda de espacio de estacionamientos."
+  },
+  {
+   "start": 43.97,
+   "end": 46.97,
+   "text": "La verdadera innovación de Part Finder"
+  },
+  {
+   "start": 46.97,
+   "end": 48.97,
+   "text": "radica en su total automatización,"
+  },
+  {
+   "start": 48.97,
+   "end": 54.97,
+   "text": "que no solo reduce errores, sino que también optimiza el uso de espacio disponible."
+  },
+  {
+   "start": 54.97,
+   "end": 58.97,
+   "text": "Esta propuesta es económicamente viable y socialmente aceptable,"
+  },
+  {
+   "start": 58.97,
+   "end": 62.97,
+   "text": "satisfaciendo las necesidades actuales de las ciudades modernas."
+  },
+  {
+   "start": 62.97,
+   "end": 70.02,
+   "text": "Part Finder utiliza inteligencia artificial, reconocimiento de placas y facial,"
+  },
+  {
+   "start": 70.02,
+   "end": 76.02,
+   "text": "además de una aplicación móvil para gestionarlo estacionamiento de manera rápida y eficaz."
+  },
+  {
+   "start": 76.02,
+   "end": 81.02,
+   "text": "Los conductores pueden seleccionar un espacio disponible a través de la aplicación,"
+  },
+  {
+   "start": 81.02,
+   "end": 86.02,
+   "text": "escanear un código QR y proceder a pagar o renovar su tiempo de estacionamiento."
+  },
+  {
+   "start": 86.02,
+   "end": 91.02,
+   "text": "Si el tiempo asignado expira, se emite automáticamente una multa,"
+  },
+  {
+   "start": 91.02,
+   "end": 94.02,
+   "text": "eliminando la necesidad de interacción humana."
+  },
+  {
+   "start": 95.02,
+   "end": 105.98,
+   "text": "El estacionamiento tal como lo conocemos está cambiando"
+  },
+  {
+   "start": 105.98,
+   "end": 107.98,
+   "text": "y con innovaciones como Part Finder,"
+  },
+  {
+   "start": 107.98,
+   "end": 111.98,
+   "text": "estamos construyendo ciudades más organizadas y preparadas para el futuro."
+  },
+  {
+   "start": 111.98,
+   "end": 114.98,
+   "text": "Tu espacio sin complicaciones."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.2
+}

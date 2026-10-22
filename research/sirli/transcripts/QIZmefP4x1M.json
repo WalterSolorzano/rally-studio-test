@@ -1,0 +1,72 @@
+{
+ "video_id": "QIZmefP4x1M",
+ "url": "https://youtu.be/QIZmefP4x1M?si=DGlGEU0OsxrYd8Xc",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "THE CHAMPIONS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "THE CHAMPIONS",
+   "challenge": "06 - REVALORIZACIÓN RESIDUOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:46:56+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Necesito que te imagines lo siguiente, está en tu casa cocinando, no te han pagado la quincena y se te ve el gas. Eso es una pesadilla, ¿verdad? Ante esto te presentamos nuestro proyecto Ecosit Gas, trae la horro para tu hogar. Elabramos un gas de biomasa a base de residuos de cáscaras deshítricos y heces de animales. Este innovador proyecto ofrece una solución a la desproporción económica que representa la compra del gas butano en las familias nicarabuenses. Pero ¿por qué somos la mejor alternativa? Porque apostamos a la preservación de nuestros recursos naturales mientras cuidamos el bolsillo de tu familia. El gas butano o propano es un gas de características peligrosa debido a que es un gas de origen mineral y no es renovable. Esto no dice que tanto su extracción como utilización representan un daño al medio ambiente al generar más gases de efecto invernadero. En Nicaragua a la fecha el gas butano destilado del petróleo se utiliza en las cocinas de miles de nicarabuenses y este oscila en los precios entre los 460 y los 510 Córdoba, sólo el rellenado del tanque. Ecosit Gas te reducirá los costos exorbitantemente al ofrecer la tarifa única de 150 Córdoba el rellenado del tanque de 25 libras, misma cantidad, mayor calidad y seguridad a menor costo.",
+ "segments": [
+  {
+   "start": 5.78,
+   "end": 12.78,
+   "text": "Necesito que te imagines lo siguiente, está en tu casa cocinando, no te han pagado la quincena y se te ve el gas."
+  },
+  {
+   "start": 12.78,
+   "end": 20.78,
+   "text": "Eso es una pesadilla, ¿verdad? Ante esto te presentamos nuestro proyecto Ecosit Gas, trae la horro para tu hogar."
+  },
+  {
+   "start": 20.78,
+   "end": 26.78,
+   "text": "Elabramos un gas de biomasa a base de residuos de cáscaras deshítricos y heces de animales."
+  },
+  {
+   "start": 26.78,
+   "end": 34.78,
+   "text": "Este innovador proyecto ofrece una solución a la desproporción económica que representa la compra del gas butano en las familias nicarabuenses."
+  },
+  {
+   "start": 34.78,
+   "end": 45.78,
+   "text": "Pero ¿por qué somos la mejor alternativa? Porque apostamos a la preservación de nuestros recursos naturales mientras cuidamos el bolsillo de tu familia."
+  },
+  {
+   "start": 45.78,
+   "end": 54.78,
+   "text": "El gas butano o propano es un gas de características peligrosa debido a que es un gas de origen mineral y no es renovable."
+  },
+  {
+   "start": 54.78,
+   "end": 62.78,
+   "text": "Esto no dice que tanto su extracción como utilización representan un daño al medio ambiente al generar más gases de efecto invernadero."
+  },
+  {
+   "start": 62.78,
+   "end": 76.78,
+   "text": "En Nicaragua a la fecha el gas butano destilado del petróleo se utiliza en las cocinas de miles de nicarabuenses y este oscila en los precios entre los 460 y los 510 Córdoba, sólo el rellenado del tanque."
+  },
+  {
+   "start": 76.78,
+   "end": 91.78,
+   "text": "Ecosit Gas te reducirá los costos exorbitantemente al ofrecer la tarifa única de 150 Córdoba el rellenado del tanque de 25 libras, misma cantidad, mayor calidad y seguridad a menor costo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 92.2
+}

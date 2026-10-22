@@ -1,0 +1,107 @@
+{
+ "video_id": "_3pLjEqSW74",
+ "url": "https://youtu.be/_3pLjEqSW74?si=fkczsuR2yei_CP8R",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INNOVAEXPRESS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "INNOVAEXPRESS",
+   "challenge": "02 - EMPAQUES CONTAMINANTES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:56:24+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Hoy en día el problema de los empaques contaminantes es más urgente que nunca. Cada año, millones de toneladas de residuos inundan nuestras comunidades, dañando nuestro entorno y afectando nuestra calidad de vida. Para abortar este desafío, proponemos la creación de Equacopio, un centro de acopio de empaques contaminantes en cada municipalidad. En Equacopio, las familias podrán llevar sus empaques y recibir una compensación económica por su esfuerzo en la recolección. Este modelo no solo promueve el reciclaje y la reducción de residuos, sino que también crea conciencia ambiental y empodera la comunidad. Al incentivar la participación, generamos un sentido de pertenencia y responsabilidad hacia nuestro entorno. La propuesta de Equacopio es sostenible en el tiempo. Ya que se basa en un modelo de financiación local, las municipalidades pueden destinar parte de su presupuesto para implementar estos sentos. Además, el ahorro en la gestión de residuos y la mejora de la calidad de vida harán que este programa sea viable y aceptado social.",
+ "segments": [
+  {
+   "start": 0.05,
+   "end": 5.05,
+   "text": "Hoy en día el problema de los empaques contaminantes es más urgente que nunca."
+  },
+  {
+   "start": 5.05,
+   "end": 10.05,
+   "text": "Cada año, millones de toneladas de residuos inundan nuestras comunidades,"
+  },
+  {
+   "start": 10.05,
+   "end": 14.05,
+   "text": "dañando nuestro entorno y afectando nuestra calidad de vida."
+  },
+  {
+   "start": 14.05,
+   "end": 18.05,
+   "text": "Para abortar este desafío, proponemos la creación de Equacopio,"
+  },
+  {
+   "start": 18.05,
+   "end": 21.05,
+   "text": "un centro de acopio de empaques contaminantes en cada municipalidad."
+  },
+  {
+   "start": 21.05,
+   "end": 24.05,
+   "text": "En Equacopio, las familias podrán llevar sus empaques"
+  },
+  {
+   "start": 24.05,
+   "end": 28.05,
+   "text": "y recibir una compensación económica por su esfuerzo en la recolección."
+  },
+  {
+   "start": 28.05,
+   "end": 33.05,
+   "text": "Este modelo no solo promueve el reciclaje y la reducción de residuos,"
+  },
+  {
+   "start": 33.05,
+   "end": 37.05,
+   "text": "sino que también crea conciencia ambiental y empodera la comunidad."
+  },
+  {
+   "start": 37.05,
+   "end": 41.05,
+   "text": "Al incentivar la participación, generamos un sentido de pertenencia"
+  },
+  {
+   "start": 41.05,
+   "end": 44.05,
+   "text": "y responsabilidad hacia nuestro entorno."
+  },
+  {
+   "start": 44.05,
+   "end": 47.05,
+   "text": "La propuesta de Equacopio es sostenible en el tiempo."
+  },
+  {
+   "start": 47.05,
+   "end": 50.05,
+   "text": "Ya que se basa en un modelo de financiación local,"
+  },
+  {
+   "start": 50.05,
+   "end": 55.05,
+   "text": "las municipalidades pueden destinar parte de su presupuesto para implementar estos sentos."
+  },
+  {
+   "start": 55.05,
+   "end": 59.05,
+   "text": "Además, el ahorro en la gestión de residuos y la mejora de la calidad de vida"
+  },
+  {
+   "start": 59.05,
+   "end": 63.05,
+   "text": "harán que este programa sea viable y aceptado social."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 74.5
+}

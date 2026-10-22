@@ -1,0 +1,77 @@
+{
+ "video_id": "iGTJXeJd4z0",
+ "url": "https://youtu.be/iGTJXeJd4z0",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "AGROELITE 2.0",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "AGROELITE 2.0",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T18:59:55+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías que los residuos de poda que terminan en botaderos ilegales y drenajes agravan las inundaciones y generan focos de contaminación e incendios? El verdadero problema no es la basura en sí, sino la falta de un modelo económico circular que asuma esta biomasa vegetal como un recurso valorizable. Hola, somos el equipo Agroelite 2.0 de la sede Bernadino, día 8A, y traemos la solución. Presentamos Tequio Verde, un programa comunitario de compostaje enfocado en recolectar y transformar residuos de poda urbana en biofertilizantes de alto valor. ¿Cómo funciona? Creamos una red de puntos verdes comunitarios como centros de acopio temporales y rutas de recolectión selectiva. Lo mejor, las familias entregan sus residuos limpios a cambio de un incentivo circular. Pueden canjearlos por biofertilizantes para sus hogares o cultivos. Con Tequio Verde convertimos los residuos urbanos en vida para nuestros suelos y futuro para nuestra gente. Apoya la innovación de Agroelite 2.0.",
+ "segments": [
+  {
+   "start": 2.7,
+   "end": 11.7,
+   "text": "¿Sabías que los residuos de poda que terminan en botaderos ilegales y drenajes agravan las inundaciones y generan focos de contaminación e incendios?"
+  },
+  {
+   "start": 11.7,
+   "end": 20.7,
+   "text": "El verdadero problema no es la basura en sí, sino la falta de un modelo económico circular que asuma esta biomasa vegetal como un recurso valorizable."
+  },
+  {
+   "start": 20.7,
+   "end": 28.7,
+   "text": "Hola, somos el equipo Agroelite 2.0 de la sede Bernadino, día 8A, y traemos la solución."
+  },
+  {
+   "start": 28.7,
+   "end": 38.7,
+   "text": "Presentamos Tequio Verde, un programa comunitario de compostaje enfocado en recolectar y transformar residuos de poda urbana en biofertilizantes de alto valor."
+  },
+  {
+   "start": 38.7,
+   "end": 40.7,
+   "text": "¿Cómo funciona?"
+  },
+  {
+   "start": 40.7,
+   "end": 47.7,
+   "text": "Creamos una red de puntos verdes comunitarios como centros de acopio temporales y rutas de recolectión selectiva."
+  },
+  {
+   "start": 47.7,
+   "end": 53.7,
+   "text": "Lo mejor, las familias entregan sus residuos limpios a cambio de un incentivo circular."
+  },
+  {
+   "start": 53.7,
+   "end": 58.7,
+   "text": "Pueden canjearlos por biofertilizantes para sus hogares o cultivos."
+  },
+  {
+   "start": 58.7,
+   "end": 65.7,
+   "text": "Con Tequio Verde convertimos los residuos urbanos en vida para nuestros suelos y futuro para nuestra gente."
+  },
+  {
+   "start": 65.7,
+   "end": 68.7,
+   "text": "Apoya la innovación de Agroelite 2.0."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 71.0
+}

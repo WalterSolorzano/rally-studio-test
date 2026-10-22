@@ -1,0 +1,97 @@
+{
+ "video_id": "eQzyT9SrJB0",
+ "url": "https://youtu.be/eQzyT9SrJB0",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS BOHEMIOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS BOHEMIOS",
+   "challenge": "07 - ALUDES DE BARRO"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:04:00+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Somos el equipo Los Bohemios de la Universidad Martín Lutero, Peth, Kila Lee, CDO total. Seleccionamos el desafío a Ludes de Barros. La problemática elegida es zona de riesgo de deslizamiento y la falta de un sistema de previo aviso, en donde nos proponemos crear un dispositivo con sistema de alerta temprana de deslizamiento, el cual estará integrado por accesorios tales como un panel que se encargará de recibir todas las alarmas y enviará información al sistema central. También contará con sensores de movimientos, cuya función será detectar radiaciones de movimientos. Además, tendrá un botón de pánico o auxilio que permitirá comunicarse rápidamente con el sistema de emergencia, que será monitoreado mediante una aplicación instalada en un dispositivo móvil, el cual resulta práctico para cuando se necesite activar la alarma sin la necesidad de acercarse al panel central. Todo este sistema funcionará con la energía de un panel solar. Consideramos que es una solución viable, puesto que a través de este sistema se podrá alertar de manera temprana a la población y salvaguardar vidas. Este sistema brinda la oportunidad de evacuar a tiempo de la zona de peligro, se diferencia de otras propuestas ya que es de fácil manejo y no necesitará de energía eléctrica para su implementación.",
+ "segments": [
+  {
+   "start": 0.05,
+   "end": 6.45,
+   "text": "Somos el equipo Los Bohemios de la Universidad Martín Lutero, Peth, Kila Lee, CDO total."
+  },
+  {
+   "start": 6.45,
+   "end": 9.65,
+   "text": "Seleccionamos el desafío a Ludes de Barros."
+  },
+  {
+   "start": 9.65,
+   "end": 17.25,
+   "text": "La problemática elegida es zona de riesgo de deslizamiento y la falta de un sistema de previo aviso,"
+  },
+  {
+   "start": 17.25,
+   "end": 23.05,
+   "text": "en donde nos proponemos crear un dispositivo con sistema de alerta temprana de deslizamiento,"
+  },
+  {
+   "start": 23.05,
+   "end": 29.45,
+   "text": "el cual estará integrado por accesorios tales como un panel que se encargará de recibir"
+  },
+  {
+   "start": 29.45,
+   "end": 33.65,
+   "text": "todas las alarmas y enviará información al sistema central."
+  },
+  {
+   "start": 33.65,
+   "end": 39.85,
+   "text": "También contará con sensores de movimientos, cuya función será detectar radiaciones de movimientos."
+  },
+  {
+   "start": 39.85,
+   "end": 47.65,
+   "text": "Además, tendrá un botón de pánico o auxilio que permitirá comunicarse rápidamente con el sistema de emergencia,"
+  },
+  {
+   "start": 47.65,
+   "end": 53.45,
+   "text": "que será monitoreado mediante una aplicación instalada en un dispositivo móvil,"
+  },
+  {
+   "start": 53.45,
+   "end": 61.05,
+   "text": "el cual resulta práctico para cuando se necesite activar la alarma sin la necesidad de acercarse al panel central."
+  },
+  {
+   "start": 61.05,
+   "end": 65.45,
+   "text": "Todo este sistema funcionará con la energía de un panel solar."
+  },
+  {
+   "start": 65.45,
+   "end": 75.45,
+   "text": "Consideramos que es una solución viable, puesto que a través de este sistema se podrá alertar de manera temprana a la población y salvaguardar vidas."
+  },
+  {
+   "start": 75.45,
+   "end": 80.05,
+   "text": "Este sistema brinda la oportunidad de evacuar a tiempo de la zona de peligro,"
+  },
+  {
+   "start": 80.05,
+   "end": 88.65,
+   "text": "se diferencia de otras propuestas ya que es de fácil manejo y no necesitará de energía eléctrica para su implementación."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 95.3
+}

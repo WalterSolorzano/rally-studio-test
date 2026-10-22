@@ -1,0 +1,92 @@
+{
+ "video_id": "zzAkNRPGlTc",
+ "url": "https://www.youtube.com/watch?v=zzAkNRPGlTc",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "BIORENOVA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "BIORENOVA",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:26:45+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Esta rama acaba de caer en un patio del rama. ¿Saben a dónde va a parar? Casi siempre, aquí, quemada en la calle, tirada en un caño o en la orilla del río. El humo no se enferma y cuando llegue el invierno estas ramas tapan las fronetas y en una ciudad que vive pendiente de sus ríos. Eso pesa. En 2022 cientos de familias tuvieron que salir de sus casas por las inundaciones. Somos Biorrenova de la Universidad Martín Lutero el Rama y creemos que esta rama no es basura. Proponemos puntos de acopio en los barrios donde vecinos y cuadrías de la alcaldía dejan la poda. Cada punto tiene un código QR. Al escanearlo ves cuánto has recogido en tu barrio y cuánto a vos no salió. La poda se pica y va a una estación de compostaje. Sencilla con pilas que se voltean a mano. Las ventajas que ofrece son menos humo, menos cunetas tapadas, trabajo para la gente del barrio y un ahorro para la alcaldía. La poda no es solo basura, es el abono del rama. Somos Biorrenova.",
+ "segments": [
+  {
+   "start": 0.21,
+   "end": 8.21,
+   "text": "Esta rama acaba de caer en un patio del rama. ¿Saben a dónde va a parar?"
+  },
+  {
+   "start": 8.21,
+   "end": 18.21,
+   "text": "Casi siempre, aquí, quemada en la calle, tirada en un caño o en la orilla del río."
+  },
+  {
+   "start": 18.21,
+   "end": 26.21,
+   "text": "El humo no se enferma y cuando llegue el invierno estas ramas tapan las fronetas"
+  },
+  {
+   "start": 26.21,
+   "end": 31.21,
+   "text": "y en una ciudad que vive pendiente de sus ríos."
+  },
+  {
+   "start": 31.21,
+   "end": 42.21,
+   "text": "Eso pesa. En 2022 cientos de familias tuvieron que salir de sus casas por las inundaciones."
+  },
+  {
+   "start": 42.21,
+   "end": 49.21,
+   "text": "Somos Biorrenova de la Universidad Martín Lutero el Rama"
+  },
+  {
+   "start": 49.21,
+   "end": 54.21,
+   "text": "y creemos que esta rama no es basura."
+  },
+  {
+   "start": 54.21,
+   "end": 62.21,
+   "text": "Proponemos puntos de acopio en los barrios donde vecinos y cuadrías de la alcaldía dejan la poda."
+  },
+  {
+   "start": 62.21,
+   "end": 70.21,
+   "text": "Cada punto tiene un código QR. Al escanearlo ves cuánto has recogido en tu barrio y cuánto a vos no salió."
+  },
+  {
+   "start": 70.21,
+   "end": 75.21,
+   "text": "La poda se pica y va a una estación de compostaje."
+  },
+  {
+   "start": 75.21,
+   "end": 78.21,
+   "text": "Sencilla con pilas que se voltean a mano."
+  },
+  {
+   "start": 78.21,
+   "end": 92.21,
+   "text": "Las ventajas que ofrece son menos humo, menos cunetas tapadas, trabajo para la gente del barrio y un ahorro para la alcaldía."
+  },
+  {
+   "start": 92.21,
+   "end": 100.21,
+   "text": "La poda no es solo basura, es el abono del rama. Somos Biorrenova."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 101.8
+}

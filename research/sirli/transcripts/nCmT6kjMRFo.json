@@ -1,0 +1,107 @@
+{
+ "video_id": "nCmT6kjMRFo",
+ "url": "https://youtube.com/shorts/nCmT6kjMRFo?si=28-CdNW8vNvNrcf9",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NEXUSTECH",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "NEXUSTECH",
+   "challenge": "01 - SEGUNDA VIDA DE LOS MOTORES ELÉCTRICOS DOMÉSTICOS"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:53:48+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Estamos el equipo NextSustache de la CEDA Universidad Martín Lutero en Santo Tomacho, Antalé. Hoy les presentamos Rueda Libre, una solución que le da una segunda vida a los motores eléctricos domésticos. Cada lavadora y herramienta en desuso termina como chatarra contaminante con componentes valiosos desperdiciado. Al mismo tiempo, miles de personas con discapacidad de la motriz no permiten comprarse una silla de rueda eléctrica porque cuesta más de 2.500 dólares. Por un lado, sobra material y por el otro falta la movilidad. Ese es el verdadero problema. Rueda Libre es una quinta rueda eléctrica acoplable a una silla de rueda. Usa el motor de una lavadora reciclada con un sistema de poleas que multiplica el torque para subir pendiente. La energía viene de baterías de litio recicladas del laptop viejas y un controlador económico la regula además tiene un enganche rápido que se instala sin herramientas. Lo innovador es convertir un desecho cotidiano en un dispositivo de asistencia de alto rendimiento, sin depender de importaciones. El motor, la estructura y la batería salen del reciclaje, así que el costo de fabricación es menor a 80 dólares. Al ser de arquitectura abierta, las personas pueden repararlo con herramientas básicas. Socialmente damos independencia, dignidad y acceso a la educación y al trabajo. Ambientalmente rescatamos cobre, litio de los vertederos y proveemos la economía circular en talleres comunitarios, escuelas de oficio.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.08,
+   "text": "Estamos el equipo NextSustache de la CEDA Universidad Martín Lutero en Santo Tomacho,"
+  },
+  {
+   "start": 6.08,
+   "end": 14.84,
+   "text": "Antalé. Hoy les presentamos Rueda Libre, una solución que le da una segunda vida a los motores"
+  },
+  {
+   "start": 14.84,
+   "end": 20.76,
+   "text": "eléctricos domésticos. Cada lavadora y herramienta en desuso termina como chatarra contaminante"
+  },
+  {
+   "start": 20.76,
+   "end": 27.36,
+   "text": "con componentes valiosos desperdiciado. Al mismo tiempo, miles de personas con discapacidad"
+  },
+  {
+   "start": 27.36,
+   "end": 35.68,
+   "text": "de la motriz no permiten comprarse una silla de rueda eléctrica porque cuesta más de 2.500 dólares."
+  },
+  {
+   "start": 35.68,
+   "end": 42.96,
+   "text": "Por un lado, sobra material y por el otro falta la movilidad. Ese es el verdadero problema."
+  },
+  {
+   "start": 42.96,
+   "end": 50.72,
+   "text": "Rueda Libre es una quinta rueda eléctrica acoplable a una silla de rueda. Usa el motor"
+  },
+  {
+   "start": 50.72,
+   "end": 57.16,
+   "text": "de una lavadora reciclada con un sistema de poleas que multiplica el torque para subir"
+  },
+  {
+   "start": 57.16,
+   "end": 64.44,
+   "text": "pendiente. La energía viene de baterías de litio recicladas del laptop viejas y un"
+  },
+  {
+   "start": 64.44,
+   "end": 71.72,
+   "text": "controlador económico la regula además tiene un enganche rápido que se instala sin herramientas."
+  },
+  {
+   "start": 71.72,
+   "end": 78.4,
+   "text": "Lo innovador es convertir un desecho cotidiano en un dispositivo de asistencia de alto rendimiento,"
+  },
+  {
+   "start": 78.4,
+   "end": 84.48,
+   "text": "sin depender de importaciones. El motor, la estructura y la batería salen del reciclaje,"
+  },
+  {
+   "start": 84.48,
+   "end": 90.4,
+   "text": "así que el costo de fabricación es menor a 80 dólares. Al ser de arquitectura abierta,"
+  },
+  {
+   "start": 90.4,
+   "end": 96.36,
+   "text": "las personas pueden repararlo con herramientas básicas. Socialmente damos independencia,"
+  },
+  {
+   "start": 96.36,
+   "end": 103.24,
+   "text": "dignidad y acceso a la educación y al trabajo. Ambientalmente rescatamos cobre, litio de"
+  },
+  {
+   "start": 103.24,
+   "end": 109.88,
+   "text": "los vertederos y proveemos la economía circular en talleres comunitarios, escuelas de oficio."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 111.0
+}

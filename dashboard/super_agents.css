@@ -1,0 +1,356 @@
+/* dashboard/super_agents.css — Super Agentes ("Herramientas").
+   Módulo autocontenido: todo con prefijo rsa-. Paleta vía variables de
+   style.css (prohibido morado, prohibido glassmorphism, cero emojis).
+
+   z-index elegido: 9500 — por DEBAJO del dock de propuestas
+   (content_bridge.js:278 usa 2147483000), de los toasts (99999) y de los
+   modales .rs-modal-backdrop (3000 ≤ 9500 solo en móviles); por ENCIMA de
+   los drawers laterales (990/1000) para que el panel no quede tapado. */
+
+#rsa-tools-btn {
+  display: inline-flex;
+  padding: 7px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-muted);
+  opacity: 0.4;
+  cursor: pointer;
+  align-self: center;
+  transition: opacity 150ms ease, color 150ms ease, background 150ms ease;
+}
+#rsa-tools-btn:hover,
+#rsa-tools-btn:focus-visible {
+  opacity: 1;
+  color: var(--color-primary);
+  background: var(--bg-muted);
+  outline: none;
+}
+
+/* ── Overlay compartido (menú y panel) ─────────────────────────────────── */
+.rsa-overlay {
+  position: fixed;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(13, 27, 53, 0.45);
+  z-index: 9500;
+  font-family: var(--font-ui);
+}
+.rsa-overlay.is-open { display: flex; }
+
+/* ── Menú de agentes ──────────────────────────────────────────────────── */
+.rsa-menu {
+  width: min(430px, 92vw);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-light);
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(13, 27, 53, 0.12);
+  padding: 14px;
+}
+.rsa-menu-title {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 2px 2px 10px;
+  font-family: var(--font-mono);
+}
+.rsa-menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.rsa-menu-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 12px 6px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-light);
+  border-radius: 8px;
+  cursor: pointer;
+  color: var(--text-body);
+  font-family: var(--font-ui);
+  transition: border-color 120ms ease, background 120ms ease;
+}
+.rsa-menu-item:hover {
+  border-color: var(--color-primary);
+  background: var(--bg-secondary);
+}
+.rsa-menu-icon { color: var(--text-muted); display: inline-flex; }
+.rsa-menu-item:hover .rsa-menu-icon { color: var(--color-primary); }
+.rsa-menu-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.25;
+}
+
+/* ── Panel del agente ─────────────────────────────────────────────────── */
+.rsa-panel {
+  width: min(660px, 94vw);
+  max-height: 88vh;
+  overflow-y: auto;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-light);
+  border-radius: 10px;
+  box-shadow: 0 12px 30px rgba(13, 27, 53, 0.14);
+  padding: 16px 18px;
+  color: var(--text-body);
+  font-size: 13px;
+  line-height: 1.45;
+}
+.rsa-panel-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.rsa-panel-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--text-title);
+}
+.rsa-panel-sub {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--text-faint);
+}
+.rsa-panel-actions-head { display: flex; gap: 6px; flex-shrink: 0; }
+
+.rsa-provider-rail {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--text-muted);
+  background: var(--bg-muted);
+  border: 1px solid var(--border-light);
+  border-radius: 999px;
+  padding: 3px 10px;
+  margin: 0 0 10px;
+}
+.rsa-provider-chip {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--text-title);
+  font-weight: 700;
+}
+
+/* ── Avisos y vacíos honestos ─────────────────────────────────────────── */
+.rsa-avisos { margin-bottom: 10px; display: grid; gap: 8px; }
+.rsa-notice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 12.5px;
+}
+.rsa-note {
+  background: var(--bg-muted);
+  border: 1px solid var(--border-light);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 12.5px;
+  color: var(--text-muted);
+}
+
+/* ── Secciones y chips de checks ──────────────────────────────────────── */
+.rsa-section { margin: 12px 0 0; }
+.rsa-section-title {
+  margin: 0 0 6px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+}
+.rsa-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.rsa-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 5px;
+  border-radius: 6px;
+  border: 1px solid var(--border-light);
+  background: var(--bg-subtle);
+  padding: 4px 9px;
+  font-size: 11.5px;
+  max-width: 100%;
+}
+.rsa-chip strong {
+  font-family: var(--font-mono);
+  font-size: 9.5px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.rsa-chip-ok { color: var(--status-ok-text); background: var(--status-ok-bg); border-color: var(--status-ok-border); }
+.rsa-chip-warn { color: var(--status-warn-text); background: var(--status-warn-bg); border-color: var(--status-warn-border); }
+.rsa-chip-err { color: var(--status-err-text); background: var(--status-err-bg); border-color: var(--status-err-border); }
+.rsa-chip-soft { color: var(--text-muted); }
+
+/* ── Botones ──────────────────────────────────────────────────────────── */
+.rsa-btn {
+  font-family: var(--font-ui);
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 7px;
+  padding: 7px 13px;
+  cursor: pointer;
+  transition: background 120ms ease, border-color 120ms ease;
+}
+.rsa-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.rsa-btn-primary {
+  background: var(--color-primary);
+  border: 1px solid var(--color-primary);
+  color: #ffffff;
+}
+.rsa-btn-primary:hover:not(:disabled) { background: var(--color-primary-hover); }
+.rsa-btn-ghost {
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  color: var(--text-muted);
+}
+.rsa-btn-ghost:hover { border-color: var(--color-primary); color: var(--color-primary); }
+.rsa-btn-mini {
+  font-size: 11px;
+  padding: 4px 10px;
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  color: var(--text-body);
+  margin-left: 6px;
+}
+.rsa-btn-mini:hover { border-color: var(--color-primary); color: var(--color-primary); }
+
+/* ── Cuadros de texto ─────────────────────────────────────────────────── */
+.rsa-prompt,
+.rsa-externa {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 8px;
+  border: 1px solid var(--border-strong);
+  border-radius: 7px;
+  padding: 9px 10px;
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  line-height: 1.5;
+  color: var(--text-title);
+  background: var(--bg-subtle);
+  resize: vertical;
+}
+.rsa-prompt { min-height: 170px; }
+.rsa-externa { min-height: 110px; }
+.rsa-prompt:focus,
+.rsa-externa:focus { outline: none; border-color: var(--border-focus); }
+.rsa-hidden { display: none; }
+
+/* ── Task 5: Analizador de Documentos ─────────────────────────────────── */
+.rsa-docs-zone { display: flex; flex-direction: column; gap: 8px; }
+.rsa-file {
+  font-family: var(--font-ui);
+  font-size: 11.5px;
+  color: var(--text-body);
+  max-width: 420px;
+}
+.rsa-doc-stage {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--text-muted, var(--text-body));
+}
+.rsa-doc-chip {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  color: var(--text-title);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+  padding: 4px 8px;
+  display: inline-block;
+}
+.rsa-cfg-doc,
+.rsa-doc-text {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid var(--border-strong);
+  border-radius: 7px;
+  padding: 9px 10px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  line-height: 1.5;
+  color: var(--text-title);
+  background: var(--bg-subtle);
+  resize: vertical;
+  min-height: 150px;
+  max-height: 320px;
+  overflow-y: auto;
+}
+.rsa-doc-confirm {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 8px 10px;
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--color-primary);
+  border-radius: 6px;
+  background: var(--bg-subtle);
+}
+.rsa-doc-confirm-text { font-size: 11.5px; font-weight: 600; color: var(--text-title); }
+.rsa-static-ta {
+  position: fixed;
+  left: -9999px;
+  top: 0;
+}
+
+/* ── Resultado de análisis (Task 4 lo llena) ──────────────────────────── */
+.rsa-result { margin-top: 12px; }
+.rsa-bloc {
+  border: 1px solid var(--border-light);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+}
+.rsa-bloc-title { font-weight: 800; font-size: 12.5px; color: var(--text-title); margin: 0 0 4px; }
+.rsa-veredicto { display: inline-flex; margin-right: 8px; font-size: 11.5px; }
+.rsa-ajuste-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 6px 0;
+  border-top: 1px dashed var(--border-light);
+}
+
+/* ── Historial compacto ───────────────────────────────────────────────── */
+.rsa-history-sec { margin-top: 14px; border-top: 1px solid var(--border-light); padding-top: 10px; }
+.rsa-history { margin: 0; padding: 0; list-style: none; }
+.rsa-history li {
+  padding: 4px 0;
+  border-top: 1px solid var(--border-light);
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--text-muted);
+}
+.rsa-history li:first-child { border-top: 0; }
+.rsa-history-empty { color: var(--text-faint); }
+
+/* ── Móvil ────────────────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .rsa-panel { width: 96vw; padding: 12px; }
+  .rsa-menu { grid-template-columns: repeat(2, 1fr); }
+}

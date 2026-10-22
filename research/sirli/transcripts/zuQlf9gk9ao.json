@@ -1,0 +1,132 @@
+{
+ "video_id": "zuQlf9gk9ao",
+ "url": "https://youtu.be/zuQlf9gk9ao?si=LWSkXEtyRT5nJzxF",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "MINIOFILIOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "MINIOFILIOS",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:48:54+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "La inundaciones ponen el riesgo vidas, provocan pérdidas y afectan el entorno. Pero, y si pudiéramos anticiparnos al peligro y aprovechar el agua en lugar de verla convertirse en un problema, somos Pluvia, una propuesta de monitoreo inteligente que busca transformar la prevención de inundaciones mediante tecnología, infraestructura hídrica y aprovechamiento sostenible del agua. A través de nuestra plataforma de monitoreo y simulación, podemos visualizar los niveles de los reservorios, analizar la evolución del agua y representar posibles escenarios de riesgo. La propuesta integra sensores geolocalización y redes de captación para anticipar situaciones críticas y facilitar una respuesta preventiva, pero Pluvia va más allá de monitorear. Proponemos captar el agua de lluvia, filtrarla y almacenarla para usos no potables. Además, los residuos separados durante la filtración podrán destinarse al reciclaje o convertirse en abono orgánico. Así, un desafío ambiental se transforme en una oportunidad de aprovechamiento sostenible. Nuestro proyecto piloto se plantea para el junco en Jalapa, Nueva Seguvia, con el objetivo de contribuir a la protección de las familias y al uso responsable del agua, su implementación por etapas, las alianzas institucionales y el aprovechamiento de los residuos pueden ayudar a sostener y ampliar la iniciativa. La inversión estimada para implementar Pluvia es de 956,848 Córdobas con 60 centavos, el presupuesto con templa, programación, sensores, perteneceros, redes de absorción y distribución, filtros y tantos. Una inversión destinada a desarrollar una propuesta que une prevención, innovación y sostenibilidad. No podemos detener la lluvia, pero sí cambiar la manera en que nos preparamos para ella, porque anticiparse es proteger. Transformamos el riesgo de una oportunidad y el agua en futuro.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.24,
+   "text": "La inundaciones ponen el riesgo vidas, provocan pérdidas y afectan el entorno."
+  },
+  {
+   "start": 5.24,
+   "end": 12.44,
+   "text": "Pero, y si pudiéramos anticiparnos al peligro y aprovechar el agua en lugar de verla convertirse en un problema,"
+  },
+  {
+   "start": 12.44,
+   "end": 20.48,
+   "text": "somos Pluvia, una propuesta de monitoreo inteligente que busca transformar la prevención de inundaciones mediante tecnología,"
+  },
+  {
+   "start": 20.48,
+   "end": 24.32,
+   "text": "infraestructura hídrica y aprovechamiento sostenible del agua."
+  },
+  {
+   "start": 24.32,
+   "end": 30.96,
+   "text": "A través de nuestra plataforma de monitoreo y simulación, podemos visualizar los niveles de los reservorios,"
+  },
+  {
+   "start": 30.96,
+   "end": 35.48,
+   "text": "analizar la evolución del agua y representar posibles escenarios de riesgo."
+  },
+  {
+   "start": 35.48,
+   "end": 42.72,
+   "text": "La propuesta integra sensores geolocalización y redes de captación para anticipar situaciones críticas"
+  },
+  {
+   "start": 42.72,
+   "end": 48.32,
+   "text": "y facilitar una respuesta preventiva, pero Pluvia va más allá de monitorear."
+  },
+  {
+   "start": 48.32,
+   "end": 54.2,
+   "text": "Proponemos captar el agua de lluvia, filtrarla y almacenarla para usos no potables."
+  },
+  {
+   "start": 54.2,
+   "end": 62.28,
+   "text": "Además, los residuos separados durante la filtración podrán destinarse al reciclaje o convertirse en abono orgánico."
+  },
+  {
+   "start": 62.28,
+   "end": 67.56,
+   "text": "Así, un desafío ambiental se transforme en una oportunidad de aprovechamiento sostenible."
+  },
+  {
+   "start": 67.56,
+   "end": 73.16,
+   "text": "Nuestro proyecto piloto se plantea para el junco en Jalapa, Nueva Seguvia,"
+  },
+  {
+   "start": 73.16,
+   "end": 78.68,
+   "text": "con el objetivo de contribuir a la protección de las familias y al uso responsable del agua,"
+  },
+  {
+   "start": 78.76,
+   "end": 84.96,
+   "text": "su implementación por etapas, las alianzas institucionales y el aprovechamiento de los residuos"
+  },
+  {
+   "start": 84.96,
+   "end": 88.36,
+   "text": "pueden ayudar a sostener y ampliar la iniciativa."
+  },
+  {
+   "start": 88.36,
+   "end": 96.84,
+   "text": "La inversión estimada para implementar Pluvia es de 956,848 Córdobas con 60 centavos,"
+  },
+  {
+   "start": 96.84,
+   "end": 105.64,
+   "text": "el presupuesto con templa, programación, sensores, perteneceros, redes de absorción y distribución, filtros y tantos."
+  },
+  {
+   "start": 105.72,
+   "end": 112.36,
+   "text": "Una inversión destinada a desarrollar una propuesta que une prevención, innovación y sostenibilidad."
+  },
+  {
+   "start": 112.36,
+   "end": 117.88,
+   "text": "No podemos detener la lluvia, pero sí cambiar la manera en que nos preparamos para ella,"
+  },
+  {
+   "start": 117.88,
+   "end": 120.32,
+   "text": "porque anticiparse es proteger."
+  },
+  {
+   "start": 120.32,
+   "end": 123.76,
+   "text": "Transformamos el riesgo de una oportunidad y el agua en futuro."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 123.8
+}

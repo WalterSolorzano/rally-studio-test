@@ -1,0 +1,122 @@
+{
+ "video_id": "c5pARtHZtB4",
+ "url": "https://youtu.be/c5pARtHZtB4?si=s3ZHIHL8UBchGLNs",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "INOVPOWER",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "INOVPOWER",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:34:23+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Se imaginan que una tecnología creada para generar energía limpia termine convirtiéndose en un problema para el medio ambiente? Los paneles solares nos ayudan a aprovechar la energía del sol, pero ¿qué pasa cuando acaban su vida útil? En muchos casos, toneladas de componentes terminan siendo desechados por falta de una alternativa para reutilizar su reutilización. Por eso decidimos crear Supernova, una iniciativa que transforma los componentes seleccionados de paneles solares en desuso en productos funcionales, como son mesas, lámparas, entre otros. Nuestra idea no es solo reciclar, sino también rediseñar y darle una segunda vida a materiales que todavía tienen mucho que ver. Actualmente Supernova es una propuesta en desarrollo. Nuestra meta es crear los primeros prototipos, validar su habilidad y convertirnos en una iniciativa sostenible que genere conciencia ambiental, en Nicaragua y Latinoamérica. Porque no solo encontramos socioclaves, sino encontramos ficción técnica y acceso a paneles solares fuera de servicios y apoyo en nuestros nuevos modelos. El futuro no solo se trata de crear tecnología nueva, sino darle una segunda oportunidad a aquella tecnología que ya dejamos de usar. Supernova, cuando termina la vida útil de un panel, una nueva vida comienza.",
+ "segments": [
+  {
+   "start": 5.39,
+   "end": 12.27,
+   "text": "¿Se imaginan que una tecnología creada para generar energía limpia termine convirtiéndose"
+  },
+  {
+   "start": 12.27,
+   "end": 15.23,
+   "text": "en un problema para el medio ambiente?"
+  },
+  {
+   "start": 15.23,
+   "end": 20.25,
+   "text": "Los paneles solares nos ayudan a aprovechar la energía del sol, pero ¿qué pasa cuando"
+  },
+  {
+   "start": 20.25,
+   "end": 22.23,
+   "text": "acaban su vida útil?"
+  },
+  {
+   "start": 22.23,
+   "end": 28.55,
+   "text": "En muchos casos, toneladas de componentes terminan siendo desechados por falta de una alternativa"
+  },
+  {
+   "start": 28.55,
+   "end": 31.51,
+   "text": "para reutilizar su reutilización."
+  },
+  {
+   "start": 31.51,
+   "end": 37.07,
+   "text": "Por eso decidimos crear Supernova, una iniciativa que transforma los componentes seleccionados"
+  },
+  {
+   "start": 37.07,
+   "end": 45.51,
+   "text": "de paneles solares en desuso en productos funcionales, como son mesas, lámparas, entre"
+  },
+  {
+   "start": 45.51,
+   "end": 46.51,
+   "text": "otros."
+  },
+  {
+   "start": 46.51,
+   "end": 52.95,
+   "text": "Nuestra idea no es solo reciclar, sino también rediseñar y darle una segunda vida a materiales"
+  },
+  {
+   "start": 52.95,
+   "end": 54.47,
+   "text": "que todavía tienen mucho que ver."
+  },
+  {
+   "start": 54.47,
+   "end": 57.95,
+   "text": "Actualmente Supernova es una propuesta en desarrollo."
+  },
+  {
+   "start": 57.95,
+   "end": 63.79,
+   "text": "Nuestra meta es crear los primeros prototipos, validar su habilidad y convertirnos en una iniciativa"
+  },
+  {
+   "start": 63.79,
+   "end": 68.79,
+   "text": "sostenible que genere conciencia ambiental, en Nicaragua y Latinoamérica."
+  },
+  {
+   "start": 68.79,
+   "end": 76.87,
+   "text": "Porque no solo encontramos socioclaves, sino encontramos ficción técnica y acceso"
+  },
+  {
+   "start": 76.87,
+   "end": 82.55,
+   "text": "a paneles solares fuera de servicios y apoyo en nuestros nuevos modelos."
+  },
+  {
+   "start": 82.55,
+   "end": 88.59,
+   "text": "El futuro no solo se trata de crear tecnología nueva, sino darle una segunda oportunidad a aquella"
+  },
+  {
+   "start": 88.59,
+   "end": 90.79,
+   "text": "tecnología que ya dejamos de usar."
+  },
+  {
+   "start": 90.79,
+   "end": 95.07,
+   "text": "Supernova, cuando termina la vida útil de un panel, una nueva vida comienza."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 99.5
+}

@@ -1,0 +1,92 @@
+{
+ "video_id": "5mGEGejyy5M",
+ "url": "https://youtu.be/5mGEGejyy5M?si=mo0nbVoQUNrdLk4H",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "IXEING",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "IXEING",
+   "challenge": "04 - MANEJO ECOLÓGICO DE RESIDUOS DE PODA Y BIOMASA VEGETAL URBANA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:35:41+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Verde Ciclo es una empresa de economía circular para la recuperación, transformación y comercialización de biomasa vegetal urbana. ¿Cuál es el problema? En las ciudades se generan constantemente biomasa vegetal, poda de jardines, parques, pero no existe una cadena integrada que permita recuperarla, transformarla y darle un nuevo uso. De la basura a un nuevo uso. La solución integra todo el proceso en una sola cadena en la cual se basa. La recolección, la logística, clasificación, transformación y comercialización. ¿Cómo funcionará? ¿Pucionará? ¿Tranficación de rutas, recolección, clasificación, transformación, control de calidad, almacenamiento y comercialización? No buscas solamente se vea mental, sino tener parte social y parte económica. Verde Ciclo, terapoda a un nuevo propósito.",
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 7.68,
+   "text": "Verde Ciclo es una empresa de economía circular para la recuperación, transformación y comercialización de"
+  },
+  {
+   "start": 7.68,
+   "end": 9.84,
+   "text": "biomasa vegetal urbana."
+  },
+  {
+   "start": 9.84,
+   "end": 12.24,
+   "text": "¿Cuál es el problema?"
+  },
+  {
+   "start": 12.24,
+   "end": 19.32,
+   "text": "En las ciudades se generan constantemente biomasa vegetal, poda de jardines, parques, pero no existe una cadena integrada que"
+  },
+  {
+   "start": 19.32,
+   "end": 23.24,
+   "text": "permita recuperarla, transformarla y darle un nuevo uso."
+  },
+  {
+   "start": 23.24,
+   "end": 25.76,
+   "text": "De la basura a un nuevo uso."
+  },
+  {
+   "start": 25.76,
+   "end": 29.76,
+   "text": "La solución integra todo el proceso en una sola cadena en la cual se basa."
+  },
+  {
+   "start": 29.76,
+   "end": 34.76,
+   "text": "La recolección, la logística, clasificación, transformación y comercialización."
+  },
+  {
+   "start": 34.76,
+   "end": 36.76,
+   "text": "¿Cómo funcionará?"
+  },
+  {
+   "start": 36.76,
+   "end": 40.16,
+   "text": "¿Pucionará?"
+  },
+  {
+   "start": 40.16,
+   "end": 49.16,
+   "text": "¿Tranficación de rutas, recolección, clasificación, transformación, control de calidad, almacenamiento y comercialización?"
+  },
+  {
+   "start": 49.16,
+   "end": 56.05,
+   "text": "No buscas solamente se vea mental, sino tener parte social y parte económica."
+  },
+  {
+   "start": 56.05,
+   "end": 61.05,
+   "text": "Verde Ciclo, terapoda a un nuevo propósito."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 61.3
+}

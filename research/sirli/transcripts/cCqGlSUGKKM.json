@@ -1,0 +1,142 @@
+{
+ "video_id": "cCqGlSUGKKM",
+ "url": "https://youtu.be/cCqGlSUGKKM",
+ "year": 2022,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS CHONTALES",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2022,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS CHONTALES",
+   "challenge": "01 - INCLUSIÓN LABORAL DE PERSONAS DEL ESPECTRO AUTISTA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:04:58+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El acceso a un puesto de trabajo es esencial para el desarrollo personal durante la etapa adulta. La persona con TA se encuentra con dificultades para conseguir esa meta personal, ya que para ello, al igual que cualquiera, el empleo es un factor muy relevante para la calidad de vida y la inclusión sociolaboral. Sin embargo, si un cifra de la 1, el 80% de los autistas se mantienen desempleado e inactivo, principalmente por la falta de conocimientos que existe entre mucho empresario, tales como falso mito y estereotipo, lo que provoca incomodidad entre ambas partes. Se propone un servicio llamado TA Inclusion, donde se crea en internet áreas de inclusión sociolaborales que están orientadas al desarrollo de habilidades, apoyo personalizado y adaptado a las necesidades de cada persona, a través de programas presenciales para la sensibilización sobre el TA, poniendo a disposición un preparador laboral que guíe el trabajador autista a desenvolverse en el ámbito laboral. Además, incluye una plataforma móvil que lleva seis módulos, tanto para los autistas y las personas que lo rodean, que son información del trastorno, evaluación de estresas para el perfil laboral, historial de emociones, interacciones de la A para elividad del estrés, tareas para llevar un control de sus caseres en el módulo de sensor para conectarse al innovador a pulsera que detecta los pulsos cardiacos del autista para identificar cuando cambia su estado emocional y al estar a sus compañeros de trabajo por medio de una pequeña alerta para darles un trato a que no lo hago bien. Teniendo un gran impacto social, ya que aporta la independencia autestima de los autistas, sintiéndose personas productivas al estar desempeñando en labores que no se les permitía o se le era difícil llevar a cabo aportando un gran valor a la empresa, pues tienen cualidades que enriquecen los grupos de trabajo, haciendo el servicio sustentable y viable para la sociedad. La diversidad de la empresa impulsa la motivación.",
+ "segments": [
+  {
+   "start": 4.91,
+   "end": 9.97,
+   "text": "El acceso a un puesto de trabajo es esencial para el desarrollo personal durante la etapa adulta."
+  },
+  {
+   "start": 9.97,
+   "end": 14.11,
+   "text": "La persona con TA se encuentra con dificultades para conseguir esa meta personal,"
+  },
+  {
+   "start": 14.11,
+   "end": 18.95,
+   "text": "ya que para ello, al igual que cualquiera, el empleo es un factor muy relevante para la calidad de vida"
+  },
+  {
+   "start": 18.95,
+   "end": 24.35,
+   "text": "y la inclusión sociolaboral. Sin embargo, si un cifra de la 1, el 80% de los autistas"
+  },
+  {
+   "start": 24.35,
+   "end": 29.11,
+   "text": "se mantienen desempleado e inactivo, principalmente por la falta de conocimientos que existe entre"
+  },
+  {
+   "start": 29.11,
+   "end": 34.07,
+   "text": "mucho empresario, tales como falso mito y estereotipo, lo que provoca incomodidad entre"
+  },
+  {
+   "start": 34.07,
+   "end": 39.23,
+   "text": "ambas partes. Se propone un servicio llamado TA Inclusion, donde se crea en internet áreas"
+  },
+  {
+   "start": 39.23,
+   "end": 42.43,
+   "text": "de inclusión sociolaborales que están orientadas al desarrollo de habilidades,"
+  },
+  {
+   "start": 42.43,
+   "end": 47.91,
+   "text": "apoyo personalizado y adaptado a las necesidades de cada persona, a través de programas presenciales"
+  },
+  {
+   "start": 47.91,
+   "end": 52.67,
+   "text": "para la sensibilización sobre el TA, poniendo a disposición un preparador laboral que guíe"
+  },
+  {
+   "start": 52.67,
+   "end": 58.19,
+   "text": "el trabajador autista a desenvolverse en el ámbito laboral. Además, incluye una plataforma"
+  },
+  {
+   "start": 58.19,
+   "end": 62.19,
+   "text": "móvil que lleva seis módulos, tanto para los autistas y las personas que lo rodean,"
+  },
+  {
+   "start": 62.19,
+   "end": 67.03,
+   "text": "que son información del trastorno, evaluación de estresas para el perfil laboral, historial"
+  },
+  {
+   "start": 67.03,
+   "end": 71.87,
+   "text": "de emociones, interacciones de la A para elividad del estrés, tareas para llevar un control de"
+  },
+  {
+   "start": 71.87,
+   "end": 76.99,
+   "text": "sus caseres en el módulo de sensor para conectarse al innovador a pulsera que detecta los pulsos"
+  },
+  {
+   "start": 76.99,
+   "end": 81.79,
+   "text": "cardiacos del autista para identificar cuando cambia su estado emocional y al estar a"
+  },
+  {
+   "start": 81.79,
+   "end": 85.71,
+   "text": "sus compañeros de trabajo por medio de una pequeña alerta para darles un trato"
+  },
+  {
+   "start": 85.71,
+   "end": 89.83,
+   "text": "a que no lo hago bien. Teniendo un gran impacto social, ya que aporta"
+  },
+  {
+   "start": 89.83,
+   "end": 95.03,
+   "text": "la independencia autestima de los autistas, sintiéndose personas productivas al estar desempeñando"
+  },
+  {
+   "start": 95.03,
+   "end": 99.39,
+   "text": "en labores que no se les permitía o se le era difícil llevar a cabo aportando un gran"
+  },
+  {
+   "start": 99.39,
+   "end": 104.11,
+   "text": "valor a la empresa, pues tienen cualidades que enriquecen los grupos de trabajo, haciendo"
+  },
+  {
+   "start": 104.11,
+   "end": 107.27,
+   "text": "el servicio sustentable y viable para la sociedad."
+  },
+  {
+   "start": 107.27,
+   "end": 109.91,
+   "text": "La diversidad de la empresa impulsa la motivación."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 110.9
+}

@@ -1,0 +1,127 @@
+{
+ "video_id": "TDmR5FBIFLA",
+ "url": "https://www.youtube.com/watch?v=TDmR5FBIFLA",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "PSICOGENIUS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "PSICOGENIUS",
+   "challenge": "08 - TRATAR DE ESTAR MEJOR"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:42:01+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Sabías qué? Alrededor de 16 millones de jóvenes latinoamericanos y del Caribe viven con algún trastorno mental diagnosticado posterior a la pandemia del COVID-19? ¿Qué nivel de desarrollo crees que se generaría si los jóvenes tuvieran a disposición una herramienta que apoye la gestión y acompañamiento de sus emociones? Hola, ¿qué tal? Somos psicogenios, un equipo multidisciplinario que ha diseñado la aplicación Psycholide. Con esta aplicación ayudamos adolescentes de toda Latinoamérica y el Caribe que puedan padecer de ansiedad, depresión, trastorno obsesivo, compulsivo y todo lo vinculado a los trastornos mentales o bien al cuidado integral de la salud mental y emocional. A través de la aplicación brindaremos un programa de seguimiento y monitoreo intensivo de las emociones de los adolescentes en edades tempranas y tardías a través de dos interfaces personalizadas. Esta contendrá un diario donde el usuario podrá ir registrando sus emociones, al mismo tiempo que un botón de llamada en caso de querer ser atendido, respondiéndole de forma inmediata especialistas en la rama de la psicología. Esta aplicación es inclusiva. Puede acceder todo tipo de adolescente sin importar su género, religión o cultura. Lo que hará este proyecto es aportar directamente a un proceso de transformación sociocultural donde la salud mental en adolescentes sea una prioridad, tanto para ellos como para sus padres, al mismo tiempo que estará dando salida al objetivo de desarrollo sostenible número 3, salud y bienestar y al número 8, trabajo decente y crecimiento económico. El proyecto tiene una inversión total de 90 mil Córdobas, los cuales permitirán el desarrollo de la aplicación adecuadamente.",
+ "segments": [
+  {
+   "start": 1.07,
+   "end": 7.45,
+   "text": "¿Sabías qué? Alrededor de 16 millones de jóvenes latinoamericanos y del Caribe viven"
+  },
+  {
+   "start": 7.45,
+   "end": 12.59,
+   "text": "con algún trastorno mental diagnosticado posterior a la pandemia del COVID-19?"
+  },
+  {
+   "start": 12.59,
+   "end": 18.19,
+   "text": "¿Qué nivel de desarrollo crees que se generaría si los jóvenes tuvieran a disposición una"
+  },
+  {
+   "start": 18.19,
+   "end": 22.23,
+   "text": "herramienta que apoye la gestión y acompañamiento de sus emociones?"
+  },
+  {
+   "start": 22.23,
+   "end": 28.71,
+   "text": "Hola, ¿qué tal? Somos psicogenios, un equipo multidisciplinario que ha diseñado la"
+  },
+  {
+   "start": 28.71,
+   "end": 35.13,
+   "text": "aplicación Psycholide. Con esta aplicación ayudamos adolescentes de toda Latinoamérica y el"
+  },
+  {
+   "start": 35.13,
+   "end": 42.59,
+   "text": "Caribe que puedan padecer de ansiedad, depresión, trastorno obsesivo, compulsivo y todo lo vinculado"
+  },
+  {
+   "start": 42.59,
+   "end": 48.03,
+   "text": "a los trastornos mentales o bien al cuidado integral de la salud mental y emocional."
+  },
+  {
+   "start": 48.03,
+   "end": 52.39,
+   "text": "A través de la aplicación brindaremos un programa de seguimiento y monitoreo"
+  },
+  {
+   "start": 52.39,
+   "end": 57.99,
+   "text": "intensivo de las emociones de los adolescentes en edades tempranas y tardías a través de"
+  },
+  {
+   "start": 57.99,
+   "end": 63.99,
+   "text": "dos interfaces personalizadas. Esta contendrá un diario donde el usuario podrá ir registrando"
+  },
+  {
+   "start": 63.99,
+   "end": 69.99,
+   "text": "sus emociones, al mismo tiempo que un botón de llamada en caso de querer ser atendido,"
+  },
+  {
+   "start": 69.99,
+   "end": 74.83,
+   "text": "respondiéndole de forma inmediata especialistas en la rama de la psicología."
+  },
+  {
+   "start": 74.83,
+   "end": 80.23,
+   "text": "Esta aplicación es inclusiva. Puede acceder todo tipo de adolescente sin importar su"
+  },
+  {
+   "start": 80.23,
+   "end": 85.91,
+   "text": "género, religión o cultura. Lo que hará este proyecto es aportar directamente a"
+  },
+  {
+   "start": 85.91,
+   "end": 91.91,
+   "text": "un proceso de transformación sociocultural donde la salud mental en adolescentes sea una"
+  },
+  {
+   "start": 91.91,
+   "end": 98.31,
+   "text": "prioridad, tanto para ellos como para sus padres, al mismo tiempo que estará dando salida al"
+  },
+  {
+   "start": 98.31,
+   "end": 105.43,
+   "text": "objetivo de desarrollo sostenible número 3, salud y bienestar y al número 8, trabajo decente y"
+  },
+  {
+   "start": 105.43,
+   "end": 112.67,
+   "text": "crecimiento económico. El proyecto tiene una inversión total de 90 mil Córdobas,"
+  },
+  {
+   "start": 112.67,
+   "end": 117.43,
+   "text": "los cuales permitirán el desarrollo de la aplicación adecuadamente."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.7
+}

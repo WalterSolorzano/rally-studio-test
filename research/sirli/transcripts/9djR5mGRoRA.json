@@ -1,0 +1,97 @@
+{
+ "video_id": "9djR5mGRoRA",
+ "url": "https://youtu.be/9djR5mGRoRA",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS POWER RANGERS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS POWER RANGERS",
+   "challenge": "07 - REUTILIZACIÓN DE ACEITE DOMÉSTICO"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:46:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En América Latina no une la cultura, la alegría y una gastronomía rica en tradiciones donde el aceite frito es protagonista, desde enchiladas hasta tacos y papas fritas. Sin embargo, detrás de este hábito cotidiano, se oculta una crisis ambiental silenciosa que afecta a toda nuestra región. Cada día, millones de litros de aceite vegetal usado son vertidos sin tratamiento por el drenaje doméstico y comercial. A nivel regional, las cifras son devastadoras. Un solo litro de aceite contamina está mil litros de agua, creando una capa tóxica que degrada ecosistema acuático. Presentamos bio-caribe en un filtro y diseño de modelo de economía circular y de logística inversa diseñada para transformar este residuo peligroso en un recurso sostenible de alto valor. El prototipo del filtro funciona almacenando el aceite recolectado en una de sus cabinas, el cual pasa por un proceso de limpieza y diferentes tratamientos para finalmente ser convertidos en biocompustible. Este filtro remove partículas sólidas, restos de alimento y residuos orgánicos suspendidos en el aceite recolectado. El núcleo del sistema, donde el aceite purificado se mezcla con alcohol y un catalizador bajo temperatura controlada para transformar los triglicerios en esteres metílicos, biodiesel se para de forma limpia el biocombustible resultante de la glicerina, un valioso subproducto con uso industriales adicionales. En la última fase, somete al biocombustible a un último proceso de depuración para asegurar un estándar de calidad óptimo para su uso en motores diesel y generadores. Con bio-caribe, demostramos que la innovación latinoamericana puede convertir un residuo cotidiano en un desarrollo sostenible para el planeta. Un lámonos por un futuro con agua limpia para América Latina.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.0,
+   "text": "En América Latina no une la cultura, la alegría y una gastronomía rica en tradiciones donde el aceite frito es protagonista,"
+  },
+  {
+   "start": 8.0,
+   "end": 11.5,
+   "text": "desde enchiladas hasta tacos y papas fritas."
+  },
+  {
+   "start": 11.5,
+   "end": 19.0,
+   "text": "Sin embargo, detrás de este hábito cotidiano, se oculta una crisis ambiental silenciosa que afecta a toda nuestra región."
+  },
+  {
+   "start": 19.0,
+   "end": 27.0,
+   "text": "Cada día, millones de litros de aceite vegetal usado son vertidos sin tratamiento por el drenaje doméstico y comercial."
+  },
+  {
+   "start": 27.0,
+   "end": 34.0,
+   "text": "A nivel regional, las cifras son devastadoras. Un solo litro de aceite contamina está mil litros de agua,"
+  },
+  {
+   "start": 34.0,
+   "end": 38.0,
+   "text": "creando una capa tóxica que degrada ecosistema acuático."
+  },
+  {
+   "start": 38.0,
+   "end": 50.0,
+   "text": "Presentamos bio-caribe en un filtro y diseño de modelo de economía circular y de logística inversa diseñada para transformar este residuo peligroso en un recurso sostenible de alto valor."
+  },
+  {
+   "start": 50.0,
+   "end": 63.0,
+   "text": "El prototipo del filtro funciona almacenando el aceite recolectado en una de sus cabinas, el cual pasa por un proceso de limpieza y diferentes tratamientos para finalmente ser convertidos en biocompustible."
+  },
+  {
+   "start": 63.0,
+   "end": 71.0,
+   "text": "Este filtro remove partículas sólidas, restos de alimento y residuos orgánicos suspendidos en el aceite recolectado."
+  },
+  {
+   "start": 71.0,
+   "end": 88.0,
+   "text": "El núcleo del sistema, donde el aceite purificado se mezcla con alcohol y un catalizador bajo temperatura controlada para transformar los triglicerios en esteres metílicos, biodiesel se para de forma limpia el biocombustible resultante de la glicerina,"
+  },
+  {
+   "start": 88.0,
+   "end": 92.0,
+   "text": "un valioso subproducto con uso industriales adicionales."
+  },
+  {
+   "start": 92.0,
+   "end": 103.0,
+   "text": "En la última fase, somete al biocombustible a un último proceso de depuración para asegurar un estándar de calidad óptimo para su uso en motores diesel y generadores."
+  },
+  {
+   "start": 103.0,
+   "end": 112.0,
+   "text": "Con bio-caribe, demostramos que la innovación latinoamericana puede convertir un residuo cotidiano en un desarrollo sostenible para el planeta."
+  },
+  {
+   "start": 112.0,
+   "end": 116.0,
+   "text": "Un lámonos por un futuro con agua limpia para América Latina."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 116.5
+}

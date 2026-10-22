@@ -1,0 +1,67 @@
+{
+ "video_id": "Rw_DvdNLnS0",
+ "url": "https://youtu.be/Rw_DvdNLnS0",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "STONE DEV",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "STONE DEV",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:03:40+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Nosotros somos standard. Cada invierno en las zonas vulnerables de las subcuencas de Sur de Managua, miles de familiares viven con el miedo constante a las inundaciones repentinas. Para resolverlo, creamos EcoHydroSat, una solución que une infraestructuras verdes tecnológicas low de bajo costo y gestión comunitaria. Estos datos alimentan un sistema inteligente que predice la velocidad de llenado y envían alertas tempranas por WhatsApp, SMS y sirena barriale. La diferencia de construir muros de contretó, que son, aparte más caros y requiere reubicar a las personas con sus viviendas, también con el uso de los drones bajo la lluvia que no es muy eficiente, hemos decidido crear la plataforma EcoHydroSat, la cual mezcla la combinación de tecnología y naturaleza en la cual hace que todo sea más accesible. EcoHydroSat no solo requiene algo, conecta la infraestructura verde con inteligencia de datos y la comunidad para salvar vidas y tener barrios más resilientes.",
+ "segments": [
+  {
+   "start": 1.14,
+   "end": 3.14,
+   "text": "Nosotros somos standard."
+  },
+  {
+   "start": 4.14,
+   "end": 14.14,
+   "text": "Cada invierno en las zonas vulnerables de las subcuencas de Sur de Managua, miles de familiares viven con el miedo constante a las inundaciones repentinas."
+  },
+  {
+   "start": 16.58,
+   "end": 25.58,
+   "text": "Para resolverlo, creamos EcoHydroSat, una solución que une infraestructuras verdes tecnológicas low de bajo costo y gestión comunitaria."
+  },
+  {
+   "start": 25.58,
+   "end": 34.58,
+   "text": "Estos datos alimentan un sistema inteligente que predice la velocidad de llenado y envían alertas tempranas por WhatsApp, SMS y sirena barriale."
+  },
+  {
+   "start": 35.58,
+   "end": 42.58,
+   "text": "La diferencia de construir muros de contretó, que son, aparte más caros y requiere reubicar a las personas con sus viviendas,"
+  },
+  {
+   "start": 43.58,
+   "end": 49.58,
+   "text": "también con el uso de los drones bajo la lluvia que no es muy eficiente, hemos decidido crear la plataforma EcoHydroSat,"
+  },
+  {
+   "start": 49.58,
+   "end": 56.58,
+   "text": "la cual mezcla la combinación de tecnología y naturaleza en la cual hace que todo sea más accesible."
+  },
+  {
+   "start": 57.58,
+   "end": 68.58,
+   "text": "EcoHydroSat no solo requiene algo, conecta la infraestructura verde con inteligencia de datos y la comunidad para salvar vidas y tener barrios más resilientes."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 75.1
+}

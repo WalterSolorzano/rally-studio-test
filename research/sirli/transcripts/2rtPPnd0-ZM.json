@@ -1,0 +1,112 @@
+{
+ "video_id": "2rtPPnd0-ZM",
+ "url": "https://youtu.be/2rtPPnd0-ZM",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "HYDRA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "HYDRA",
+   "challenge": "02 - SENSORES AL SERVICIO DE LA COMUNIDAD"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:38:24+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "El transporte público carece de herramientas accesibles para monitorear lo que ocurre en cada autobús. Implementar telemetría comercial costaría millones. Nosotros encontramos otra solución. Nos preguntamos, ¿puede la basura electrónica convertirse en el inspector de tránsito más rentable y efectivo de la región? Mmm... Ok, analicemos esto. Reutilizamos celulares en desuso como sensores inteligentes, aprovechando su GPS, acelerómetro y giroscopio. Para registrar velocidad, ubicación y maneras bruscas. Así, identificamos riesgos y generamos información para mejorar la seguridad y la planificación del transporte. Proponemos iniciar con un proyecto piloto en autobuses urbanos de Manawa junto a cooperativas y autoridades locales. Nuestro modelo es escalable a Latinoamérica mediante campañas de recolección en universidades y empresas, promoviendo la participación ciudadana y la economía circular. Social, promover un transporte público más seguro y confiable, incentivando su uso y reduciendo la congestión urbana. Ambiental, prolongar la vida útil de dispositivos electrónicos, disminuyendo residuos y aprovechando recursos existentes. Económico, reducir costos de monitoreo, facilitar sanciones fundamentadas en evidencia verificable y contribuir a disminuir los gastos derivados de accidentes de tránsito. Somos HYDRA y creemos que la tecnología desechada debe servir para salvar vidas, no solamente para medir distancias. Con redo, menos presión al volante, mejores decisiones y una movilidad más segura.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.1,
+   "text": "El transporte público carece de herramientas accesibles para monitorear lo que ocurre en cada autobús."
+  },
+  {
+   "start": 5.1,
+   "end": 8.0,
+   "text": "Implementar telemetría comercial costaría millones."
+  },
+  {
+   "start": 8.0,
+   "end": 11.0,
+   "text": "Nosotros encontramos otra solución."
+  },
+  {
+   "start": 11.0,
+   "end": 17.0,
+   "text": "Nos preguntamos, ¿puede la basura electrónica convertirse en el inspector de tránsito más rentable y efectivo de la región?"
+  },
+  {
+   "start": 17.0,
+   "end": 20.0,
+   "text": "Mmm... Ok, analicemos esto."
+  },
+  {
+   "start": 20.0,
+   "end": 28.0,
+   "text": "Reutilizamos celulares en desuso como sensores inteligentes, aprovechando su GPS, acelerómetro y giroscopio."
+  },
+  {
+   "start": 28.0,
+   "end": 32.0,
+   "text": "Para registrar velocidad, ubicación y maneras bruscas."
+  },
+  {
+   "start": 32.0,
+   "end": 39.0,
+   "text": "Así, identificamos riesgos y generamos información para mejorar la seguridad y la planificación del transporte."
+  },
+  {
+   "start": 39.0,
+   "end": 45.0,
+   "text": "Proponemos iniciar con un proyecto piloto en autobuses urbanos de Manawa junto a cooperativas y autoridades locales."
+  },
+  {
+   "start": 45.0,
+   "end": 51.0,
+   "text": "Nuestro modelo es escalable a Latinoamérica mediante campañas de recolección en universidades y empresas,"
+  },
+  {
+   "start": 51.0,
+   "end": 54.0,
+   "text": "promoviendo la participación ciudadana y la economía circular."
+  },
+  {
+   "start": 54.0,
+   "end": 61.0,
+   "text": "Social, promover un transporte público más seguro y confiable, incentivando su uso y reduciendo la congestión urbana."
+  },
+  {
+   "start": 61.0,
+   "end": 68.0,
+   "text": "Ambiental, prolongar la vida útil de dispositivos electrónicos, disminuyendo residuos y aprovechando recursos existentes."
+  },
+  {
+   "start": 68.0,
+   "end": 74.0,
+   "text": "Económico, reducir costos de monitoreo, facilitar sanciones fundamentadas en evidencia verificable"
+  },
+  {
+   "start": 74.0,
+   "end": 78.0,
+   "text": "y contribuir a disminuir los gastos derivados de accidentes de tránsito."
+  },
+  {
+   "start": 78.0,
+   "end": 85.0,
+   "text": "Somos HYDRA y creemos que la tecnología desechada debe servir para salvar vidas, no solamente para medir distancias."
+  },
+  {
+   "start": 85.0,
+   "end": 90.0,
+   "text": "Con redo, menos presión al volante, mejores decisiones y una movilidad más segura."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 94.9
+}

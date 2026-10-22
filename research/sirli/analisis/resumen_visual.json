@@ -1,0 +1,62 @@
+{
+  "videos_con_miniatura": 4196,
+  "videos_con_fotogramas": 112,
+  "miniatura_por_puesto": [
+    {
+      "place_best": 1,
+      "n": 1564,
+      "brillo": 111.28,
+      "saturacion": 62.27,
+      "colorfulness": 39.45,
+      "bordes": 0.06,
+      "caras_medio": 0.34,
+      "piel": 0.57
+    },
+    {
+      "place_best": 2,
+      "n": 1313,
+      "brillo": 111.06,
+      "saturacion": 61.7,
+      "colorfulness": 39.17,
+      "bordes": 0.06,
+      "caras_medio": 0.38,
+      "piel": 0.57
+    },
+    {
+      "place_best": 3,
+      "n": 881,
+      "brillo": 113.49,
+      "saturacion": 59.25,
+      "colorfulness": 38.81,
+      "bordes": 0.06,
+      "caras_medio": 0.33,
+      "piel": 0.57
+    }
+  ],
+  "fotogramas_por_puesto": [
+    {
+      "place_best": 1,
+      "n": 61,
+      "caras_alguna": 0.475,
+      "verde": 0.102,
+      "bordes": 0.053,
+      "brillo": 137.997
+    },
+    {
+      "place_best": 2,
+      "n": 22,
+      "caras_alguna": 0.545,
+      "verde": 0.085,
+      "bordes": 0.054,
+      "brillo": 133.816
+    },
+    {
+      "place_best": 3,
+      "n": 13,
+      "caras_alguna": 0.769,
+      "verde": 0.11,
+      "bordes": 0.067,
+      "brillo": 140.017
+    }
+  ]
+}

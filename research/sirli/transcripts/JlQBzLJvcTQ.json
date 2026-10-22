@@ -1,0 +1,182 @@
+{
+ "video_id": "JlQBzLJvcTQ",
+ "url": "https://youtu.be/JlQBzLJvcTQ?si=hWlbhw30lmWgw2T8",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "BACKYARDIGANG",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "BACKYARDIGANG",
+   "challenge": "06 - REMOCIÓN Y EXTRACCIÓN DE BARRO EN VIVIENDAS ANEGADAS"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:25:56+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Y si pudiéramos ayudar a una familia a recuperar su hogar en horas, en lugar de obligarla a pasar semanas sacando el barro con una pala, según la ONU, América Latina y Caribe concentra sólo el 9% de la población mundial. Sin embargo, es la segunda región más propensa a desastres naturales en el mundo. Uno de los más devastadores son las inundaciones y los más afectados los que viven en zonas vulnerables, quienes al finalizar vuelven a su hogar buscando un nuevo inicio, pero encuentran su casa llena de barro denso y solidificada. Por eso presentamos CEP, el sistema extractor de barro portátil, una aspiradora para barro de inundaciones sobre una carretilla que lleva el barro de la casa a la calle. Funciona en tres pasos y lo más curioso es que parte de un motor de podadora que ya nadie utiliza. Primero, este motor mueve una bomba que creaba asío dentro de un tambor de acero de 200 litros y succióna el barro y un filtro retiene piedras y plásticos para que nada obstruye el sin. Segundo, un flotador detecta cuando el tambor está lleno y apaga la succión por sí solo, sin que nadie tenga que vigilarlo. Si estén durecidos, un chorro de agua lo deshace. Por último, la misma bomba se invierte y expulsa el barro hasta la calle y ese barro queda listo para reutilizarse, por ejemplo, en la fabricación del adrío, de modo de lo que antes era un desastre, se convierte en material para recorcir. Según nuestro modelo, limpia una casa en aproximadamente una hora. El trabajo de entre 5 y 9 personas compala. Va unida con pernos. Esto para facilitar la movilidad y que las personas en situación vulnerable puedan repararlo cambiando una pieza. Podría armarse con piezas fáciles de conseguir, incluso de segunda mano. El motor de una podadora dañada, un barril de acero usado, una carretilla. La ofrecemos completa para instituciones y organizaciones de respuesta. O empiezas clave con un curso para que cada comunidad pueda armar la suya. Así contribuimos a la ODECE 11, 12 y 13. Con CEP, el barro vuelve a hacer un problema con solución, en horas, no en semanas.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.46,
+   "text": "Y si pudiéramos ayudar a una familia a recuperar su hogar en horas,"
+  },
+  {
+   "start": 3.46,
+   "end": 7.12,
+   "text": "en lugar de obligarla a pasar semanas sacando el barro con una pala,"
+  },
+  {
+   "start": 7.12,
+   "end": 12.42,
+   "text": "según la ONU, América Latina y Caribe concentra sólo el 9% de la población mundial."
+  },
+  {
+   "start": 12.42,
+   "end": 17.76,
+   "text": "Sin embargo, es la segunda región más propensa a desastres naturales en el mundo."
+  },
+  {
+   "start": 17.76,
+   "end": 20.88,
+   "text": "Uno de los más devastadores son las inundaciones"
+  },
+  {
+   "start": 20.88,
+   "end": 24.5,
+   "text": "y los más afectados los que viven en zonas vulnerables,"
+  },
+  {
+   "start": 24.5,
+   "end": 28.58,
+   "text": "quienes al finalizar vuelven a su hogar buscando un nuevo inicio,"
+  },
+  {
+   "start": 28.58,
+   "end": 32.38,
+   "text": "pero encuentran su casa llena de barro denso y solidificada."
+  },
+  {
+   "start": 32.38,
+   "end": 37.38,
+   "text": "Por eso presentamos CEP, el sistema extractor de barro portátil,"
+  },
+  {
+   "start": 37.38,
+   "end": 41.58,
+   "text": "una aspiradora para barro de inundaciones sobre una carretilla"
+  },
+  {
+   "start": 41.58,
+   "end": 44.14,
+   "text": "que lleva el barro de la casa a la calle."
+  },
+  {
+   "start": 44.14,
+   "end": 49.58,
+   "text": "Funciona en tres pasos y lo más curioso es que parte de un motor de podadora que ya nadie utiliza."
+  },
+  {
+   "start": 49.58,
+   "end": 55.82,
+   "text": "Primero, este motor mueve una bomba que creaba asío dentro de un tambor de acero de 200 litros"
+  },
+  {
+   "start": 55.82,
+   "end": 60.42,
+   "text": "y succióna el barro y un filtro retiene piedras y plásticos para que nada obstruye el sin."
+  },
+  {
+   "start": 60.42,
+   "end": 65.34,
+   "text": "Segundo, un flotador detecta cuando el tambor está lleno y apaga la succión por sí solo,"
+  },
+  {
+   "start": 65.34,
+   "end": 67.3,
+   "text": "sin que nadie tenga que vigilarlo."
+  },
+  {
+   "start": 67.3,
+   "end": 70.16,
+   "text": "Si estén durecidos, un chorro de agua lo deshace."
+  },
+  {
+   "start": 70.16,
+   "end": 74.3,
+   "text": "Por último, la misma bomba se invierte y expulsa el barro hasta la calle"
+  },
+  {
+   "start": 74.3,
+   "end": 78.14,
+   "text": "y ese barro queda listo para reutilizarse, por ejemplo, en la fabricación del adrío,"
+  },
+  {
+   "start": 78.14,
+   "end": 80.98,
+   "text": "de modo de lo que antes era un desastre, se convierte en material para recorcir."
+  },
+  {
+   "start": 80.98,
+   "end": 84.58,
+   "text": "Según nuestro modelo, limpia una casa en aproximadamente una hora."
+  },
+  {
+   "start": 84.58,
+   "end": 87.7,
+   "text": "El trabajo de entre 5 y 9 personas compala."
+  },
+  {
+   "start": 87.7,
+   "end": 89.06,
+   "text": "Va unida con pernos."
+  },
+  {
+   "start": 89.06,
+   "end": 92.86,
+   "text": "Esto para facilitar la movilidad y que las personas en situación vulnerable"
+  },
+  {
+   "start": 92.86,
+   "end": 94.82,
+   "text": "puedan repararlo cambiando una pieza."
+  },
+  {
+   "start": 94.82,
+   "end": 99.06,
+   "text": "Podría armarse con piezas fáciles de conseguir, incluso de segunda mano."
+  },
+  {
+   "start": 99.06,
+   "end": 103.02,
+   "text": "El motor de una podadora dañada, un barril de acero usado, una carretilla."
+  },
+  {
+   "start": 103.02,
+   "end": 106.42,
+   "text": "La ofrecemos completa para instituciones y organizaciones de respuesta."
+  },
+  {
+   "start": 106.42,
+   "end": 111.02,
+   "text": "O empiezas clave con un curso para que cada comunidad pueda armar la suya."
+  },
+  {
+   "start": 111.1,
+   "end": 114.86,
+   "text": "Así contribuimos a la ODECE 11, 12 y 13."
+  },
+  {
+   "start": 114.86,
+   "end": 119.18,
+   "text": "Con CEP, el barro vuelve a hacer un problema con solución, en horas, no en semanas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 119.2
+}

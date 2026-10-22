@@ -1,0 +1,177 @@
+{
+ "video_id": "3Nr3SDAOsy4",
+ "url": "https://www.youtube.com/watch?v=3Nr3SDAOsy4",
+ "year": 2023,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LA SCALONETA",
+ "place_label": "SEGUNDO LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2023,
+   "collection": "sede",
+   "place_label": "SEGUNDO LUGAR",
+   "team": "LA SCALONETA",
+   "challenge": "03 - AGUA SEGURA"
+  }
+ ],
+ "fetched_at": "2026-10-22T17:45:11+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Sabían que, en el mundo, más de 2.000 millones de personas no tienen acceso a agua potable y que 3.600 millones carecen de saneamiento seguro según datos de la UNU, esta realidad que enfrentamos es causada por descargas industriales, desechos plásticos y escorrentía agrícola, provocando casi 2 millones de muertes prevenibles al año debido a las enfermedades transmitidas como el colera y la fieretifoidea, con la mayor carga recaída en los niños menores de 5 años. Nuestra propuesta consiste en un dispositivo innovador llamado HydroAMBU, que aborda la problemática de manera sostenible y accesible, purificando el agua de forma natural por medio de un envase portátil para consumirla directamente desde cualquier fuente o conectar los agrifos para purificarla, siendo útil en áreas rurales y urbanas, durante actividades de aire libre y como una solución de emergencia en caso de desastres naturales. Su funcionamiento es simple, el agua es absorbida por una boquilla inferior pasando por filtros de arena cílica y bamboo carbonizado, que eliminan impurezas orgánicas, sabores desagradables y olores. Pasa por un sensor TDS, total de sólido disuelto, cubierto de una carcasa impermeable reciclada que es compatible con arduino para evaluar la calidad del agua con una mini-leg de semáforo por fuera del envase que permite a los usuarios determinar a través de colores la limpieza del agua, en función de los niveles estandarizados por la OMS. Mostrando los resultados mediante luces, verde para el agua segura, amarillo para invertir una limpieza regular y rojo para indicar agua de mala calidad, lo que facilita la comprensión y seguridad del agua antes del consumo por la boquilla superior e incluye una materia de litio recargable con el sol. Este dispositivo es económico y sostenible en el tiempo, ya que tiene un precio de venta de 1949 Córdoba y un costunitario de producción de 1772 Córdoba, existiendo en margen de ganancia del 10%. Hydro bamboo tiene un gran impacto social y ambiental, proporciona agua limpia y segura, mejorando la salud y reduciendo enfermedades, además de contribuir a la conservación de recursos naturales y la reducción de la huella de carbono, haciéndolo amigable con el medio ambiente. Te invito a unirte a la causa de hidro bamboo.",
+ "segments": [
+  {
+   "start": 4.4,
+   "end": 9.28,
+   "text": "Sabían que, en el mundo, más de 2.000 millones de personas no tienen acceso a agua potable"
+  },
+  {
+   "start": 9.28,
+   "end": 14.08,
+   "text": "y que 3.600 millones carecen de saneamiento seguro según datos de la UNU, esta realidad"
+  },
+  {
+   "start": 14.08,
+   "end": 19.08,
+   "text": "que enfrentamos es causada por descargas industriales, desechos plásticos y escorrentía agrícola,"
+  },
+  {
+   "start": 19.08,
+   "end": 23.4,
+   "text": "provocando casi 2 millones de muertes prevenibles al año debido a las enfermedades transmitidas"
+  },
+  {
+   "start": 23.4,
+   "end": 27.46,
+   "text": "como el colera y la fieretifoidea, con la mayor carga recaída en los niños menores"
+  },
+  {
+   "start": 27.46,
+   "end": 28.96,
+   "text": "de 5 años."
+  },
+  {
+   "start": 28.96,
+   "end": 32.76,
+   "text": "Nuestra propuesta consiste en un dispositivo innovador llamado HydroAMBU, que aborda"
+  },
+  {
+   "start": 32.76,
+   "end": 37.14,
+   "text": "la problemática de manera sostenible y accesible, purificando el agua de forma natural"
+  },
+  {
+   "start": 37.14,
+   "end": 41.44,
+   "text": "por medio de un envase portátil para consumirla directamente desde cualquier fuente o conectar"
+  },
+  {
+   "start": 41.44,
+   "end": 46.2,
+   "text": "los agrifos para purificarla, siendo útil en áreas rurales y urbanas, durante actividades"
+  },
+  {
+   "start": 46.2,
+   "end": 50.4,
+   "text": "de aire libre y como una solución de emergencia en caso de desastres naturales."
+  },
+  {
+   "start": 50.4,
+   "end": 54.92,
+   "text": "Su funcionamiento es simple, el agua es absorbida por una boquilla inferior pasando por filtros"
+  },
+  {
+   "start": 54.92,
+   "end": 58.92,
+   "text": "de arena cílica y bamboo carbonizado, que eliminan impurezas orgánicas, sabores"
+  },
+  {
+   "start": 58.92,
+   "end": 60.44,
+   "text": "desagradables y olores."
+  },
+  {
+   "start": 60.44,
+   "end": 65.16,
+   "text": "Pasa por un sensor TDS, total de sólido disuelto, cubierto de una carcasa impermeable reciclada"
+  },
+  {
+   "start": 65.16,
+   "end": 69.08,
+   "text": "que es compatible con arduino para evaluar la calidad del agua con una mini-leg de semáforo"
+  },
+  {
+   "start": 69.08,
+   "end": 72.76,
+   "text": "por fuera del envase que permite a los usuarios determinar a través de colores la limpieza"
+  },
+  {
+   "start": 72.76,
+   "end": 76.32,
+   "text": "del agua, en función de los niveles estandarizados por la OMS."
+  },
+  {
+   "start": 76.32,
+   "end": 79.64,
+   "text": "Mostrando los resultados mediante luces, verde para el agua segura, amarillo para"
+  },
+  {
+   "start": 79.64,
+   "end": 83.56,
+   "text": "invertir una limpieza regular y rojo para indicar agua de mala calidad, lo que"
+  },
+  {
+   "start": 83.56,
+   "end": 87.64,
+   "text": "facilita la comprensión y seguridad del agua antes del consumo por la boquilla superior"
+  },
+  {
+   "start": 87.64,
+   "end": 90.68,
+   "text": "e incluye una materia de litio recargable con el sol."
+  },
+  {
+   "start": 90.68,
+   "end": 94.2,
+   "text": "Este dispositivo es económico y sostenible en el tiempo, ya que tiene un precio de venta"
+  },
+  {
+   "start": 94.2,
+   "end": 100.16,
+   "text": "de 1949 Córdoba y un costunitario de producción de 1772 Córdoba, existiendo en margen de"
+  },
+  {
+   "start": 100.16,
+   "end": 102.0,
+   "text": "ganancia del 10%."
+  },
+  {
+   "start": 102.0,
+   "end": 106.52,
+   "text": "Hydro bamboo tiene un gran impacto social y ambiental, proporciona agua limpia y segura,"
+  },
+  {
+   "start": 106.52,
+   "end": 110.72,
+   "text": "mejorando la salud y reduciendo enfermedades, además de contribuir a la conservación"
+  },
+  {
+   "start": 110.72,
+   "end": 114.32,
+   "text": "de recursos naturales y la reducción de la huella de carbono, haciéndolo amigable"
+  },
+  {
+   "start": 114.32,
+   "end": 115.32,
+   "text": "con el medio ambiente."
+  },
+  {
+   "start": 115.32,
+   "end": 117.68,
+   "text": "Te invito a unirte a la causa de hidro bamboo."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 117.7
+}

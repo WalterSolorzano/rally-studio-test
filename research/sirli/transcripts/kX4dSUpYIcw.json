@@ -1,0 +1,167 @@
+{
+ "video_id": "kX4dSUpYIcw",
+ "url": "https://youtu.be/kX4dSUpYIcw",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "FUERZA PINOLERA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "FUERZA PINOLERA",
+   "challenge": "06 - ESCOMBROS"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:51:47+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Se estima que en Latinoamérica el 35% de los desechos sólidos provienen de residuos de construcción y de molición, predominando en 80% los residuos de construcción no peligrosos, como hormigón, petrios, cerámicos, entre otros. Renovados es una empresa emergente comprometida con la sostenibilidad de la responsabilidad social, especializada en el reciclaje de residuos de construcción y de molición. Producimos bloques multicolores con una dimensión de 15 x 20 x 40 cm y paneles de concreto que miden 1.22 x 2.44 m. Es una solución que para su producción emplea tecnologías limpias, realizando un proceso de clasificación y trituración que reutilice escombros de materiales como concreto, afaltos y ladrillos, diferenciándose de los existentes en el mercado. Al incorporar una materia prima alternativa que promueve la economía circular en la construcción. Para su funcionamiento se creará un centro de acopio de escombros para luego ser procesados, transformados, resultando en un producto de bloques y paneles de concreto reciclado que se comercializarán a precios asequibles, dirigidos a familias con ingresos básicos y a instituciones que desarrollen proyectos de vivienda de interés social. Renovados es una empresa que contribuye al cuido del medio ambiente mediante el empleo de tecnologías limpias para la gestión sostenible de residuos de la construcción y de molisión. Asimismo, se considera un impacto social positivo al ofrecerse a precios asequibles para la población, ofreciéndose los productos a 0.68 dólares un bloque y a 34.34 dólares los paneles de concreto reciclado.",
+ "segments": [
+  {
+   "start": 8.34,
+   "end": 12.5,
+   "text": "Se estima que en Latinoamérica el 35% de los desechos sólidos"
+  },
+  {
+   "start": 12.5,
+   "end": 15.94,
+   "text": "provienen de residuos de construcción y de molición,"
+  },
+  {
+   "start": 15.94,
+   "end": 20.18,
+   "text": "predominando en 80% los residuos de construcción no peligrosos,"
+  },
+  {
+   "start": 20.18,
+   "end": 25.38,
+   "text": "como hormigón, petrios, cerámicos, entre otros."
+  },
+  {
+   "start": 25.38,
+   "end": 29.22,
+   "text": "Renovados es una empresa emergente comprometida con la sostenibilidad"
+  },
+  {
+   "start": 29.22,
+   "end": 32.1,
+   "text": "de la responsabilidad social, especializada en el reciclaje"
+  },
+  {
+   "start": 32.1,
+   "end": 34.3,
+   "text": "de residuos de construcción y de molición."
+  },
+  {
+   "start": 34.46,
+   "end": 40.14,
+   "text": "Producimos bloques multicolores con una dimensión de 15 x 20 x 40 cm"
+  },
+  {
+   "start": 40.14,
+   "end": 45.78,
+   "text": "y paneles de concreto que miden 1.22 x 2.44 m."
+  },
+  {
+   "start": 45.78,
+   "end": 49.14,
+   "text": "Es una solución que para su producción emplea tecnologías limpias,"
+  },
+  {
+   "start": 49.14,
+   "end": 52.38,
+   "text": "realizando un proceso de clasificación y trituración"
+  },
+  {
+   "start": 52.38,
+   "end": 55.14,
+   "text": "que reutilice escombros de materiales como concreto,"
+  },
+  {
+   "start": 55.14,
+   "end": 60.22,
+   "text": "afaltos y ladrillos, diferenciándose de los existentes en el mercado."
+  },
+  {
+   "start": 60.22,
+   "end": 63.1,
+   "text": "Al incorporar una materia prima alternativa"
+  },
+  {
+   "start": 63.18,
+   "end": 66.5,
+   "text": "que promueve la economía circular en la construcción."
+  },
+  {
+   "start": 67.74,
+   "end": 71.3,
+   "text": "Para su funcionamiento se creará un centro de acopio de escombros"
+  },
+  {
+   "start": 71.3,
+   "end": 74.42,
+   "text": "para luego ser procesados, transformados,"
+  },
+  {
+   "start": 74.42,
+   "end": 78.54,
+   "text": "resultando en un producto de bloques y paneles de concreto reciclado"
+  },
+  {
+   "start": 78.54,
+   "end": 80.82,
+   "text": "que se comercializarán a precios asequibles,"
+  },
+  {
+   "start": 80.82,
+   "end": 83.18,
+   "text": "dirigidos a familias con ingresos básicos"
+  },
+  {
+   "start": 83.18,
+   "end": 86.9,
+   "text": "y a instituciones que desarrollen proyectos de vivienda de interés social."
+  },
+  {
+   "start": 88.7,
+   "end": 92.86,
+   "text": "Renovados es una empresa que contribuye al cuido del medio ambiente"
+  },
+  {
+   "start": 92.94,
+   "end": 95.3,
+   "text": "mediante el empleo de tecnologías limpias"
+  },
+  {
+   "start": 95.3,
+   "end": 99.38,
+   "text": "para la gestión sostenible de residuos de la construcción y de molisión."
+  },
+  {
+   "start": 99.38,
+   "end": 103.26,
+   "text": "Asimismo, se considera un impacto social positivo"
+  },
+  {
+   "start": 103.26,
+   "end": 106.58,
+   "text": "al ofrecerse a precios asequibles para la población,"
+  },
+  {
+   "start": 106.58,
+   "end": 110.7,
+   "text": "ofreciéndose los productos a 0.68 dólares un bloque"
+  },
+  {
+   "start": 110.7,
+   "end": 116.14,
+   "text": "y a 34.34 dólares los paneles de concreto reciclado."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.4
+}

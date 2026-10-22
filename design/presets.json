@@ -1,0 +1,182 @@
+{
+  "version": 2,
+  "description": "Diseños preestablecidos de Rally Design. Puntos de partida editables.",
+  "presets": [
+    {
+      "id": "orbita",
+      "name": "Órbita",
+      "skin": "refined",
+      "cover": "a",
+      "card": "diagonal",
+      "deco": "orbit",
+      "notes": "Referencia de marca: fondo casi negro azulado, acento rojo ladrillo, titular condensado de trazo medio y retícula de integrantes.",
+      "pal": {
+        "bg": "#0a0c12",
+        "bg2": "#12100f",
+        "ac": "#b8392e",
+        "ink": "#ece6d9",
+        "mu": "#8c9199",
+        "gl": "#1b2130"
+      },
+      "fonts": {
+        "t": "Archivo Narrow",
+        "b": "Barlow",
+        "l": "JetBrains Mono"
+      }
+    },
+    {
+      "id": "papel",
+      "name": "Papel",
+      "skin": "refined",
+      "cover": "b",
+      "card": "right",
+      "deco": "none",
+      "notes": "Editorial claro: papel crema, titular en serifa y mucho aire. Para equipos que quieren leer, no gritar.",
+      "pal": {
+        "bg": "#f2ede3",
+        "bg2": "#e9e2d5",
+        "ac": "#b8392e",
+        "ink": "#1b1712",
+        "mu": "#6d665a",
+        "gl": "#d9d1c0"
+      },
+      "fonts": {
+        "t": "Instrument Serif",
+        "b": "Barlow",
+        "l": "JetBrains Mono"
+      }
+    },
+    {
+      "id": "cartel",
+      "name": "Cartel",
+      "skin": "bold",
+      "cover": "c",
+      "card": "band",
+      "deco": "none",
+      "notes": "Cartel de cartelera: titular condensado enorme en negativo, filete de acento y datos en bloque. Lectura a un metro de distancia.",
+      "pal": {
+        "bg": "#14100c",
+        "bg2": "#1d1710",
+        "ac": "#d1662a",
+        "ink": "#f4ece1",
+        "mu": "#9a9084",
+        "gl": "#241d14"
+      },
+      "fonts": {
+        "t": "Anton",
+        "b": "Archivo",
+        "l": "JetBrains Mono"
+      }
+    },
+    {
+      "id": "rejilla",
+      "name": "Rejilla",
+      "skin": "data",
+      "cover": "d",
+      "card": "right",
+      "deco": "grid",
+      "notes": "Sistema de datos: fondo azul profundo, retícula visible, etiquetas monoespaciadas y cifras como tabla. La foto va en degradado a la derecha, no en círculo.",
+      "pal": {
+        "bg": "#070d18",
+        "bg2": "#0b1424",
+        "ac": "#2f9bd6",
+        "ink": "#e8f1fa",
+        "mu": "#8fa3b8",
+        "gl": "#16233a"
+      },
+      "fonts": {
+        "t": "Space Grotesk",
+        "b": "Archivo",
+        "l": "JetBrains Mono"
+      }
+    },
+    {
+      "id": "burbuja",
+      "name": "Burbuja",
+      "skin": "pop",
+      "cover": "e",
+      "card": "band",
+      "deco": "halftone",
+      "notes": "Pop en blanco: fondo blanco, tinta azul profunda, titular redondeado con sombra corta, etiquetas en pastilla y foto en banda superior (nada de círculos).",
+      "pal": {
+        "bg": "#FFFFFF",
+        "bg2": "#F0F4FA",
+        "ac": "#1D4ED8",
+        "ink": "#0F172A",
+        "mu": "#64748B",
+        "gl": "#E2E8F0"
+      },
+      "fonts": {
+        "t": "Fredoka",
+        "b": "Barlow",
+        "l": "JetBrains Mono"
+      }
+    },
+    {
+      "id": "comic",
+      "name": "Cómic",
+      "skin": "comic",
+      "cover": "f",
+      "card": "cutout",
+      "deco": "dots",
+      "notes": "Viñeta: crema y tinta, titular de rotulación, bocadillo para la etiqueta y fotos recortadas con borde inclinado, tipo personaje.",
+      "pal": {
+        "bg": "#fff7ea",
+        "bg2": "#f6e7ce",
+        "ac": "#e63946",
+        "ink": "#1a1512",
+        "mu": "#7b6a55",
+        "gl": "#e6d3b4"
+      },
+      "fonts": {
+        "t": "Bangers",
+        "b": "Barlow",
+        "l": "JetBrains Mono"
+      }
+    },
+    {
+      "id": "estudio",
+      "name": "Estudio",
+      "skin": "refined",
+      "cover": "g",
+      "card": "right",
+      "deco": "none",
+      "notes": "Minimalista: blanco, una sola tinta de marca, mucho aire y una retícula de integrantes sin adornos. La versión limpia de la casa.",
+      "pal": {
+        "bg": "#FFFFFF",
+        "bg2": "#F0F6FF",
+        "ac": "#0866F5",
+        "ink": "#0D1B35",
+        "mu": "#5C7193",
+        "gl": "#DCE7F5"
+      },
+      "fonts": {
+        "t": "Plus Jakarta Sans",
+        "b": "Barlow",
+        "l": "JetBrains Mono"
+      }
+    },
+    {
+      "id": "neon",
+      "name": "Neón",
+      "skin": "bold",
+      "cover": "a",
+      "card": "diagonal",
+      "deco": "grid",
+      "notes": "Noche y lima: fondo casi negro, acento lima eléctrico, titular condensado con sombra dura y retícula técnica al fondo.",
+      "pal": {
+        "bg": "#0a0f0c",
+        "bg2": "#101812",
+        "ac": "#b8f336",
+        "ink": "#edf7e2",
+        "mu": "#8ca08b",
+        "gl": "#1c2a1e"
+      },
+      "fonts": {
+        "t": "Oswald",
+        "b": "Barlow",
+        "l": "JetBrains Mono"
+      }
+    }
+  ]
+}

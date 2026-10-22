@@ -1,0 +1,92 @@
+{
+ "video_id": "-aH_Efn2LD0",
+ "url": "https://youtu.be/-aH_Efn2LD0?si=TwXSbGn6qUB8oTSV",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "DISRUPTORES DEL FUTURO",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "DISRUPTORES DEL FUTURO",
+   "challenge": "05 - EVACUACIÓN"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:49:51+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En Latinoamérica, desastres como sismos e incendios amenazan continuamente. Ante ellos, las evacuaciones son vitales para salvar vidas. Sin embargo, actualmente las frutas de evacuación cuentan solo con sinalización estatica. Esto ha fallado durante emergencias reales, donde la gente suele olvidar protocolos o entrar en panico. Es aquí donde nace NavySafe, una aplicación que diga evacuaciones de forma dinámica a través de simulacros. Regístate o entra como invitado para acceder a noticias, tu perfil, reportes de eventos pasados y mapas de rutas de evacuación de tus edificios. NavySafe te prepara detectando tu ubicación real y calculando la ruta más rápida de salida, guiando tus pasos, coblechos y audio de realidad aumentada. Así podrás entrenarte para actuar con seguridad ante una emergencia real. Esta solución innovadora optimiza los tiempos de evacuación a través de la práctica. Descarga ya NavySafe gratis y fortalece tus habilidades de protección civil. Una app que salva vidas enseñando elecciones vitales a través de simulacros. Juntos, estamos mejor preparados para enfrentar los desastros naturales que amenazan nuestra región.",
+ "segments": [
+  {
+   "start": 3.12,
+   "end": 9.56,
+   "text": "En Latinoamérica, desastres como sismos e incendios amenazan continuamente."
+  },
+  {
+   "start": 9.56,
+   "end": 14.4,
+   "text": "Ante ellos, las evacuaciones son vitales para salvar vidas."
+  },
+  {
+   "start": 14.4,
+   "end": 21.16,
+   "text": "Sin embargo, actualmente las frutas de evacuación cuentan solo con sinalización estatica."
+  },
+  {
+   "start": 21.16,
+   "end": 28.92,
+   "text": "Esto ha fallado durante emergencias reales, donde la gente suele olvidar protocolos o entrar en panico."
+  },
+  {
+   "start": 28.92,
+   "end": 37.56,
+   "text": "Es aquí donde nace NavySafe, una aplicación que diga evacuaciones de forma dinámica a través de simulacros."
+  },
+  {
+   "start": 37.56,
+   "end": 48.44,
+   "text": "Regístate o entra como invitado para acceder a noticias, tu perfil, reportes de eventos pasados y mapas de rutas de evacuación de tus edificios."
+  },
+  {
+   "start": 48.44,
+   "end": 57.28,
+   "text": "NavySafe te prepara detectando tu ubicación real y calculando la ruta más rápida de salida,"
+  },
+  {
+   "start": 57.44,
+   "end": 61.8,
+   "text": "guiando tus pasos, coblechos y audio de realidad aumentada."
+  },
+  {
+   "start": 61.8,
+   "end": 67.48,
+   "text": "Así podrás entrenarte para actuar con seguridad ante una emergencia real."
+  },
+  {
+   "start": 67.48,
+   "end": 73.76,
+   "text": "Esta solución innovadora optimiza los tiempos de evacuación a través de la práctica."
+  },
+  {
+   "start": 73.76,
+   "end": 79.88,
+   "text": "Descarga ya NavySafe gratis y fortalece tus habilidades de protección civil."
+  },
+  {
+   "start": 79.88,
+   "end": 85.84,
+   "text": "Una app que salva vidas enseñando elecciones vitales a través de simulacros."
+  },
+  {
+   "start": 85.84,
+   "end": 93.32,
+   "text": "Juntos, estamos mejor preparados para enfrentar los desastros naturales que amenazan nuestra región."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 110.2
+}

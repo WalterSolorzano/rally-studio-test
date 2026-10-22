@@ -1,0 +1,62 @@
+{
+ "video_id": "YjtYVokVJVk",
+ "url": "https://youtube.com/shorts/YjtYVokVJVk?si=9FJemg8Gr1wXzJpK",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LAS PINOLERAS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LAS PINOLERAS",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:42:50+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Qué pasaría si mañana ocurriera un desastre natural y cientos de personas necesitaran ayuda al mismo tiempo? Ante una emergencia, las partes de recursos, las carreteras bloqueadas y la desorganización pueden dificultar que la ayuda llegue a quienes más lo necesitan. Por eso proponemos SARAD, un sistema digital que busca organizar la información de las comodidades afectadas, los recursos disponibles y las rutas bloqueadas. SARAD busca priorizar las necesidades más urgentes, facilitar las tomadas decisiones y aprovechar mejor los recursos para proteger vida. Nuestra propuesta comienza con un prototipo sencillo y mejorarse progresivamente para lograr una respuesta más organizada y eficiente. Somos las pinoleras y presentamos SARAD porque cada minuto cuenta cuando se trata de salvar vidas.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.0,
+   "text": "¿Qué pasaría si mañana ocurriera un desastre natural y cientos de personas necesitaran ayuda al mismo tiempo?"
+  },
+  {
+   "start": 7.0,
+   "end": 12.5,
+   "text": "Ante una emergencia, las partes de recursos, las carreteras bloqueadas y la desorganización"
+  },
+  {
+   "start": 12.5,
+   "end": 16.0,
+   "text": "pueden dificultar que la ayuda llegue a quienes más lo necesitan."
+  },
+  {
+   "start": 16.0,
+   "end": 26.5,
+   "text": "Por eso proponemos SARAD, un sistema digital que busca organizar la información de las comodidades afectadas, los recursos disponibles y las rutas bloqueadas."
+  },
+  {
+   "start": 26.5,
+   "end": 35.5,
+   "text": "SARAD busca priorizar las necesidades más urgentes, facilitar las tomadas decisiones y aprovechar mejor los recursos para proteger vida."
+  },
+  {
+   "start": 35.5,
+   "end": 45.5,
+   "text": "Nuestra propuesta comienza con un prototipo sencillo y mejorarse progresivamente para lograr una respuesta más organizada y eficiente."
+  },
+  {
+   "start": 45.5,
+   "end": 54.5,
+   "text": "Somos las pinoleras y presentamos SARAD porque cada minuto cuenta cuando se trata de salvar vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 54.3
+}

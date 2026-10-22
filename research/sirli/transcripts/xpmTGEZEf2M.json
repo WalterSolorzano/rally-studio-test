@@ -1,0 +1,202 @@
+{
+ "video_id": "xpmTGEZEf2M",
+ "url": "https://youtu.be/xpmTGEZEf2M",
+ "year": 2019,
+ "collection": "internacional",
+ "country": "ARGENTINA",
+ "team": "INNOTEA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2019,
+   "collection": "internacional",
+   "place_label": "PRIMER LUGAR",
+   "team": "INNOTEA",
+   "challenge": "09 - AUTISMO E INCLUSIÓN DIGITAL"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:04:19+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "En este Rally de Innovación 2019, abordamos la temática de autismo e inclusión digital. El problema de niños y jóvenes con trastorno de espectro autista es que necesitan mejorar su integración en la sociedad, para, por un lado, minimizar su aislamiento y, por otro, aumentar su independencia. Tomemos por ejemplo el caso de Carlitos. Personas como él tienen ciertas características. Valoran la rutina, tienen dificultades para comunicarse verbalmente, son hipersensibles, evitan multitudes y focalizan su interés en una temática particular como puede ser el cubo Rubik. Nuestra propuesta se denomina Dorotea y es un asistente personal. Consta de una pulsera con sensores de luz, ritmo cardíaco, micrófono, vibración, giroscopio y feedback del usuario. Esto funciona con una app donde tanto la persona como los familiares y el entorno profesional cargan sus perfiles personalizándolos y adaptándolos a los criterios y gustos del usuario mismo. Es importante mencionar que Dorotea utiliza Machine Learning. A través de los sensores de la pulsera, el feedback recibido por el usuario y la familia y el feedback profesional tanto de los del entorno de la salud y la educación, es que se van procesando estos datos para generar informes, acciones predictivas y correctivas que permitan mejorar el algoritmo de nuestra aplicación. Tomemos un día típico para Carlitos. Por la mañana él necesita contar con su rutina que a través de nuestra app, tanto él como el padre pueden visualizar sin problemas. Al momento de desayunar la madre desea conocer qué quiere Carlitos. Por eso y por su limitación verbal es que esta aplicación le permite elegir pictográficamente una decisión. Si camino al colegio Carlitos se extravía y decide tomar un camino equivocado, la pulsera le permite informar tanto a sus familiares como a él mismo cuál es el camino correcto, otorgándole mayor independencia. Si en el colegio Carlitos se siente agobiado por el contacto físico, los altos ruidos y las luces, es que la pulsera detectará el estrés e informará tanto a los profesionales médicos educativos como a su familia de esta hipersensibilidad para mantener todo bajo control. A continuación, si Carlitos decide por un helado y Dorotea detecta que el lugar es muy concurrido, puede ofrecerle alternativas para mejorar la experiencia del usuario, evitando las multitudes. Si por la tarde Carlitos desea disfrutar de su pasión por el Rubik, puede ponerse en contacto con Federico, un apasionado del tema y experto, para poder conversar y disfrutar de este tema específico que tanto comparten. Pueden adquirir nuestros productos a través de nuestra página web y acceder a excelentes beneficios y accesorios para Dorotea. Muchísimas gracias.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "En este Rally de Innovación 2019, abordamos la temática de autismo e inclusión digital."
+  },
+  {
+   "start": 5.0,
+   "end": 12.0,
+   "text": "El problema de niños y jóvenes con trastorno de espectro autista es que necesitan mejorar su integración en la sociedad,"
+  },
+  {
+   "start": 12.0,
+   "end": 17.0,
+   "text": "para, por un lado, minimizar su aislamiento y, por otro, aumentar su independencia."
+  },
+  {
+   "start": 17.0,
+   "end": 20.0,
+   "text": "Tomemos por ejemplo el caso de Carlitos."
+  },
+  {
+   "start": 20.0,
+   "end": 23.0,
+   "text": "Personas como él tienen ciertas características."
+  },
+  {
+   "start": 23.0,
+   "end": 28.0,
+   "text": "Valoran la rutina, tienen dificultades para comunicarse verbalmente, son hipersensibles,"
+  },
+  {
+   "start": 28.0,
+   "end": 34.0,
+   "text": "evitan multitudes y focalizan su interés en una temática particular como puede ser el cubo Rubik."
+  },
+  {
+   "start": 34.0,
+   "end": 39.0,
+   "text": "Nuestra propuesta se denomina Dorotea y es un asistente personal."
+  },
+  {
+   "start": 39.0,
+   "end": 48.0,
+   "text": "Consta de una pulsera con sensores de luz, ritmo cardíaco, micrófono, vibración, giroscopio y feedback del usuario."
+  },
+  {
+   "start": 48.0,
+   "end": 55.0,
+   "text": "Esto funciona con una app donde tanto la persona como los familiares y el entorno profesional"
+  },
+  {
+   "start": 55.0,
+   "end": 61.0,
+   "text": "cargan sus perfiles personalizándolos y adaptándolos a los criterios y gustos del usuario mismo."
+  },
+  {
+   "start": 61.0,
+   "end": 66.34,
+   "text": "Es importante mencionar que Dorotea utiliza Machine Learning."
+  },
+  {
+   "start": 66.34,
+   "end": 70.34,
+   "text": "A través de los sensores de la pulsera, el feedback recibido por el usuario y la familia"
+  },
+  {
+   "start": 70.34,
+   "end": 74.34,
+   "text": "y el feedback profesional tanto de los del entorno de la salud y la educación,"
+  },
+  {
+   "start": 74.34,
+   "end": 79.34,
+   "text": "es que se van procesando estos datos para generar informes, acciones predictivas y correctivas"
+  },
+  {
+   "start": 79.34,
+   "end": 83.34,
+   "text": "que permitan mejorar el algoritmo de nuestra aplicación."
+  },
+  {
+   "start": 83.34,
+   "end": 86.34,
+   "text": "Tomemos un día típico para Carlitos."
+  },
+  {
+   "start": 86.34,
+   "end": 90.34,
+   "text": "Por la mañana él necesita contar con su rutina que a través de nuestra app,"
+  },
+  {
+   "start": 90.34,
+   "end": 94.34,
+   "text": "tanto él como el padre pueden visualizar sin problemas."
+  },
+  {
+   "start": 94.34,
+   "end": 99.34,
+   "text": "Al momento de desayunar la madre desea conocer qué quiere Carlitos."
+  },
+  {
+   "start": 99.34,
+   "end": 105.34,
+   "text": "Por eso y por su limitación verbal es que esta aplicación le permite elegir pictográficamente una decisión."
+  },
+  {
+   "start": 105.34,
+   "end": 111.34,
+   "text": "Si camino al colegio Carlitos se extravía y decide tomar un camino equivocado,"
+  },
+  {
+   "start": 111.34,
+   "end": 117.34,
+   "text": "la pulsera le permite informar tanto a sus familiares como a él mismo cuál es el camino correcto,"
+  },
+  {
+   "start": 117.34,
+   "end": 120.34,
+   "text": "otorgándole mayor independencia."
+  },
+  {
+   "start": 120.34,
+   "end": 127.34,
+   "text": "Si en el colegio Carlitos se siente agobiado por el contacto físico, los altos ruidos y las luces,"
+  },
+  {
+   "start": 127.34,
+   "end": 133.34,
+   "text": "es que la pulsera detectará el estrés e informará tanto a los profesionales médicos educativos"
+  },
+  {
+   "start": 133.34,
+   "end": 139.34,
+   "text": "como a su familia de esta hipersensibilidad para mantener todo bajo control."
+  },
+  {
+   "start": 139.34,
+   "end": 146.34,
+   "text": "A continuación, si Carlitos decide por un helado y Dorotea detecta que el lugar es muy concurrido,"
+  },
+  {
+   "start": 146.34,
+   "end": 153.34,
+   "text": "puede ofrecerle alternativas para mejorar la experiencia del usuario, evitando las multitudes."
+  },
+  {
+   "start": 153.34,
+   "end": 158.34,
+   "text": "Si por la tarde Carlitos desea disfrutar de su pasión por el Rubik,"
+  },
+  {
+   "start": 158.34,
+   "end": 163.34,
+   "text": "puede ponerse en contacto con Federico, un apasionado del tema y experto,"
+  },
+  {
+   "start": 163.34,
+   "end": 169.34,
+   "text": "para poder conversar y disfrutar de este tema específico que tanto comparten."
+  },
+  {
+   "start": 169.34,
+   "end": 173.34,
+   "text": "Pueden adquirir nuestros productos a través de nuestra página web"
+  },
+  {
+   "start": 173.34,
+   "end": 178.34,
+   "text": "y acceder a excelentes beneficios y accesorios para Dorotea."
+  },
+  {
+   "start": 178.34,
+   "end": 180.34,
+   "text": "Muchísimas gracias."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 180.9
+}

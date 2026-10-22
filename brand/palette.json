@@ -1,0 +1,10 @@
+{
+  "primary": "#1d45b9",
+  "secondary": "#f81110",
+  "accent": "#2aa7ad",
+  "bg": "#ffffff",
+  "text": "#111111",
+  "_source": "colormind.io",
+  "_contrast_primary_bg": 8.06,
+  "_wcag_grade": "AAA"
+}

@@ -1,0 +1,67 @@
+{
+ "video_id": "pVep593PMs4",
+ "url": "https://youtube.com/shorts/pVep593PMs4?si=9SV6ZUJJg5jKCZCX",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "CIVINDU-GASPAR-JUIGALPA",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "CIVINDU-GASPAR-JUIGALPA",
+   "challenge": "06 - REMOCIÓN Y EXTRACCIÓN DE BARRO EN VIVIENDAS ANEGADAS"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:09:57+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En las edad de río San Juan Hichon-Tales y otras zonas aledañas, las inundaciones dejan viviendas llenas de barro denso que parece como cemento. Removerlo manualmente requiere días de esfuerzo físico y extremo, afectando la salud y retrasando la recuperación de las familias. La otra propuesta es un sistema integral como pala ergonómica, raspadores metálicos y mini robot de exucción y bombeo, capaz de operar en el espacio traducido. Los dispositivos se fabrican a partir de motores y baterías que utilizadas. Estas facilitan la disponibilidad inmediata ante una emergencia. Esta solución a las familias recuperan sus hogares más rápido y con menos riesgo a la salud. Además, frutalece la organización comunitaria y fomenta práctica sostenible. Las bases están combinando herramientas tradicionales con la robótica, lo cual ayuda a las zonas plurales de Nicaragua.",
+ "segments": [
+  {
+   "start": 39.28,
+   "end": 46.68,
+   "text": "En las edad de río San Juan Hichon-Tales y otras zonas aledañas, las inundaciones dejan viviendas llenas de barro denso que parece como cemento."
+  },
+  {
+   "start": 46.68,
+   "end": 54.28,
+   "text": "Removerlo manualmente requiere días de esfuerzo físico y extremo, afectando la salud y retrasando la recuperación de las familias."
+  },
+  {
+   "start": 54.28,
+   "end": 66.28,
+   "text": "La otra propuesta es un sistema integral como pala ergonómica, raspadores metálicos y mini robot de exucción y bombeo, capaz de operar en el espacio traducido."
+  },
+  {
+   "start": 66.28,
+   "end": 71.28,
+   "text": "Los dispositivos se fabrican a partir de motores y baterías que utilizadas."
+  },
+  {
+   "start": 71.28,
+   "end": 76.28,
+   "text": "Estas facilitan la disponibilidad inmediata ante una emergencia."
+  },
+  {
+   "start": 76.28,
+   "end": 82.28,
+   "text": "Esta solución a las familias recuperan sus hogares más rápido y con menos riesgo a la salud."
+  },
+  {
+   "start": 82.28,
+   "end": 87.28,
+   "text": "Además, frutalece la organización comunitaria y fomenta práctica sostenible."
+  },
+  {
+   "start": 87.28,
+   "end": 95.28,
+   "text": "Las bases están combinando herramientas tradicionales con la robótica, lo cual ayuda a las zonas plurales de Nicaragua."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 120.2
+}

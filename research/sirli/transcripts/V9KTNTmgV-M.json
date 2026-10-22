@@ -1,0 +1,197 @@
+{
+ "video_id": "V9KTNTmgV-M",
+ "url": "https://www.youtube.com/watch?v=V9KTNTmgV-M",
+ "year": 2019,
+ "collection": "internacional",
+ "country": "ARGENTINA",
+ "team": "INSIQA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 0,
+ "awards": [
+  {
+   "year": 2019,
+   "collection": "internacional",
+   "place_label": "PRIMER LUGAR",
+   "team": "INSIQA",
+   "challenge": "03 - S.O.S. AQUÍ ESTOY!"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:05:22+00:00",
+ "caption_source": "whisper-medium-local",
+ "language": "es",
+ "text": "América Latina constituye una región especialmente expuesta a actividades sísmicas, ya que se encuentra ubicada sobre el denominado cinturón de fuego del pacífico, en el cual ocurre el 90% de todos los sismos del mundo. Estos desastres naturales ocasionan la muerte de miles de personas, en algunos casos debido a la demora en el proceso de rescate. Según expertos, las posibilidades de hallar a una persona con vida se reduce de forma drástica luego de tres días de la catástrofe y las búsquedas son detenidas o disminuidas a la semana. Por estos motivos, el tiempo constituye un factor determinante en la eficiencia del rescate. ¿Cómo se podría efectuar hallazgos en menos tiempo? Presentamos HILOV, Sistema Inteligente de Localización Olfativa de Personas, que surge como una solución eficaz que reduce los tiempos operativos al realizar estimaciones basadas en el reconocimiento de patrones y señales mediante una aplicación con inteligencia artificial y así acelerar el proceso de rescate. Drones equipados con sensores especiales que sobrevuelan la zona afectada pueden obtener un mapeo topográfico y térmico en tiempo real con el fin de poder realizar alertas sobre aquellos sectores con variaciones de temperatura. El ser humano bajo estados de estrés libera sustancias volátiles que pueden ser percibidos mediante sensores artificiales olfativos. Estos son mucho más sensibles que el olfato canino, por lo que logran detectar menores concentraciones y a mayores distancias. Los sensores olfativos envían datos a la aplicación. Esta los procesa y mediante una inteligencia artificial entrenada en deep learning esquematiza un mapa con zonas críticas, determinando en qué sector hay mayor probabilidad de encontrar personas, convirtiéndose en una importante herramienta para los rescatistas, facilitando el desarrollo de un plan de forma rápida y eficiente. La aplicación es indispensable, ya que allí se visualizará toda la información. Además, almacenará datos históricos de derrumbes y se guardarán las decisiones tomadas en las distintas experiencias para luego poder ser aplicadas en escenarios similares, haciendo aún más eficiente la toma de decisiones sobre los procedimientos de búsqueda y localización de las personas. La implementación de esta tecnología disminuiría el tiempo de búsqueda, lo que se traduce en un mayor número de personas encontradas.",
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 6.14,
+   "text": "América Latina constituye una región especialmente expuesta a actividades sísmicas,"
+  },
+  {
+   "start": 6.14,
+   "end": 11.14,
+   "text": "ya que se encuentra ubicada sobre el denominado cinturón de fuego del pacífico,"
+  },
+  {
+   "start": 11.14,
+   "end": 15.14,
+   "text": "en el cual ocurre el 90% de todos los sismos del mundo."
+  },
+  {
+   "start": 15.14,
+   "end": 19.14,
+   "text": "Estos desastres naturales ocasionan la muerte de miles de personas,"
+  },
+  {
+   "start": 19.14,
+   "end": 22.14,
+   "text": "en algunos casos debido a la demora en el proceso de rescate."
+  },
+  {
+   "start": 22.14,
+   "end": 28.14,
+   "text": "Según expertos, las posibilidades de hallar a una persona con vida se reduce de forma drástica"
+  },
+  {
+   "start": 28.14,
+   "end": 34.14,
+   "text": "luego de tres días de la catástrofe y las búsquedas son detenidas o disminuidas a la semana."
+  },
+  {
+   "start": 34.14,
+   "end": 39.14,
+   "text": "Por estos motivos, el tiempo constituye un factor determinante en la eficiencia del rescate."
+  },
+  {
+   "start": 41.14,
+   "end": 43.14,
+   "text": "¿Cómo se podría efectuar hallazgos en menos tiempo?"
+  },
+  {
+   "start": 43.14,
+   "end": 48.14,
+   "text": "Presentamos HILOV, Sistema Inteligente de Localización Olfativa de Personas,"
+  },
+  {
+   "start": 48.14,
+   "end": 52.14,
+   "text": "que surge como una solución eficaz que reduce los tiempos operativos"
+  },
+  {
+   "start": 52.14,
+   "end": 56.14,
+   "text": "al realizar estimaciones basadas en el reconocimiento de patrones y señales"
+  },
+  {
+   "start": 56.14,
+   "end": 62.14,
+   "text": "mediante una aplicación con inteligencia artificial y así acelerar el proceso de rescate."
+  },
+  {
+   "start": 63.14,
+   "end": 67.14,
+   "text": "Drones equipados con sensores especiales que sobrevuelan la zona afectada"
+  },
+  {
+   "start": 67.14,
+   "end": 71.14,
+   "text": "pueden obtener un mapeo topográfico y térmico en tiempo real"
+  },
+  {
+   "start": 71.14,
+   "end": 76.14,
+   "text": "con el fin de poder realizar alertas sobre aquellos sectores con variaciones de temperatura."
+  },
+  {
+   "start": 77.14,
+   "end": 81.14,
+   "text": "El ser humano bajo estados de estrés libera sustancias volátiles"
+  },
+  {
+   "start": 81.14,
+   "end": 85.14,
+   "text": "que pueden ser percibidos mediante sensores artificiales olfativos."
+  },
+  {
+   "start": 85.14,
+   "end": 88.14,
+   "text": "Estos son mucho más sensibles que el olfato canino,"
+  },
+  {
+   "start": 88.14,
+   "end": 92.14,
+   "text": "por lo que logran detectar menores concentraciones y a mayores distancias."
+  },
+  {
+   "start": 93.14,
+   "end": 96.14,
+   "text": "Los sensores olfativos envían datos a la aplicación."
+  },
+  {
+   "start": 96.14,
+   "end": 101.14,
+   "text": "Esta los procesa y mediante una inteligencia artificial entrenada en deep learning"
+  },
+  {
+   "start": 101.14,
+   "end": 104.14,
+   "text": "esquematiza un mapa con zonas críticas,"
+  },
+  {
+   "start": 104.14,
+   "end": 108.14,
+   "text": "determinando en qué sector hay mayor probabilidad de encontrar personas,"
+  },
+  {
+   "start": 108.14,
+   "end": 112.14,
+   "text": "convirtiéndose en una importante herramienta para los rescatistas,"
+  },
+  {
+   "start": 112.14,
+   "end": 116.14,
+   "text": "facilitando el desarrollo de un plan de forma rápida y eficiente."
+  },
+  {
+   "start": 117.14,
+   "end": 122.14,
+   "text": "La aplicación es indispensable, ya que allí se visualizará toda la información."
+  },
+  {
+   "start": 122.14,
+   "end": 126.14,
+   "text": "Además, almacenará datos históricos de derrumbes"
+  },
+  {
+   "start": 126.14,
+   "end": 129.14,
+   "text": "y se guardarán las decisiones tomadas en las distintas experiencias"
+  },
+  {
+   "start": 129.14,
+   "end": 132.14,
+   "text": "para luego poder ser aplicadas en escenarios similares,"
+  },
+  {
+   "start": 132.14,
+   "end": 135.14,
+   "text": "haciendo aún más eficiente la toma de decisiones"
+  },
+  {
+   "start": 135.14,
+   "end": 139.14,
+   "text": "sobre los procedimientos de búsqueda y localización de las personas."
+  },
+  {
+   "start": 140.14,
+   "end": 144.14,
+   "text": "La implementación de esta tecnología disminuiría el tiempo de búsqueda,"
+  },
+  {
+   "start": 144.14,
+   "end": 148.14,
+   "text": "lo que se traduce en un mayor número de personas encontradas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 157.5
+}

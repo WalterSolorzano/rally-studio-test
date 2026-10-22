@@ -1,0 +1,107 @@
+{
+ "video_id": "VJ9JvDcJkyY",
+ "url": "https://youtu.be/VJ9JvDcJkyY",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "SOLVEX",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "SOLVEX",
+   "challenge": "08 - DESECHOS DE BASURA VERDE"
+  }
+ ],
+ "fetched_at": "2026-10-22T20:19:10+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Y si lo que hoy consideramos basura pudiera convertirse en una oportunidad real para nuestra comunidad? El avance de la energía solar es vital para el planeta, pero nos enfrenta a un grave desafío. Para el año 2050 habrán hasta 78 millones de toneladas de páneles descompuestos en el mundo. Hoy, menos del 10% se recicla, dejando materiales valiosos y tóxicos tirados en nuestros vertederos. Para solucionar esto, nace Solvex. Somos una microempresa social de economía circular que rescata estos residuos a través de una plataforma digital. Compramos los páneles dañados directamente a la comunidad, convirtiendo un riesgo ambiental en un beneficio económico inmediato. Mediante el suprarreciclaje, aprovechamos la resistencia del vidrio templado y las estructuras de aluminio para crear junto artesanos locales, muebles duraderos, módulos para viveros agrícolas y piezas decorativas ecológicas a precios accesibles. Solvex genera empleos verdes para jóvenes universitarios, apoya la agricultura local con viveros sostenibles y demuestra una viabilidad económica real con una baja inversión inicial. Transformamos la basura tecnológica en desarrollo comunitario. Somos el equipo Solvex desde Nueva Guinea.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.4,
+   "text": "¿Y si lo que hoy consideramos basura pudiera convertirse en una oportunidad real para nuestra comunidad?"
+  },
+  {
+   "start": 6.4,
+   "end": 12.4,
+   "text": "El avance de la energía solar es vital para el planeta, pero nos enfrenta a un grave desafío."
+  },
+  {
+   "start": 12.4,
+   "end": 19.4,
+   "text": "Para el año 2050 habrán hasta 78 millones de toneladas de páneles descompuestos en el mundo."
+  },
+  {
+   "start": 19.4,
+   "end": 26.9,
+   "text": "Hoy, menos del 10% se recicla, dejando materiales valiosos y tóxicos tirados en nuestros vertederos."
+  },
+  {
+   "start": 26.9,
+   "end": 29.4,
+   "text": "Para solucionar esto, nace Solvex."
+  },
+  {
+   "start": 29.4,
+   "end": 36.4,
+   "text": "Somos una microempresa social de economía circular que rescata estos residuos a través de una plataforma digital."
+  },
+  {
+   "start": 36.4,
+   "end": 39.9,
+   "text": "Compramos los páneles dañados directamente a la comunidad,"
+  },
+  {
+   "start": 39.9,
+   "end": 43.9,
+   "text": "convirtiendo un riesgo ambiental en un beneficio económico inmediato."
+  },
+  {
+   "start": 43.9,
+   "end": 49.9,
+   "text": "Mediante el suprarreciclaje, aprovechamos la resistencia del vidrio templado y las estructuras de aluminio"
+  },
+  {
+   "start": 49.9,
+   "end": 54.9,
+   "text": "para crear junto artesanos locales, muebles duraderos, módulos para viveros agrícolas"
+  },
+  {
+   "start": 54.9,
+   "end": 58.9,
+   "text": "y piezas decorativas ecológicas a precios accesibles."
+  },
+  {
+   "start": 58.9,
+   "end": 62.9,
+   "text": "Solvex genera empleos verdes para jóvenes universitarios,"
+  },
+  {
+   "start": 62.9,
+   "end": 67.9,
+   "text": "apoya la agricultura local con viveros sostenibles y demuestra una viabilidad económica real"
+  },
+  {
+   "start": 67.9,
+   "end": 69.9,
+   "text": "con una baja inversión inicial."
+  },
+  {
+   "start": 69.9,
+   "end": 73.9,
+   "text": "Transformamos la basura tecnológica en desarrollo comunitario."
+  },
+  {
+   "start": 73.9,
+   "end": 76.9,
+   "text": "Somos el equipo Solvex desde Nueva Guinea."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 83.7
+}

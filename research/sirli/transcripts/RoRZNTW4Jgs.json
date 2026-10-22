@@ -1,0 +1,117 @@
+{
+ "video_id": "RoRZNTW4Jgs",
+ "url": "https://youtu.be/RoRZNTW4Jgs",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NO MERCY 505",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NO MERCY 505",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:53:21+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "¿Se imaginan que después de un desastre natural, haya personas esperando rescate, comunidades incomunicadas y recursos limitados, mientras las autoridades no saben a quién atender primero? Esta es una realidad que puede costar vidas en América Latina y el Caribe. Los desastres naturales ponen a prueba la capacidad de respuesta de nuestros municipios. El problema no es solamente la falta de recursos, sino saber dónde están las mayores necesidades ni cómo actuar oportunamente. Por eso somos No Mercy 505 de la Bicucur El Rama y presentamos el CICOP, Sistema Integrado de Comisiones Municipales y Mapa Interactivo. Nuestra solución integra las comisiones de salud, búsqueda y rescate, albergues, atención psicosocial y suministro, con un mapa interactivo que permite identificar zonas críticas, priorizar emergencias y orientar la distribución de ayuda. Además incorporamos un dron para evaluar daños, localizar comunidades aisladas y detectar rutas bloqueadas, con una cobertura objetivo de hasta 15 km2 por misión. También integramos conectividad satelital Starlink y un servidor municipal autónomo que permite las fracciones esenciales, incluso cuando no hay internet. Nuestra propuesta está dirigida al Alcaldías, Organismo de Protección Civil y Empiedades de Respuesta a Desastre. Simplementación puede aprovechar software de código abierto, equipos accesibles y estructuras comunitarias existentes, con un costo de 1.050 dólares, porque ante un desastre cada minuto cuenta y cada recurso importa. Somos NoMessy 505 y Cozico transformamos información en decisiones y decisiones en vidas salvadas.",
+ "segments": [
+  {
+   "start": 1.58,
+   "end": 6.58,
+   "text": "¿Se imaginan que después de un desastre natural, haya personas esperando rescate,"
+  },
+  {
+   "start": 6.58,
+   "end": 13.58,
+   "text": "comunidades incomunicadas y recursos limitados, mientras las autoridades no saben a quién atender primero?"
+  },
+  {
+   "start": 13.58,
+   "end": 18.58,
+   "text": "Esta es una realidad que puede costar vidas en América Latina y el Caribe."
+  },
+  {
+   "start": 18.58,
+   "end": 23.58,
+   "text": "Los desastres naturales ponen a prueba la capacidad de respuesta de nuestros municipios."
+  },
+  {
+   "start": 23.58,
+   "end": 29.58,
+   "text": "El problema no es solamente la falta de recursos, sino saber dónde están las mayores necesidades"
+  },
+  {
+   "start": 29.58,
+   "end": 31.58,
+   "text": "ni cómo actuar oportunamente."
+  },
+  {
+   "start": 31.58,
+   "end": 39.58,
+   "text": "Por eso somos No Mercy 505 de la Bicucur El Rama y presentamos el CICOP,"
+  },
+  {
+   "start": 39.58,
+   "end": 43.58,
+   "text": "Sistema Integrado de Comisiones Municipales y Mapa Interactivo."
+  },
+  {
+   "start": 43.58,
+   "end": 52.58,
+   "text": "Nuestra solución integra las comisiones de salud, búsqueda y rescate, albergues, atención psicosocial y suministro,"
+  },
+  {
+   "start": 52.58,
+   "end": 60.58,
+   "text": "con un mapa interactivo que permite identificar zonas críticas, priorizar emergencias y orientar la distribución de ayuda."
+  },
+  {
+   "start": 60.58,
+   "end": 67.58,
+   "text": "Además incorporamos un dron para evaluar daños, localizar comunidades aisladas y detectar rutas bloqueadas,"
+  },
+  {
+   "start": 67.58,
+   "end": 71.58,
+   "text": "con una cobertura objetivo de hasta 15 km2 por misión."
+  },
+  {
+   "start": 71.58,
+   "end": 78.58,
+   "text": "También integramos conectividad satelital Starlink y un servidor municipal autónomo que permite las fracciones esenciales,"
+  },
+  {
+   "start": 78.58,
+   "end": 81.58,
+   "text": "incluso cuando no hay internet."
+  },
+  {
+   "start": 81.58,
+   "end": 88.58,
+   "text": "Nuestra propuesta está dirigida al Alcaldías, Organismo de Protección Civil y Empiedades de Respuesta a Desastre."
+  },
+  {
+   "start": 88.58,
+   "end": 95.58,
+   "text": "Simplementación puede aprovechar software de código abierto, equipos accesibles y estructuras comunitarias existentes,"
+  },
+  {
+   "start": 95.58,
+   "end": 103.58,
+   "text": "con un costo de 1.050 dólares, porque ante un desastre cada minuto cuenta y cada recurso importa."
+  },
+  {
+   "start": 103.58,
+   "end": 114.58,
+   "text": "Somos NoMessy 505 y Cozico transformamos información en decisiones y decisiones en vidas salvadas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 115.1
+}

@@ -1,0 +1,109 @@
+# Retos priorizados
+
+
+## Registro 1
+
+- **id**: DESAFIO_01
+- **title**: Segunda vida y reconversion de motores electricos de electrodomesticos en desuso
+- **score**: 100.0
+
+### reasons
+
+- Competencia historica moderada/alta en 'motores' (-8.0 pts)
+- Aprovecha recursos/residuos locales de Nicaragua (+18.0 pts)
+- Fuerte anclaje territorial nicaraguense (+10.0 pts)
+- Prototipado funcional factible dentro de la ventana de 24h/28h (+14.0 pts)
+- Cobertura de 3 Objetivos de Desarrollo Sostenible (+10.5 pts)
+- Validado por precedente ganador: Avocado 2026 (1er Lugar Social Nacional) (+8.0 pts)
+
+### ods ids
+
+- ODS 12
+- ODS 9
+- ODS 8
+- **precedent**: Avocado 2026 (1er Lugar Social Nacional)
+
+## Registro 2
+
+- **id**: DESAFIO_03
+- **title**: Proteccion y fomento tecnologico de polinizadores en entornos agropecuarios y urbanos
+- **score**: 100.0
+
+### reasons
+
+- Competencia historica moderada/alta en 'polinizadores' (-7.0 pts)
+- Aprovecha recursos/residuos locales de Nicaragua (+18.0 pts)
+- Fuerte anclaje territorial nicaraguense (+10.0 pts)
+- Prototipado funcional factible dentro de la ventana de 24h/28h (+14.0 pts)
+- Cobertura de 3 Objetivos de Desarrollo Sostenible (+10.5 pts)
+- Validado por precedente ganador: Ignis Code 2026 (1er Lugar Innovacion Nacional) (+8.0 pts)
+
+### ods ids
+
+- ODS 15
+- ODS 2
+- ODS 13
+- **precedent**: Ignis Code 2026 (1er Lugar Innovacion Nacional)
+
+## Registro 3
+
+- **id**: DESAFIO_02
+- **title**: Redes de sensores comunitarios para prevencion y alerta temprana de inundaciones
+- **score**: 84.5
+
+### reasons
+
+- Competencia historica moderada/alta en 'inundacion' (-16.0 pts)
+- Aprovecha recursos/residuos locales de Nicaragua (+18.0 pts)
+- Prototipado funcional factible dentro de la ventana de 24h/28h (+14.0 pts)
+- Cobertura de 3 Objetivos de Desarrollo Sostenible (+10.5 pts)
+- Validado por precedente ganador: Techriders 2024 (1er Lugar Latam), Steel Innovators 2026 (+8.0 pts)
+
+### ods ids
+
+- ODS 11
+- ODS 13
+- ODS 3
+- **precedent**: Techriders 2024 (1er Lugar Latam), Steel Innovators 2026
+
+## Registro 4
+
+- **id**: DESAFIO_05
+- **title**: Sistemas modulares ultraligeros de agricultura vertical urbana con agua recuperada
+- **score**: 83.5
+
+### reasons
+
+- Competencia historica moderada/alta en 'agua' (-17.0 pts)
+- Aprovecha recursos/residuos locales de Nicaragua (+18.0 pts)
+- Prototipado funcional factible dentro de la ventana de 24h/28h (+14.0 pts)
+- Cobertura de 3 Objetivos de Desarrollo Sostenible (+10.5 pts)
+- Validado por precedente ganador: STEM Synergy 2025 (1er Lugar Latam Innovacion) (+8.0 pts)
+
+### ods ids
+
+- ODS 2
+- ODS 11
+- ODS 6
+- **precedent**: STEM Synergy 2025 (1er Lugar Latam Innovacion)
+
+## Registro 5
+
+- **id**: DESAFIO_04
+- **title**: Revalorizacion integral y transformacion de residuos de envases Tetra Pak
+- **score**: 64.5
+
+### reasons
+
+- Competencia historica moderada/alta en 'tetra pak' (-14.0 pts)
+- Aprovecha recursos/residuos locales de Nicaragua (+18.0 pts)
+- Riesgo de ejecucion por procesos quimicos/mecanicos largos (-8.0 pts)
+- Cobertura de 3 Objetivos de Desarrollo Sostenible (+10.5 pts)
+- Validado por precedente ganador: Mentes Volcanicas 2025 (1er Lugar Latam Social) (+8.0 pts)
+
+### ods ids
+
+- ODS 12
+- ODS 11
+- ODS 9
+- **precedent**: Mentes Volcanicas 2025 (1er Lugar Latam Social)

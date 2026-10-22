@@ -1,0 +1,47 @@
+{
+ "video_id": "W7r4DvfcDkY",
+ "url": "https://youtu.be/W7r4DvfcDkY?si=4gwhPi4YGCBKMkkg",
+ "year": 2024,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "NEXUS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2024,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "NEXUS",
+   "challenge": "01 - MICROPRESAS O MICROEMBALSES"
+  }
+ ],
+ "fetched_at": "2026-10-22T16:02:38+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Bienes de personas en el mundo carecen de agua potable, imagínate no poder beber un paso de agua limpia o no poder cultivar tus alimentos. La solución son las micropresas solar, una tecnología innovadora que genere electricidad demasiado a la manera social. Tenergiá producida puede alimentar hogares y pequeñas empresas. Las micropresas contribuyen a la seguridad alimentaria y al desarrollo económico de la comunidad.",
+ "segments": [
+  {
+   "start": 4.3,
+   "end": 13.3,
+   "text": "Bienes de personas en el mundo carecen de agua potable, imagínate no poder beber un paso de agua limpia o no poder cultivar tus alimentos."
+  },
+  {
+   "start": 13.3,
+   "end": 60.27,
+   "text": "La solución son las micropresas solar, una tecnología innovadora que genere electricidad demasiado a la manera social."
+  },
+  {
+   "start": 60.27,
+   "end": 63.27,
+   "text": "Tenergiá producida puede alimentar hogares y pequeñas empresas."
+  },
+  {
+   "start": 63.27,
+   "end": 68.27,
+   "text": "Las micropresas contribuyen a la seguridad alimentaria y al desarrollo económico de la comunidad."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 80.7
+}

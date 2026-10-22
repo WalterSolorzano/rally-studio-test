@@ -1,0 +1,127 @@
+{
+ "video_id": "perY1FBvZUg",
+ "url": "https://youtu.be/perY1FBvZUg",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "KUPIA KARNA",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "KUPIA KARNA",
+   "challenge": "07 - SALUD MÓVIL PARA MUJERES EN ZONAS RURALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:24:07+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "En las comunidades rurales de Latinoamérica, las mujeres enfrentan una barrera invisible en su salud, la distancia, la lejanía de los centros médicos y la falta de recursos limitan su acceso a chequeos básicos como controles prenatales, exámenes ginecológicos y prevención de cáncer de mama. Frente a este desafío, presentamos Mayriña Balga, una aplicación de un móvil diseñada específicamente para responder a las necesidades de salud de la mujer. Este es un sistema envivido de asistencia médica primaria para dispositivos móviles que implementan un motor de triaje basado en reglas médicas validadas, combinado con una base de conocimiento estructurada y una interfaz de usuario conversacional diseñado específicamente para funcionar en entornos rurales sin conectividad permanente. Mayriña Balga combina tres componentes clave, una biblioteca de respuestas validadas por profesionales, un buscador inteligente que interpreta consultas como Me Duele la Cabeza. Para entregar orientación precisa y un sistema interactivo de preguntas guiadas que emulando la lógica de un médico, refina el diagnóstico mediante preguntas específicas como el dolor es leve o fuerte para dirigir a la usuaria paso a paso hacia una recomendación adaptada a su situación. Además, integramos un directorio comunitario con información de promotoras de salud locales capacitadas en atención primaria para mujeres. El impacto de Mayriña Balga es integral, socialmente empodera a las mujeres con información confiable y reduce las brechas en el acceso a la salud. Ambientalmente, disminuye la necesidad de desplazamientos y, económicamente, representa un modelo sostenible que previene complicaciones y optimiza los recursos del sistema de salud. Somos el equipo Cupia Carna, Duracán",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.44,
+   "text": "En las comunidades rurales de Latinoamérica, las mujeres enfrentan una barrera invisible"
+  },
+  {
+   "start": 5.44,
+   "end": 11.6,
+   "text": "en su salud, la distancia, la lejanía de los centros médicos y la falta de recursos limitan"
+  },
+  {
+   "start": 11.6,
+   "end": 18.16,
+   "text": "su acceso a chequeos básicos como controles prenatales, exámenes ginecológicos y prevención"
+  },
+  {
+   "start": 18.16,
+   "end": 24.36,
+   "text": "de cáncer de mama. Frente a este desafío, presentamos Mayriña Balga, una aplicación"
+  },
+  {
+   "start": 24.36,
+   "end": 30.32,
+   "text": "de un móvil diseñada específicamente para responder a las necesidades de salud de la"
+  },
+  {
+   "start": 30.32,
+   "end": 36.0,
+   "text": "mujer. Este es un sistema envivido de asistencia médica primaria para dispositivos móviles"
+  },
+  {
+   "start": 36.0,
+   "end": 42.08,
+   "text": "que implementan un motor de triaje basado en reglas médicas validadas, combinado con una"
+  },
+  {
+   "start": 42.08,
+   "end": 49.0,
+   "text": "base de conocimiento estructurada y una interfaz de usuario conversacional diseñado específicamente"
+  },
+  {
+   "start": 49.0,
+   "end": 53.24,
+   "text": "para funcionar en entornos rurales sin conectividad permanente."
+  },
+  {
+   "start": 53.24,
+   "end": 61.12,
+   "text": "Mayriña Balga combina tres componentes clave, una biblioteca de respuestas validadas por profesionales,"
+  },
+  {
+   "start": 61.12,
+   "end": 68.68,
+   "text": "un buscador inteligente que interpreta consultas como Me Duele la Cabeza. Para entregar orientación"
+  },
+  {
+   "start": 68.68,
+   "end": 76.44,
+   "text": "precisa y un sistema interactivo de preguntas guiadas que emulando la lógica de un médico,"
+  },
+  {
+   "start": 76.44,
+   "end": 83.84,
+   "text": "refina el diagnóstico mediante preguntas específicas como el dolor es leve o fuerte para dirigir"
+  },
+  {
+   "start": 83.84,
+   "end": 88.6,
+   "text": "a la usuaria paso a paso hacia una recomendación adaptada a su situación."
+  },
+  {
+   "start": 88.6,
+   "end": 94.16,
+   "text": "Además, integramos un directorio comunitario con información de promotoras de salud locales"
+  },
+  {
+   "start": 94.16,
+   "end": 100.44,
+   "text": "capacitadas en atención primaria para mujeres. El impacto de Mayriña Balga es integral,"
+  },
+  {
+   "start": 100.44,
+   "end": 105.28,
+   "text": "socialmente empodera a las mujeres con información confiable y reduce las brechas"
+  },
+  {
+   "start": 105.28,
+   "end": 111.28,
+   "text": "en el acceso a la salud. Ambientalmente, disminuye la necesidad de desplazamientos y,"
+  },
+  {
+   "start": 111.28,
+   "end": 117.12,
+   "text": "económicamente, representa un modelo sostenible que previene complicaciones y optimiza los"
+  },
+  {
+   "start": 117.12,
+   "end": 121.56,
+   "text": "recursos del sistema de salud. Somos el equipo Cupia Carna, Duracán"
+  }
+ ],
+ "has_info": false,
+ "duration_s": 121.9
+}

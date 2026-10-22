@@ -1,0 +1,167 @@
+{
+ "video_id": "ozEm2Ga_a74",
+ "url": "https://www.youtube.com/watch?v=ozEm2Ga_a74",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS PITUFOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "LOS PITUFOS",
+   "challenge": "05 - MONITOREO INTELIGENTE E INFRAESTRUCTURA VERDE EN RESERVORIOS PLUVIALES"
+  }
+ ],
+ "fetched_at": "2026-10-22T14:46:12+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Bueno, entremos de lleno en una innovación que busca frenar una amenaza climática gigante y muy recurrente. Hoy analizamos los datos técnicos de un proyecto francamente interesante, Hydro Green Intelligence, o lo que es lo mismo, mitigación inteligente de inundaciones en Managua. Y es que la gravedad del asunto es absoluta. Pensemos que las lluvias extremas de invierno colapsan por completo la capacidad de drenaje en la ciudad. Literalmente, año tras año se crean unas vulnerabilidades tremendas para miles de familias y negocios locales. Así que pasamos a la sección 1, inundaciones en Managua, el problema central. Veamos rápidamente cuáles son esos catalizadores que provocan este desastre una y otra vez. Todo se reduce a una tormenta perfecta de tres factores. Primero, un crecimiento urbano rapidísimo que ha asfaltado el suelo quitándoles su poder de absorción. Segundo, la acumulación de basura está poniendo los canales. Y tercero, el más crítico, la falta total de monitorización en tiempo real. Esto deja los vecinos totalmente a ciegas cuando el peligro ya está encima. Y de ahí saltamos a la sección 2, solución Hydro Green Intelligence, uniendo tecnología y naturaleza. Aquí es donde la propuesta rompe esquemas y deja atrás la típica idea de construir más y más drenajes de hormigón carísimos. Lo que proponen es un enfoque doble y, la verdad, muy brillante. Por un lado, previsión digital usando sensores conectados a internet para lanzar alertas tempranas y por otro, infraestructura verde pura y dura. Hablamos de jardines de lluvia y zanjas diseñadas como esponjas naturales para absorber todo ese exceso de agua peligrosa. Además, llevarlo a cabo es súper práctico y factible a nivel económico. Se plantea en tres fases lógicas. Arrancan con un prototipo web de bajo coste, luego pasan a instalar los sensores físicos en las calles y el broche de oro son esas intervenciones ecológicas sobre el terreno. Llegamos a la sección 3, impacto verde y social, empoderando comunidades. Porque, claro, al fomentar la educación ambiental, este sistema hace muchísimo más que mover agua de un lado a otro, transforma por completo la capacidad de la ciudadanía para resistir y reaccionar ante los desastres.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.08,
+   "text": "Bueno, entremos de lleno en una innovación que busca frenar una amenaza climática gigante"
+  },
+  {
+   "start": 5.08,
+   "end": 10.44,
+   "text": "y muy recurrente. Hoy analizamos los datos técnicos de un proyecto francamente interesante,"
+  },
+  {
+   "start": 10.44,
+   "end": 14.76,
+   "text": "Hydro Green Intelligence, o lo que es lo mismo, mitigación inteligente de inundaciones en"
+  },
+  {
+   "start": 14.76,
+   "end": 15.76,
+   "text": "Managua."
+  },
+  {
+   "start": 15.76,
+   "end": 20.72,
+   "text": "Y es que la gravedad del asunto es absoluta. Pensemos que las lluvias extremas de invierno"
+  },
+  {
+   "start": 20.72,
+   "end": 25.36,
+   "text": "colapsan por completo la capacidad de drenaje en la ciudad. Literalmente, año tras año"
+  },
+  {
+   "start": 25.36,
+   "end": 29.04,
+   "text": "se crean unas vulnerabilidades tremendas para miles de familias y negocios locales."
+  },
+  {
+   "start": 29.04,
+   "end": 35.52,
+   "text": "Así que pasamos a la sección 1, inundaciones en Managua, el problema central. Veamos rápidamente"
+  },
+  {
+   "start": 35.52,
+   "end": 39.24,
+   "text": "cuáles son esos catalizadores que provocan este desastre una y otra vez."
+  },
+  {
+   "start": 39.24,
+   "end": 44.56,
+   "text": "Todo se reduce a una tormenta perfecta de tres factores. Primero, un crecimiento urbano"
+  },
+  {
+   "start": 44.56,
+   "end": 49.56,
+   "text": "rapidísimo que ha asfaltado el suelo quitándoles su poder de absorción. Segundo, la acumulación"
+  },
+  {
+   "start": 49.56,
+   "end": 54.4,
+   "text": "de basura está poniendo los canales. Y tercero, el más crítico, la falta total de monitorización"
+  },
+  {
+   "start": 54.48,
+   "end": 59.04,
+   "text": "en tiempo real. Esto deja los vecinos totalmente a ciegas cuando el peligro ya está encima."
+  },
+  {
+   "start": 59.04,
+   "end": 65.12,
+   "text": "Y de ahí saltamos a la sección 2, solución Hydro Green Intelligence, uniendo tecnología"
+  },
+  {
+   "start": 65.12,
+   "end": 69.6,
+   "text": "y naturaleza. Aquí es donde la propuesta rompe esquemas y deja atrás la típica idea"
+  },
+  {
+   "start": 69.6,
+   "end": 72.64,
+   "text": "de construir más y más drenajes de hormigón carísimos."
+  },
+  {
+   "start": 72.64,
+   "end": 78.4,
+   "text": "Lo que proponen es un enfoque doble y, la verdad, muy brillante. Por un lado, previsión"
+  },
+  {
+   "start": 78.4,
+   "end": 82.96,
+   "text": "digital usando sensores conectados a internet para lanzar alertas tempranas y por otro,"
+  },
+  {
+   "start": 83.04,
+   "end": 87.52,
+   "text": "infraestructura verde pura y dura. Hablamos de jardines de lluvia y zanjas diseñadas como"
+  },
+  {
+   "start": 87.52,
+   "end": 90.76,
+   "text": "esponjas naturales para absorber todo ese exceso de agua peligrosa."
+  },
+  {
+   "start": 90.76,
+   "end": 96.12,
+   "text": "Además, llevarlo a cabo es súper práctico y factible a nivel económico. Se plantea"
+  },
+  {
+   "start": 96.12,
+   "end": 101.36,
+   "text": "en tres fases lógicas. Arrancan con un prototipo web de bajo coste, luego pasan a instalar"
+  },
+  {
+   "start": 101.36,
+   "end": 105.76,
+   "text": "los sensores físicos en las calles y el broche de oro son esas intervenciones ecológicas"
+  },
+  {
+   "start": 105.76,
+   "end": 107.36,
+   "text": "sobre el terreno."
+  },
+  {
+   "start": 107.36,
+   "end": 112.24,
+   "text": "Llegamos a la sección 3, impacto verde y social, empoderando comunidades. Porque,"
+  },
+  {
+   "start": 112.24,
+   "end": 115.84,
+   "text": "claro, al fomentar la educación ambiental, este sistema hace muchísimo más que mover"
+  },
+  {
+   "start": 115.84,
+   "end": 120.6,
+   "text": "agua de un lado a otro, transforma por completo la capacidad de la ciudadanía para resistir"
+  },
+  {
+   "start": 120.6,
+   "end": 121.92,
+   "text": "y reaccionar ante los desastres."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 122.4
+}

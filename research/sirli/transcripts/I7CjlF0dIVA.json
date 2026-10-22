@@ -1,0 +1,97 @@
+{
+ "video_id": "I7CjlF0dIVA",
+ "url": "https://youtu.be/I7CjlF0dIVA",
+ "year": 2025,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "DISRUPTIVOS",
+ "place_label": "PRIMER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2025,
+   "collection": "sede",
+   "place_label": "PRIMER LUGAR",
+   "team": "DISRUPTIVOS",
+   "challenge": "06 - RESIDUOS EN PLAYAS"
+  }
+ ],
+ "fetched_at": "2026-10-22T15:15:16+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Matilles y temblores con heladas de basura se acumulan en las costas de las playas latinoamericanas atentando con la preservación de los ecosistemas acuáticos y el problema es doble, la falta de educación ambiental y la ausencia de un sistema automatizado que permita la recolección de los residuos costeros. Presentamos EcoWave, un sistema integral del limpece inteligente diseñado para el rastreo, recolección y desecho de los residuos costeros para mantener limpias las playas mediante el uso de tecnología sostenible. Nuestra solución consiste en un sistema que funciona a través de un software programado con IA, vinculándose a un dispositivo recolector equipado con una cámara RGBD que detecta y recoge los residuos sin dañar en medio ambiente. Alimentándose por medio de paneles solar, EcoWave contribuye a la limpece de las playas latinoamericanas reduciendo la contaminación por plásticos, metales y residuos novio degradables. La propuesta de prototipo EcoWave demuestra ser sostenible en el tiempo por su enfoque innovador e integral por tres ejes claves, económico, social y ambiental. Somos el equipo disruptivo detrás de EcoWave.",
+ "segments": [
+  {
+   "start": 0.27,
+   "end": 5.27,
+   "text": "Matilles y temblores con heladas de basura se acumulan en las costas de las playas latinoamericanas"
+  },
+  {
+   "start": 5.27,
+   "end": 8.77,
+   "text": "atentando con la preservación de los ecosistemas acuáticos"
+  },
+  {
+   "start": 8.77,
+   "end": 13.77,
+   "text": "y el problema es doble, la falta de educación ambiental y la ausencia de un sistema automatizado"
+  },
+  {
+   "start": 13.77,
+   "end": 16.77,
+   "text": "que permita la recolección de los residuos costeros."
+  },
+  {
+   "start": 16.77,
+   "end": 21.77,
+   "text": "Presentamos EcoWave, un sistema integral del limpece inteligente diseñado para el rastreo,"
+  },
+  {
+   "start": 21.77,
+   "end": 26.77,
+   "text": "recolección y desecho de los residuos costeros para mantener limpias las playas mediante el uso"
+  },
+  {
+   "start": 26.77,
+   "end": 31.77,
+   "text": "de tecnología sostenible. Nuestra solución consiste en un sistema que funciona a través de un software"
+  },
+  {
+   "start": 31.77,
+   "end": 50.42,
+   "text": "programado con IA, vinculándose a un dispositivo recolector equipado con una cámara RGBD"
+  },
+  {
+   "start": 50.42,
+   "end": 54.42,
+   "text": "que detecta y recoge los residuos sin dañar en medio ambiente."
+  },
+  {
+   "start": 54.42,
+   "end": 59.42,
+   "text": "Alimentándose por medio de paneles solar, EcoWave contribuye a la limpece de las playas latinoamericanas"
+  },
+  {
+   "start": 59.42,
+   "end": 64.42,
+   "text": "reduciendo la contaminación por plásticos, metales y residuos novio degradables."
+  },
+  {
+   "start": 64.42,
+   "end": 70.42,
+   "text": "La propuesta de prototipo EcoWave demuestra ser sostenible en el tiempo por su enfoque innovador"
+  },
+  {
+   "start": 70.42,
+   "end": 74.42,
+   "text": "e integral por tres ejes claves, económico, social y ambiental."
+  },
+  {
+   "start": 74.42,
+   "end": 78.42,
+   "text": "Somos el equipo disruptivo detrás de EcoWave."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 83.5
+}

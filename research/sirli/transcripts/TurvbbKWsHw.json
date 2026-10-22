@@ -1,0 +1,237 @@
+{
+ "video_id": "TurvbbKWsHw",
+ "url": "https://youtu.be/TurvbbKWsHw",
+ "year": 2026,
+ "collection": "sede",
+ "country": "NICARAGUA",
+ "team": "LOS NEBULOSOS",
+ "place_label": "TERCER LUGAR",
+ "priority": 2,
+ "awards": [
+  {
+   "year": 2026,
+   "collection": "sede",
+   "place_label": "TERCER LUGAR",
+   "team": "LOS NEBULOSOS",
+   "challenge": "09 - OPTIMIZACIÓN Y PRIORIZACIÓN DE RECURSOS Y ESFUERZOS EN LA POST-EMERGENCIA"
+  }
+ ],
+ "fetched_at": "2026-10-22T19:45:37+00:00",
+ "caption_source": "whisper-small-local",
+ "language": "es",
+ "text": "Imaginemos que acaba de ocurrir un terremoto. Hay personas esperando ayuda, pero los equipos de emergencia no saben dónde están ni quién necesita atención primero. En ese momento, la falta de información puede retrasar una decisión que salva vidas. Los terremotos del 24 de junio del 2026 en Venezuela muestran ese desafío, cortes eléctricos, dificultades de comunicación, acceso restringido a zonas afectadas y hospitales saturados complicaron las respuestas. Coordinar la ayuda requería saber qué estaba pasando y dónde actuar. Por eso proponemos Crisimab, una aplicación sencilla donde cada persona registra su edad y su necesidad de apoyo. Al recibir una alerta oficial, puede compartir su ubicación con autorización y consultar la Ruta de Refugio Válida para las autoridades. Para las fallas de conexión, planteamos conservar los datos y retransmitirlos entre dispositivos cercanos hasta alcanzar un punto con Internet. Así, buscamos que la información pueda llegar incluso cuando la red falla. En la web, los equipos de emergencia reúnen las últimas ubicaciones disponibles, los reportes y los mapas que afectaron. También incorporan información de escuelas, hospitales y población sin teléfono. Con estos datos pueden identificar zonas prioritarias, asignar recursos y autorizar refugios y rutas de autorizar refugios y rutas según las necesidades de cada comunidad. La plataforma apoya las decisiones, las autoridades las validan. Queremos comenzar en Nicaragua y adaptar la solución a otros países. Somos los nebulosos, crisis map, información para decidir, coordinación para proteger vidas.",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.8,
+   "text": "Imaginemos que acaba de ocurrir un terremoto."
+  },
+  {
+   "start": 2.8,
+   "end": 4.8,
+   "text": "Hay personas esperando ayuda,"
+  },
+  {
+   "start": 4.8,
+   "end": 7.4,
+   "text": "pero los equipos de emergencia no saben dónde están"
+  },
+  {
+   "start": 7.4,
+   "end": 9.7,
+   "text": "ni quién necesita atención primero."
+  },
+  {
+   "start": 9.7,
+   "end": 12.2,
+   "text": "En ese momento, la falta de información"
+  },
+  {
+   "start": 12.2,
+   "end": 14.8,
+   "text": "puede retrasar una decisión que salva vidas."
+  },
+  {
+   "start": 14.8,
+   "end": 18.9,
+   "text": "Los terremotos del 24 de junio del 2026 en Venezuela"
+  },
+  {
+   "start": 18.9,
+   "end": 21.5,
+   "text": "muestran ese desafío, cortes eléctricos,"
+  },
+  {
+   "start": 21.5,
+   "end": 23.6,
+   "text": "dificultades de comunicación,"
+  },
+  {
+   "start": 23.6,
+   "end": 26.3,
+   "text": "acceso restringido a zonas afectadas"
+  },
+  {
+   "start": 26.3,
+   "end": 29.2,
+   "text": "y hospitales saturados complicaron las respuestas."
+  },
+  {
+   "start": 29.3,
+   "end": 32.4,
+   "text": "Coordinar la ayuda requería saber qué estaba pasando"
+  },
+  {
+   "start": 32.4,
+   "end": 33.4,
+   "text": "y dónde actuar."
+  },
+  {
+   "start": 33.4,
+   "end": 35.4,
+   "text": "Por eso proponemos Crisimab,"
+  },
+  {
+   "start": 35.4,
+   "end": 37.7,
+   "text": "una aplicación sencilla donde cada persona"
+  },
+  {
+   "start": 37.7,
+   "end": 40.2,
+   "text": "registra su edad y su necesidad de apoyo."
+  },
+  {
+   "start": 40.2,
+   "end": 42.5,
+   "text": "Al recibir una alerta oficial,"
+  },
+  {
+   "start": 42.5,
+   "end": 45.1,
+   "text": "puede compartir su ubicación con autorización"
+  },
+  {
+   "start": 45.1,
+   "end": 48.7,
+   "text": "y consultar la Ruta de Refugio Válida para las autoridades."
+  },
+  {
+   "start": 48.7,
+   "end": 50.4,
+   "text": "Para las fallas de conexión,"
+  },
+  {
+   "start": 50.4,
+   "end": 53.6,
+   "text": "planteamos conservar los datos y retransmitirlos"
+  },
+  {
+   "start": 53.6,
+   "end": 55.7,
+   "text": "entre dispositivos cercanos"
+  },
+  {
+   "start": 55.7,
+   "end": 58.3,
+   "text": "hasta alcanzar un punto con Internet."
+  },
+  {
+   "start": 58.3,
+   "end": 60.7,
+   "text": "Así, buscamos que la información"
+  },
+  {
+   "start": 60.7,
+   "end": 63.0,
+   "text": "pueda llegar incluso cuando la red falla."
+  },
+  {
+   "start": 63.0,
+   "end": 65.4,
+   "text": "En la web, los equipos de emergencia"
+  },
+  {
+   "start": 65.4,
+   "end": 68.2,
+   "text": "reúnen las últimas ubicaciones disponibles,"
+  },
+  {
+   "start": 68.2,
+   "end": 70.5,
+   "text": "los reportes y los mapas que afectaron."
+  },
+  {
+   "start": 70.5,
+   "end": 73.3,
+   "text": "También incorporan información de escuelas,"
+  },
+  {
+   "start": 73.3,
+   "end": 75.6,
+   "text": "hospitales y población sin teléfono."
+  },
+  {
+   "start": 75.6,
+   "end": 78.9,
+   "text": "Con estos datos pueden identificar zonas prioritarias,"
+  },
+  {
+   "start": 78.9,
+   "end": 81.5,
+   "text": "asignar recursos y autorizar refugios"
+  },
+  {
+   "start": 81.5,
+   "end": 83.8,
+   "text": "y rutas de autorizar refugios"
+  },
+  {
+   "start": 83.8,
+   "end": 86.6,
+   "text": "y rutas según las necesidades de cada comunidad."
+  },
+  {
+   "start": 86.6,
+   "end": 88.8,
+   "text": "La plataforma apoya las decisiones,"
+  },
+  {
+   "start": 88.8,
+   "end": 90.8,
+   "text": "las autoridades las validan."
+  },
+  {
+   "start": 90.8,
+   "end": 92.5,
+   "text": "Queremos comenzar en Nicaragua"
+  },
+  {
+   "start": 92.5,
+   "end": 94.8,
+   "text": "y adaptar la solución a otros países."
+  },
+  {
+   "start": 94.8,
+   "end": 96.3,
+   "text": "Somos los nebulosos,"
+  },
+  {
+   "start": 96.3,
+   "end": 97.4,
+   "text": "crisis map,"
+  },
+  {
+   "start": 97.4,
+   "end": 99.0,
+   "text": "información para decidir,"
+  },
+  {
+   "start": 99.0,
+   "end": 100.9,
+   "text": "coordinación para proteger vidas."
+  }
+ ],
+ "has_info": false,
+ "duration_s": 100.9
+}
